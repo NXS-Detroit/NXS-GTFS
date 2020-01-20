@@ -1,4 +1,4 @@
-ID,Lat,Lon,Sequence,Distance
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
 5001,42.7075655,-83.2873642,1,0.0
 5001,42.7075706,-83.287137,2,18.572902071885355
 5001,42.7075754,-83.286925,3,35.9033899320023

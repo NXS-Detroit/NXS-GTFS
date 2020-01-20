@@ -1,4 +1,4 @@
-ID,Lat,Lon,Sequence,Distance
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
 0518,42.2239166,-83.3484154,1,0.0
 0518,42.223254,-83.3489102,2,84.1928042076061
 0518,42.22296,-83.3490443,3,118.69865115624958

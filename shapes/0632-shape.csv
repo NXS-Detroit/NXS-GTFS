@@ -1,4 +1,4 @@
-ID,Lat,Lon,Sequence,Distance
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
 0632,42.5429075,-83.1908826,1,0.0
 0632,42.5429089,-83.1908367,2,3.7635884323699473
 0632,42.542923,-83.1903804,3,41.17892476315058

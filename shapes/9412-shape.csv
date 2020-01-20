@@ -1,4 +1,4 @@
-ID,Lat,Lon,Sequence,Distance
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
 9412,43.0256321,-83.0771229,1,0.0
 9412,43.025665,-83.076013,2,90.2966494046935
 9412,43.025702,-83.074564,3,208.15597943507112
