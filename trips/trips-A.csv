@@ -1,0 +1,67 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+A,preholiday,A-1,New Center Nexus,0,3976
+A,preholiday,A-2,New Center Nexus,0,3976
+A,preholiday,A-3,New Center Nexus,0,3976
+A,preholiday,A-4,New Center Nexus,0,3976
+A,preholiday,A-5,New Center Nexus,0,3976
+A,preholiday,A-6,New Center Nexus,0,3976
+A,preholiday,A-7,New Center Nexus,0,3976
+A,preholiday,A-8,New Center Nexus,0,3976
+A,preholiday,A-9,New Center Nexus,0,3976
+A,preholiday,A-10,New Center Nexus,0,3976
+A,preholiday,A-11,Novi Park & Ride,1,3974
+A,preholiday,A-12,Novi Park & Ride,1,3974
+A,preholiday,A-13,Novi Park & Ride,1,3974
+A,preholiday,A-14,Novi Park & Ride,1,3974
+A,preholiday,A-15,Novi Park & Ride,1,3974
+A,preholiday,A-16,Novi Park & Ride,1,3974
+A,preholiday,A-17,Novi Park & Ride,1,3974
+A,preholiday,A-18,Novi Park & Ride,1,3974
+A,preholiday,A-19,Novi Park & Ride,1,3974
+A,preholiday,A-20,Novi Park & Ride,1,3974
+A,saturday,A-21,New Center Nexus,0,3976
+A,saturday,A-22,New Center Nexus,0,3976
+A,saturday,A-23,New Center Nexus,0,3976
+A,saturday,A-24,New Center Nexus,0,3976
+A,saturday,A-25,New Center Nexus,0,3976
+A,saturday,A-26,New Center Nexus,0,3976
+A,saturday,A-27,New Center Nexus,0,3976
+A,saturday,A-28,Novi Park & Ride,1,3974
+A,saturday,A-29,Novi Park & Ride,1,3974
+A,saturday,A-30,Novi Park & Ride,1,3974
+A,saturday,A-31,Novi Park & Ride,1,3974
+A,saturday,A-32,Novi Park & Ride,1,3974
+A,saturday,A-33,Novi Park & Ride,1,3974
+A,saturday,A-34,Novi Park & Ride,1,3974
+A,sunday,A-35,New Center Nexus,0,3976
+A,sunday,A-36,New Center Nexus,0,3976
+A,sunday,A-37,New Center Nexus,0,3976
+A,sunday,A-38,New Center Nexus,0,3976
+A,sunday,A-39,New Center Nexus,0,3976
+A,sunday,A-40,New Center Nexus,0,3976
+A,sunday,A-41,New Center Nexus,0,3976
+A,sunday,A-42,Novi Park & Ride,1,3974
+A,sunday,A-43,Novi Park & Ride,1,3974
+A,sunday,A-44,Novi Park & Ride,1,3974
+A,sunday,A-45,Novi Park & Ride,1,3974
+A,sunday,A-46,Novi Park & Ride,1,3974
+A,sunday,A-47,Novi Park & Ride,1,3974
+A,sunday,A-48,Novi Park & Ride,1,3974
+A,weekdaynoph,A-49,New Center Nexus,0,3976
+A,weekdaynoph,A-50,New Center Nexus,0,3976
+A,weekdaynoph,A-51,New Center Nexus,0,3976
+A,weekdaynoph,A-52,New Center Nexus,0,3976
+A,weekdaynoph,A-53,New Center Nexus,0,3976
+A,weekdaynoph,A-54,New Center Nexus,0,3976
+A,weekdaynoph,A-55,New Center Nexus,0,3976
+A,weekdaynoph,A-56,New Center Nexus,0,3976
+A,weekdaynoph,A-57,New Center Nexus,0,3976
+A,weekdaynoph,A-58,Novi Park & Ride,1,3974
+A,weekdaynoph,A-59,Novi Park & Ride,1,3974
+A,weekdaynoph,A-60,Novi Park & Ride,1,3974
+A,weekdaynoph,A-61,Novi Park & Ride,1,3974
+A,weekdaynoph,A-62,Novi Park & Ride,1,3974
+A,weekdaynoph,A-63,Novi Park & Ride,1,3974
+A,weekdaynoph,A-64,Novi Park & Ride,1,3974
+A,weekdaynoph,A-65,Novi Park & Ride,1,3974
+A,weekdaynoph,A-66,Novi Park & Ride,1,3974

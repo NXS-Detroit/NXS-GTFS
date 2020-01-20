@@ -1,0 +1,5 @@
+demographic_id,demographic_preset,demographic_detail
+senior,1,"Riders ages 65-79 pay half fare. Those aged 80+ ride free."
+minor,4,"Minors 18 and under pay half fare, except that one child 6 or younger can ride free per paid adult fare."
+disability,8,"Riders with disabilities pay half fare."
+free_general,224,"Free rides are granted to NXS employees, active duty or retired military, elected officials who represent the NXS service area, and employees of fire or police departments within the service area."

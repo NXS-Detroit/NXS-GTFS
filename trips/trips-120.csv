@@ -1,0 +1,126 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+120,saturday,120-1,Fairlane Town Center,0,1208
+120,saturday,120-2,Fairlane Town Center,0,1208
+120,saturday,120-3,Fairlane Town Center,0,1208
+120,saturday,120-4,Fairlane Town Center,0,1208
+120,saturday,120-5,Fairlane Town Center,0,1208
+120,saturday,120-6,Fairlane Town Center,0,1208
+120,saturday,120-7,Fairlane Town Center,0,1208
+120,saturday,120-8,Fairlane Town Center,0,1208
+120,saturday,120-9,Fairlane Town Center,0,1208
+120,saturday,120-10,Fairlane Town Center,0,1208
+120,saturday,120-11,Fairlane Town Center,0,1208
+120,saturday,120-12,Fairlane Town Center,0,1208
+120,saturday,120-13,Fairlane Town Center,0,1208
+120,saturday,120-14,Fairlane Town Center,0,1208
+120,saturday,120-15,Fairlane Town Center,0,1208
+120,saturday,120-16,Fairlane Town Center,0,1208
+120,saturday,120-17,Fairlane Town Center,0,1208
+120,saturday,120-18,Fairlane Town Center,0,1208
+120,saturday,120-19,Fairlane Town Center,0,1208
+120,saturday,120-20,Fairlane Town Center,0,1208
+120,saturday,120-21,Fairlane Town Center,0,1208
+120,saturday,120-22,Southgate Nexus,1,1202
+120,saturday,120-23,Southgate Nexus,1,1202
+120,saturday,120-24,Southgate Nexus,1,1202
+120,saturday,120-25,Southgate Nexus,1,1202
+120,saturday,120-26,Southgate Nexus,1,1202
+120,saturday,120-27,Southgate Nexus,1,1202
+120,saturday,120-28,Southgate Nexus,1,1202
+120,saturday,120-29,Southgate Nexus,1,1202
+120,saturday,120-30,Southgate Nexus,1,1202
+120,saturday,120-31,Southgate Nexus,1,1202
+120,saturday,120-32,Southgate Nexus,1,1202
+120,saturday,120-33,Southgate Nexus,1,1202
+120,saturday,120-34,Southgate Nexus,1,1202
+120,saturday,120-35,Southgate Nexus,1,1202
+120,saturday,120-36,Southgate Nexus,1,1202
+120,saturday,120-37,Southgate Nexus,1,1202
+120,saturday,120-38,Southgate Nexus,1,1202
+120,saturday,120-39,Southgate Nexus,1,1202
+120,saturday,120-40,Southgate Nexus,1,1202
+120,saturday,120-41,Southgate Nexus,1,1202
+120,weekday,120-42,Fairlane Town Center,0,1208
+120,weekday,120-43,Fairlane Town Center,0,1208
+120,weekday,120-44,Fairlane Town Center,0,1208
+120,weekday,120-45,Fairlane Town Center,0,1208
+120,weekday,120-46,Fairlane Town Center,0,1208
+120,weekday,120-47,Fairlane Town Center,0,1208
+120,weekday,120-48,Fairlane Town Center,0,1208
+120,weekday,120-49,Fairlane Town Center,0,1208
+120,weekday,120-50,Fairlane Town Center,0,1208
+120,weekday,120-51,Fairlane Town Center,0,1208
+120,weekday,120-52,Fairlane Town Center,0,1208
+120,weekday,120-53,Fairlane Town Center,0,1208
+120,weekday,120-54,Fairlane Town Center,0,1208
+120,weekday,120-55,Fairlane Town Center,0,1208
+120,weekday,120-56,Fairlane Town Center,0,1208
+120,weekday,120-57,Fairlane Town Center,0,1208
+120,weekday,120-58,Fairlane Town Center,0,1208
+120,weekday,120-59,Fairlane Town Center,0,1208
+120,weekday,120-60,Fairlane Town Center,0,1208
+120,weekday,120-61,Fairlane Town Center,0,1208
+120,weekday,120-62,Fairlane Town Center,0,1208
+120,weekday,120-63,Fairlane Town Center,0,1208
+120,weekday,120-64,Fairlane Town Center,0,1208
+120,weekday,120-65,Fairlane Town Center,0,1208
+120,weekday,120-66,Fairlane Town Center,0,1208
+120,weekday,120-67,Fairlane Town Center,0,1208
+120,weekday,120-68,Fairlane Town Center,0,1208
+120,weekday,120-69,Fairlane Town Center,0,1208
+120,weekday,120-70,Fairlane Town Center,0,1208
+120,weekday,120-71,Fairlane Town Center,0,1208
+120,weekday,120-72,Fairlane Town Center,0,1208
+120,weekday,120-73,Fairlane Town Center,0,1208
+120,weekday,120-74,Fairlane Town Center,0,1208
+120,weekday,120-75,Fairlane Town Center,0,1208
+120,weekday,120-76,Fairlane Town Center,0,1208
+120,weekday,120-77,Fairlane Town Center,0,1208
+120,weekday,120-78,Fairlane Town Center,0,1208
+120,weekday,120-79,Fairlane Town Center,0,1208
+120,weekday,120-80,Fairlane Town Center,0,1208
+120,weekday,120-81,Fairlane Town Center,0,1208
+120,weekday,120-82,Fairlane Town Center,0,1208
+120,weekday,120-83,Fairlane Town Center,0,1208
+120,weekday,120-84,Southgate Nexus,1,1202
+120,weekday,120-85,Southgate Nexus,1,1202
+120,weekday,120-86,Southgate Nexus,1,1202
+120,weekday,120-87,Southgate Nexus,1,1202
+120,weekday,120-88,Southgate Nexus,1,1202
+120,weekday,120-89,Southgate Nexus,1,1202
+120,weekday,120-90,Southgate Nexus,1,1202
+120,weekday,120-91,Southgate Nexus,1,1202
+120,weekday,120-92,Southgate Nexus,1,1202
+120,weekday,120-93,Southgate Nexus,1,1202
+120,weekday,120-94,Southgate Nexus,1,1202
+120,weekday,120-95,Southgate Nexus,1,1202
+120,weekday,120-96,Southgate Nexus,1,1202
+120,weekday,120-97,Southgate Nexus,1,1202
+120,weekday,120-98,Southgate Nexus,1,1202
+120,weekday,120-99,Southgate Nexus,1,1202
+120,weekday,120-100,Southgate Nexus,1,1202
+120,weekday,120-101,Southgate Nexus,1,1202
+120,weekday,120-102,Southgate Nexus,1,1202
+120,weekday,120-103,Southgate Nexus,1,1202
+120,weekday,120-104,Southgate Nexus,1,1202
+120,weekday,120-105,Southgate Nexus,1,1202
+120,weekday,120-106,Southgate Nexus,1,1202
+120,weekday,120-107,Southgate Nexus,1,1202
+120,weekday,120-108,Southgate Nexus,1,1202
+120,weekday,120-109,Southgate Nexus,1,1202
+120,weekday,120-110,Southgate Nexus,1,1202
+120,weekday,120-111,Southgate Nexus,1,1202
+120,weekday,120-112,Southgate Nexus,1,1202
+120,weekday,120-113,Southgate Nexus,1,1202
+120,weekday,120-114,Southgate Nexus,1,1202
+120,weekday,120-115,Southgate Nexus,1,1202
+120,weekday,120-116,Southgate Nexus,1,1202
+120,weekday,120-117,Southgate Nexus,1,1202
+120,weekday,120-118,Southgate Nexus,1,1202
+120,weekday,120-119,Southgate Nexus,1,1202
+120,weekday,120-120,Southgate Nexus,1,1202
+120,weekday,120-121,Southgate Nexus,1,1202
+120,weekday,120-122,Southgate Nexus,1,1202
+120,weekday,120-123,Southgate Nexus,1,1202
+120,weekday,120-124,Southgate Nexus,1,1202
+120,weekday,120-125,Southgate Nexus,1,1202

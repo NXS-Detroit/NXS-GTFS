@@ -1,0 +1,129 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+203,saturday,203-1,Grosse Pointe Nexus,0,2036
+203,saturday,203-2,Grosse Pointe Nexus,0,2036
+203,saturday,203-3,Grosse Pointe Nexus,0,2036
+203,saturday,203-4,Grosse Pointe Nexus,0,2036
+203,saturday,203-5,Grosse Pointe Nexus,0,2036
+203,saturday,203-6,Grosse Pointe Nexus,0,2036
+203,saturday,203-7,Grosse Pointe Nexus,0,2036
+203,saturday,203-8,Grosse Pointe Nexus,0,2036
+203,saturday,203-9,Grosse Pointe Nexus,0,2036
+203,saturday,203-10,Grosse Pointe Nexus,0,2036
+203,saturday,203-11,Grosse Pointe Nexus,0,2036
+203,saturday,203-12,Grosse Pointe Nexus,0,2036
+203,saturday,203-13,Grosse Pointe Nexus,0,2036
+203,saturday,203-14,Grosse Pointe Nexus,0,2036
+203,saturday,203-15,Grosse Pointe Nexus,0,2036
+203,saturday,203-16,Grosse Pointe Nexus,0,2036
+203,saturday,203-17,Grosse Pointe Nexus,0,2036
+203,saturday,203-18,Grosse Pointe Nexus,0,2036
+203,saturday,203-19,Kellogg Park,1,2034
+203,saturday,203-20,Kellogg Park,1,2034
+203,saturday,203-21,Kellogg Park,1,2034
+203,saturday,203-22,Kellogg Park,1,2034
+203,saturday,203-23,Kellogg Park,1,2034
+203,saturday,203-24,Kellogg Park,1,2034
+203,saturday,203-25,Kellogg Park,1,2034
+203,saturday,203-26,Kellogg Park,1,2034
+203,saturday,203-27,Kellogg Park,1,2034
+203,saturday,203-28,Kellogg Park,1,2034
+203,saturday,203-29,Kellogg Park,1,2034
+203,saturday,203-30,Kellogg Park,1,2034
+203,saturday,203-31,Kellogg Park,1,2034
+203,saturday,203-32,Kellogg Park,1,2034
+203,saturday,203-33,Kellogg Park,1,2034
+203,saturday,203-34,Kellogg Park,1,2034
+203,saturday,203-35,Kellogg Park,1,2034
+203,sunday,203-36,Grosse Pointe Nexus,0,2036
+203,sunday,203-37,Grosse Pointe Nexus,0,2036
+203,sunday,203-38,Grosse Pointe Nexus,0,2036
+203,sunday,203-39,Grosse Pointe Nexus,0,2036
+203,sunday,203-40,Grosse Pointe Nexus,0,2036
+203,sunday,203-41,Grosse Pointe Nexus,0,2036
+203,sunday,203-42,Grosse Pointe Nexus,0,2036
+203,sunday,203-43,Grosse Pointe Nexus,0,2036
+203,sunday,203-44,Grosse Pointe Nexus,0,2036
+203,sunday,203-45,Grosse Pointe Nexus,0,2036
+203,sunday,203-46,Grosse Pointe Nexus,0,2036
+203,sunday,203-47,Grosse Pointe Nexus,0,2036
+203,sunday,203-48,Grosse Pointe Nexus,0,2036
+203,sunday,203-49,Grosse Pointe Nexus,0,2036
+203,sunday,203-50,Kellogg Park,1,2034
+203,sunday,203-51,Kellogg Park,1,2034
+203,sunday,203-52,Kellogg Park,1,2034
+203,sunday,203-53,Kellogg Park,1,2034
+203,sunday,203-54,Kellogg Park,1,2034
+203,sunday,203-55,Kellogg Park,1,2034
+203,sunday,203-56,Kellogg Park,1,2034
+203,sunday,203-57,Kellogg Park,1,2034
+203,sunday,203-58,Kellogg Park,1,2034
+203,sunday,203-59,Kellogg Park,1,2034
+203,sunday,203-60,Kellogg Park,1,2034
+203,sunday,203-61,Kellogg Park,1,2034
+203,sunday,203-62,Kellogg Park,1,2034
+203,sunday,203-63,Kellogg Park,1,2034
+203,weekday,203-64,Grosse Pointe Nexus,0,2036
+203,weekday,203-65,Grosse Pointe Nexus,0,2036
+203,weekday,203-66,Grosse Pointe Nexus,0,2036
+203,weekday,203-67,Grosse Pointe Nexus,0,2036
+203,weekday,203-68,Grosse Pointe Nexus,0,2036
+203,weekday,203-69,Grosse Pointe Nexus,0,2036
+203,weekday,203-70,Grosse Pointe Nexus,0,2036
+203,weekday,203-71,Grosse Pointe Nexus,0,2036
+203,weekday,203-72,Grosse Pointe Nexus,0,2036
+203,weekday,203-73,Grosse Pointe Nexus,0,2036
+203,weekday,203-74,Grosse Pointe Nexus,0,2036
+203,weekday,203-75,Grosse Pointe Nexus,0,2036
+203,weekday,203-76,Grosse Pointe Nexus,0,2036
+203,weekday,203-77,Grosse Pointe Nexus,0,2036
+203,weekday,203-78,Grosse Pointe Nexus,0,2036
+203,weekday,203-79,Grosse Pointe Nexus,0,2036
+203,weekday,203-80,Grosse Pointe Nexus,0,2036
+203,weekday,203-81,Grosse Pointe Nexus,0,2036
+203,weekday,203-82,Grosse Pointe Nexus,0,2036
+203,weekday,203-83,Grosse Pointe Nexus,0,2036
+203,weekday,203-84,Grosse Pointe Nexus,0,2036
+203,weekday,203-85,Grosse Pointe Nexus,0,2036
+203,weekday,203-86,Grosse Pointe Nexus,0,2036
+203,weekday,203-87,Grosse Pointe Nexus,0,2036
+203,weekday,203-88,Grosse Pointe Nexus,0,2036
+203,weekday,203-89,Grosse Pointe Nexus,0,2036
+203,weekday,203-90,Grosse Pointe Nexus,0,2036
+203,weekday,203-91,Grosse Pointe Nexus,0,2036
+203,weekday,203-92,Grosse Pointe Nexus,0,2036
+203,weekday,203-93,Grosse Pointe Nexus,0,2036
+203,weekday,203-94,Grosse Pointe Nexus,0,2036
+203,weekday,203-95,Grosse Pointe Nexus,0,2036
+203,weekday,203-96,Grosse Pointe Nexus,0,2036
+203,weekday,203-97,Kellogg Park,1,2034
+203,weekday,203-98,Kellogg Park,1,2034
+203,weekday,203-99,Kellogg Park,1,2034
+203,weekday,203-100,Kellogg Park,1,2034
+203,weekday,203-101,Kellogg Park,1,2034
+203,weekday,203-102,Kellogg Park,1,2034
+203,weekday,203-103,Kellogg Park,1,2034
+203,weekday,203-104,Kellogg Park,1,2034
+203,weekday,203-105,Kellogg Park,1,2034
+203,weekday,203-106,Kellogg Park,1,2034
+203,weekday,203-107,Kellogg Park,1,2034
+203,weekday,203-108,Kellogg Park,1,2034
+203,weekday,203-109,Kellogg Park,1,2034
+203,weekday,203-110,Kellogg Park,1,2034
+203,weekday,203-111,Kellogg Park,1,2034
+203,weekday,203-112,Kellogg Park,1,2034
+203,weekday,203-113,Kellogg Park,1,2034
+203,weekday,203-114,Kellogg Park,1,2034
+203,weekday,203-115,Kellogg Park,1,2034
+203,weekday,203-116,Kellogg Park,1,2034
+203,weekday,203-117,Kellogg Park,1,2034
+203,weekday,203-118,Kellogg Park,1,2034
+203,weekday,203-119,Kellogg Park,1,2034
+203,weekday,203-120,Kellogg Park,1,2034
+203,weekday,203-121,Kellogg Park,1,2034
+203,weekday,203-122,Kellogg Park,1,2034
+203,weekday,203-123,Kellogg Park,1,2034
+203,weekday,203-124,Kellogg Park,1,2034
+203,weekday,203-125,Kellogg Park,1,2034
+203,weekday,203-126,Kellogg Park,1,2034
+203,weekday,203-127,Kellogg Park,1,2034
+203,weekday,203-128,Kellogg Park,1,2034

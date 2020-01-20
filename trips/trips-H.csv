@@ -1,0 +1,312 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+H,saturday,H-1,Gratiot / Crocker,0,0969
+H,saturday,H-2,Gratiot / Crocker,0,0966
+H,saturday,H-3,Gratiot / Crocker,0,0966
+H,saturday,H-4,Gratiot / Crocker,0,0966
+H,saturday,H-5,Gratiot / Crocker,0,0969
+H,saturday,H-6,Gratiot / Crocker,0,0966
+H,saturday,H-7,Gratiot / Crocker,0,0966
+H,saturday,H-8,Gratiot / Crocker,0,0966
+H,saturday,H-9,Gratiot / Crocker,0,0966
+H,saturday,H-10,Gratiot / Crocker,0,0966
+H,saturday,H-11,Gratiot / Crocker,0,0966
+H,saturday,H-12,Gratiot / Crocker,0,0966
+H,saturday,H-13,Gratiot / Crocker,0,0966
+H,saturday,H-14,Gratiot / Crocker,0,0966
+H,saturday,H-15,Gratiot / Crocker,0,0966
+H,saturday,H-16,Gratiot / Crocker,0,0966
+H,saturday,H-17,Gratiot / Crocker,0,0966
+H,saturday,H-18,Gratiot / Crocker,0,0966
+H,saturday,H-19,Gratiot / Crocker,0,0966
+H,saturday,H-20,Gratiot / Crocker,0,0966
+H,saturday,H-21,Gratiot / Crocker,0,0966
+H,saturday,H-22,Gratiot / Crocker,0,0966
+H,saturday,H-23,Gratiot / Crocker,0,0966
+H,saturday,H-24,Gratiot / Crocker,0,0966
+H,saturday,H-25,Gratiot / Crocker,0,0966
+H,saturday,H-26,Gratiot / Crocker,0,0966
+H,saturday,H-27,Gratiot / Crocker,0,0966
+H,saturday,H-28,Gratiot / Crocker,0,0966
+H,saturday,H-29,Gratiot / Crocker,0,0966
+H,saturday,H-30,Gratiot / Crocker,0,0966
+H,saturday,H-31,Gratiot / Crocker,0,0966
+H,saturday,H-32,Gratiot / Crocker,0,0966
+H,saturday,H-33,Gratiot / Crocker,0,0966
+H,saturday,H-34,Gratiot / Crocker,0,0966
+H,saturday,H-35,Gratiot / Crocker,0,0966
+H,saturday,H-36,Gratiot / Crocker,0,0966
+H,saturday,H-37,Gratiot / Crocker,0,0966
+H,saturday,H-38,Gratiot / Crocker,0,0966
+H,saturday,H-39,Gratiot / Crocker,0,0966
+H,saturday,H-40,Gratiot / Crocker,0,0966
+H,saturday,H-41,Gratiot / Crocker,0,0966
+H,saturday,H-42,Gratiot / Crocker,0,0966
+H,saturday,H-43,Gratiot / Crocker,0,0966
+H,saturday,H-44,Gratiot / Crocker,0,0966
+H,saturday,H-45,Gratiot / Crocker,0,0966
+H,saturday,H-46,Gratiot / Crocker,0,0966
+H,saturday,H-47,Gratiot / Crocker,0,0966
+H,saturday,H-48,Gratiot / Crocker,0,0966
+H,saturday,H-49,Gratiot / Crocker,0,0966
+H,saturday,H-50,Gratiot / Crocker,0,0966
+H,saturday,H-51,Pontiac Nexus,1,0964
+H,saturday,H-52,Pontiac Nexus,1,0964
+H,saturday,H-53,Pontiac Nexus,1,0964
+H,saturday,H-54,Pontiac Nexus,1,0964
+H,saturday,H-55,Pontiac Nexus,1,0964
+H,saturday,H-56,Pontiac Nexus,1,0964
+H,saturday,H-57,Pontiac Nexus,1,0964
+H,saturday,H-58,Pontiac Nexus,1,0964
+H,saturday,H-59,Pontiac Nexus,1,0964
+H,saturday,H-60,Pontiac Nexus,1,0964
+H,saturday,H-61,Pontiac Nexus,1,0964
+H,saturday,H-62,Pontiac Nexus,1,0964
+H,saturday,H-63,Pontiac Nexus,1,0964
+H,saturday,H-64,Pontiac Nexus,1,0964
+H,saturday,H-65,Pontiac Nexus,1,0964
+H,saturday,H-66,Pontiac Nexus,1,0964
+H,saturday,H-67,Pontiac Nexus,1,0964
+H,saturday,H-68,Pontiac Nexus,1,0964
+H,saturday,H-69,Pontiac Nexus,1,0964
+H,saturday,H-70,Pontiac Nexus,1,0964
+H,saturday,H-71,Pontiac Nexus,1,0964
+H,saturday,H-72,Pontiac Nexus,1,0964
+H,saturday,H-73,Pontiac Nexus,1,0964
+H,saturday,H-74,Pontiac Nexus,1,0964
+H,saturday,H-75,Pontiac Nexus,1,0964
+H,saturday,H-76,Pontiac Nexus,1,0964
+H,saturday,H-77,Pontiac Nexus,1,0964
+H,saturday,H-78,Pontiac Nexus,1,0964
+H,saturday,H-79,Pontiac Nexus,1,0964
+H,saturday,H-80,Pontiac Nexus,1,0964
+H,saturday,H-81,Pontiac Nexus,1,0964
+H,saturday,H-82,Pontiac Nexus,1,0964
+H,saturday,H-83,Pontiac Nexus,1,0964
+H,saturday,H-84,Pontiac Nexus,1,0964
+H,saturday,H-85,Pontiac Nexus,1,0964
+H,saturday,H-86,Pontiac Nexus,1,0964
+H,saturday,H-87,Pontiac Nexus,1,0964
+H,saturday,H-88,Pontiac Nexus,1,0964
+H,saturday,H-89,Pontiac Nexus,1,0964
+H,saturday,H-90,Pontiac Nexus,1,0964
+H,saturday,H-91,Pontiac Nexus,1,0964
+H,saturday,H-92,Pontiac Nexus,1,0964
+H,saturday,H-93,Pontiac Nexus,1,0964
+H,saturday,H-94,Pontiac Nexus,1,0964
+H,saturday,H-95,Pontiac Nexus,1,0964
+H,saturday,H-96,Pontiac Nexus,1,0964
+H,saturday,H-97,Pontiac Nexus,1,0964
+H,saturday,H-98,Pontiac Nexus,1,0964
+H,saturday,H-99,Pontiac Nexus,1,0964
+H,saturday,H-100,Pontiac Nexus,1,0964
+H,sunday,H-101,Gratiot / Crocker,0,0966
+H,sunday,H-102,Gratiot / Crocker,0,0966
+H,sunday,H-103,Gratiot / Crocker,0,0966
+H,sunday,H-104,Gratiot / Crocker,0,0966
+H,sunday,H-105,Gratiot / Crocker,0,0966
+H,sunday,H-106,Gratiot / Crocker,0,0966
+H,sunday,H-107,Gratiot / Crocker,0,0966
+H,sunday,H-108,Gratiot / Crocker,0,0966
+H,sunday,H-109,Gratiot / Crocker,0,0966
+H,sunday,H-110,Gratiot / Crocker,0,0966
+H,sunday,H-111,Gratiot / Crocker,0,0966
+H,sunday,H-112,Gratiot / Crocker,0,0966
+H,sunday,H-113,Gratiot / Crocker,0,0966
+H,sunday,H-114,Gratiot / Crocker,0,0966
+H,sunday,H-115,Gratiot / Crocker,0,0966
+H,sunday,H-116,Gratiot / Crocker,0,0966
+H,sunday,H-117,Gratiot / Crocker,0,0966
+H,sunday,H-118,Gratiot / Crocker,0,0966
+H,sunday,H-119,Gratiot / Crocker,0,0966
+H,sunday,H-120,Gratiot / Crocker,0,0966
+H,sunday,H-121,Gratiot / Crocker,0,0966
+H,sunday,H-122,Gratiot / Crocker,0,0966
+H,sunday,H-123,Gratiot / Crocker,0,0966
+H,sunday,H-124,Gratiot / Crocker,0,0966
+H,sunday,H-125,Gratiot / Crocker,0,0966
+H,sunday,H-126,Gratiot / Crocker,0,0966
+H,sunday,H-127,Gratiot / Crocker,0,0966
+H,sunday,H-128,Gratiot / Crocker,0,0966
+H,sunday,H-129,Gratiot / Crocker,0,0966
+H,sunday,H-130,Gratiot / Crocker,0,0966
+H,sunday,H-131,Gratiot / Crocker,0,0966
+H,sunday,H-132,Gratiot / Crocker,0,0966
+H,sunday,H-133,Gratiot / Crocker,0,0966
+H,sunday,H-134,Gratiot / Crocker,0,0966
+H,sunday,H-135,Gratiot / Crocker,0,0966
+H,sunday,H-136,Pontiac Nexus,1,0964
+H,sunday,H-137,Pontiac Nexus,1,0964
+H,sunday,H-138,Pontiac Nexus,1,0964
+H,sunday,H-139,Pontiac Nexus,1,0964
+H,sunday,H-140,Pontiac Nexus,1,0964
+H,sunday,H-141,Pontiac Nexus,1,0964
+H,sunday,H-142,Pontiac Nexus,1,0964
+H,sunday,H-143,Pontiac Nexus,1,0964
+H,sunday,H-144,Pontiac Nexus,1,0964
+H,sunday,H-145,Pontiac Nexus,1,0964
+H,sunday,H-146,Pontiac Nexus,1,0964
+H,sunday,H-147,Pontiac Nexus,1,0964
+H,sunday,H-148,Pontiac Nexus,1,0964
+H,sunday,H-149,Pontiac Nexus,1,0964
+H,sunday,H-150,Pontiac Nexus,1,0964
+H,sunday,H-151,Pontiac Nexus,1,0964
+H,sunday,H-152,Pontiac Nexus,1,0964
+H,sunday,H-153,Pontiac Nexus,1,0964
+H,sunday,H-154,Pontiac Nexus,1,0964
+H,sunday,H-155,Pontiac Nexus,1,0964
+H,sunday,H-156,Pontiac Nexus,1,0964
+H,sunday,H-157,Pontiac Nexus,1,0964
+H,sunday,H-158,Pontiac Nexus,1,0964
+H,sunday,H-159,Pontiac Nexus,1,0964
+H,sunday,H-160,Pontiac Nexus,1,0964
+H,sunday,H-161,Pontiac Nexus,1,0964
+H,sunday,H-162,Pontiac Nexus,1,0964
+H,sunday,H-163,Pontiac Nexus,1,0964
+H,sunday,H-164,Pontiac Nexus,1,0964
+H,sunday,H-165,Pontiac Nexus,1,0964
+H,sunday,H-166,Pontiac Nexus,1,0964
+H,sunday,H-167,Pontiac Nexus,1,0964
+H,sunday,H-168,Pontiac Nexus,1,0964
+H,sunday,H-169,Pontiac Nexus,1,0964
+H,weekday,H-170,Gratiot / Crocker,0,0969
+H,weekday,H-171,Gratiot / Crocker,0,0969
+H,weekday,H-172,Gratiot / Crocker,0,0969
+H,weekday,H-173,Gratiot / Crocker,0,0966
+H,weekday,H-174,Gratiot / Crocker,0,0966
+H,weekday,H-175,Gratiot / Crocker,0,0966
+H,weekday,H-176,Gratiot / Crocker,0,0966
+H,weekday,H-177,Gratiot / Crocker,0,0966
+H,weekday,H-178,Gratiot / Crocker,0,0969
+H,weekday,H-179,Gratiot / Crocker,0,0966
+H,weekday,H-180,Gratiot / Crocker,0,0966
+H,weekday,H-181,Gratiot / Crocker,0,0966
+H,weekday,H-182,Gratiot / Crocker,0,0966
+H,weekday,H-183,Gratiot / Crocker,0,0966
+H,weekday,H-184,Gratiot / Crocker,0,0966
+H,weekday,H-185,Gratiot / Crocker,0,0966
+H,weekday,H-186,Gratiot / Crocker,0,0966
+H,weekday,H-187,Gratiot / Crocker,0,0966
+H,weekday,H-188,Gratiot / Crocker,0,0966
+H,weekday,H-189,Gratiot / Crocker,0,0966
+H,weekday,H-190,Gratiot / Crocker,0,0966
+H,weekday,H-191,Gratiot / Crocker,0,0966
+H,weekday,H-192,Gratiot / Crocker,0,0966
+H,weekday,H-193,Gratiot / Crocker,0,0966
+H,weekday,H-194,Gratiot / Crocker,0,0966
+H,weekday,H-195,Gratiot / Crocker,0,0966
+H,weekday,H-196,Gratiot / Crocker,0,0966
+H,weekday,H-197,Gratiot / Crocker,0,0966
+H,weekday,H-198,Gratiot / Crocker,0,0966
+H,weekday,H-199,Gratiot / Crocker,0,0966
+H,weekday,H-200,Gratiot / Crocker,0,0966
+H,weekday,H-201,Gratiot / Crocker,0,0966
+H,weekday,H-202,Gratiot / Crocker,0,0966
+H,weekday,H-203,Gratiot / Crocker,0,0966
+H,weekday,H-204,Gratiot / Crocker,0,0966
+H,weekday,H-205,Gratiot / Crocker,0,0966
+H,weekday,H-206,Gratiot / Crocker,0,0966
+H,weekday,H-207,Gratiot / Crocker,0,0966
+H,weekday,H-208,Gratiot / Crocker,0,0966
+H,weekday,H-209,Gratiot / Crocker,0,0966
+H,weekday,H-210,Gratiot / Crocker,0,0966
+H,weekday,H-211,Gratiot / Crocker,0,0966
+H,weekday,H-212,Gratiot / Crocker,0,0966
+H,weekday,H-213,Gratiot / Crocker,0,0966
+H,weekday,H-214,Gratiot / Crocker,0,0966
+H,weekday,H-215,Gratiot / Crocker,0,0966
+H,weekday,H-216,Gratiot / Crocker,0,0966
+H,weekday,H-217,Gratiot / Crocker,0,0966
+H,weekday,H-218,Gratiot / Crocker,0,0966
+H,weekday,H-219,Gratiot / Crocker,0,0966
+H,weekday,H-220,Gratiot / Crocker,0,0966
+H,weekday,H-221,Gratiot / Crocker,0,0966
+H,weekday,H-222,Gratiot / Crocker,0,0966
+H,weekday,H-223,Gratiot / Crocker,0,0966
+H,weekday,H-224,Gratiot / Crocker,0,0966
+H,weekday,H-225,Gratiot / Crocker,0,0966
+H,weekday,H-226,Gratiot / Crocker,0,0966
+H,weekday,H-227,Gratiot / Crocker,0,0966
+H,weekday,H-228,Gratiot / Crocker,0,0966
+H,weekday,H-229,Gratiot / Crocker,0,0966
+H,weekday,H-230,Gratiot / Crocker,0,0966
+H,weekday,H-231,Gratiot / Crocker,0,0966
+H,weekday,H-232,Gratiot / Crocker,0,0966
+H,weekday,H-233,Gratiot / Crocker,0,0966
+H,weekday,H-234,Gratiot / Crocker,0,0966
+H,weekday,H-235,Gratiot / Crocker,0,0966
+H,weekday,H-236,Gratiot / Crocker,0,0966
+H,weekday,H-237,Gratiot / Crocker,0,0966
+H,weekday,H-238,Gratiot / Crocker,0,0966
+H,weekday,H-239,Gratiot / Crocker,0,0966
+H,weekday,H-240,Gratiot / Crocker,0,0966
+H,weekday,H-241,Pontiac Nexus,1,0964
+H,weekday,H-242,Pontiac Nexus,1,0964
+H,weekday,H-243,Pontiac Nexus,1,0964
+H,weekday,H-244,Pontiac Nexus,1,0964
+H,weekday,H-245,Pontiac Nexus,1,0964
+H,weekday,H-246,Pontiac Nexus,1,0964
+H,weekday,H-247,Pontiac Nexus,1,0964
+H,weekday,H-248,Pontiac Nexus,1,0964
+H,weekday,H-249,Pontiac Nexus,1,0964
+H,weekday,H-250,Pontiac Nexus,1,0964
+H,weekday,H-251,Pontiac Nexus,1,0964
+H,weekday,H-252,Pontiac Nexus,1,0964
+H,weekday,H-253,Pontiac Nexus,1,0964
+H,weekday,H-254,Pontiac Nexus,1,0964
+H,weekday,H-255,Pontiac Nexus,1,0964
+H,weekday,H-256,Pontiac Nexus,1,0964
+H,weekday,H-257,Pontiac Nexus,1,0964
+H,weekday,H-258,Pontiac Nexus,1,0964
+H,weekday,H-259,Pontiac Nexus,1,0964
+H,weekday,H-260,Pontiac Nexus,1,0964
+H,weekday,H-261,Pontiac Nexus,1,0964
+H,weekday,H-262,Pontiac Nexus,1,0964
+H,weekday,H-263,Pontiac Nexus,1,0964
+H,weekday,H-264,Pontiac Nexus,1,0964
+H,weekday,H-265,Pontiac Nexus,1,0964
+H,weekday,H-266,Pontiac Nexus,1,0964
+H,weekday,H-267,Pontiac Nexus,1,0964
+H,weekday,H-268,Pontiac Nexus,1,0964
+H,weekday,H-269,Pontiac Nexus,1,0964
+H,weekday,H-270,Pontiac Nexus,1,0964
+H,weekday,H-271,Pontiac Nexus,1,0964
+H,weekday,H-272,Pontiac Nexus,1,0964
+H,weekday,H-273,Pontiac Nexus,1,0964
+H,weekday,H-274,Pontiac Nexus,1,0964
+H,weekday,H-275,Pontiac Nexus,1,0964
+H,weekday,H-276,Pontiac Nexus,1,0964
+H,weekday,H-277,Pontiac Nexus,1,0964
+H,weekday,H-278,Pontiac Nexus,1,0964
+H,weekday,H-279,Pontiac Nexus,1,0964
+H,weekday,H-280,Pontiac Nexus,1,0964
+H,weekday,H-281,Pontiac Nexus,1,0964
+H,weekday,H-282,Pontiac Nexus,1,0964
+H,weekday,H-283,Pontiac Nexus,1,0964
+H,weekday,H-284,Pontiac Nexus,1,0964
+H,weekday,H-285,Pontiac Nexus,1,0964
+H,weekday,H-286,Pontiac Nexus,1,0964
+H,weekday,H-287,Pontiac Nexus,1,0964
+H,weekday,H-288,Pontiac Nexus,1,0964
+H,weekday,H-289,Pontiac Nexus,1,0964
+H,weekday,H-290,Pontiac Nexus,1,0964
+H,weekday,H-291,Pontiac Nexus,1,0964
+H,weekday,H-292,Pontiac Nexus,1,0964
+H,weekday,H-293,Pontiac Nexus,1,0964
+H,weekday,H-294,Pontiac Nexus,1,0964
+H,weekday,H-295,Pontiac Nexus,1,0964
+H,weekday,H-296,Pontiac Nexus,1,0964
+H,weekday,H-297,Pontiac Nexus,1,0964
+H,weekday,H-298,Pontiac Nexus,1,0964
+H,weekday,H-299,Pontiac Nexus,1,0964
+H,weekday,H-300,Pontiac Nexus,1,0964
+H,weekday,H-301,Pontiac Nexus,1,0964
+H,weekday,H-302,Pontiac Nexus,1,0964
+H,weekday,H-303,Pontiac Nexus,1,0964
+H,weekday,H-304,Pontiac Nexus,1,0964
+H,weekday,H-305,Pontiac Nexus,1,0964
+H,weekday,H-306,Pontiac Nexus,1,0964
+H,weekday,H-307,Pontiac Nexus,1,0964
+H,weekday,H-308,Pontiac Nexus,1,0964
+H,weekday,H-309,Pontiac Nexus,1,0964
+H,weekday,H-310,Pontiac Nexus,1,0964
+H,weekday,H-311,Pontiac Nexus,1,0964

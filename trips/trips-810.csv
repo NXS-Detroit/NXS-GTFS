@@ -1,0 +1,30 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+810,preholiday,810-1,Detroit-Redford Nexus via M-10,1,8104,810D
+810,preholiday,810-2,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,preholiday,810-3,Detroit-Redford Nexus via M-10,1,8104,810D
+810,preholiday,810-4,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,preholiday,810-5,Detroit-Redford Nexus via M-10,1,8104,810D
+810,preholiday,810-6,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,preholiday,810-7,Detroit-Redford Nexus via M-10,1,8104,810D
+810,preholiday,810-8,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,preholiday,810-9,Detroit-Redford Nexus via M-10,1,8104,810D
+810,preholiday,810-10,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,preholiday,810-11,Detroit-Redford Nexus via M-10,1,8104,810D
+810,weekday,810-12,Lafayette / St Antoine via M-10,0,8106,810D
+810,weekday,810-13,Lafayette / St Antoine via Wayne State University,0,8109,810W
+810,weekday,810-14,Lafayette / St Antoine via M-10,0,8106,810D
+810,weekday,810-15,Lafayette / St Antoine via Wayne State University,0,8109,810W
+810,weekday,810-16,Lafayette / St Antoine via M-10,0,8106,810D
+810,weekday,810-17,Lafayette / St Antoine via Wayne State University,0,8109,810W
+810,weekday,810-18,Lafayette / St Antoine via M-10,0,8106,810D
+810,weekday,810-19,Lafayette / St Antoine via Wayne State University,0,8109,810W
+810,weekday,810-20,Lafayette / St Antoine via M-10,0,8106,810D
+810,weekdaynoph,810-21,Detroit-Redford Nexus via M-10,1,8104,810D
+810,weekdaynoph,810-22,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,weekdaynoph,810-23,Detroit-Redford Nexus via M-10,1,8104,810D
+810,weekdaynoph,810-24,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,weekdaynoph,810-25,Detroit-Redford Nexus via M-10,1,8104,810D
+810,weekdaynoph,810-26,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,weekdaynoph,810-27,Detroit-Redford Nexus via M-10,1,8104,810D
+810,weekdaynoph,810-28,Detroit-Redford Nexus via Wayne State University,1,8107,810W
+810,weekdaynoph,810-29,Detroit-Redford Nexus via M-10,1,8104,810D

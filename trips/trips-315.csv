@@ -1,0 +1,104 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+315,saturday,315-1,Target Dearborn,1,3152
+315,saturday,315-2,Target Dearborn,1,3152
+315,saturday,315-3,Target Dearborn,1,3152
+315,saturday,315-4,Target Dearborn,1,3152
+315,saturday,315-5,Target Dearborn,1,3152
+315,saturday,315-6,Target Dearborn,1,3152
+315,saturday,315-7,Target Dearborn,1,3152
+315,saturday,315-8,Target Dearborn,1,3152
+315,saturday,315-9,Target Dearborn,1,3152
+315,saturday,315-10,Target Dearborn,1,3152
+315,saturday,315-11,Target Dearborn,1,3152
+315,saturday,315-12,Target Dearborn,1,3152
+315,saturday,315-13,Target Dearborn,1,3152
+315,saturday,315-14,Target Dearborn,1,3152
+315,saturday,315-15,Target Dearborn,1,3152
+315,saturday,315-16,Target Dearborn,1,3152
+315,saturday,315-17,Target Dearborn,1,3152
+315,saturday,315-18,Target Dearborn,1,3152
+315,saturday,315-19,Target Dearborn,1,3152
+315,saturday,315-20,Target Dearborn,1,3152
+315,saturday,315-21,Target Dearborn,1,3152
+315,saturday,315-22,Target Dearborn,1,3152
+315,saturday,315-23,Target Dearborn,1,3152
+315,saturday,315-24,Target Dearborn,1,3152
+315,saturday,315-25,Target Dearborn,1,3152
+315,saturday,315-26,Target Dearborn,1,3152
+315,saturday,315-27,Target Dearborn,1,3152
+315,saturday,315-28,Target Dearborn,1,3152
+315,saturday,315-29,Target Dearborn,1,3152
+315,saturday,315-30,Target Dearborn,1,3152
+315,saturday,315-31,Target Dearborn,1,3152
+315,saturday,315-32,Target Dearborn,1,3152
+315,saturday,315-33,Target Dearborn,1,3152
+315,saturday,315-34,Target Dearborn,1,3152
+315,saturday,315-35,Target Dearborn,1,3152
+315,saturday,315-36,Target Dearborn,1,3152
+315,saturday,315-37,Target Dearborn,1,3152
+315,saturday,315-38,Target Dearborn,1,3152
+315,saturday,315-39,Target Dearborn,1,3152
+315,saturday,315-40,Target Dearborn,1,3152
+315,weekday,315-41,West River Shopping Center,0,3158
+315,weekday,315-42,West River Shopping Center,0,3158
+315,weekday,315-43,West River Shopping Center,0,3158
+315,weekday,315-44,West River Shopping Center,0,3158
+315,weekday,315-45,West River Shopping Center,0,3158
+315,weekday,315-46,West River Shopping Center,0,3158
+315,weekday,315-47,West River Shopping Center,0,3158
+315,weekday,315-48,West River Shopping Center,0,3158
+315,weekday,315-49,West River Shopping Center,0,3158
+315,weekday,315-50,West River Shopping Center,0,3158
+315,weekday,315-51,West River Shopping Center,0,3158
+315,weekday,315-52,West River Shopping Center,0,3158
+315,weekday,315-53,West River Shopping Center,0,3158
+315,weekday,315-54,West River Shopping Center,0,3158
+315,weekday,315-55,West River Shopping Center,0,3158
+315,weekday,315-56,West River Shopping Center,0,3158
+315,weekday,315-57,West River Shopping Center,0,3158
+315,weekday,315-58,West River Shopping Center,0,3158
+315,weekday,315-59,West River Shopping Center,0,3158
+315,weekday,315-60,West River Shopping Center,0,3158
+315,weekday,315-61,West River Shopping Center,0,3158
+315,weekday,315-62,West River Shopping Center,0,3158
+315,weekday,315-63,West River Shopping Center,0,3158
+315,weekday,315-64,West River Shopping Center,0,3158
+315,weekday,315-65,West River Shopping Center,0,3158
+315,weekday,315-66,West River Shopping Center,0,3158
+315,weekday,315-67,West River Shopping Center,0,3158
+315,weekday,315-68,West River Shopping Center,0,3158
+315,weekday,315-69,West River Shopping Center,0,3158
+315,weekday,315-70,West River Shopping Center,0,3158
+315,weekday,315-71,West River Shopping Center,0,3158
+315,weekday,315-72,Target Dearborn,1,3152
+315,weekday,315-73,Target Dearborn,1,3152
+315,weekday,315-74,Target Dearborn,1,3152
+315,weekday,315-75,Target Dearborn,1,3152
+315,weekday,315-76,Target Dearborn,1,3152
+315,weekday,315-77,Target Dearborn,1,3152
+315,weekday,315-78,Target Dearborn,1,3152
+315,weekday,315-79,Target Dearborn,1,3152
+315,weekday,315-80,Target Dearborn,1,3152
+315,weekday,315-81,Target Dearborn,1,3152
+315,weekday,315-82,Target Dearborn,1,3152
+315,weekday,315-83,Target Dearborn,1,3152
+315,weekday,315-84,Target Dearborn,1,3152
+315,weekday,315-85,Target Dearborn,1,3152
+315,weekday,315-86,Target Dearborn,1,3152
+315,weekday,315-87,Target Dearborn,1,3152
+315,weekday,315-88,Target Dearborn,1,3152
+315,weekday,315-89,Target Dearborn,1,3152
+315,weekday,315-90,Target Dearborn,1,3152
+315,weekday,315-91,Target Dearborn,1,3152
+315,weekday,315-92,Target Dearborn,1,3152
+315,weekday,315-93,Target Dearborn,1,3152
+315,weekday,315-94,Target Dearborn,1,3152
+315,weekday,315-95,Target Dearborn,1,3152
+315,weekday,315-96,Target Dearborn,1,3152
+315,weekday,315-97,Target Dearborn,1,3152
+315,weekday,315-98,Target Dearborn,1,3152
+315,weekday,315-99,Target Dearborn,1,3152
+315,weekday,315-100,Target Dearborn,1,3152
+315,weekday,315-101,Target Dearborn,1,3152
+315,weekday,315-102,Target Dearborn,1,3152
+315,weekday,315-103,Target Dearborn,1,3152

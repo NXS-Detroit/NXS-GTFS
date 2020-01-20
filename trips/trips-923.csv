@@ -1,0 +1,67 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+923,saturday,923-1,Pontiac Nexus,0,9236
+923,saturday,923-2,Pontiac Nexus,0,9236
+923,saturday,923-3,Pontiac Nexus,0,9236
+923,saturday,923-4,Pontiac Nexus,0,9236
+923,saturday,923-5,Pontiac Nexus,0,9236
+923,saturday,923-6,Pontiac Nexus,0,9236
+923,saturday,923-7,Pontiac Nexus,0,9236
+923,saturday,923-8,Pontiac Nexus,0,9236
+923,saturday,923-9,Pontiac Nexus,0,9236
+923,saturday,923-10,Pontiac Nexus,0,9236
+923,saturday,923-11,Pontiac Nexus,0,9236
+923,saturday,923-12,Pontiac Nexus,0,9236
+923,saturday,923-13,South Lyon Kroger,1,9234
+923,saturday,923-14,South Lyon Kroger,1,9234
+923,saturday,923-15,South Lyon Kroger,1,9234
+923,saturday,923-16,South Lyon Kroger,1,9234
+923,saturday,923-17,South Lyon Kroger,1,9234
+923,saturday,923-18,South Lyon Kroger,1,9234
+923,saturday,923-19,South Lyon Kroger,1,9234
+923,saturday,923-20,South Lyon Kroger,1,9234
+923,saturday,923-21,South Lyon Kroger,1,9234
+923,saturday,923-22,South Lyon Kroger,1,9234
+923,saturday,923-23,South Lyon Kroger,1,9234
+923,saturday,923-24,South Lyon Kroger,1,9234
+923,weekday,923-25,Pontiac Nexus,0,9239
+923,weekday,923-26,Pontiac Nexus,0,9239
+923,weekday,923-27,Pontiac Nexus,0,9239
+923,weekday,923-28,Pontiac Nexus,0,9239
+923,weekday,923-29,Pontiac Nexus,0,9239
+923,weekday,923-30,Pontiac Nexus,0,9239
+923,weekday,923-31,Pontiac Nexus,0,9239
+923,weekday,923-32,Pontiac Nexus,0,9239
+923,weekday,923-33,Pontiac Nexus,0,9239
+923,weekday,923-34,Pontiac Nexus,0,9239
+923,weekday,923-35,Pontiac Nexus,0,9239
+923,weekday,923-36,Pontiac Nexus,0,9239
+923,weekday,923-37,Pontiac Nexus,0,9239
+923,weekday,923-38,Pontiac Nexus,0,9239
+923,weekday,923-39,Pontiac Nexus,0,9239
+923,weekday,923-40,Pontiac Nexus,0,9239
+923,weekday,923-41,Pontiac Nexus,0,9239
+923,weekday,923-42,Pontiac Nexus,0,9239
+923,weekday,923-43,Pontiac Nexus,0,9239
+923,weekday,923-44,Pontiac Nexus,0,9239
+923,weekday,923-45,Pontiac Nexus,0,9239
+923,weekday,923-46,Blake Transit Center,1,9237
+923,weekday,923-47,Blake Transit Center,1,9237
+923,weekday,923-48,Blake Transit Center,1,9237
+923,weekday,923-49,Blake Transit Center,1,9237
+923,weekday,923-50,Blake Transit Center,1,9237
+923,weekday,923-51,Blake Transit Center,1,9237
+923,weekday,923-52,Blake Transit Center,1,9237
+923,weekday,923-53,Blake Transit Center,1,9237
+923,weekday,923-54,Blake Transit Center,1,9237
+923,weekday,923-55,Blake Transit Center,1,9237
+923,weekday,923-56,Blake Transit Center,1,9237
+923,weekday,923-57,Blake Transit Center,1,9237
+923,weekday,923-58,Blake Transit Center,1,9237
+923,weekday,923-59,Blake Transit Center,1,9237
+923,weekday,923-60,Blake Transit Center,1,9237
+923,weekday,923-61,Blake Transit Center,1,9237
+923,weekday,923-62,Blake Transit Center,1,9237
+923,weekday,923-63,Blake Transit Center,1,9237
+923,weekday,923-64,Blake Transit Center,1,9237
+923,weekday,923-65,Blake Transit Center,1,9237
+923,weekday,923-66,Blake Transit Center,1,9237

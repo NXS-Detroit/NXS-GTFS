@@ -1,0 +1,31 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+220,weekday,220-1,Outer Dr / Southfield,0,2208
+220,weekday,220-2,Outer Dr / Southfield,0,2208
+220,weekday,220-3,Outer Dr / Southfield,0,2208
+220,weekday,220-4,Outer Dr / Southfield,0,2208
+220,weekday,220-5,Outer Dr / Southfield,0,2208
+220,weekday,220-6,Outer Dr / Southfield,0,2208
+220,weekday,220-7,Outer Dr / Southfield,0,2208
+220,weekday,220-8,Outer Dr / Southfield,0,2208
+220,weekday,220-9,Outer Dr / Southfield,0,2208
+220,weekday,220-10,Outer Dr / Southfield,0,2208
+220,weekday,220-11,Outer Dr / Southfield,0,2208
+220,weekday,220-12,Outer Dr / Southfield,0,2208
+220,weekday,220-13,Outer Dr / Southfield,0,2208
+220,weekday,220-14,Outer Dr / Southfield,0,2208
+220,weekday,220-15,Outer Dr / Southfield,0,2208
+220,weekday,220-16,Dearborn Nexus,1,2202
+220,weekday,220-17,Dearborn Nexus,1,2202
+220,weekday,220-18,Dearborn Nexus,1,2202
+220,weekday,220-19,Dearborn Nexus,1,2202
+220,weekday,220-20,Dearborn Nexus,1,2202
+220,weekday,220-21,Dearborn Nexus,1,2202
+220,weekday,220-22,Dearborn Nexus,1,2202
+220,weekday,220-23,Dearborn Nexus,1,2202
+220,weekday,220-24,Dearborn Nexus,1,2202
+220,weekday,220-25,Dearborn Nexus,1,2202
+220,weekday,220-26,Dearborn Nexus,1,2202
+220,weekday,220-27,Dearborn Nexus,1,2202
+220,weekday,220-28,Dearborn Nexus,1,2202
+220,weekday,220-29,Dearborn Nexus,1,2202
+220,weekday,220-30,Dearborn Nexus,1,2202

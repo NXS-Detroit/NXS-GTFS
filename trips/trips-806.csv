@@ -1,0 +1,105 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+806,saturday,806-1,Wixom Park & Ride,0,8068
+806,saturday,806-2,Wixom Park & Ride,0,8068
+806,saturday,806-3,Wixom Park & Ride,0,8068
+806,saturday,806-4,Wixom Park & Ride,0,8068
+806,saturday,806-5,Wixom Park & Ride,0,8068
+806,saturday,806-6,Wixom Park & Ride,0,8068
+806,saturday,806-7,Wixom Park & Ride,0,8068
+806,saturday,806-8,Wixom Park & Ride,0,8068
+806,saturday,806-9,Wixom Park & Ride,0,8068
+806,saturday,806-10,Wixom Park & Ride,0,8068
+806,saturday,806-11,Wixom Park & Ride,0,8068
+806,saturday,806-12,Wixom Park & Ride,0,8068
+806,saturday,806-13,Wixom Park & Ride,0,8068
+806,saturday,806-14,Wixom Park & Ride,0,8068
+806,saturday,806-15,Wixom Park & Ride,0,8068
+806,saturday,806-16,Wixom Park & Ride,0,8068
+806,saturday,806-17,Wixom Park & Ride,0,8068
+806,saturday,806-18,Wixom Park & Ride,0,8068
+806,saturday,806-19,Wixom Park & Ride,0,8068
+806,saturday,806-20,Wixom Park & Ride,0,8068
+806,saturday,806-21,Wixom Park & Ride,0,8068
+806,saturday,806-22,Metro Airport Nexus,1,8062
+806,saturday,806-23,Metro Airport Nexus,1,8062
+806,saturday,806-24,Metro Airport Nexus,1,8062
+806,saturday,806-25,Metro Airport Nexus,1,8062
+806,saturday,806-26,Metro Airport Nexus,1,8062
+806,saturday,806-27,Metro Airport Nexus,1,8062
+806,saturday,806-28,Metro Airport Nexus,1,8062
+806,saturday,806-29,Metro Airport Nexus,1,8062
+806,saturday,806-30,Metro Airport Nexus,1,8062
+806,saturday,806-31,Metro Airport Nexus,1,8062
+806,saturday,806-32,Metro Airport Nexus,1,8062
+806,saturday,806-33,Metro Airport Nexus,1,8062
+806,saturday,806-34,Metro Airport Nexus,1,8062
+806,saturday,806-35,Metro Airport Nexus,1,8062
+806,saturday,806-36,Metro Airport Nexus,1,8062
+806,saturday,806-37,Metro Airport Nexus,1,8062
+806,saturday,806-38,Metro Airport Nexus,1,8062
+806,saturday,806-39,Metro Airport Nexus,1,8062
+806,saturday,806-40,Metro Airport Nexus,1,8062
+806,saturday,806-41,Metro Airport Nexus,1,8062
+806,saturday,806-42,Metro Airport Nexus,1,8062
+806,weekday,806-43,Wixom Park & Ride,0,8068
+806,weekday,806-44,Wixom Park & Ride,0,8068
+806,weekday,806-45,Wixom Park & Ride,0,8068
+806,weekday,806-46,Wixom Park & Ride,0,8068
+806,weekday,806-47,Wixom Park & Ride,0,8068
+806,weekday,806-48,Wixom Park & Ride,0,8068
+806,weekday,806-49,Wixom Park & Ride,0,8068
+806,weekday,806-50,Wixom Park & Ride,0,8068
+806,weekday,806-51,Wixom Park & Ride,0,8068
+806,weekday,806-52,Wixom Park & Ride,0,8068
+806,weekday,806-53,Wixom Park & Ride,0,8068
+806,weekday,806-54,Wixom Park & Ride,0,8068
+806,weekday,806-55,Wixom Park & Ride,0,8068
+806,weekday,806-56,Wixom Park & Ride,0,8068
+806,weekday,806-57,Wixom Park & Ride,0,8068
+806,weekday,806-58,Wixom Park & Ride,0,8068
+806,weekday,806-59,Wixom Park & Ride,0,8068
+806,weekday,806-60,Wixom Park & Ride,0,8068
+806,weekday,806-61,Wixom Park & Ride,0,8068
+806,weekday,806-62,Wixom Park & Ride,0,8068
+806,weekday,806-63,Wixom Park & Ride,0,8068
+806,weekday,806-64,Wixom Park & Ride,0,8068
+806,weekday,806-65,Wixom Park & Ride,0,8068
+806,weekday,806-66,Wixom Park & Ride,0,8068
+806,weekday,806-67,Wixom Park & Ride,0,8068
+806,weekday,806-68,Wixom Park & Ride,0,8068
+806,weekday,806-69,Wixom Park & Ride,0,8068
+806,weekday,806-70,Wixom Park & Ride,0,8068
+806,weekday,806-71,Wixom Park & Ride,0,8068
+806,weekday,806-72,Wixom Park & Ride,0,8068
+806,weekday,806-73,Wixom Park & Ride,0,8068
+806,weekday,806-74,Metro Airport Nexus,1,8062
+806,weekday,806-75,Metro Airport Nexus,1,8062
+806,weekday,806-76,Metro Airport Nexus,1,8062
+806,weekday,806-77,Metro Airport Nexus,1,8062
+806,weekday,806-78,Metro Airport Nexus,1,8062
+806,weekday,806-79,Metro Airport Nexus,1,8062
+806,weekday,806-80,Metro Airport Nexus,1,8062
+806,weekday,806-81,Metro Airport Nexus,1,8062
+806,weekday,806-82,Metro Airport Nexus,1,8062
+806,weekday,806-83,Metro Airport Nexus,1,8062
+806,weekday,806-84,Metro Airport Nexus,1,8062
+806,weekday,806-85,Metro Airport Nexus,1,8062
+806,weekday,806-86,Metro Airport Nexus,1,8062
+806,weekday,806-87,Metro Airport Nexus,1,8062
+806,weekday,806-88,Metro Airport Nexus,1,8062
+806,weekday,806-89,Metro Airport Nexus,1,8062
+806,weekday,806-90,Metro Airport Nexus,1,8062
+806,weekday,806-91,Metro Airport Nexus,1,8062
+806,weekday,806-92,Metro Airport Nexus,1,8062
+806,weekday,806-93,Metro Airport Nexus,1,8062
+806,weekday,806-94,Metro Airport Nexus,1,8062
+806,weekday,806-95,Metro Airport Nexus,1,8062
+806,weekday,806-96,Metro Airport Nexus,1,8062
+806,weekday,806-97,Metro Airport Nexus,1,8062
+806,weekday,806-98,Metro Airport Nexus,1,8062
+806,weekday,806-99,Metro Airport Nexus,1,8062
+806,weekday,806-100,Metro Airport Nexus,1,8062
+806,weekday,806-101,Metro Airport Nexus,1,8062
+806,weekday,806-102,Metro Airport Nexus,1,8062
+806,weekday,806-103,Metro Airport Nexus,1,8062
+806,weekday,806-104,Metro Airport Nexus,1,8062

@@ -1,0 +1,31 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+896,preholiday,896-1,Wixom Park & Ride,1,8964,896D
+896,preholiday,896-2,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,preholiday,896-3,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,preholiday,896-4,Wixom Park & Ride,1,8964,896D
+896,preholiday,896-5,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,preholiday,896-6,Wixom Park & Ride,1,8964,896D
+896,preholiday,896-7,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,preholiday,896-8,Wixom Park & Ride,1,8964,896D
+896,preholiday,896-9,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,preholiday,896-10,Wixom Park & Ride,1,8964,896D
+896,preholiday,896-11,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,weekday,896-12,Lafayette / St Antoine,0,8966,896D
+896,weekday,896-13,Lodge / Grand Blvd via Downtown Detroit,1,8969,896W
+896,weekday,896-14,Lafayette / St Antoine,0,8966,896D
+896,weekday,896-15,Lodge / Grand Blvd via Downtown Detroit,1,8969,896W
+896,weekday,896-16,Lafayette / St Antoine,0,8966,896D
+896,weekday,896-17,Lodge / Grand Blvd via Downtown Detroit,1,8969,896W
+896,weekday,896-18,Lafayette / St Antoine,0,8966,896D
+896,weekday,896-19,Lodge / Grand Blvd via Downtown Detroit,1,8969,896W
+896,weekday,896-20,Lafayette / St Antoine,0,8966,896D
+896,weekday,896-21,Lodge / Grand Blvd via Downtown Detroit,1,8969,896W
+896,weekdaynoph,896-22,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,weekdaynoph,896-23,Wixom Park & Ride,1,8964,896D
+896,weekdaynoph,896-24,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,weekdaynoph,896-25,Wixom Park & Ride,1,8964,896D
+896,weekdaynoph,896-26,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,weekdaynoph,896-27,Wixom Park & Ride,1,8964,896D
+896,weekdaynoph,896-28,Wixom Park & Ride via Downtown Detroit,1,8967,896W
+896,weekdaynoph,896-29,Wixom Park & Ride,1,8964,896D
+896,weekdaynoph,896-30,Wixom Park & Ride via Downtown Detroit,1,8967,896W

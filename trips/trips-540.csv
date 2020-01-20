@@ -1,0 +1,181 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+540,saturday,540-1,Rochester,0,5506
+540,saturday,540-2,Rochester,0,5506
+540,saturday,540-3,Rochester,0,5506
+540,saturday,540-4,Rochester,0,5506
+540,saturday,540-5,Rochester,0,5506
+540,saturday,540-6,Rochester,0,5506
+540,saturday,540-7,Rochester,0,5506
+540,saturday,540-8,Rochester,0,5506
+540,saturday,540-9,Rochester,0,5506
+540,saturday,540-10,Rochester,0,5506
+540,saturday,540-11,Rochester,0,5506
+540,saturday,540-12,Rochester,0,5506
+540,saturday,540-13,Rochester,0,5506
+540,saturday,540-14,Rochester,0,5506
+540,saturday,540-15,Rochester,0,5506
+540,saturday,540-16,Rochester,0,5506
+540,saturday,540-17,Rochester,0,5506
+540,saturday,540-18,Rochester,0,5506
+540,saturday,540-19,Rochester,0,5506
+540,saturday,540-20,Rochester,0,5506
+540,saturday,540-21,Rochester,0,5506
+540,saturday,540-22,Rochester,0,5506
+540,saturday,540-23,Rochester,0,5506
+540,saturday,540-24,Rochester,0,5506
+540,saturday,540-25,Rochester,0,5506
+540,saturday,540-26,Rochester,0,5506
+540,saturday,540-27,Rochester,0,5506
+540,saturday,540-28,Rochester,0,5506
+540,saturday,540-29,Pontiac Nexus,1,5504
+540,saturday,540-30,Pontiac Nexus,1,5504
+540,saturday,540-31,Pontiac Nexus,1,5504
+540,saturday,540-32,Pontiac Nexus,1,5504
+540,saturday,540-33,Pontiac Nexus,1,5504
+540,saturday,540-34,Pontiac Nexus,1,5504
+540,saturday,540-35,Pontiac Nexus,1,5504
+540,saturday,540-36,Pontiac Nexus,1,5504
+540,saturday,540-37,Pontiac Nexus,1,5504
+540,saturday,540-38,Pontiac Nexus,1,5504
+540,saturday,540-39,Pontiac Nexus,1,5504
+540,saturday,540-40,Pontiac Nexus,1,5504
+540,saturday,540-41,Pontiac Nexus,1,5504
+540,saturday,540-42,Pontiac Nexus,1,5504
+540,saturday,540-43,Pontiac Nexus,1,5504
+540,saturday,540-44,Pontiac Nexus,1,5504
+540,saturday,540-45,Pontiac Nexus,1,5504
+540,saturday,540-46,Pontiac Nexus,1,5504
+540,saturday,540-47,Pontiac Nexus,1,5504
+540,saturday,540-48,Pontiac Nexus,1,5504
+540,saturday,540-49,Pontiac Nexus,1,5504
+540,saturday,540-50,Pontiac Nexus,1,5504
+540,saturday,540-51,Pontiac Nexus,1,5504
+540,saturday,540-52,Pontiac Nexus,1,5504
+540,saturday,540-53,Pontiac Nexus,1,5504
+540,saturday,540-54,Pontiac Nexus,1,5504
+540,saturday,540-55,Pontiac Nexus,1,5504
+540,saturday,540-56,Pontiac Nexus,1,5504
+540,saturday,540-57,Pontiac Nexus,1,5504
+540,sunday,540-58,Rochester,0,5506
+540,sunday,540-59,Rochester,0,5506
+540,sunday,540-60,Rochester,0,5506
+540,sunday,540-61,Rochester,0,5506
+540,sunday,540-62,Rochester,0,5506
+540,sunday,540-63,Rochester,0,5506
+540,sunday,540-64,Rochester,0,5506
+540,sunday,540-65,Rochester,0,5506
+540,sunday,540-66,Rochester,0,5506
+540,sunday,540-67,Rochester,0,5506
+540,sunday,540-68,Rochester,0,5506
+540,sunday,540-69,Rochester,0,5506
+540,sunday,540-70,Rochester,0,5506
+540,sunday,540-71,Rochester,0,5506
+540,sunday,540-72,Rochester,0,5506
+540,sunday,540-73,Rochester,0,5506
+540,sunday,540-74,Rochester,0,5506
+540,sunday,540-75,Rochester,0,5506
+540,sunday,540-76,Pontiac Nexus,1,5504
+540,sunday,540-77,Pontiac Nexus,1,5504
+540,sunday,540-78,Pontiac Nexus,1,5504
+540,sunday,540-79,Pontiac Nexus,1,5504
+540,sunday,540-80,Pontiac Nexus,1,5504
+540,sunday,540-81,Pontiac Nexus,1,5504
+540,sunday,540-82,Pontiac Nexus,1,5504
+540,sunday,540-83,Pontiac Nexus,1,5504
+540,sunday,540-84,Pontiac Nexus,1,5504
+540,sunday,540-85,Pontiac Nexus,1,5504
+540,sunday,540-86,Pontiac Nexus,1,5504
+540,sunday,540-87,Pontiac Nexus,1,5504
+540,sunday,540-88,Pontiac Nexus,1,5504
+540,sunday,540-89,Pontiac Nexus,1,5504
+540,sunday,540-90,Pontiac Nexus,1,5504
+540,sunday,540-91,Pontiac Nexus,1,5504
+540,sunday,540-92,Pontiac Nexus,1,5504
+540,sunday,540-93,Pontiac Nexus,1,5504
+540,weekday,540-94,Rochester,0,5506
+540,weekday,540-95,Rochester,0,5506
+540,weekday,540-96,Rochester,0,5506
+540,weekday,540-97,Rochester,0,5506
+540,weekday,540-98,Rochester,0,5506
+540,weekday,540-99,Rochester,0,5506
+540,weekday,540-100,Rochester,0,5506
+540,weekday,540-101,Rochester,0,5506
+540,weekday,540-102,Rochester,0,5506
+540,weekday,540-103,Rochester,0,5506
+540,weekday,540-104,Rochester,0,5506
+540,weekday,540-105,Rochester,0,5506
+540,weekday,540-106,Rochester,0,5506
+540,weekday,540-107,Rochester,0,5506
+540,weekday,540-108,Rochester,0,5506
+540,weekday,540-109,Rochester,0,5506
+540,weekday,540-110,Rochester,0,5506
+540,weekday,540-111,Rochester,0,5506
+540,weekday,540-112,Rochester,0,5506
+540,weekday,540-113,Rochester,0,5506
+540,weekday,540-114,Rochester,0,5506
+540,weekday,540-115,Rochester,0,5506
+540,weekday,540-116,Rochester,0,5506
+540,weekday,540-117,Rochester,0,5506
+540,weekday,540-118,Rochester,0,5506
+540,weekday,540-119,Rochester,0,5506
+540,weekday,540-120,Rochester,0,5506
+540,weekday,540-121,Rochester,0,5506
+540,weekday,540-122,Rochester,0,5506
+540,weekday,540-123,Rochester,0,5506
+540,weekday,540-124,Rochester,0,5506
+540,weekday,540-125,Rochester,0,5506
+540,weekday,540-126,Rochester,0,5506
+540,weekday,540-127,Rochester,0,5506
+540,weekday,540-128,Rochester,0,5506
+540,weekday,540-129,Rochester,0,5506
+540,weekday,540-130,Rochester,0,5506
+540,weekday,540-131,Rochester,0,5506
+540,weekday,540-132,Rochester,0,5506
+540,weekday,540-133,Rochester,0,5506
+540,weekday,540-134,Rochester,0,5506
+540,weekday,540-135,Rochester,0,5506
+540,weekday,540-136,Rochester,0,5506
+540,weekday,540-137,Rochester,0,5506
+540,weekday,540-138,Pontiac Nexus,1,5504
+540,weekday,540-139,Pontiac Nexus,1,5504
+540,weekday,540-140,Pontiac Nexus,1,5504
+540,weekday,540-141,Pontiac Nexus,1,5504
+540,weekday,540-142,Pontiac Nexus,1,5504
+540,weekday,540-143,Pontiac Nexus,1,5504
+540,weekday,540-144,Pontiac Nexus,1,5504
+540,weekday,540-145,Pontiac Nexus,1,5504
+540,weekday,540-146,Pontiac Nexus,1,5504
+540,weekday,540-147,Pontiac Nexus,1,5504
+540,weekday,540-148,Pontiac Nexus,1,5504
+540,weekday,540-149,Pontiac Nexus,1,5504
+540,weekday,540-150,Pontiac Nexus,1,5504
+540,weekday,540-151,Pontiac Nexus,1,5504
+540,weekday,540-152,Pontiac Nexus,1,5504
+540,weekday,540-153,Pontiac Nexus,1,5504
+540,weekday,540-154,Pontiac Nexus,1,5504
+540,weekday,540-155,Pontiac Nexus,1,5504
+540,weekday,540-156,Pontiac Nexus,1,5504
+540,weekday,540-157,Pontiac Nexus,1,5504
+540,weekday,540-158,Pontiac Nexus,1,5504
+540,weekday,540-159,Pontiac Nexus,1,5504
+540,weekday,540-160,Pontiac Nexus,1,5504
+540,weekday,540-161,Pontiac Nexus,1,5504
+540,weekday,540-162,Pontiac Nexus,1,5504
+540,weekday,540-163,Pontiac Nexus,1,5504
+540,weekday,540-164,Pontiac Nexus,1,5504
+540,weekday,540-165,Pontiac Nexus,1,5504
+540,weekday,540-166,Pontiac Nexus,1,5504
+540,weekday,540-167,Pontiac Nexus,1,5504
+540,weekday,540-168,Pontiac Nexus,1,5504
+540,weekday,540-169,Pontiac Nexus,1,5504
+540,weekday,540-170,Pontiac Nexus,1,5504
+540,weekday,540-171,Pontiac Nexus,1,5504
+540,weekday,540-172,Pontiac Nexus,1,5504
+540,weekday,540-173,Pontiac Nexus,1,5504
+540,weekday,540-174,Pontiac Nexus,1,5504
+540,weekday,540-175,Pontiac Nexus,1,5504
+540,weekday,540-176,Pontiac Nexus,1,5504
+540,weekday,540-177,Pontiac Nexus,1,5504
+540,weekday,540-178,Pontiac Nexus,1,5504
+540,weekday,540-179,Pontiac Nexus,1,5504
+540,weekday,540-180,Pontiac Nexus,1,5504

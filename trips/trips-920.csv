@@ -1,0 +1,145 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+920,saturday,920-1,Grand River / Farmington,0,9206
+920,saturday,920-2,Grand River / Farmington,0,9206
+920,saturday,920-3,Grand River / Farmington,0,9206
+920,saturday,920-4,Grand River / Farmington,0,9206
+920,saturday,920-5,Grand River / Farmington,0,9206
+920,saturday,920-6,Grand River / Farmington,0,9206
+920,saturday,920-7,Grand River / Farmington,0,9206
+920,saturday,920-8,Grand River / Farmington,0,9206
+920,saturday,920-9,Grand River / Farmington,0,9206
+920,saturday,920-10,Grand River / Farmington,0,9206
+920,saturday,920-11,Grand River / Farmington,0,9206
+920,saturday,920-12,Grand River / Farmington,0,9206
+920,saturday,920-13,Grand River / Farmington,0,9206
+920,saturday,920-14,Grand River / Farmington,0,9206
+920,saturday,920-15,Grand River / Farmington,0,9206
+920,saturday,920-16,Grand River / Farmington,0,9206
+920,saturday,920-17,Grand River / Farmington,0,9206
+920,saturday,920-18,Grand River / Farmington,0,9206
+920,saturday,920-19,Grand River / Farmington,0,9206
+920,saturday,920-20,Grand River / Farmington,0,9206
+920,saturday,920-21,Grand River / Farmington,0,9206
+920,saturday,920-22,Grand River / Farmington,0,9206
+920,saturday,920-23,Brighton,1,9204
+920,saturday,920-24,Brighton,1,9204
+920,saturday,920-25,Brighton,1,9204
+920,saturday,920-26,Brighton,1,9204
+920,saturday,920-27,Brighton,1,9204
+920,saturday,920-28,Brighton,1,9204
+920,saturday,920-29,Brighton,1,9204
+920,saturday,920-30,Brighton,1,9204
+920,saturday,920-31,Brighton,1,9204
+920,saturday,920-32,Brighton,1,9204
+920,saturday,920-33,Brighton,1,9204
+920,saturday,920-34,Brighton,1,9204
+920,saturday,920-35,Brighton,1,9204
+920,saturday,920-36,Brighton,1,9204
+920,saturday,920-37,Brighton,1,9204
+920,saturday,920-38,Brighton,1,9204
+920,saturday,920-39,Brighton,1,9204
+920,saturday,920-40,Brighton,1,9204
+920,saturday,920-41,Brighton,1,9204
+920,saturday,920-42,Brighton,1,9204
+920,saturday,920-43,Brighton,1,9204
+920,saturday,920-44,Brighton,1,9204
+920,sunday,920-45,Grand River / Farmington,0,9206
+920,sunday,920-46,Grand River / Farmington,0,9206
+920,sunday,920-47,Grand River / Farmington,0,9206
+920,sunday,920-48,Grand River / Farmington,0,9206
+920,sunday,920-49,Grand River / Farmington,0,9206
+920,sunday,920-50,Grand River / Farmington,0,9206
+920,sunday,920-51,Grand River / Farmington,0,9206
+920,sunday,920-52,Grand River / Farmington,0,9206
+920,sunday,920-53,Grand River / Farmington,0,9206
+920,sunday,920-54,Grand River / Farmington,0,9206
+920,sunday,920-55,Grand River / Farmington,0,9206
+920,sunday,920-56,Grand River / Farmington,0,9206
+920,sunday,920-57,Grand River / Farmington,0,9206
+920,sunday,920-58,Grand River / Farmington,0,9206
+920,sunday,920-59,Grand River / Farmington,0,9206
+920,sunday,920-60,Grand River / Farmington,0,9206
+920,sunday,920-61,Grand River / Farmington,0,9206
+920,sunday,920-62,Brighton,1,9204
+920,sunday,920-63,Brighton,1,9204
+920,sunday,920-64,Brighton,1,9204
+920,sunday,920-65,Brighton,1,9204
+920,sunday,920-66,Brighton,1,9204
+920,sunday,920-67,Brighton,1,9204
+920,sunday,920-68,Brighton,1,9204
+920,sunday,920-69,Brighton,1,9204
+920,sunday,920-70,Brighton,1,9204
+920,sunday,920-71,Brighton,1,9204
+920,sunday,920-72,Brighton,1,9204
+920,sunday,920-73,Brighton,1,9204
+920,sunday,920-74,Brighton,1,9204
+920,sunday,920-75,Brighton,1,9204
+920,sunday,920-76,Brighton,1,9204
+920,sunday,920-77,Brighton,1,9204
+920,sunday,920-78,Brighton,1,9204
+920,weekday,920-79,Grand River / Farmington,0,9206
+920,weekday,920-80,Grand River / Farmington,0,9206
+920,weekday,920-81,Grand River / Farmington,0,9206
+920,weekday,920-82,Grand River / Farmington,0,9206
+920,weekday,920-83,Grand River / Farmington,0,9206
+920,weekday,920-84,Grand River / Farmington,0,9206
+920,weekday,920-85,Grand River / Farmington,0,9206
+920,weekday,920-86,Grand River / Farmington,0,9206
+920,weekday,920-87,Grand River / Farmington,0,9206
+920,weekday,920-88,Grand River / Farmington,0,9206
+920,weekday,920-89,Grand River / Farmington,0,9206
+920,weekday,920-90,Grand River / Farmington,0,9206
+920,weekday,920-91,Grand River / Farmington,0,9206
+920,weekday,920-92,Grand River / Farmington,0,9206
+920,weekday,920-93,Grand River / Farmington,0,9206
+920,weekday,920-94,Grand River / Farmington,0,9206
+920,weekday,920-95,Grand River / Farmington,0,9206
+920,weekday,920-96,Grand River / Farmington,0,9206
+920,weekday,920-97,Grand River / Farmington,0,9206
+920,weekday,920-98,Grand River / Farmington,0,9206
+920,weekday,920-99,Grand River / Farmington,0,9206
+920,weekday,920-100,Grand River / Farmington,0,9206
+920,weekday,920-101,Grand River / Farmington,0,9206
+920,weekday,920-102,Grand River / Farmington,0,9206
+920,weekday,920-103,Grand River / Farmington,0,9206
+920,weekday,920-104,Grand River / Farmington,0,9206
+920,weekday,920-105,Grand River / Farmington,0,9206
+920,weekday,920-106,Grand River / Farmington,0,9206
+920,weekday,920-107,Grand River / Farmington,0,9206
+920,weekday,920-108,Grand River / Farmington,0,9206
+920,weekday,920-109,Grand River / Farmington,0,9206
+920,weekday,920-110,Grand River / Farmington,0,9206
+920,weekday,920-111,Grand River / Farmington,0,9206
+920,weekday,920-112,Brighton,1,9204
+920,weekday,920-113,Brighton,1,9204
+920,weekday,920-114,Brighton,1,9204
+920,weekday,920-115,Brighton,1,9204
+920,weekday,920-116,Brighton,1,9204
+920,weekday,920-117,Brighton,1,9204
+920,weekday,920-118,Brighton,1,9204
+920,weekday,920-119,Brighton,1,9204
+920,weekday,920-120,Brighton,1,9204
+920,weekday,920-121,Brighton,1,9204
+920,weekday,920-122,Brighton,1,9204
+920,weekday,920-123,Brighton,1,9204
+920,weekday,920-124,Brighton,1,9204
+920,weekday,920-125,Brighton,1,9204
+920,weekday,920-126,Brighton,1,9204
+920,weekday,920-127,Brighton,1,9204
+920,weekday,920-128,Brighton,1,9204
+920,weekday,920-129,Brighton,1,9204
+920,weekday,920-130,Brighton,1,9204
+920,weekday,920-131,Brighton,1,9204
+920,weekday,920-132,Brighton,1,9204
+920,weekday,920-133,Brighton,1,9204
+920,weekday,920-134,Brighton,1,9204
+920,weekday,920-135,Brighton,1,9204
+920,weekday,920-136,Brighton,1,9204
+920,weekday,920-137,Brighton,1,9204
+920,weekday,920-138,Brighton,1,9204
+920,weekday,920-139,Brighton,1,9204
+920,weekday,920-140,Brighton,1,9204
+920,weekday,920-141,Brighton,1,9204
+920,weekday,920-142,Brighton,1,9204
+920,weekday,920-143,Brighton,1,9204
+920,weekday,920-144,Brighton,1,9204

@@ -1,0 +1,134 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+539,saturday,539-1,Target Park & Ride,0,5398
+539,saturday,539-2,Target Park & Ride,0,5398
+539,saturday,539-3,Target Park & Ride,0,5398
+539,saturday,539-4,Target Park & Ride,0,5398
+539,saturday,539-5,Target Park & Ride,0,5398
+539,saturday,539-6,Target Park & Ride,0,5398
+539,saturday,539-7,Target Park & Ride,0,5398
+539,saturday,539-8,Target Park & Ride,0,5398
+539,saturday,539-9,Target Park & Ride,0,5398
+539,saturday,539-10,Target Park & Ride,0,5398
+539,saturday,539-11,Target Park & Ride,0,5398
+539,saturday,539-12,Target Park & Ride,0,5398
+539,saturday,539-13,Target Park & Ride,0,5398
+539,saturday,539-14,Target Park & Ride,0,5398
+539,saturday,539-15,Target Park & Ride,0,5398
+539,saturday,539-16,Target Park & Ride,0,5398
+539,saturday,539-17,Target Park & Ride,0,5398
+539,saturday,539-18,Target Park & Ride,0,5398
+539,saturday,539-19,Target Park & Ride,0,5398
+539,saturday,539-20,Target Park & Ride,0,5398
+539,saturday,539-21,Target Park & Ride,0,5398
+539,saturday,539-22,Target Park & Ride,0,5398
+539,saturday,539-23,Manchester / Hamilton,1,5392
+539,saturday,539-24,Manchester / Hamilton,1,5392
+539,saturday,539-25,Manchester / Hamilton,1,5392
+539,saturday,539-26,Manchester / Hamilton,1,5392
+539,saturday,539-27,Manchester / Hamilton,1,5392
+539,saturday,539-28,Manchester / Hamilton,1,5392
+539,saturday,539-29,Manchester / Hamilton,1,5392
+539,saturday,539-30,Manchester / Hamilton,1,5392
+539,saturday,539-31,Manchester / Hamilton,1,5392
+539,saturday,539-32,Manchester / Hamilton,1,5392
+539,saturday,539-33,Manchester / Hamilton,1,5392
+539,saturday,539-34,Manchester / Hamilton,1,5392
+539,saturday,539-35,Manchester / Hamilton,1,5392
+539,saturday,539-36,Manchester / Hamilton,1,5392
+539,saturday,539-37,Manchester / Hamilton,1,5392
+539,saturday,539-38,Manchester / Hamilton,1,5392
+539,saturday,539-39,Manchester / Hamilton,1,5392
+539,saturday,539-40,Manchester / Hamilton,1,5392
+539,saturday,539-41,Manchester / Hamilton,1,5392
+539,saturday,539-42,Manchester / Hamilton,1,5392
+539,saturday,539-43,Manchester / Hamilton,1,5392
+539,saturday,539-44,Manchester / Hamilton,1,5392
+539,weekday,539-45,Target Park & Ride,0,5398
+539,weekday,539-46,Target Park & Ride,0,5398
+539,weekday,539-47,Target Park & Ride,0,5398
+539,weekday,539-48,Target Park & Ride,0,5398
+539,weekday,539-49,Target Park & Ride,0,5398
+539,weekday,539-50,Target Park & Ride,0,5398
+539,weekday,539-51,Target Park & Ride,0,5398
+539,weekday,539-52,Target Park & Ride,0,5398
+539,weekday,539-53,Target Park & Ride,0,5398
+539,weekday,539-54,Target Park & Ride,0,5398
+539,weekday,539-55,Target Park & Ride,0,5398
+539,weekday,539-56,Target Park & Ride,0,5398
+539,weekday,539-57,Target Park & Ride,0,5398
+539,weekday,539-58,Target Park & Ride,0,5398
+539,weekday,539-59,Target Park & Ride,0,5398
+539,weekday,539-60,Target Park & Ride,0,5398
+539,weekday,539-61,Target Park & Ride,0,5398
+539,weekday,539-62,Target Park & Ride,0,5398
+539,weekday,539-63,Target Park & Ride,0,5398
+539,weekday,539-64,Target Park & Ride,0,5398
+539,weekday,539-65,Target Park & Ride,0,5398
+539,weekday,539-66,Target Park & Ride,0,5398
+539,weekday,539-67,Target Park & Ride,0,5398
+539,weekday,539-68,Target Park & Ride,0,5398
+539,weekday,539-69,Target Park & Ride,0,5398
+539,weekday,539-70,Target Park & Ride,0,5398
+539,weekday,539-71,Target Park & Ride,0,5398
+539,weekday,539-72,Target Park & Ride,0,5398
+539,weekday,539-73,Target Park & Ride,0,5398
+539,weekday,539-74,Target Park & Ride,0,5398
+539,weekday,539-75,Target Park & Ride,0,5398
+539,weekday,539-76,Target Park & Ride,0,5398
+539,weekday,539-77,Target Park & Ride,0,5398
+539,weekday,539-78,Target Park & Ride,0,5398
+539,weekday,539-79,Target Park & Ride,0,5398
+539,weekday,539-80,Target Park & Ride,0,5398
+539,weekday,539-81,Target Park & Ride,0,5398
+539,weekday,539-82,Target Park & Ride,0,5398
+539,weekday,539-83,Target Park & Ride,0,5398
+539,weekday,539-84,Target Park & Ride,0,5398
+539,weekday,539-85,Target Park & Ride,0,5398
+539,weekday,539-86,Target Park & Ride,0,5398
+539,weekday,539-87,Target Park & Ride,0,5398
+539,weekday,539-88,Target Park & Ride,0,5398
+539,weekday,539-89,Target Park & Ride,0,5398
+539,weekday,539-90,Manchester / Hamilton,1,5392
+539,weekday,539-91,Manchester / Hamilton,1,5392
+539,weekday,539-92,Manchester / Hamilton,1,5392
+539,weekday,539-93,Manchester / Hamilton,1,5392
+539,weekday,539-94,Manchester / Hamilton,1,5392
+539,weekday,539-95,Manchester / Hamilton,1,5392
+539,weekday,539-96,Manchester / Hamilton,1,5392
+539,weekday,539-97,Manchester / Hamilton,1,5392
+539,weekday,539-98,Manchester / Hamilton,1,5392
+539,weekday,539-99,Manchester / Hamilton,1,5392
+539,weekday,539-100,Manchester / Hamilton,1,5392
+539,weekday,539-101,Manchester / Hamilton,1,5392
+539,weekday,539-102,Manchester / Hamilton,1,5392
+539,weekday,539-103,Manchester / Hamilton,1,5392
+539,weekday,539-104,Manchester / Hamilton,1,5392
+539,weekday,539-105,Manchester / Hamilton,1,5392
+539,weekday,539-106,Manchester / Hamilton,1,5392
+539,weekday,539-107,Manchester / Hamilton,1,5392
+539,weekday,539-108,Manchester / Hamilton,1,5392
+539,weekday,539-109,Manchester / Hamilton,1,5392
+539,weekday,539-110,Manchester / Hamilton,1,5392
+539,weekday,539-111,Manchester / Hamilton,1,5392
+539,weekday,539-112,Manchester / Hamilton,1,5392
+539,weekday,539-113,Manchester / Hamilton,1,5392
+539,weekday,539-114,Manchester / Hamilton,1,5392
+539,weekday,539-115,Manchester / Hamilton,1,5392
+539,weekday,539-116,Manchester / Hamilton,1,5392
+539,weekday,539-117,Manchester / Hamilton,1,5392
+539,weekday,539-118,Manchester / Hamilton,1,5392
+539,weekday,539-119,Manchester / Hamilton,1,5392
+539,weekday,539-120,Manchester / Hamilton,1,5392
+539,weekday,539-121,Manchester / Hamilton,1,5392
+539,weekday,539-122,Manchester / Hamilton,1,5392
+539,weekday,539-123,Manchester / Hamilton,1,5392
+539,weekday,539-124,Manchester / Hamilton,1,5392
+539,weekday,539-125,Manchester / Hamilton,1,5392
+539,weekday,539-126,Manchester / Hamilton,1,5392
+539,weekday,539-127,Manchester / Hamilton,1,5392
+539,weekday,539-128,Manchester / Hamilton,1,5392
+539,weekday,539-129,Manchester / Hamilton,1,5392
+539,weekday,539-130,Manchester / Hamilton,1,5392
+539,weekday,539-131,Manchester / Hamilton,1,5392
+539,weekday,539-132,Manchester / Hamilton,1,5392
+539,weekday,539-133,Manchester / Hamilton,1,5392

@@ -1,0 +1,324 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+063,saturday,063-1,Troy Nexus EB,0,0637
+063,saturday,063-2,Troy Nexus EB,0,0637
+063,saturday,063-3,Troy Nexus EB,0,0637
+063,saturday,063-4,Troy Nexus WB,0,0638
+063,saturday,063-5,Troy Nexus WB,0,0638
+063,saturday,063-6,Troy Nexus WB,0,0638
+063,saturday,063-7,Troy Nexus WB,0,0638
+063,saturday,063-8,Troy Nexus WB,0,0638
+063,saturday,063-9,Troy Nexus WB,0,0638
+063,saturday,063-10,Troy Nexus WB,0,0638
+063,saturday,063-11,Troy Nexus WB,0,0638
+063,saturday,063-12,Troy Nexus WB,0,0638
+063,saturday,063-13,Troy Nexus WB,0,0638
+063,saturday,063-14,Troy Nexus WB,0,0638
+063,saturday,063-15,Troy Nexus WB,0,0638
+063,saturday,063-16,Troy Nexus WB,0,0638
+063,saturday,063-17,Troy Nexus WB,0,0638
+063,saturday,063-18,Troy Nexus WB,0,0638
+063,saturday,063-19,Troy Nexus WB,0,0638
+063,saturday,063-20,Troy Nexus WB,0,0638
+063,saturday,063-21,Troy Nexus WB,0,0638
+063,saturday,063-22,Troy Nexus WB,0,0638
+063,saturday,063-23,Troy Nexus WB,0,0638
+063,saturday,063-24,Troy Nexus WB,0,0638
+063,saturday,063-25,Troy Nexus WB,0,0638
+063,saturday,063-26,Troy Nexus WB,0,0638
+063,saturday,063-27,Troy Nexus WB,0,0638
+063,saturday,063-28,Troy Nexus WB,0,0638
+063,saturday,063-29,Troy Nexus WB,0,0638
+063,saturday,063-30,Troy Nexus WB,0,0638
+063,saturday,063-31,Troy Nexus WB,0,0638
+063,saturday,063-32,Troy Nexus WB,0,0638
+063,saturday,063-33,Troy Nexus WB,0,0638
+063,saturday,063-34,Troy Nexus WB,0,0638
+063,saturday,063-35,Troy Nexus WB,0,0638
+063,saturday,063-36,Troy Nexus WB,0,0638
+063,saturday,063-37,Troy Nexus WB,0,0638
+063,saturday,063-38,Troy Nexus WB,0,0638
+063,saturday,063-39,Troy Nexus WB,0,0638
+063,saturday,063-40,Troy Nexus WB,0,0638
+063,saturday,063-41,Troy Nexus WB,0,0638
+063,saturday,063-42,Troy Nexus WB,0,0638
+063,saturday,063-43,Troy Nexus WB,0,0638
+063,saturday,063-44,Troy Nexus EB,0,0637
+063,saturday,063-45,Troy Nexus EB,0,0637
+063,saturday,063-46,Troy Nexus EB,0,0637
+063,saturday,063-47,Troy Nexus EB,0,0637
+063,saturday,063-48,Troy Nexus EB,0,0637
+063,saturday,063-49,Troy Nexus EB,0,0637
+063,saturday,063-50,Troy Nexus EB,0,0637
+063,saturday,063-51,Troy Nexus EB,0,0637
+063,saturday,063-52,Troy Nexus EB,0,0637
+063,saturday,063-53,Dearborn Nexus,1,0632
+063,saturday,063-54,Dearborn Nexus,1,0632
+063,saturday,063-55,Dearborn Nexus,1,0632
+063,saturday,063-56,Dearborn Nexus,1,0632
+063,saturday,063-57,Dearborn Nexus,1,0632
+063,saturday,063-58,Dearborn Nexus,1,0632
+063,saturday,063-59,Dearborn Nexus,1,0632
+063,saturday,063-60,Dearborn Nexus,1,0632
+063,saturday,063-61,Dearborn Nexus,1,0632
+063,saturday,063-62,Dearborn Nexus,1,0632
+063,saturday,063-63,Dearborn Nexus,1,0632
+063,saturday,063-64,Dearborn Nexus,1,0632
+063,saturday,063-65,Dearborn Nexus,1,0632
+063,saturday,063-66,Dearborn Nexus,1,0632
+063,saturday,063-67,Dearborn Nexus,1,0632
+063,saturday,063-68,Dearborn Nexus,1,0632
+063,saturday,063-69,Dearborn Nexus,1,0632
+063,saturday,063-70,Dearborn Nexus,1,0632
+063,saturday,063-71,Dearborn Nexus,1,0632
+063,saturday,063-72,Dearborn Nexus,1,0632
+063,saturday,063-73,Dearborn Nexus,1,0632
+063,saturday,063-74,Dearborn Nexus,1,0632
+063,saturday,063-75,Dearborn Nexus,1,0632
+063,saturday,063-76,Dearborn Nexus,1,0632
+063,saturday,063-77,Dearborn Nexus,1,0632
+063,saturday,063-78,Dearborn Nexus,1,0632
+063,saturday,063-79,Dearborn Nexus,1,0632
+063,saturday,063-80,Dearborn Nexus,1,0632
+063,saturday,063-81,Dearborn Nexus,1,0632
+063,saturday,063-82,Dearborn Nexus,1,0632
+063,saturday,063-83,Dearborn Nexus,1,0632
+063,saturday,063-84,Dearborn Nexus,1,0632
+063,saturday,063-85,Dearborn Nexus,1,0632
+063,saturday,063-86,Dearborn Nexus,1,0632
+063,saturday,063-87,Dearborn Nexus,1,0632
+063,saturday,063-88,Dearborn Nexus,1,0632
+063,saturday,063-89,Dearborn Nexus,1,0632
+063,saturday,063-90,Dearborn Nexus,1,0632
+063,saturday,063-91,Dearborn Nexus,1,0632
+063,saturday,063-92,Dearborn Nexus,1,0632
+063,saturday,063-93,Dearborn Nexus,1,0632
+063,saturday,063-94,Dearborn Nexus,1,0632
+063,saturday,063-95,Dearborn Nexus,1,0632
+063,saturday,063-96,Dearborn Nexus,1,0632
+063,saturday,063-97,Dearborn Nexus,1,0632
+063,saturday,063-98,Dearborn Nexus,1,0632
+063,saturday,063-99,Dearborn Nexus,1,0632
+063,saturday,063-100,Dearborn Nexus,1,0632
+063,saturday,063-101,Dearborn Nexus,1,0632
+063,saturday,063-102,Dearborn Nexus,1,0632
+063,saturday,063-103,Dearborn Nexus,1,0632
+063,sunday,063-104,Troy Nexus EB,0,0637
+063,sunday,063-105,Troy Nexus EB,0,0637
+063,sunday,063-106,Troy Nexus EB,0,0637
+063,sunday,063-107,Troy Nexus WB,0,0638
+063,sunday,063-108,Troy Nexus WB,0,0638
+063,sunday,063-109,Troy Nexus WB,0,0638
+063,sunday,063-110,Troy Nexus WB,0,0638
+063,sunday,063-111,Troy Nexus WB,0,0638
+063,sunday,063-112,Troy Nexus WB,0,0638
+063,sunday,063-113,Troy Nexus WB,0,0638
+063,sunday,063-114,Troy Nexus WB,0,0638
+063,sunday,063-115,Troy Nexus WB,0,0638
+063,sunday,063-116,Troy Nexus WB,0,0638
+063,sunday,063-117,Troy Nexus WB,0,0638
+063,sunday,063-118,Troy Nexus WB,0,0638
+063,sunday,063-119,Troy Nexus WB,0,0638
+063,sunday,063-120,Troy Nexus WB,0,0638
+063,sunday,063-121,Troy Nexus WB,0,0638
+063,sunday,063-122,Troy Nexus WB,0,0638
+063,sunday,063-123,Troy Nexus WB,0,0638
+063,sunday,063-124,Troy Nexus WB,0,0638
+063,sunday,063-125,Troy Nexus WB,0,0638
+063,sunday,063-126,Troy Nexus WB,0,0638
+063,sunday,063-127,Troy Nexus WB,0,0638
+063,sunday,063-128,Troy Nexus WB,0,0638
+063,sunday,063-129,Troy Nexus WB,0,0638
+063,sunday,063-130,Troy Nexus WB,0,0638
+063,sunday,063-131,Troy Nexus EB,0,0637
+063,sunday,063-132,Troy Nexus EB,0,0637
+063,sunday,063-133,Troy Nexus EB,0,0637
+063,sunday,063-134,Troy Nexus EB,0,0637
+063,sunday,063-135,Troy Nexus EB,0,0637
+063,sunday,063-136,Troy Nexus EB,0,0637
+063,sunday,063-137,Troy Nexus EB,0,0637
+063,sunday,063-138,Troy Nexus EB,0,0637
+063,sunday,063-139,Troy Nexus EB,0,0637
+063,sunday,063-140,Troy Nexus EB,0,0637
+063,sunday,063-141,Troy Nexus EB,0,0637
+063,sunday,063-142,Dearborn Nexus,1,0632
+063,sunday,063-143,Dearborn Nexus,1,0632
+063,sunday,063-144,Dearborn Nexus,1,0632
+063,sunday,063-145,Dearborn Nexus,1,0632
+063,sunday,063-146,Dearborn Nexus,1,0632
+063,sunday,063-147,Dearborn Nexus,1,0632
+063,sunday,063-148,Dearborn Nexus,1,0632
+063,sunday,063-149,Dearborn Nexus,1,0632
+063,sunday,063-150,Dearborn Nexus,1,0632
+063,sunday,063-151,Dearborn Nexus,1,0632
+063,sunday,063-152,Dearborn Nexus,1,0632
+063,sunday,063-153,Dearborn Nexus,1,0632
+063,sunday,063-154,Dearborn Nexus,1,0632
+063,sunday,063-155,Dearborn Nexus,1,0632
+063,sunday,063-156,Dearborn Nexus,1,0632
+063,sunday,063-157,Dearborn Nexus,1,0632
+063,sunday,063-158,Dearborn Nexus,1,0632
+063,sunday,063-159,Dearborn Nexus,1,0632
+063,sunday,063-160,Dearborn Nexus,1,0632
+063,sunday,063-161,Dearborn Nexus,1,0632
+063,sunday,063-162,Dearborn Nexus,1,0632
+063,sunday,063-163,Dearborn Nexus,1,0632
+063,sunday,063-164,Dearborn Nexus,1,0632
+063,sunday,063-165,Dearborn Nexus,1,0632
+063,sunday,063-166,Dearborn Nexus,1,0632
+063,sunday,063-167,Dearborn Nexus,1,0632
+063,sunday,063-168,Dearborn Nexus,1,0632
+063,sunday,063-169,Dearborn Nexus,1,0632
+063,sunday,063-170,Dearborn Nexus,1,0632
+063,sunday,063-171,Dearborn Nexus,1,0632
+063,sunday,063-172,Dearborn Nexus,1,0632
+063,sunday,063-173,Dearborn Nexus,1,0632
+063,sunday,063-174,Dearborn Nexus,1,0632
+063,sunday,063-175,Dearborn Nexus,1,0632
+063,sunday,063-176,Dearborn Nexus,1,0632
+063,sunday,063-177,Dearborn Nexus,1,0632
+063,sunday,063-178,Dearborn Nexus,1,0632
+063,sunday,063-179,Dearborn Nexus,1,0632
+063,weekday,063-180,Troy Nexus EB,0,0637
+063,weekday,063-181,Troy Nexus EB,0,0637
+063,weekday,063-182,Troy Nexus EB,0,0637
+063,weekday,063-183,Troy Nexus WB,0,0638
+063,weekday,063-184,Troy Nexus WB,0,0638
+063,weekday,063-185,Troy Nexus WB,0,0638
+063,weekday,063-186,Troy Nexus WB,0,0638
+063,weekday,063-187,Troy Nexus WB,0,0638
+063,weekday,063-188,Troy Nexus WB,0,0638
+063,weekday,063-189,Troy Nexus WB,0,0638
+063,weekday,063-190,Troy Nexus WB,0,0638
+063,weekday,063-191,Troy Nexus WB,0,0638
+063,weekday,063-192,Troy Nexus WB,0,0638
+063,weekday,063-193,Troy Nexus WB,0,0638
+063,weekday,063-194,Troy Nexus WB,0,0638
+063,weekday,063-195,Troy Nexus WB,0,0638
+063,weekday,063-196,Troy Nexus WB,0,0638
+063,weekday,063-197,Troy Nexus WB,0,0638
+063,weekday,063-198,Troy Nexus WB,0,0638
+063,weekday,063-199,Troy Nexus WB,0,0638
+063,weekday,063-200,Troy Nexus WB,0,0638
+063,weekday,063-201,Troy Nexus WB,0,0638
+063,weekday,063-202,Troy Nexus WB,0,0638
+063,weekday,063-203,Troy Nexus WB,0,0638
+063,weekday,063-204,Troy Nexus WB,0,0638
+063,weekday,063-205,Troy Nexus WB,0,0638
+063,weekday,063-206,Troy Nexus WB,0,0638
+063,weekday,063-207,Troy Nexus WB,0,0638
+063,weekday,063-208,Troy Nexus WB,0,0638
+063,weekday,063-209,Troy Nexus WB,0,0638
+063,weekday,063-210,Troy Nexus WB,0,0638
+063,weekday,063-211,Troy Nexus WB,0,0638
+063,weekday,063-212,Troy Nexus WB,0,0638
+063,weekday,063-213,Troy Nexus WB,0,0638
+063,weekday,063-214,Troy Nexus WB,0,0638
+063,weekday,063-215,Troy Nexus WB,0,0638
+063,weekday,063-216,Troy Nexus WB,0,0638
+063,weekday,063-217,Troy Nexus WB,0,0638
+063,weekday,063-218,Troy Nexus WB,0,0638
+063,weekday,063-219,Troy Nexus WB,0,0638
+063,weekday,063-220,Troy Nexus WB,0,0638
+063,weekday,063-221,Troy Nexus WB,0,0638
+063,weekday,063-222,Troy Nexus WB,0,0638
+063,weekday,063-223,Troy Nexus WB,0,0638
+063,weekday,063-224,Troy Nexus WB,0,0638
+063,weekday,063-225,Troy Nexus WB,0,0638
+063,weekday,063-226,Troy Nexus WB,0,0638
+063,weekday,063-227,Troy Nexus WB,0,0638
+063,weekday,063-228,Troy Nexus WB,0,0638
+063,weekday,063-229,Troy Nexus WB,0,0638
+063,weekday,063-230,Troy Nexus WB,0,0638
+063,weekday,063-231,Troy Nexus WB,0,0638
+063,weekday,063-232,Troy Nexus WB,0,0638
+063,weekday,063-233,Troy Nexus WB,0,0638
+063,weekday,063-234,Troy Nexus WB,0,0638
+063,weekday,063-235,Troy Nexus WB,0,0638
+063,weekday,063-236,Troy Nexus WB,0,0638
+063,weekday,063-237,Troy Nexus WB,0,0638
+063,weekday,063-238,Troy Nexus WB,0,0638
+063,weekday,063-239,Troy Nexus WB,0,0638
+063,weekday,063-240,Troy Nexus WB,0,0638
+063,weekday,063-241,Troy Nexus WB,0,0638
+063,weekday,063-242,Troy Nexus WB,0,0638
+063,weekday,063-243,Troy Nexus WB,0,0638
+063,weekday,063-244,Troy Nexus EB,0,0637
+063,weekday,063-245,Troy Nexus EB,0,0637
+063,weekday,063-246,Troy Nexus EB,0,0637
+063,weekday,063-247,Troy Nexus EB,0,0637
+063,weekday,063-248,Troy Nexus EB,0,0637
+063,weekday,063-249,Troy Nexus EB,0,0637
+063,weekday,063-250,Troy Nexus EB,0,0637
+063,weekday,063-251,Troy Nexus EB,0,0637
+063,weekday,063-252,Dearborn Nexus,1,0632
+063,weekday,063-253,Dearborn Nexus,1,0632
+063,weekday,063-254,Dearborn Nexus,1,0632
+063,weekday,063-255,Dearborn Nexus,1,0632
+063,weekday,063-256,Dearborn Nexus,1,0632
+063,weekday,063-257,Dearborn Nexus,1,0632
+063,weekday,063-258,Dearborn Nexus,1,0632
+063,weekday,063-259,Dearborn Nexus,1,0632
+063,weekday,063-260,Dearborn Nexus,1,0632
+063,weekday,063-261,Dearborn Nexus,1,0632
+063,weekday,063-262,Dearborn Nexus,1,0632
+063,weekday,063-263,Dearborn Nexus,1,0632
+063,weekday,063-264,Dearborn Nexus,1,0632
+063,weekday,063-265,Dearborn Nexus,1,0632
+063,weekday,063-266,Dearborn Nexus,1,0632
+063,weekday,063-267,Dearborn Nexus,1,0632
+063,weekday,063-268,Dearborn Nexus,1,0632
+063,weekday,063-269,Dearborn Nexus,1,0632
+063,weekday,063-270,Dearborn Nexus,1,0632
+063,weekday,063-271,Dearborn Nexus,1,0632
+063,weekday,063-272,Dearborn Nexus,1,0632
+063,weekday,063-273,Dearborn Nexus,1,0632
+063,weekday,063-274,Dearborn Nexus,1,0632
+063,weekday,063-275,Dearborn Nexus,1,0632
+063,weekday,063-276,Dearborn Nexus,1,0632
+063,weekday,063-277,Dearborn Nexus,1,0632
+063,weekday,063-278,Dearborn Nexus,1,0632
+063,weekday,063-279,Dearborn Nexus,1,0632
+063,weekday,063-280,Dearborn Nexus,1,0632
+063,weekday,063-281,Dearborn Nexus,1,0632
+063,weekday,063-282,Dearborn Nexus,1,0632
+063,weekday,063-283,Dearborn Nexus,1,0632
+063,weekday,063-284,Dearborn Nexus,1,0632
+063,weekday,063-285,Dearborn Nexus,1,0632
+063,weekday,063-286,Dearborn Nexus,1,0632
+063,weekday,063-287,Dearborn Nexus,1,0632
+063,weekday,063-288,Dearborn Nexus,1,0632
+063,weekday,063-289,Dearborn Nexus,1,0632
+063,weekday,063-290,Dearborn Nexus,1,0632
+063,weekday,063-291,Dearborn Nexus,1,0632
+063,weekday,063-292,Dearborn Nexus,1,0632
+063,weekday,063-293,Dearborn Nexus,1,0632
+063,weekday,063-294,Dearborn Nexus,1,0632
+063,weekday,063-295,Dearborn Nexus,1,0632
+063,weekday,063-296,Dearborn Nexus,1,0632
+063,weekday,063-297,Dearborn Nexus,1,0632
+063,weekday,063-298,Dearborn Nexus,1,0632
+063,weekday,063-299,Dearborn Nexus,1,0632
+063,weekday,063-300,Dearborn Nexus,1,0632
+063,weekday,063-301,Dearborn Nexus,1,0632
+063,weekday,063-302,Dearborn Nexus,1,0632
+063,weekday,063-303,Dearborn Nexus,1,0632
+063,weekday,063-304,Dearborn Nexus,1,0632
+063,weekday,063-305,Dearborn Nexus,1,0632
+063,weekday,063-306,Dearborn Nexus,1,0632
+063,weekday,063-307,Dearborn Nexus,1,0632
+063,weekday,063-308,Dearborn Nexus,1,0632
+063,weekday,063-309,Dearborn Nexus,1,0632
+063,weekday,063-310,Dearborn Nexus,1,0632
+063,weekday,063-311,Dearborn Nexus,1,0632
+063,weekday,063-312,Dearborn Nexus,1,0632
+063,weekday,063-313,Dearborn Nexus,1,0632
+063,weekday,063-314,Dearborn Nexus,1,0632
+063,weekday,063-315,Dearborn Nexus,1,0632
+063,weekday,063-316,Dearborn Nexus,1,0632
+063,weekday,063-317,Dearborn Nexus,1,0632
+063,weekday,063-318,Dearborn Nexus,1,0632
+063,weekday,063-319,Dearborn Nexus,1,0632
+063,weekday,063-320,Dearborn Nexus,1,0632
+063,weekday,063-321,Dearborn Nexus,1,0632
+063,weekday,063-322,Dearborn Nexus,1,0632
+063,weekday,063-323,Dearborn Nexus,1,0632

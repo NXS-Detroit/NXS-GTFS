@@ -1,0 +1,223 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+802,saturday,802-1,Stephenson / 11 Mile,0,8028
+802,saturday,802-2,Stephenson / 11 Mile,0,8028
+802,saturday,802-3,Stephenson / 11 Mile,0,8028
+802,saturday,802-4,Stephenson / 11 Mile,0,8028
+802,saturday,802-5,Stephenson / 11 Mile,0,8028
+802,saturday,802-6,Stephenson / 11 Mile,0,8028
+802,saturday,802-7,Stephenson / 11 Mile,0,8028
+802,saturday,802-8,Stephenson / 11 Mile,0,8028
+802,saturday,802-9,Stephenson / 11 Mile,0,8028
+802,saturday,802-10,Stephenson / 11 Mile,0,8028
+802,saturday,802-11,Stephenson / 11 Mile,0,8028
+802,saturday,802-12,Stephenson / 11 Mile,0,8028
+802,saturday,802-13,Stephenson / 11 Mile,0,8028
+802,saturday,802-14,Stephenson / 11 Mile,0,8028
+802,saturday,802-15,Stephenson / 11 Mile,0,8028
+802,saturday,802-16,Stephenson / 11 Mile,0,8028
+802,saturday,802-17,Stephenson / 11 Mile,0,8028
+802,saturday,802-18,Stephenson / 11 Mile,0,8028
+802,saturday,802-19,Stephenson / 11 Mile,0,8028
+802,saturday,802-20,Stephenson / 11 Mile,0,8028
+802,saturday,802-21,Stephenson / 11 Mile,0,8028
+802,saturday,802-22,Stephenson / 11 Mile,0,8028
+802,saturday,802-23,Stephenson / 11 Mile,0,8028
+802,saturday,802-24,Stephenson / 11 Mile,0,8028
+802,saturday,802-25,Stephenson / 11 Mile,0,8028
+802,saturday,802-26,Stephenson / 11 Mile,0,8028
+802,saturday,802-27,Stephenson / 11 Mile,0,8028
+802,saturday,802-28,Stephenson / 11 Mile,0,8028
+802,saturday,802-29,Stephenson / 11 Mile,0,8028
+802,saturday,802-30,Stephenson / 11 Mile,0,8028
+802,saturday,802-31,Stephenson / 11 Mile,0,8028
+802,saturday,802-32,Stephenson / 11 Mile,0,8028
+802,saturday,802-33,Stephenson / 11 Mile,0,8028
+802,saturday,802-34,Stephenson / 11 Mile,0,8028
+802,saturday,802-35,Stephenson / 11 Mile,0,8028
+802,saturday,802-36,Metro Airport Nexus,1,8022
+802,saturday,802-37,Metro Airport Nexus,1,8022
+802,saturday,802-38,Metro Airport Nexus,1,8022
+802,saturday,802-39,Metro Airport Nexus,1,8022
+802,saturday,802-40,Metro Airport Nexus,1,8022
+802,saturday,802-41,Metro Airport Nexus,1,8022
+802,saturday,802-42,Metro Airport Nexus,1,8022
+802,saturday,802-43,Metro Airport Nexus,1,8022
+802,saturday,802-44,Metro Airport Nexus,1,8022
+802,saturday,802-45,Metro Airport Nexus,1,8022
+802,saturday,802-46,Metro Airport Nexus,1,8022
+802,saturday,802-47,Metro Airport Nexus,1,8022
+802,saturday,802-48,Metro Airport Nexus,1,8022
+802,saturday,802-49,Metro Airport Nexus,1,8022
+802,saturday,802-50,Metro Airport Nexus,1,8022
+802,saturday,802-51,Metro Airport Nexus,1,8022
+802,saturday,802-52,Metro Airport Nexus,1,8022
+802,saturday,802-53,Metro Airport Nexus,1,8022
+802,saturday,802-54,Metro Airport Nexus,1,8022
+802,saturday,802-55,Metro Airport Nexus,1,8022
+802,saturday,802-56,Metro Airport Nexus,1,8022
+802,saturday,802-57,Metro Airport Nexus,1,8022
+802,saturday,802-58,Metro Airport Nexus,1,8022
+802,saturday,802-59,Metro Airport Nexus,1,8022
+802,saturday,802-60,Metro Airport Nexus,1,8022
+802,saturday,802-61,Metro Airport Nexus,1,8022
+802,saturday,802-62,Metro Airport Nexus,1,8022
+802,saturday,802-63,Metro Airport Nexus,1,8022
+802,saturday,802-64,Metro Airport Nexus,1,8022
+802,saturday,802-65,Metro Airport Nexus,1,8022
+802,saturday,802-66,Metro Airport Nexus,1,8022
+802,saturday,802-67,Metro Airport Nexus,1,8022
+802,saturday,802-68,Metro Airport Nexus,1,8022
+802,saturday,802-69,Metro Airport Nexus,1,8022
+802,saturday,802-70,Metro Airport Nexus,1,8022
+802,sunday,802-71,Stephenson / 11 Mile,0,8028
+802,sunday,802-72,Stephenson / 11 Mile,0,8028
+802,sunday,802-73,Stephenson / 11 Mile,0,8028
+802,sunday,802-74,Stephenson / 11 Mile,0,8028
+802,sunday,802-75,Stephenson / 11 Mile,0,8028
+802,sunday,802-76,Stephenson / 11 Mile,0,8028
+802,sunday,802-77,Stephenson / 11 Mile,0,8028
+802,sunday,802-78,Stephenson / 11 Mile,0,8028
+802,sunday,802-79,Stephenson / 11 Mile,0,8028
+802,sunday,802-80,Stephenson / 11 Mile,0,8028
+802,sunday,802-81,Stephenson / 11 Mile,0,8028
+802,sunday,802-82,Stephenson / 11 Mile,0,8028
+802,sunday,802-83,Stephenson / 11 Mile,0,8028
+802,sunday,802-84,Stephenson / 11 Mile,0,8028
+802,sunday,802-85,Stephenson / 11 Mile,0,8028
+802,sunday,802-86,Stephenson / 11 Mile,0,8028
+802,sunday,802-87,Stephenson / 11 Mile,0,8028
+802,sunday,802-88,Stephenson / 11 Mile,0,8028
+802,sunday,802-89,Stephenson / 11 Mile,0,8028
+802,sunday,802-90,Stephenson / 11 Mile,0,8028
+802,sunday,802-91,Stephenson / 11 Mile,0,8028
+802,sunday,802-92,Stephenson / 11 Mile,0,8028
+802,sunday,802-93,Stephenson / 11 Mile,0,8028
+802,sunday,802-94,Stephenson / 11 Mile,0,8028
+802,sunday,802-95,Stephenson / 11 Mile,0,8028
+802,sunday,802-96,Metro Airport Nexus,1,8022
+802,sunday,802-97,Metro Airport Nexus,1,8022
+802,sunday,802-98,Metro Airport Nexus,1,8022
+802,sunday,802-99,Metro Airport Nexus,1,8022
+802,sunday,802-100,Metro Airport Nexus,1,8022
+802,sunday,802-101,Metro Airport Nexus,1,8022
+802,sunday,802-102,Metro Airport Nexus,1,8022
+802,sunday,802-103,Metro Airport Nexus,1,8022
+802,sunday,802-104,Metro Airport Nexus,1,8022
+802,sunday,802-105,Metro Airport Nexus,1,8022
+802,sunday,802-106,Metro Airport Nexus,1,8022
+802,sunday,802-107,Metro Airport Nexus,1,8022
+802,sunday,802-108,Metro Airport Nexus,1,8022
+802,sunday,802-109,Metro Airport Nexus,1,8022
+802,sunday,802-110,Metro Airport Nexus,1,8022
+802,sunday,802-111,Metro Airport Nexus,1,8022
+802,sunday,802-112,Metro Airport Nexus,1,8022
+802,sunday,802-113,Metro Airport Nexus,1,8022
+802,sunday,802-114,Metro Airport Nexus,1,8022
+802,sunday,802-115,Metro Airport Nexus,1,8022
+802,sunday,802-116,Metro Airport Nexus,1,8022
+802,sunday,802-117,Metro Airport Nexus,1,8022
+802,sunday,802-118,Metro Airport Nexus,1,8022
+802,sunday,802-119,Metro Airport Nexus,1,8022
+802,sunday,802-120,Metro Airport Nexus,1,8022
+802,weekday,802-121,Stephenson / 11 Mile,0,8028
+802,weekday,802-122,Stephenson / 11 Mile,0,8028
+802,weekday,802-123,Stephenson / 11 Mile,0,8028
+802,weekday,802-124,Stephenson / 11 Mile,0,8028
+802,weekday,802-125,Stephenson / 11 Mile,0,8028
+802,weekday,802-126,Stephenson / 11 Mile,0,8028
+802,weekday,802-127,Stephenson / 11 Mile,0,8028
+802,weekday,802-128,Stephenson / 11 Mile,0,8028
+802,weekday,802-129,Stephenson / 11 Mile,0,8028
+802,weekday,802-130,Stephenson / 11 Mile,0,8028
+802,weekday,802-131,Stephenson / 11 Mile,0,8028
+802,weekday,802-132,Stephenson / 11 Mile,0,8028
+802,weekday,802-133,Stephenson / 11 Mile,0,8028
+802,weekday,802-134,Stephenson / 11 Mile,0,8028
+802,weekday,802-135,Stephenson / 11 Mile,0,8028
+802,weekday,802-136,Stephenson / 11 Mile,0,8028
+802,weekday,802-137,Stephenson / 11 Mile,0,8028
+802,weekday,802-138,Stephenson / 11 Mile,0,8028
+802,weekday,802-139,Stephenson / 11 Mile,0,8028
+802,weekday,802-140,Stephenson / 11 Mile,0,8028
+802,weekday,802-141,Stephenson / 11 Mile,0,8028
+802,weekday,802-142,Stephenson / 11 Mile,0,8028
+802,weekday,802-143,Stephenson / 11 Mile,0,8028
+802,weekday,802-144,Stephenson / 11 Mile,0,8028
+802,weekday,802-145,Stephenson / 11 Mile,0,8028
+802,weekday,802-146,Stephenson / 11 Mile,0,8028
+802,weekday,802-147,Stephenson / 11 Mile,0,8028
+802,weekday,802-148,Stephenson / 11 Mile,0,8028
+802,weekday,802-149,Stephenson / 11 Mile,0,8028
+802,weekday,802-150,Stephenson / 11 Mile,0,8028
+802,weekday,802-151,Stephenson / 11 Mile,0,8028
+802,weekday,802-152,Stephenson / 11 Mile,0,8028
+802,weekday,802-153,Stephenson / 11 Mile,0,8028
+802,weekday,802-154,Stephenson / 11 Mile,0,8028
+802,weekday,802-155,Stephenson / 11 Mile,0,8028
+802,weekday,802-156,Stephenson / 11 Mile,0,8028
+802,weekday,802-157,Stephenson / 11 Mile,0,8028
+802,weekday,802-158,Stephenson / 11 Mile,0,8028
+802,weekday,802-159,Stephenson / 11 Mile,0,8028
+802,weekday,802-160,Stephenson / 11 Mile,0,8028
+802,weekday,802-161,Stephenson / 11 Mile,0,8028
+802,weekday,802-162,Stephenson / 11 Mile,0,8028
+802,weekday,802-163,Stephenson / 11 Mile,0,8028
+802,weekday,802-164,Stephenson / 11 Mile,0,8028
+802,weekday,802-165,Stephenson / 11 Mile,0,8028
+802,weekday,802-166,Stephenson / 11 Mile,0,8028
+802,weekday,802-167,Stephenson / 11 Mile,0,8028
+802,weekday,802-168,Stephenson / 11 Mile,0,8028
+802,weekday,802-169,Stephenson / 11 Mile,0,8028
+802,weekday,802-170,Stephenson / 11 Mile,0,8028
+802,weekday,802-171,Stephenson / 11 Mile,0,8028
+802,weekday,802-172,Metro Airport Nexus,1,8022
+802,weekday,802-173,Metro Airport Nexus,1,8022
+802,weekday,802-174,Metro Airport Nexus,1,8022
+802,weekday,802-175,Metro Airport Nexus,1,8022
+802,weekday,802-176,Metro Airport Nexus,1,8022
+802,weekday,802-177,Metro Airport Nexus,1,8022
+802,weekday,802-178,Metro Airport Nexus,1,8022
+802,weekday,802-179,Metro Airport Nexus,1,8022
+802,weekday,802-180,Metro Airport Nexus,1,8022
+802,weekday,802-181,Metro Airport Nexus,1,8022
+802,weekday,802-182,Metro Airport Nexus,1,8022
+802,weekday,802-183,Metro Airport Nexus,1,8022
+802,weekday,802-184,Metro Airport Nexus,1,8022
+802,weekday,802-185,Metro Airport Nexus,1,8022
+802,weekday,802-186,Metro Airport Nexus,1,8022
+802,weekday,802-187,Metro Airport Nexus,1,8022
+802,weekday,802-188,Metro Airport Nexus,1,8022
+802,weekday,802-189,Metro Airport Nexus,1,8022
+802,weekday,802-190,Metro Airport Nexus,1,8022
+802,weekday,802-191,Metro Airport Nexus,1,8022
+802,weekday,802-192,Metro Airport Nexus,1,8022
+802,weekday,802-193,Metro Airport Nexus,1,8022
+802,weekday,802-194,Metro Airport Nexus,1,8022
+802,weekday,802-195,Metro Airport Nexus,1,8022
+802,weekday,802-196,Metro Airport Nexus,1,8022
+802,weekday,802-197,Metro Airport Nexus,1,8022
+802,weekday,802-198,Metro Airport Nexus,1,8022
+802,weekday,802-199,Metro Airport Nexus,1,8022
+802,weekday,802-200,Metro Airport Nexus,1,8022
+802,weekday,802-201,Metro Airport Nexus,1,8022
+802,weekday,802-202,Metro Airport Nexus,1,8022
+802,weekday,802-203,Metro Airport Nexus,1,8022
+802,weekday,802-204,Metro Airport Nexus,1,8022
+802,weekday,802-205,Metro Airport Nexus,1,8022
+802,weekday,802-206,Metro Airport Nexus,1,8022
+802,weekday,802-207,Metro Airport Nexus,1,8022
+802,weekday,802-208,Metro Airport Nexus,1,8022
+802,weekday,802-209,Metro Airport Nexus,1,8022
+802,weekday,802-210,Metro Airport Nexus,1,8022
+802,weekday,802-211,Metro Airport Nexus,1,8022
+802,weekday,802-212,Metro Airport Nexus,1,8022
+802,weekday,802-213,Metro Airport Nexus,1,8022
+802,weekday,802-214,Metro Airport Nexus,1,8022
+802,weekday,802-215,Metro Airport Nexus,1,8022
+802,weekday,802-216,Metro Airport Nexus,1,8022
+802,weekday,802-217,Metro Airport Nexus,1,8022
+802,weekday,802-218,Metro Airport Nexus,1,8022
+802,weekday,802-219,Metro Airport Nexus,1,8022
+802,weekday,802-220,Metro Airport Nexus,1,8022
+802,weekday,802-221,Metro Airport Nexus,1,8022
+802,weekday,802-222,Metro Airport Nexus,1,8022

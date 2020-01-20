@@ -1,0 +1,29 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+874,preholiday,874-1,Flat Rock Meijer,0,8742,874D
+874,preholiday,874-2,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,preholiday,874-3,Flat Rock Meijer,0,8742,874D
+874,preholiday,874-4,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,preholiday,874-5,Flat Rock Meijer,0,8742,874D
+874,preholiday,874-6,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,preholiday,874-7,Flat Rock Meijer,0,8742,874D
+874,preholiday,874-8,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,preholiday,874-9,Flat Rock Meijer,0,8742,874D
+874,preholiday,874-10,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,weekday,874-11,Lafayette / St Antoine,0,8748,874D
+874,weekday,874-12,Lodge / Grand Blvd via Downtown Detroit,0,8749,874W
+874,weekday,874-13,Lafayette / St Antoine,0,8748,874D
+874,weekday,874-14,Lodge / Grand Blvd via Downtown Detroit,0,8749,874W
+874,weekday,874-15,Lafayette / St Antoine,0,8748,874D
+874,weekday,874-16,Lodge / Grand Blvd via Downtown Detroit,0,8749,874W
+874,weekday,874-17,Lafayette / St Antoine,0,8748,874D
+874,weekday,874-18,Lodge / Grand Blvd via Downtown Detroit,0,8749,874W
+874,weekday,874-19,Lafayette / St Antoine,0,8748,874D
+874,weekday,874-20,Lodge / Grand Blvd via Downtown Detroit,0,8749,874W
+874,weekdaynoph,874-21,Flat Rock Meijer,0,8742,874D
+874,weekdaynoph,874-22,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,weekdaynoph,874-23,Flat Rock Meijer,0,8742,874D
+874,weekdaynoph,874-24,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,weekdaynoph,874-25,Flat Rock Meijer,0,8742,874D
+874,weekdaynoph,874-26,Flat Rock Meijer via Downtown Detroit,0,8743,874W
+874,weekdaynoph,874-27,Flat Rock Meijer,0,8742,874D
+874,weekdaynoph,874-28,Flat Rock Meijer via Downtown Detroit,0,8743,874W

@@ -1,0 +1,149 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+003,saturday,003-1,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-2,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-3,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-4,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-5,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-6,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-7,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-8,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-9,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-10,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-11,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-12,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-13,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-14,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-15,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-16,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-17,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-18,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-19,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-20,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-21,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-22,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-23,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-24,Grosse Pointe Nexus,1,0036,003U
+003,saturday,003-25,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-26,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-27,Grosse Pointe Nexus,1,0039,003S
+003,saturday,003-28,Millennium Park,0,0037,003S
+003,saturday,003-29,Millennium Park,0,0037,003S
+003,saturday,003-30,Madonna University,0,0034,003U
+003,saturday,003-31,Millennium Park,0,0037,003S
+003,saturday,003-32,Madonna University,0,0034,003U
+003,saturday,003-33,Millennium Park,0,0037,003S
+003,saturday,003-34,Madonna University,0,0034,003U
+003,saturday,003-35,Millennium Park,0,0037,003S
+003,saturday,003-36,Madonna University,0,0034,003U
+003,saturday,003-37,Millennium Park,0,0037,003S
+003,saturday,003-38,Madonna University,0,0034,003U
+003,saturday,003-39,Millennium Park,0,0037,003S
+003,saturday,003-40,Madonna University,0,0034,003U
+003,saturday,003-41,Millennium Park,0,0037,003S
+003,saturday,003-42,Madonna University,0,0034,003U
+003,saturday,003-43,Millennium Park,0,0037,003S
+003,saturday,003-44,Madonna University,0,0034,003U
+003,saturday,003-45,Millennium Park,0,0037,003S
+003,saturday,003-46,Madonna University,0,0034,003U
+003,saturday,003-47,Millennium Park,0,0037,003S
+003,saturday,003-48,Madonna University,0,0034,003U
+003,saturday,003-49,Millennium Park,0,0037,003S
+003,saturday,003-50,Madonna University,0,0034,003U
+003,saturday,003-51,Millennium Park,0,0037,003S
+003,saturday,003-52,Millennium Park,0,0037,003S
+003,saturday,003-53,Millennium Park,0,0037,003S
+003,saturday,003-54,Millennium Park,0,0037,003S
+003,saturday,003-55,Millennium Park,0,0037,003S
+003,sunday,003-56,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-57,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-58,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-59,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-60,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-61,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-62,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-63,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-64,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-65,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-66,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-67,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-68,Grosse Pointe Nexus,1,0039,003S
+003,sunday,003-69,Millennium Park,0,0037,003S
+003,sunday,003-70,Millennium Park,0,0037,003S
+003,sunday,003-71,Millennium Park,0,0037,003S
+003,sunday,003-72,Millennium Park,0,0037,003S
+003,sunday,003-73,Millennium Park,0,0037,003S
+003,sunday,003-74,Millennium Park,0,0037,003S
+003,sunday,003-75,Millennium Park,0,0037,003S
+003,sunday,003-76,Millennium Park,0,0037,003S
+003,sunday,003-77,Millennium Park,0,0037,003S
+003,sunday,003-78,Millennium Park,0,0037,003S
+003,sunday,003-79,Millennium Park,0,0037,003S
+003,sunday,003-80,Millennium Park,0,0037,003S
+003,sunday,003-81,Millennium Park,0,0037,003S
+003,sunday,003-82,Millennium Park,0,0037,003S
+003,weekday,003-83,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-84,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-85,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-86,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-87,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-88,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-89,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-90,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-91,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-92,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-93,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-94,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-95,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-96,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-97,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-98,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-99,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-100,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-101,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-102,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-103,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-104,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-105,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-106,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-107,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-108,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-109,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-110,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-111,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-112,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-113,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-114,Grosse Pointe Nexus,1,0036,003U
+003,weekday,003-115,Grosse Pointe Nexus,1,0039,003S
+003,weekday,003-116,Millennium Park,0,0037,003S
+003,weekday,003-117,Madonna University,0,0034,003U
+003,weekday,003-118,Millennium Park,0,0037,003S
+003,weekday,003-119,Madonna University,0,0034,003U
+003,weekday,003-120,Millennium Park,0,0037,003S
+003,weekday,003-121,Madonna University,0,0034,003U
+003,weekday,003-122,Millennium Park,0,0037,003S
+003,weekday,003-123,Madonna University,0,0034,003U
+003,weekday,003-124,Millennium Park,0,0037,003S
+003,weekday,003-125,Madonna University,0,0034,003U
+003,weekday,003-126,Millennium Park,0,0037,003S
+003,weekday,003-127,Madonna University,0,0034,003U
+003,weekday,003-128,Millennium Park,0,0037,003S
+003,weekday,003-129,Madonna University,0,0034,003U
+003,weekday,003-130,Millennium Park,0,0037,003S
+003,weekday,003-131,Madonna University,0,0034,003U
+003,weekday,003-132,Millennium Park,0,0037,003S
+003,weekday,003-133,Madonna University,0,0034,003U
+003,weekday,003-134,Millennium Park,0,0037,003S
+003,weekday,003-135,Madonna University,0,0034,003U
+003,weekday,003-136,Millennium Park,0,0037,003S
+003,weekday,003-137,Madonna University,0,0034,003U
+003,weekday,003-138,Millennium Park,0,0037,003S
+003,weekday,003-139,Madonna University,0,0034,003U
+003,weekday,003-140,Millennium Park,0,0037,003S
+003,weekday,003-141,Madonna University,0,0034,003U
+003,weekday,003-142,Millennium Park,0,0037,003S
+003,weekday,003-143,Madonna University,0,0034,003U
+003,weekday,003-144,Millennium Park,0,0037,003S
+003,weekday,003-145,Madonna University,0,0034,003U
+003,weekday,003-146,Millennium Park,0,0037,003S
+003,weekday,003-147,Millennium Park,0,0037,003S
+003,weekday,003-148,Millennium Park,0,0037,003S

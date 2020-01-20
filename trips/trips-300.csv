@@ -1,0 +1,741 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+300,saturday,300-1,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-2,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-3,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-4,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-5,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-6,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-7,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-8,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-9,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-10,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-11,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-12,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-13,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-14,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-15,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-16,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-17,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-18,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-19,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-20,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-21,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-22,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-23,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-24,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-25,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-26,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-27,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-28,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-29,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-30,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-31,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-32,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-33,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-34,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-35,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-36,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-37,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-38,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-39,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-40,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-41,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-42,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-43,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-44,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-45,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-46,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-47,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-48,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-49,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-50,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-51,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-52,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-53,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-54,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-55,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-56,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-57,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-58,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-59,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-60,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-61,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-62,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-63,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-64,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-65,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-66,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-67,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-68,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-69,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-70,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-71,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-72,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-73,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-74,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-75,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-76,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-77,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-78,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-79,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-80,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-81,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-82,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-83,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-84,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-85,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-86,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-87,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-88,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-89,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-90,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-91,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-92,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-93,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-94,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-95,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-96,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-97,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-98,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-99,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-100,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-101,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-102,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-103,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-104,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-105,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,saturday,300-106,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,saturday,300-107,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-108,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-109,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-110,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-111,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-112,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-113,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-114,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-115,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-116,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-117,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-118,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-119,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-120,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-121,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-122,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-123,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-124,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-125,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-126,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-127,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-128,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-129,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-130,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-131,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-132,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-133,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-134,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-135,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-136,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-137,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-138,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-139,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-140,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-141,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-142,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-143,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-144,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-145,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-146,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-147,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-148,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-149,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-150,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-151,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-152,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-153,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-154,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-155,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-156,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-157,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-158,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-159,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-160,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-161,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-162,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-163,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-164,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-165,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-166,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-167,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-168,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-169,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-170,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-171,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-172,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-173,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-174,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-175,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-176,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-177,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-178,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-179,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-180,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-181,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-182,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-183,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-184,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-185,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-186,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-187,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-188,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-189,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-190,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-191,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-192,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-193,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-194,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-195,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-196,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-197,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-198,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-199,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-200,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-201,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-202,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-203,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-204,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-205,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-206,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-207,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-208,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,saturday,300-209,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,saturday,300-210,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-211,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-212,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-213,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-214,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-215,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-216,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-217,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-218,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-219,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-220,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-221,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-222,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-223,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-224,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-225,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-226,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-227,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-228,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-229,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-230,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-231,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-232,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-233,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-234,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-235,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-236,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-237,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-238,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-239,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-240,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-241,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-242,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-243,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-244,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-245,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-246,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-247,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-248,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-249,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-250,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-251,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-252,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-253,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-254,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-255,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-256,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-257,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-258,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-259,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-260,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-261,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-262,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-263,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-264,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-265,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-266,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-267,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-268,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-269,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-270,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-271,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-272,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-273,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-274,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-275,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-276,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-277,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-278,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-279,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-280,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-281,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-282,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-283,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-284,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-285,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-286,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-287,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,sunday,300-288,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,sunday,300-289,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-290,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-291,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-292,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-293,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-294,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-295,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-296,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-297,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-298,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-299,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-300,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-301,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-302,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-303,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-304,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-305,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-306,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-307,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-308,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-309,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-310,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-311,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-312,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-313,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-314,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-315,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-316,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-317,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-318,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-319,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-320,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-321,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-322,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-323,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-324,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-325,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-326,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-327,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-328,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-329,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-330,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-331,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-332,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-333,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-334,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-335,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-336,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-337,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-338,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-339,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-340,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-341,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-342,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-343,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-344,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-345,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-346,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-347,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-348,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-349,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-350,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-351,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-352,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-353,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-354,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-355,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-356,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-357,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-358,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-359,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-360,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-361,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-362,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,sunday,300-363,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,sunday,300-364,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-365,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-366,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-367,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-368,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-369,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-370,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-371,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-372,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-373,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-374,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-375,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-376,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-377,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-378,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-379,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-380,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-381,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-382,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-383,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-384,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-385,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-386,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-387,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-388,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-389,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-390,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-391,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-392,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-393,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-394,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-395,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-396,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-397,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-398,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-399,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-400,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-401,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-402,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-403,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-404,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-405,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-406,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-407,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-408,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-409,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-410,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-411,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-412,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-413,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-414,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-415,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-416,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-417,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-418,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-419,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-420,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-421,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-422,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-423,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-424,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-425,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-426,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-427,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-428,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-429,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-430,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-431,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-432,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-433,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-434,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-435,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-436,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-437,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-438,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-439,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-440,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-441,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-442,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-443,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-444,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-445,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-446,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-447,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-448,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-449,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-450,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-451,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-452,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-453,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-454,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-455,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-456,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-457,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-458,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-459,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-460,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-461,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-462,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-463,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-464,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-465,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-466,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-467,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-468,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-469,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-470,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-471,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-472,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-473,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-474,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-475,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-476,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-477,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-478,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-479,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-480,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-481,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-482,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-483,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-484,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-485,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-486,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-487,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-488,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-489,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-490,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-491,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-492,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-493,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-494,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-495,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-496,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-497,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-498,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-499,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-500,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-501,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-502,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-503,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-504,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-505,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-506,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-507,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-508,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-509,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-510,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-511,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-512,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-513,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-514,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-515,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-516,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-517,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-518,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-519,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-520,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-521,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-522,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-523,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-524,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-525,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-526,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-527,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-528,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-529,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-530,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-531,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-532,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-533,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-534,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-535,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-536,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-537,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-538,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-539,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-540,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-541,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-542,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-543,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-544,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-545,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-546,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-547,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-548,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-549,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-550,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-551,Washington / Jefferson via 12 Mile / Novi,0,3003,300N
+300,weekday,300-552,Washington / Jefferson via Beck / Grand River,0,3006,300B
+300,weekday,300-553,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-554,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-555,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-556,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-557,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-558,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-559,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-560,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-561,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-562,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-563,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-564,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-565,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-566,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-567,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-568,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-569,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-570,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-571,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-572,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-573,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-574,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-575,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-576,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-577,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-578,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-579,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-580,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-581,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-582,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-583,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-584,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-585,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-586,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-587,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-588,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-589,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-590,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-591,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-592,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-593,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-594,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-595,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-596,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-597,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-598,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-599,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-600,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-601,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-602,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-603,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-604,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-605,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-606,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-607,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-608,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-609,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-610,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-611,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-612,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-613,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-614,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-615,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-616,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-617,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-618,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-619,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-620,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-621,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-622,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-623,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-624,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-625,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-626,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-627,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-628,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-629,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-630,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-631,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-632,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-633,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-634,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-635,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-636,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-637,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-638,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-639,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-640,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-641,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-642,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-643,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-644,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-645,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-646,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-647,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-648,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-649,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-650,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-651,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-652,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-653,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-654,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-655,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-656,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-657,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-658,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-659,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-660,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-661,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-662,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-663,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-664,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-665,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-666,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-667,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-668,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-669,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-670,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-671,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-672,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-673,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-674,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-675,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-676,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-677,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-678,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-679,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-680,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-681,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-682,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-683,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-684,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-685,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-686,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-687,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-688,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-689,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-690,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-691,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-692,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-693,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-694,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-695,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-696,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-697,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-698,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-699,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-700,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-701,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-702,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-703,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-704,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-705,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-706,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-707,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-708,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-709,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-710,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-711,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-712,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-713,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-714,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-715,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-716,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-717,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-718,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-719,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-720,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-721,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-722,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-723,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-724,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-725,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-726,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-727,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-728,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-729,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-730,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-731,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-732,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-733,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-734,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-735,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-736,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-737,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-738,Novi Park & Ride via Novi / 12 Mile,1,3001,300N
+300,weekday,300-739,Novi Park & Ride via Grand River / Beck,1,3004,300B
+300,weekday,300-740,Novi Park & Ride via Novi / 12 Mile,1,3001,300N

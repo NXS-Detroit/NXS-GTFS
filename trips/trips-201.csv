@@ -1,0 +1,37 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+201,preholiday,201-1,Congress / St Antoine,0,2016
+201,preholiday,201-2,Congress / St Antoine,0,2016
+201,preholiday,201-3,Congress / St Antoine,0,2016
+201,preholiday,201-4,Congress / St Antoine,0,2016
+201,preholiday,201-5,Congress / St Antoine,0,2016
+201,preholiday,201-6,Congress / St Antoine,0,2016
+201,preholiday,201-7,Congress / St Antoine,0,2016
+201,preholiday,201-8,Congress / St Antoine,0,2016
+201,preholiday,201-9,Congress / St Antoine,0,2016
+201,preholiday,201-10,Congress / St Antoine,0,2016
+201,preholiday,201-11,Blake Transit Center,1,2014
+201,preholiday,201-12,Blake Transit Center,1,2014
+201,preholiday,201-13,Blake Transit Center,1,2014
+201,preholiday,201-14,Blake Transit Center,1,2014
+201,preholiday,201-15,Blake Transit Center,1,2014
+201,preholiday,201-16,Blake Transit Center,1,2014
+201,preholiday,201-17,Blake Transit Center,1,2014
+201,preholiday,201-18,Blake Transit Center,1,2014
+201,preholiday,201-19,Blake Transit Center,1,2014
+201,preholiday,201-20,Blake Transit Center,1,2014
+201,weekdaynoph,201-21,Congress / St Antoine,0,2016
+201,weekdaynoph,201-22,Congress / St Antoine,0,2016
+201,weekdaynoph,201-23,Congress / St Antoine,0,2016
+201,weekdaynoph,201-24,Congress / St Antoine,0,2016
+201,weekdaynoph,201-25,Congress / St Antoine,0,2016
+201,weekdaynoph,201-26,Congress / St Antoine,0,2016
+201,weekdaynoph,201-27,Congress / St Antoine,0,2016
+201,weekdaynoph,201-28,Congress / St Antoine,0,2016
+201,weekdaynoph,201-29,Blake Transit Center,1,2014
+201,weekdaynoph,201-30,Blake Transit Center,1,2014
+201,weekdaynoph,201-31,Blake Transit Center,1,2014
+201,weekdaynoph,201-32,Blake Transit Center,1,2014
+201,weekdaynoph,201-33,Blake Transit Center,1,2014
+201,weekdaynoph,201-34,Blake Transit Center,1,2014
+201,weekdaynoph,201-35,Blake Transit Center,1,2014
+201,weekdaynoph,201-36,Blake Transit Center,1,2014

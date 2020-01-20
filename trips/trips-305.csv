@@ -1,0 +1,149 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+305,saturday,305-1,Rosa Parks Nexus,0,3056
+305,saturday,305-2,Rosa Parks Nexus,0,3056
+305,saturday,305-3,Rosa Parks Nexus,0,3056
+305,saturday,305-4,Rosa Parks Nexus,0,3056
+305,saturday,305-5,Rosa Parks Nexus,0,3056
+305,saturday,305-6,Rosa Parks Nexus,0,3056
+305,saturday,305-7,Rosa Parks Nexus,0,3056
+305,saturday,305-8,Rosa Parks Nexus,0,3056
+305,saturday,305-9,Rosa Parks Nexus,0,3056
+305,saturday,305-10,Rosa Parks Nexus,0,3056
+305,saturday,305-11,Rosa Parks Nexus,0,3056
+305,saturday,305-12,Rosa Parks Nexus,0,3056
+305,saturday,305-13,Rosa Parks Nexus,0,3056
+305,saturday,305-14,Rosa Parks Nexus,0,3056
+305,saturday,305-15,Rosa Parks Nexus,0,3056
+305,saturday,305-16,Rosa Parks Nexus,0,3056
+305,saturday,305-17,Rosa Parks Nexus,0,3056
+305,saturday,305-18,Rosa Parks Nexus,0,3056
+305,saturday,305-19,Rosa Parks Nexus,0,3056
+305,saturday,305-20,Rosa Parks Nexus,0,3056
+305,saturday,305-21,Rosa Parks Nexus,0,3056
+305,saturday,305-22,Rosa Parks Nexus,0,3056
+305,saturday,305-23,Rosa Parks Nexus,0,3056
+305,saturday,305-24,Rosa Parks Nexus,0,3056
+305,saturday,305-25,Madonna University,1,3054
+305,saturday,305-26,Madonna University,1,3054
+305,saturday,305-27,Madonna University,1,3054
+305,saturday,305-28,Madonna University,1,3054
+305,saturday,305-29,Madonna University,1,3054
+305,saturday,305-30,Madonna University,1,3054
+305,saturday,305-31,Madonna University,1,3054
+305,saturday,305-32,Madonna University,1,3054
+305,saturday,305-33,Madonna University,1,3054
+305,saturday,305-34,Madonna University,1,3054
+305,saturday,305-35,Madonna University,1,3054
+305,saturday,305-36,Madonna University,1,3054
+305,saturday,305-37,Madonna University,1,3054
+305,saturday,305-38,Madonna University,1,3054
+305,saturday,305-39,Madonna University,1,3054
+305,saturday,305-40,Madonna University,1,3054
+305,saturday,305-41,Madonna University,1,3054
+305,saturday,305-42,Madonna University,1,3054
+305,saturday,305-43,Madonna University,1,3054
+305,saturday,305-44,Madonna University,1,3054
+305,saturday,305-45,Madonna University,1,3054
+305,saturday,305-46,Madonna University,1,3054
+305,saturday,305-47,Madonna University,1,3054
+305,saturday,305-48,Madonna University,1,3054
+305,sunday,305-49,Rosa Parks Nexus,0,3056
+305,sunday,305-50,Rosa Parks Nexus,0,3056
+305,sunday,305-51,Rosa Parks Nexus,0,3056
+305,sunday,305-52,Rosa Parks Nexus,0,3056
+305,sunday,305-53,Rosa Parks Nexus,0,3056
+305,sunday,305-54,Rosa Parks Nexus,0,3056
+305,sunday,305-55,Rosa Parks Nexus,0,3056
+305,sunday,305-56,Rosa Parks Nexus,0,3056
+305,sunday,305-57,Rosa Parks Nexus,0,3056
+305,sunday,305-58,Rosa Parks Nexus,0,3056
+305,sunday,305-59,Rosa Parks Nexus,0,3056
+305,sunday,305-60,Rosa Parks Nexus,0,3056
+305,sunday,305-61,Rosa Parks Nexus,0,3056
+305,sunday,305-62,Rosa Parks Nexus,0,3056
+305,sunday,305-63,Rosa Parks Nexus,0,3056
+305,sunday,305-64,Rosa Parks Nexus,0,3056
+305,sunday,305-65,Madonna University,1,3054
+305,sunday,305-66,Madonna University,1,3054
+305,sunday,305-67,Madonna University,1,3054
+305,sunday,305-68,Madonna University,1,3054
+305,sunday,305-69,Madonna University,1,3054
+305,sunday,305-70,Madonna University,1,3054
+305,sunday,305-71,Madonna University,1,3054
+305,sunday,305-72,Madonna University,1,3054
+305,sunday,305-73,Madonna University,1,3054
+305,sunday,305-74,Madonna University,1,3054
+305,sunday,305-75,Madonna University,1,3054
+305,sunday,305-76,Madonna University,1,3054
+305,sunday,305-77,Madonna University,1,3054
+305,sunday,305-78,Madonna University,1,3054
+305,sunday,305-79,Madonna University,1,3054
+305,sunday,305-80,Madonna University,1,3054
+305,weekday,305-81,Rosa Parks Nexus,0,3056
+305,weekday,305-82,Rosa Parks Nexus,0,3056
+305,weekday,305-83,Rosa Parks Nexus,0,3056
+305,weekday,305-84,Rosa Parks Nexus,0,3056
+305,weekday,305-85,Rosa Parks Nexus,0,3056
+305,weekday,305-86,Rosa Parks Nexus,0,3056
+305,weekday,305-87,Rosa Parks Nexus,0,3056
+305,weekday,305-88,Rosa Parks Nexus,0,3056
+305,weekday,305-89,Rosa Parks Nexus,0,3056
+305,weekday,305-90,Rosa Parks Nexus,0,3056
+305,weekday,305-91,Rosa Parks Nexus,0,3056
+305,weekday,305-92,Rosa Parks Nexus,0,3056
+305,weekday,305-93,Rosa Parks Nexus,0,3056
+305,weekday,305-94,Rosa Parks Nexus,0,3056
+305,weekday,305-95,Rosa Parks Nexus,0,3056
+305,weekday,305-96,Rosa Parks Nexus,0,3056
+305,weekday,305-97,Rosa Parks Nexus,0,3056
+305,weekday,305-98,Rosa Parks Nexus,0,3056
+305,weekday,305-99,Rosa Parks Nexus,0,3056
+305,weekday,305-100,Rosa Parks Nexus,0,3056
+305,weekday,305-101,Rosa Parks Nexus,0,3056
+305,weekday,305-102,Rosa Parks Nexus,0,3056
+305,weekday,305-103,Rosa Parks Nexus,0,3056
+305,weekday,305-104,Rosa Parks Nexus,0,3056
+305,weekday,305-105,Rosa Parks Nexus,0,3056
+305,weekday,305-106,Rosa Parks Nexus,0,3056
+305,weekday,305-107,Rosa Parks Nexus,0,3056
+305,weekday,305-108,Rosa Parks Nexus,0,3056
+305,weekday,305-109,Rosa Parks Nexus,0,3056
+305,weekday,305-110,Rosa Parks Nexus,0,3056
+305,weekday,305-111,Rosa Parks Nexus,0,3056
+305,weekday,305-112,Rosa Parks Nexus,0,3056
+305,weekday,305-113,Rosa Parks Nexus,0,3056
+305,weekday,305-114,Rosa Parks Nexus,0,3056
+305,weekday,305-115,Madonna University,1,3054
+305,weekday,305-116,Madonna University,1,3054
+305,weekday,305-117,Madonna University,1,3054
+305,weekday,305-118,Madonna University,1,3054
+305,weekday,305-119,Madonna University,1,3054
+305,weekday,305-120,Madonna University,1,3054
+305,weekday,305-121,Madonna University,1,3054
+305,weekday,305-122,Madonna University,1,3054
+305,weekday,305-123,Madonna University,1,3054
+305,weekday,305-124,Madonna University,1,3054
+305,weekday,305-125,Madonna University,1,3054
+305,weekday,305-126,Madonna University,1,3054
+305,weekday,305-127,Madonna University,1,3054
+305,weekday,305-128,Madonna University,1,3054
+305,weekday,305-129,Madonna University,1,3054
+305,weekday,305-130,Madonna University,1,3054
+305,weekday,305-131,Madonna University,1,3054
+305,weekday,305-132,Madonna University,1,3054
+305,weekday,305-133,Madonna University,1,3054
+305,weekday,305-134,Madonna University,1,3054
+305,weekday,305-135,Madonna University,1,3054
+305,weekday,305-136,Madonna University,1,3054
+305,weekday,305-137,Madonna University,1,3054
+305,weekday,305-138,Madonna University,1,3054
+305,weekday,305-139,Madonna University,1,3054
+305,weekday,305-140,Madonna University,1,3054
+305,weekday,305-141,Madonna University,1,3054
+305,weekday,305-142,Madonna University,1,3054
+305,weekday,305-143,Madonna University,1,3054
+305,weekday,305-144,Madonna University,1,3054
+305,weekday,305-145,Madonna University,1,3054
+305,weekday,305-146,Madonna University,1,3054
+305,weekday,305-147,Madonna University,1,3054
+305,weekday,305-148,Madonna University,1,3054

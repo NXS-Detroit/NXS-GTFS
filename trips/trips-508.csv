@@ -1,0 +1,149 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+508,saturday,508-1,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-2,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-3,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-4,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-5,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-6,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-7,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-8,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-9,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-10,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-11,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-12,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-13,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-14,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-15,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-16,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-17,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-18,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-19,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-20,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-21,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-22,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-23,Target Park & Ride via Eastern Market,0,5087
+508,saturday,508-24,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-25,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-26,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-27,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-28,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-29,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-30,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-31,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-32,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-33,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-34,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-35,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-36,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-37,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-38,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-39,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-40,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-41,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-42,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-43,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-44,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-45,Rosa Parks Nexus via Eastern Market,1,5081
+508,saturday,508-46,Rosa Parks Nexus via Eastern Market,1,5081
+508,sunday,508-47,Target Park & Ride,0,5088
+508,sunday,508-48,Target Park & Ride,0,5088
+508,sunday,508-49,Target Park & Ride,0,5088
+508,sunday,508-50,Target Park & Ride,0,5088
+508,sunday,508-51,Target Park & Ride,0,5088
+508,sunday,508-52,Target Park & Ride,0,5088
+508,sunday,508-53,Target Park & Ride,0,5088
+508,sunday,508-54,Target Park & Ride,0,5088
+508,sunday,508-55,Target Park & Ride,0,5088
+508,sunday,508-56,Target Park & Ride,0,5088
+508,sunday,508-57,Target Park & Ride,0,5088
+508,sunday,508-58,Target Park & Ride,0,5088
+508,sunday,508-59,Target Park & Ride,0,5088
+508,sunday,508-60,Target Park & Ride,0,5088
+508,sunday,508-61,Target Park & Ride,0,5088
+508,sunday,508-62,Rosa Parks Nexus,1,5082
+508,sunday,508-63,Rosa Parks Nexus,1,5082
+508,sunday,508-64,Rosa Parks Nexus,1,5082
+508,sunday,508-65,Rosa Parks Nexus,1,5082
+508,sunday,508-66,Rosa Parks Nexus,1,5082
+508,sunday,508-67,Rosa Parks Nexus,1,5082
+508,sunday,508-68,Rosa Parks Nexus,1,5082
+508,sunday,508-69,Rosa Parks Nexus,1,5082
+508,sunday,508-70,Rosa Parks Nexus,1,5082
+508,sunday,508-71,Rosa Parks Nexus,1,5082
+508,sunday,508-72,Rosa Parks Nexus,1,5082
+508,sunday,508-73,Rosa Parks Nexus,1,5082
+508,sunday,508-74,Rosa Parks Nexus,1,5082
+508,sunday,508-75,Rosa Parks Nexus,1,5082
+508,sunday,508-76,Rosa Parks Nexus,1,5082
+508,weekday,508-77,South Blvd Park & Ride,0,5089
+508,weekday,508-78,South Blvd Park & Ride,0,5089
+508,weekday,508-79,South Blvd Park & Ride,0,5089
+508,weekday,508-80,South Blvd Park & Ride,0,5089
+508,weekday,508-81,South Blvd Park & Ride,0,5089
+508,weekday,508-82,South Blvd Park & Ride,0,5089
+508,weekday,508-83,South Blvd Park & Ride,0,5089
+508,weekday,508-84,South Blvd Park & Ride,0,5089
+508,weekday,508-85,South Blvd Park & Ride,0,5089
+508,weekday,508-86,South Blvd Park & Ride,0,5089
+508,weekday,508-87,South Blvd Park & Ride,0,5089
+508,weekday,508-88,South Blvd Park & Ride,0,5089
+508,weekday,508-89,South Blvd Park & Ride,0,5089
+508,weekday,508-90,South Blvd Park & Ride,0,5089
+508,weekday,508-91,South Blvd Park & Ride,0,5089
+508,weekday,508-92,South Blvd Park & Ride,0,5089
+508,weekday,508-93,South Blvd Park & Ride,0,5089
+508,weekday,508-94,South Blvd Park & Ride,0,5089
+508,weekday,508-95,South Blvd Park & Ride,0,5089
+508,weekday,508-96,South Blvd Park & Ride,0,5089
+508,weekday,508-97,South Blvd Park & Ride,0,5089
+508,weekday,508-98,South Blvd Park & Ride,0,5089
+508,weekday,508-99,South Blvd Park & Ride,0,5089
+508,weekday,508-100,South Blvd Park & Ride,0,5089
+508,weekday,508-101,South Blvd Park & Ride,0,5089
+508,weekday,508-102,South Blvd Park & Ride,0,5089
+508,weekday,508-103,South Blvd Park & Ride,0,5089
+508,weekday,508-104,South Blvd Park & Ride,0,5089
+508,weekday,508-105,South Blvd Park & Ride,0,5089
+508,weekday,508-106,South Blvd Park & Ride,0,5089
+508,weekday,508-107,South Blvd Park & Ride,0,5089
+508,weekday,508-108,South Blvd Park & Ride,0,5089
+508,weekday,508-109,South Blvd Park & Ride,0,5089
+508,weekday,508-110,South Blvd Park & Ride,0,5089
+508,weekday,508-111,South Blvd Park & Ride,0,5089
+508,weekday,508-112,South Blvd Park & Ride,0,5089
+508,weekday,508-113,Rosa Parks Nexus,1,5083
+508,weekday,508-114,Rosa Parks Nexus,1,5083
+508,weekday,508-115,Rosa Parks Nexus,1,5083
+508,weekday,508-116,Rosa Parks Nexus,1,5083
+508,weekday,508-117,Rosa Parks Nexus,1,5083
+508,weekday,508-118,Rosa Parks Nexus,1,5083
+508,weekday,508-119,Rosa Parks Nexus,1,5083
+508,weekday,508-120,Rosa Parks Nexus,1,5083
+508,weekday,508-121,Rosa Parks Nexus,1,5083
+508,weekday,508-122,Rosa Parks Nexus,1,5083
+508,weekday,508-123,Rosa Parks Nexus,1,5083
+508,weekday,508-124,Rosa Parks Nexus,1,5083
+508,weekday,508-125,Rosa Parks Nexus,1,5083
+508,weekday,508-126,Rosa Parks Nexus,1,5083
+508,weekday,508-127,Rosa Parks Nexus,1,5083
+508,weekday,508-128,Rosa Parks Nexus,1,5083
+508,weekday,508-129,Rosa Parks Nexus,1,5083
+508,weekday,508-130,Rosa Parks Nexus,1,5083
+508,weekday,508-131,Rosa Parks Nexus,1,5083
+508,weekday,508-132,Rosa Parks Nexus,1,5083
+508,weekday,508-133,Rosa Parks Nexus,1,5083
+508,weekday,508-134,Rosa Parks Nexus,1,5083
+508,weekday,508-135,Rosa Parks Nexus,1,5083
+508,weekday,508-136,Rosa Parks Nexus,1,5083
+508,weekday,508-137,Rosa Parks Nexus,1,5083
+508,weekday,508-138,Rosa Parks Nexus,1,5083
+508,weekday,508-139,Rosa Parks Nexus,1,5083
+508,weekday,508-140,Rosa Parks Nexus,1,5083
+508,weekday,508-141,Rosa Parks Nexus,1,5083
+508,weekday,508-142,Rosa Parks Nexus,1,5083
+508,weekday,508-143,Rosa Parks Nexus,1,5083
+508,weekday,508-144,Rosa Parks Nexus,1,5083
+508,weekday,508-145,Rosa Parks Nexus,1,5083
+508,weekday,508-146,Rosa Parks Nexus,1,5083
+508,weekday,508-147,Rosa Parks Nexus,1,5083
+508,weekday,508-148,Rosa Parks Nexus,1,5083

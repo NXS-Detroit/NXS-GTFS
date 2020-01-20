@@ -1,0 +1,108 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+924,saturday,924-1,Pontiac Nexus,0,9246
+924,saturday,924-2,Pontiac Nexus,0,9246
+924,saturday,924-3,Pontiac Nexus,0,9246
+924,saturday,924-4,Pontiac Nexus,0,9246
+924,saturday,924-5,Pontiac Nexus,0,9246
+924,saturday,924-6,Pontiac Nexus,0,9246
+924,saturday,924-7,Pontiac Nexus,0,9246
+924,saturday,924-8,Pontiac Nexus,0,9246
+924,saturday,924-9,Pontiac Nexus,0,9246
+924,saturday,924-10,Pontiac Nexus,0,9246
+924,saturday,924-11,Pontiac Nexus,0,9246
+924,saturday,924-12,Pontiac Nexus,0,9246
+924,saturday,924-13,Pontiac Nexus,0,9246
+924,saturday,924-14,Pontiac Nexus,0,9246
+924,saturday,924-15,Pontiac Nexus,0,9246
+924,saturday,924-16,Pontiac Nexus,0,9246
+924,saturday,924-17,Pontiac Nexus,0,9246
+924,saturday,924-18,Pontiac Nexus,0,9246
+924,saturday,924-19,Hartland Senior Center,1,9244
+924,saturday,924-20,Hartland Senior Center,1,9244
+924,saturday,924-21,Hartland Senior Center,1,9244
+924,saturday,924-22,Hartland Senior Center,1,9244
+924,saturday,924-23,Hartland Senior Center,1,9244
+924,saturday,924-24,Hartland Senior Center,1,9244
+924,saturday,924-25,Hartland Senior Center,1,9244
+924,saturday,924-26,Hartland Senior Center,1,9244
+924,saturday,924-27,Hartland Senior Center,1,9244
+924,saturday,924-28,Hartland Senior Center,1,9244
+924,saturday,924-29,Hartland Senior Center,1,9244
+924,saturday,924-30,Hartland Senior Center,1,9244
+924,saturday,924-31,Hartland Senior Center,1,9244
+924,saturday,924-32,Hartland Senior Center,1,9244
+924,saturday,924-33,Hartland Senior Center,1,9244
+924,saturday,924-34,Hartland Senior Center,1,9244
+924,saturday,924-35,Hartland Senior Center,1,9244
+924,saturday,924-36,Hartland Senior Center,1,9244
+924,sunday,924-37,Pontiac Nexus,0,9246
+924,sunday,924-38,Pontiac Nexus,0,9246
+924,sunday,924-39,Pontiac Nexus,0,9246
+924,sunday,924-40,Pontiac Nexus,0,9246
+924,sunday,924-41,Pontiac Nexus,0,9246
+924,sunday,924-42,Pontiac Nexus,0,9246
+924,sunday,924-43,Pontiac Nexus,0,9246
+924,sunday,924-44,Pontiac Nexus,0,9246
+924,sunday,924-45,Pontiac Nexus,0,9246
+924,sunday,924-46,Pontiac Nexus,0,9246
+924,sunday,924-47,Pontiac Nexus,0,9246
+924,sunday,924-48,Hartland Senior Center,1,9244
+924,sunday,924-49,Hartland Senior Center,1,9244
+924,sunday,924-50,Hartland Senior Center,1,9244
+924,sunday,924-51,Hartland Senior Center,1,9244
+924,sunday,924-52,Hartland Senior Center,1,9244
+924,sunday,924-53,Hartland Senior Center,1,9244
+924,sunday,924-54,Hartland Senior Center,1,9244
+924,sunday,924-55,Hartland Senior Center,1,9244
+924,sunday,924-56,Hartland Senior Center,1,9244
+924,sunday,924-57,Hartland Senior Center,1,9244
+924,sunday,924-58,Hartland Senior Center,1,9244
+924,weekday,924-59,Pontiac Nexus,0,9246
+924,weekday,924-60,Pontiac Nexus,0,9246
+924,weekday,924-61,Pontiac Nexus,0,9246
+924,weekday,924-62,Pontiac Nexus,0,9246
+924,weekday,924-63,Pontiac Nexus,0,9246
+924,weekday,924-64,Pontiac Nexus,0,9246
+924,weekday,924-65,Pontiac Nexus,0,9246
+924,weekday,924-66,Pontiac Nexus,0,9246
+924,weekday,924-67,Pontiac Nexus,0,9246
+924,weekday,924-68,Pontiac Nexus,0,9246
+924,weekday,924-69,Pontiac Nexus,0,9246
+924,weekday,924-70,Pontiac Nexus,0,9246
+924,weekday,924-71,Pontiac Nexus,0,9246
+924,weekday,924-72,Pontiac Nexus,0,9246
+924,weekday,924-73,Pontiac Nexus,0,9246
+924,weekday,924-74,Pontiac Nexus,0,9246
+924,weekday,924-75,Pontiac Nexus,0,9246
+924,weekday,924-76,Pontiac Nexus,0,9246
+924,weekday,924-77,Pontiac Nexus,0,9246
+924,weekday,924-78,Pontiac Nexus,0,9246
+924,weekday,924-79,Pontiac Nexus,0,9246
+924,weekday,924-80,Pontiac Nexus,0,9246
+924,weekday,924-81,Pontiac Nexus,0,9243
+924,weekday,924-82,Pontiac Nexus,0,9246
+924,weekday,924-83,Highland Township,1,9241
+924,weekday,924-84,Hartland Senior Center,1,9244
+924,weekday,924-85,Hartland Senior Center,1,9244
+924,weekday,924-86,Hartland Senior Center,1,9244
+924,weekday,924-87,Hartland Senior Center,1,9244
+924,weekday,924-88,Hartland Senior Center,1,9244
+924,weekday,924-89,Hartland Senior Center,1,9244
+924,weekday,924-90,Hartland Senior Center,1,9244
+924,weekday,924-91,Hartland Senior Center,1,9244
+924,weekday,924-92,Hartland Senior Center,1,9244
+924,weekday,924-93,Hartland Senior Center,1,9244
+924,weekday,924-94,Hartland Senior Center,1,9244
+924,weekday,924-95,Highland Township,1,9241
+924,weekday,924-96,Hartland Senior Center,1,9247
+924,weekday,924-97,Hartland Senior Center,1,9244
+924,weekday,924-98,Hartland Senior Center,1,9244
+924,weekday,924-99,Hartland Senior Center,1,9244
+924,weekday,924-100,Hartland Senior Center,1,9244
+924,weekday,924-101,Hartland Senior Center,1,9244
+924,weekday,924-102,Hartland Senior Center,1,9244
+924,weekday,924-103,Hartland Senior Center,1,9244
+924,weekday,924-104,Hartland Senior Center,1,9244
+924,weekday,924-105,Hartland Senior Center,1,9244
+924,weekday,924-106,Hartland Senior Center,1,9244
+924,weekday,924-107,Hartland Senior Center,1,9244

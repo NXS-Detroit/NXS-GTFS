@@ -1,0 +1,118 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+740,saturday,740-1,Lake St Clair Metro Park,0,7406
+740,saturday,740-2,Lake St Clair Metro Park,0,7406
+740,saturday,740-3,Lake St Clair Metro Park,0,7406
+740,saturday,740-4,Lake St Clair Metro Park,0,7406
+740,saturday,740-5,Lake St Clair Metro Park,0,7406
+740,saturday,740-6,Lake St Clair Metro Park,0,7406
+740,saturday,740-7,Lake St Clair Metro Park,0,7406
+740,saturday,740-8,Lake St Clair Metro Park,0,7406
+740,saturday,740-9,Lake St Clair Metro Park,0,7406
+740,saturday,740-10,Lake St Clair Metro Park,0,7406
+740,saturday,740-11,Lake St Clair Metro Park,0,7406
+740,saturday,740-12,Lake St Clair Metro Park,0,7406
+740,saturday,740-13,Lake St Clair Metro Park,0,7406
+740,saturday,740-14,Lake St Clair Metro Park,0,7406
+740,saturday,740-15,Lake St Clair Metro Park,0,7406
+740,saturday,740-16,Lake St Clair Metro Park,0,7406
+740,saturday,740-17,Lake St Clair Metro Park,0,7406
+740,saturday,740-18,Lake St Clair Metro Park,0,7406
+740,saturday,740-19,Lake St Clair Metro Park,0,7406
+740,saturday,740-20,Lake St Clair Metro Park,0,7406
+740,saturday,740-21,Lake St Clair Metro Park,0,7406
+740,saturday,740-22,Lake St Clair Metro Park,0,7406
+740,saturday,740-23,Roseville Nexus,1,7404
+740,saturday,740-24,Roseville Nexus,1,7404
+740,saturday,740-25,Roseville Nexus,1,7404
+740,saturday,740-26,Roseville Nexus,1,7404
+740,saturday,740-27,Roseville Nexus,1,7404
+740,saturday,740-28,Roseville Nexus,1,7404
+740,saturday,740-29,Roseville Nexus,1,7404
+740,saturday,740-30,Roseville Nexus,1,7404
+740,saturday,740-31,Roseville Nexus,1,7404
+740,saturday,740-32,Roseville Nexus,1,7404
+740,saturday,740-33,Roseville Nexus,1,7404
+740,saturday,740-34,Roseville Nexus,1,7404
+740,saturday,740-35,Roseville Nexus,1,7404
+740,saturday,740-36,Roseville Nexus,1,7404
+740,saturday,740-37,Roseville Nexus,1,7404
+740,saturday,740-38,Roseville Nexus,1,7404
+740,saturday,740-39,Roseville Nexus,1,7404
+740,saturday,740-40,Roseville Nexus,1,7404
+740,saturday,740-41,Roseville Nexus,1,7404
+740,saturday,740-42,Roseville Nexus,1,7404
+740,saturday,740-43,Roseville Nexus,1,7404
+740,saturday,740-44,Roseville Nexus,1,7404
+740,saturday,740-45,Roseville Nexus,1,7404
+740,weekday,740-46,Lake St Clair Metro Park,0,7406
+740,weekday,740-47,Lake St Clair Metro Park,0,7406
+740,weekday,740-48,Lake St Clair Metro Park,0,7406
+740,weekday,740-49,Lake St Clair Metro Park,0,7406
+740,weekday,740-50,Lake St Clair Metro Park,0,7406
+740,weekday,740-51,Lake St Clair Metro Park,0,7406
+740,weekday,740-52,Lake St Clair Metro Park,0,7406
+740,weekday,740-53,Lake St Clair Metro Park,0,7406
+740,weekday,740-54,Lake St Clair Metro Park,0,7406
+740,weekday,740-55,Lake St Clair Metro Park,0,7406
+740,weekday,740-56,Lake St Clair Metro Park,0,7406
+740,weekday,740-57,Lake St Clair Metro Park,0,7406
+740,weekday,740-58,Lake St Clair Metro Park,0,7406
+740,weekday,740-59,Lake St Clair Metro Park,0,7406
+740,weekday,740-60,Lake St Clair Metro Park,0,7406
+740,weekday,740-61,Lake St Clair Metro Park,0,7406
+740,weekday,740-62,Lake St Clair Metro Park,0,7406
+740,weekday,740-63,Lake St Clair Metro Park,0,7406
+740,weekday,740-64,Lake St Clair Metro Park,0,7406
+740,weekday,740-65,Lake St Clair Metro Park,0,7406
+740,weekday,740-66,Lake St Clair Metro Park,0,7406
+740,weekday,740-67,Lake St Clair Metro Park,0,7406
+740,weekday,740-68,Lake St Clair Metro Park,0,7406
+740,weekday,740-69,Lake St Clair Metro Park,0,7406
+740,weekday,740-70,Lake St Clair Metro Park,0,7406
+740,weekday,740-71,Lake St Clair Metro Park,0,7406
+740,weekday,740-72,Lake St Clair Metro Park,0,7406
+740,weekday,740-73,Lake St Clair Metro Park,0,7406
+740,weekday,740-74,Lake St Clair Metro Park,0,7406
+740,weekday,740-75,Lake St Clair Metro Park,0,7406
+740,weekday,740-76,Lake St Clair Metro Park,0,7406
+740,weekday,740-77,Lake St Clair Metro Park,0,7406
+740,weekday,740-78,Lake St Clair Metro Park,0,7406
+740,weekday,740-79,Lake St Clair Metro Park,0,7406
+740,weekday,740-80,Roseville Nexus,1,7404
+740,weekday,740-81,Roseville Nexus,1,7404
+740,weekday,740-82,Roseville Nexus,1,7404
+740,weekday,740-83,Roseville Nexus,1,7404
+740,weekday,740-84,Roseville Nexus,1,7404
+740,weekday,740-85,Roseville Nexus,1,7404
+740,weekday,740-86,Roseville Nexus,1,7404
+740,weekday,740-87,Roseville Nexus,1,7404
+740,weekday,740-88,Roseville Nexus,1,7404
+740,weekday,740-89,Roseville Nexus,1,7404
+740,weekday,740-90,Roseville Nexus,1,7404
+740,weekday,740-91,Roseville Nexus,1,7404
+740,weekday,740-92,Roseville Nexus,1,7404
+740,weekday,740-93,Roseville Nexus,1,7404
+740,weekday,740-94,Roseville Nexus,1,7404
+740,weekday,740-95,Roseville Nexus,1,7404
+740,weekday,740-96,Roseville Nexus,1,7404
+740,weekday,740-97,Roseville Nexus,1,7404
+740,weekday,740-98,Roseville Nexus,1,7404
+740,weekday,740-99,Roseville Nexus,1,7404
+740,weekday,740-100,Roseville Nexus,1,7404
+740,weekday,740-101,Roseville Nexus,1,7404
+740,weekday,740-102,Roseville Nexus,1,7404
+740,weekday,740-103,Roseville Nexus,1,7404
+740,weekday,740-104,Roseville Nexus,1,7404
+740,weekday,740-105,Roseville Nexus,1,7404
+740,weekday,740-106,Roseville Nexus,1,7404
+740,weekday,740-107,Roseville Nexus,1,7404
+740,weekday,740-108,Roseville Nexus,1,7404
+740,weekday,740-109,Roseville Nexus,1,7404
+740,weekday,740-110,Roseville Nexus,1,7404
+740,weekday,740-111,Roseville Nexus,1,7404
+740,weekday,740-112,Roseville Nexus,1,7404
+740,weekday,740-113,Roseville Nexus,1,7404
+740,weekday,740-114,Roseville Nexus,1,7404
+740,weekday,740-115,Roseville Nexus,1,7404
+740,weekday,740-116,Roseville Nexus,1,7404
+740,weekday,740-117,Roseville Nexus,1,7404

@@ -1,0 +1,86 @@
+{
+  "IDs": {
+    "Agency": "network",
+    "Route": "ref",
+    "Stop": "ref"
+  },
+  "Names": {
+    "Route": {
+      "Tag": "name",
+      "Pattern": "(?:\\d{3}\\: )?(.+)"
+    }
+  },
+  "Calendars": [
+    {
+      "Start": "2020-01-06",
+      "End": "2021-01-03",
+      "Monday": "weekday",
+      "Tuesday": "weekday",
+      "Wednesday": "weekday",
+      "Thursday": "weekday",
+      "Friday": "weekday",
+      "Saturday": "saturday",
+      "Sunday": "sunday",
+      "Exceptions": {
+        "2020-05-25": "sunday",
+        "2020-07-04": "sunday",
+        "2020-09-07": "sunday",
+        "2020-11-26": "sunday",
+        "2020-12-25": "sunday",
+        "2021-01-01": "sunday"
+      }
+    },
+    {
+      "Start": "2020-01-06",
+      "End": "2021-01-03",
+      "Monday": "weekdaynoph",
+      "Tuesday": "weekdaynoph",
+      "Wednesday": "weekdaynoph",
+      "Thursday": "weekdaynoph",
+      "Friday": "weekdaynoph",
+      "Exceptions": {
+        "2020-05-22": "preholiday",
+        "2020-05-25": null,
+        "2020-07-03": "preholiday",
+        "2020-09-04": "preholiday",
+        "2020-09-07": null,
+        "2020-11-25": "preholiday",
+        "2020-11-26": null,
+        "2020-12-24": "preholiday",
+        "2020-12-25": null,
+        "2020-12-31": "preholiday",
+        "2021-01-01": null
+      }
+    },
+    {
+      "Start": "2020-01-06",
+      "End": "2021-01-03",
+      "Monday": "weekdaynorf",
+      "Tuesday": "weekdaynorf",
+      "Wednesday": "weekdaynorf",
+      "Thursday": "weekdaynorf",
+      "Friday": "weekdaynorf",
+      "Saturday": "saturdaynorf",
+      "Sunday": "sundaynorf",
+      "Exceptions": {
+        "2020-05-25": "sundaynorf",
+        "2020-07-04": "sundaynorf",
+        "2020-09-07": "sundayrenfest",
+        "2020-11-26": "sundaynorf",
+        "2020-12-25": "sundaynorf",
+        "2021-01-01": "sundaynorf"
+      }
+    },
+    {
+      "Start": "2020-08-22",
+      "End": "2020-10-04",
+      "Saturday": "saturdayrenfest",
+      "Sunday": "sundayrenfest",
+      "Exceptions": {}
+    }
+  ],
+  "BlankCalendars": [
+    "weekdayrenfest"
+  ],
+  "TimeZone": "America/Detroit"
+}

@@ -1,0 +1,25 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+505,preholiday,505X-1,Troy Civic Center,0,5068,505X
+505,preholiday,505X-2,Troy Civic Center,0,5068,505X
+505,preholiday,505X-3,Troy Civic Center,0,5068,505X
+505,preholiday,505X-4,Troy Civic Center,0,5068,505X
+505,preholiday,505X-5,Troy Civic Center,0,5068,505X
+505,preholiday,505X-6,Troy Civic Center,0,5068,505X
+505,preholiday,505X-7,Troy Civic Center,0,5068,505X
+505,preholiday,505X-8,Troy Civic Center,0,5068,505X
+505,preholiday,505X-9,Troy Civic Center,0,5068,505X
+505,preholiday,505X-10,Troy Civic Center,0,5068,505X
+505,weekday,505X-11,Jefferson / Brush,1,5062,505X
+505,weekday,505X-12,Jefferson / Brush,1,5062,505X
+505,weekday,505X-13,Jefferson / Brush,1,5062,505X
+505,weekday,505X-14,Jefferson / Brush,1,5062,505X
+505,weekday,505X-15,Jefferson / Brush,1,5062,505X
+505,weekday,505X-16,Jefferson / Brush,1,5062,505X
+505,weekday,505X-17,Jefferson / Brush,1,5062,505X
+505,weekdaynoph,505X-18,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-19,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-20,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-21,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-22,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-23,Troy Civic Center,0,5068,505X
+505,weekdaynoph,505X-24,Troy Civic Center,0,5068,505X

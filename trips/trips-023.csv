@@ -1,0 +1,178 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+023,saturday,023-1,Green / Washington,0,0239
+023,saturday,023-2,Green / Washington,0,0239
+023,saturday,023-3,Green / Washington,0,0239
+023,saturday,023-4,Green / Washington,0,0239
+023,saturday,023-5,Green / Washington,0,0236
+023,saturday,023-6,Green / Washington,0,0236
+023,saturday,023-7,Green / Washington,0,0236
+023,saturday,023-8,Green / Washington,0,0236
+023,saturday,023-9,Green / Washington,0,0236
+023,saturday,023-10,Green / Washington,0,0236
+023,saturday,023-11,Green / Washington,0,0236
+023,saturday,023-12,Green / Washington,0,0236
+023,saturday,023-13,Green / Washington,0,0236
+023,saturday,023-14,Green / Washington,0,0236
+023,saturday,023-15,Green / Washington,0,0236
+023,saturday,023-16,Green / Washington,0,0236
+023,saturday,023-17,Green / Washington,0,0236
+023,saturday,023-18,Green / Washington,0,0236
+023,saturday,023-19,Green / Washington,0,0236
+023,saturday,023-20,Green / Washington,0,0236
+023,saturday,023-21,Green / Washington,0,0236
+023,saturday,023-22,Green / Washington,0,0236
+023,saturday,023-23,Green / Washington,0,0236
+023,saturday,023-24,Green / Washington,0,0236
+023,saturday,023-25,Green / Washington,0,0236
+023,saturday,023-26,Green / Washington,0,0236
+023,saturday,023-27,Green / Washington,0,0236
+023,saturday,023-28,Green / Washington,0,0236
+023,saturday,023-29,Pontiac Nexus,1,0234
+023,saturday,023-30,Pontiac Nexus,1,0234
+023,saturday,023-31,Pontiac Nexus,1,0234
+023,saturday,023-32,Pontiac Nexus,1,0234
+023,saturday,023-33,Pontiac Nexus,1,0234
+023,saturday,023-34,Pontiac Nexus,1,0234
+023,saturday,023-35,Pontiac Nexus,1,0234
+023,saturday,023-36,Pontiac Nexus,1,0234
+023,saturday,023-37,Pontiac Nexus,1,0234
+023,saturday,023-38,Pontiac Nexus,1,0234
+023,saturday,023-39,Pontiac Nexus,1,0234
+023,saturday,023-40,Pontiac Nexus,1,0234
+023,saturday,023-41,Pontiac Nexus,1,0234
+023,saturday,023-42,Pontiac Nexus,1,0234
+023,saturday,023-43,Pontiac Nexus,1,0234
+023,saturday,023-44,Pontiac Nexus,1,0234
+023,saturday,023-45,Pontiac Nexus,1,0234
+023,saturday,023-46,Pontiac Nexus,1,0234
+023,saturday,023-47,Pontiac Nexus,1,0234
+023,saturday,023-48,Pontiac Nexus,1,0234
+023,saturday,023-49,Pontiac Nexus,1,0234
+023,saturday,023-50,Pontiac Nexus,1,0234
+023,saturday,023-51,Pontiac Nexus,1,0234
+023,saturday,023-52,Pontiac Nexus,1,0234
+023,saturday,023-53,Pontiac Nexus,1,0234
+023,saturday,023-54,Pontiac Nexus,1,0234
+023,saturday,023-55,Pontiac Nexus,1,0234
+023,saturday,023-56,Pontiac Nexus,1,0234
+023,sunday,023-57,Green / Washington,0,0239
+023,sunday,023-58,Green / Washington,0,0239
+023,sunday,023-59,Green / Washington,0,0236
+023,sunday,023-60,Green / Washington,0,0236
+023,sunday,023-61,Green / Washington,0,0236
+023,sunday,023-62,Green / Washington,0,0236
+023,sunday,023-63,Green / Washington,0,0236
+023,sunday,023-64,Green / Washington,0,0236
+023,sunday,023-65,Green / Washington,0,0236
+023,sunday,023-66,Green / Washington,0,0236
+023,sunday,023-67,Green / Washington,0,0236
+023,sunday,023-68,Green / Washington,0,0236
+023,sunday,023-69,Green / Washington,0,0236
+023,sunday,023-70,Green / Washington,0,0236
+023,sunday,023-71,Green / Washington,0,0236
+023,sunday,023-72,Green / Washington,0,0236
+023,sunday,023-73,Green / Washington,0,0236
+023,sunday,023-74,Pontiac Nexus,1,0234
+023,sunday,023-75,Pontiac Nexus,1,0234
+023,sunday,023-76,Pontiac Nexus,1,0234
+023,sunday,023-77,Pontiac Nexus,1,0234
+023,sunday,023-78,Pontiac Nexus,1,0234
+023,sunday,023-79,Pontiac Nexus,1,0234
+023,sunday,023-80,Pontiac Nexus,1,0234
+023,sunday,023-81,Pontiac Nexus,1,0234
+023,sunday,023-82,Pontiac Nexus,1,0234
+023,sunday,023-83,Pontiac Nexus,1,0234
+023,sunday,023-84,Pontiac Nexus,1,0234
+023,sunday,023-85,Pontiac Nexus,1,0234
+023,sunday,023-86,Pontiac Nexus,1,0234
+023,sunday,023-87,Pontiac Nexus,1,0234
+023,sunday,023-88,Pontiac Nexus,1,0234
+023,sunday,023-89,Pontiac Nexus,1,0234
+023,sunday,023-90,Pontiac Nexus,1,0234
+023,sunday,023-91,Pontiac Nexus,1,0234
+023,weekday,023-92,Green / Washington,0,0239
+023,weekday,023-93,Green / Washington,0,0239
+023,weekday,023-94,Green / Washington,0,0239
+023,weekday,023-95,Green / Washington,0,0239
+023,weekday,023-96,Green / Washington,0,0239
+023,weekday,023-97,Green / Washington,0,0236
+023,weekday,023-98,Green / Washington,0,0236
+023,weekday,023-99,Green / Washington,0,0236
+023,weekday,023-100,Green / Washington,0,0236
+023,weekday,023-101,Green / Washington,0,0236
+023,weekday,023-102,Green / Washington,0,0236
+023,weekday,023-103,Green / Washington,0,0236
+023,weekday,023-104,Green / Washington,0,0236
+023,weekday,023-105,Green / Washington,0,0236
+023,weekday,023-106,Green / Washington,0,0236
+023,weekday,023-107,Green / Washington,0,0236
+023,weekday,023-108,Green / Washington,0,0236
+023,weekday,023-109,Green / Washington,0,0236
+023,weekday,023-110,Green / Washington,0,0236
+023,weekday,023-111,Green / Washington,0,0236
+023,weekday,023-112,Green / Washington,0,0236
+023,weekday,023-113,Green / Washington,0,0236
+023,weekday,023-114,Green / Washington,0,0236
+023,weekday,023-115,Green / Washington,0,0236
+023,weekday,023-116,Green / Washington,0,0236
+023,weekday,023-117,Green / Washington,0,0236
+023,weekday,023-118,Green / Washington,0,0236
+023,weekday,023-119,Green / Washington,0,0236
+023,weekday,023-120,Green / Washington,0,0236
+023,weekday,023-121,Green / Washington,0,0236
+023,weekday,023-122,Green / Washington,0,0236
+023,weekday,023-123,Green / Washington,0,0236
+023,weekday,023-124,Green / Washington,0,0236
+023,weekday,023-125,Green / Washington,0,0236
+023,weekday,023-126,Green / Washington,0,0236
+023,weekday,023-127,Green / Washington,0,0236
+023,weekday,023-128,Green / Washington,0,0236
+023,weekday,023-129,Green / Washington,0,0236
+023,weekday,023-130,Green / Washington,0,0236
+023,weekday,023-131,Green / Washington,0,0236
+023,weekday,023-132,Green / Washington,0,0236
+023,weekday,023-133,Green / Washington,0,0236
+023,weekday,023-134,Pontiac Nexus,1,0234
+023,weekday,023-135,Pontiac Nexus,1,0234
+023,weekday,023-136,Pontiac Nexus,1,0234
+023,weekday,023-137,Pontiac Nexus,1,0234
+023,weekday,023-138,Pontiac Nexus,1,0234
+023,weekday,023-139,Pontiac Nexus,1,0234
+023,weekday,023-140,Pontiac Nexus,1,0234
+023,weekday,023-141,Pontiac Nexus,1,0234
+023,weekday,023-142,Pontiac Nexus,1,0234
+023,weekday,023-143,Pontiac Nexus,1,0234
+023,weekday,023-144,Pontiac Nexus,1,0234
+023,weekday,023-145,Pontiac Nexus,1,0234
+023,weekday,023-146,Pontiac Nexus,1,0234
+023,weekday,023-147,Pontiac Nexus,1,0234
+023,weekday,023-148,Pontiac Nexus,1,0234
+023,weekday,023-149,Pontiac Nexus,1,0234
+023,weekday,023-150,Pontiac Nexus,1,0234
+023,weekday,023-151,Pontiac Nexus,1,0234
+023,weekday,023-152,Pontiac Nexus,1,0234
+023,weekday,023-153,Pontiac Nexus,1,0234
+023,weekday,023-154,Pontiac Nexus,1,0234
+023,weekday,023-155,Pontiac Nexus,1,0234
+023,weekday,023-156,Pontiac Nexus,1,0234
+023,weekday,023-157,Pontiac Nexus,1,0234
+023,weekday,023-158,Pontiac Nexus,1,0234
+023,weekday,023-159,Pontiac Nexus,1,0234
+023,weekday,023-160,Pontiac Nexus,1,0234
+023,weekday,023-161,Pontiac Nexus,1,0234
+023,weekday,023-162,Pontiac Nexus,1,0234
+023,weekday,023-163,Pontiac Nexus,1,0234
+023,weekday,023-164,Pontiac Nexus,1,0234
+023,weekday,023-165,Pontiac Nexus,1,0234
+023,weekday,023-166,Pontiac Nexus,1,0234
+023,weekday,023-167,Pontiac Nexus,1,0234
+023,weekday,023-168,Pontiac Nexus,1,0234
+023,weekday,023-169,Pontiac Nexus,1,0234
+023,weekday,023-170,Pontiac Nexus,1,0234
+023,weekday,023-171,Pontiac Nexus,1,0234
+023,weekday,023-172,Pontiac Nexus,1,0234
+023,weekday,023-173,Pontiac Nexus,1,0234
+023,weekday,023-174,Pontiac Nexus,1,0234
+023,weekday,023-175,Pontiac Nexus,1,0234
+023,weekday,023-176,Pontiac Nexus,1,0234
+023,weekday,023-177,Pontiac Nexus,1,0234

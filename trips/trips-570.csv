@@ -1,0 +1,105 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+570Z,saturday,570-1,Troy Nexus,0,5708
+570Z,saturday,570-2,Troy Nexus,0,5708
+570Z,saturday,570-3,Troy Nexus,0,5708
+570Z,saturday,570-4,Troy Nexus,0,5708
+570Z,saturday,570-5,Troy Nexus,0,5708
+570Z,saturday,570-6,Troy Nexus,0,5708
+570Z,saturday,570-7,Troy Nexus,0,5708
+570Z,saturday,570-8,Troy Nexus,0,5708
+570Z,saturday,570-9,Troy Nexus,0,5708
+570Z,saturday,570-10,Troy Nexus,0,5708
+570Z,saturday,570-11,Troy Nexus,0,5708
+570Z,saturday,570-12,Troy Nexus,0,5708
+570Z,saturday,570-13,Troy Nexus,0,5708
+570Z,saturday,570-14,Troy Nexus,0,5708
+570Z,saturday,570-15,Troy Nexus,0,5708
+570Z,saturday,570-16,Detroit Zoo,1,5702
+570Z,saturday,570-17,Detroit Zoo,1,5702
+570Z,saturday,570-18,Detroit Zoo,1,5702
+570Z,saturday,570-19,Detroit Zoo,1,5702
+570Z,saturday,570-20,Detroit Zoo,1,5702
+570Z,saturday,570-21,Detroit Zoo,1,5702
+570Z,saturday,570-22,Detroit Zoo,1,5702
+570Z,saturday,570-23,Detroit Zoo,1,5702
+570Z,saturday,570-24,Detroit Zoo,1,5702
+570Z,saturday,570-25,Detroit Zoo,1,5702
+570Z,saturday,570-26,Detroit Zoo,1,5702
+570Z,saturday,570-27,Detroit Zoo,1,5702
+570Z,saturday,570-28,Detroit Zoo,1,5702
+570Z,saturday,570-29,Detroit Zoo,1,5702
+570Z,saturday,570-30,Detroit Zoo,1,5702
+570R,weekday,570-31,Troy Nexus,0,5707
+570R,weekday,570-32,Troy Nexus,0,5707
+570R,weekday,570-33,Troy Nexus,0,5707
+570R,weekday,570-34,Troy Nexus,0,5707
+570R,weekday,570-35,Troy Nexus,0,5707
+570Z,weekday,570-36,Troy Nexus,0,5708
+570R,weekday,570-37,Troy Nexus,0,5707
+570Z,weekday,570-38,Troy Nexus,0,5708
+570Z,weekday,570-39,Troy Nexus,0,5708
+570Z,weekday,570-40,Troy Nexus,0,5708
+570Z,weekday,570-41,Troy Nexus,0,5708
+570Z,weekday,570-42,Troy Nexus,0,5708
+570Z,weekday,570-43,Troy Nexus,0,5708
+570Z,weekday,570-44,Troy Nexus,0,5708
+570Z,weekday,570-45,Troy Nexus,0,5708
+570Z,weekday,570-46,Troy Nexus,0,5708
+570Z,weekday,570-47,Troy Nexus,0,5708
+570Z,weekday,570-48,Troy Nexus,0,5708
+570Z,weekday,570-49,Troy Nexus,0,5708
+570Z,weekday,570-50,Troy Nexus,0,5708
+570Z,weekday,570-51,Troy Nexus,0,5708
+570Z,weekday,570-52,Troy Nexus,0,5708
+570Z,weekday,570-53,Troy Nexus,0,5708
+570Z,weekday,570-54,Troy Nexus,0,5708
+570Z,weekday,570-55,Troy Nexus,0,5708
+570Z,weekday,570-56,Troy Nexus,0,5708
+570R,weekday,570-57,Troy Nexus,0,5707
+570R,weekday,570-58,Troy Nexus,0,5707
+570Z,weekday,570-59,Troy Nexus,0,5708
+570R,weekday,570-60,Troy Nexus,0,5707
+570R,weekday,570-61,Troy Nexus,0,5707
+570R,weekday,570-62,Troy Nexus,0,5707
+570R,weekday,570-63,Troy Nexus,0,5707
+570R,weekday,570-64,Troy Nexus,0,5707
+570R,weekday,570-65,Troy Nexus,0,5707
+570R,weekday,570-66,Troy Nexus,0,5707
+570R,weekday,570-67,Troy Nexus,0,5707
+570R,weekday,570-68,Troy Nexus,0,5707
+570R,weekday,570-69,Royal Oak Nexus,1,5701
+570R,weekday,570-70,Royal Oak Nexus,1,5701
+570R,weekday,570-71,Royal Oak Nexus,1,5701
+570R,weekday,570-72,Royal Oak Nexus,1,5701
+570R,weekday,570-73,Royal Oak Nexus,1,5701
+570R,weekday,570-74,Royal Oak Nexus,1,5701
+570Z,weekday,570-75,Detroit Zoo,1,5702
+570R,weekday,570-76,Royal Oak Nexus,1,5701
+570Z,weekday,570-77,Detroit Zoo,1,5702
+570Z,weekday,570-78,Detroit Zoo,1,5702
+570Z,weekday,570-79,Detroit Zoo,1,5702
+570Z,weekday,570-80,Detroit Zoo,1,5702
+570Z,weekday,570-81,Detroit Zoo,1,5702
+570Z,weekday,570-82,Detroit Zoo,1,5702
+570Z,weekday,570-83,Detroit Zoo,1,5702
+570Z,weekday,570-84,Detroit Zoo,1,5702
+570Z,weekday,570-85,Detroit Zoo,1,5702
+570Z,weekday,570-86,Detroit Zoo,1,5702
+570Z,weekday,570-87,Detroit Zoo,1,5702
+570Z,weekday,570-88,Detroit Zoo,1,5702
+570Z,weekday,570-89,Detroit Zoo,1,5702
+570Z,weekday,570-90,Detroit Zoo,1,5702
+570Z,weekday,570-91,Detroit Zoo,1,5702
+570Z,weekday,570-92,Detroit Zoo,1,5702
+570Z,weekday,570-93,Detroit Zoo,1,5702
+570Z,weekday,570-94,Detroit Zoo,1,5702
+570Z,weekday,570-95,Detroit Zoo,1,5702
+570Z,weekday,570-96,Detroit Zoo,1,5702
+570Z,weekday,570-97,Detroit Zoo,1,5702
+570R,weekday,570-98,Royal Oak Nexus,1,5701
+570R,weekday,570-99,Royal Oak Nexus,1,5701
+570Z,weekday,570-100,Detroit Zoo,1,5702
+570R,weekday,570-101,Royal Oak Nexus,1,5701
+570R,weekday,570-102,Royal Oak Nexus,1,5701
+570R,weekday,570-103,Royal Oak Nexus,1,5701
+570R,weekday,570-104,Royal Oak Nexus,1,5701

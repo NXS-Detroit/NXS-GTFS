@@ -1,0 +1,104 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+014,saturday,014-1,Roseville Nexus,1,0146
+014,saturday,014-2,Roseville Nexus,1,0146
+014,saturday,014-3,Roseville Nexus,1,0146
+014,saturday,014-4,Roseville Nexus,1,0146
+014,saturday,014-5,Roseville Nexus,1,0146
+014,saturday,014-6,Roseville Nexus,1,0146
+014,saturday,014-7,Roseville Nexus,1,0146
+014,saturday,014-8,Roseville Nexus,1,0146
+014,saturday,014-9,Roseville Nexus,1,0146
+014,saturday,014-10,Roseville Nexus,1,0146
+014,saturday,014-11,Roseville Nexus,1,0146
+014,saturday,014-12,Roseville Nexus,1,0146
+014,saturday,014-13,Roseville Nexus,1,0146
+014,saturday,014-14,Roseville Nexus,1,0146
+014,saturday,014-15,Roseville Nexus,1,0146
+014,saturday,014-16,Roseville Nexus,1,0146
+014,saturday,014-17,Roseville Nexus,1,0146
+014,saturday,014-18,Roseville Nexus,1,0146
+014,saturday,014-19,Roseville Nexus,1,0146
+014,saturday,014-20,Roseville Nexus,1,0146
+014,saturday,014-21,Orchard Place Mall,0,0144
+014,saturday,014-22,Orchard Place Mall,0,0144
+014,saturday,014-23,Orchard Place Mall,0,0144
+014,saturday,014-24,Orchard Place Mall,0,0144
+014,saturday,014-25,Orchard Place Mall,0,0144
+014,saturday,014-26,Orchard Place Mall,0,0144
+014,saturday,014-27,Orchard Place Mall,0,0144
+014,saturday,014-28,Orchard Place Mall,0,0144
+014,saturday,014-29,Orchard Place Mall,0,0144
+014,saturday,014-30,Orchard Place Mall,0,0144
+014,saturday,014-31,Orchard Place Mall,0,0144
+014,saturday,014-32,Orchard Place Mall,0,0144
+014,saturday,014-33,Orchard Place Mall,0,0144
+014,saturday,014-34,Orchard Place Mall,0,0144
+014,saturday,014-35,Orchard Place Mall,0,0144
+014,saturday,014-36,Orchard Place Mall,0,0144
+014,saturday,014-37,Orchard Place Mall,0,0144
+014,saturday,014-38,Orchard Place Mall,0,0144
+014,saturday,014-39,Orchard Place Mall,0,0144
+014,saturday,014-40,Orchard Place Mall,0,0144
+014,saturday,014-41,Orchard Place Mall,0,0144
+014,weekday,014-42,Roseville Nexus,1,0146
+014,weekday,014-43,Roseville Nexus,1,0146
+014,weekday,014-44,Roseville Nexus,1,0146
+014,weekday,014-45,Roseville Nexus,1,0146
+014,weekday,014-46,Roseville Nexus,1,0146
+014,weekday,014-47,Roseville Nexus,1,0146
+014,weekday,014-48,Roseville Nexus,1,0146
+014,weekday,014-49,Roseville Nexus,1,0146
+014,weekday,014-50,Roseville Nexus,1,0146
+014,weekday,014-51,Roseville Nexus,1,0146
+014,weekday,014-52,Roseville Nexus,1,0146
+014,weekday,014-53,Roseville Nexus,1,0146
+014,weekday,014-54,Roseville Nexus,1,0146
+014,weekday,014-55,Roseville Nexus,1,0146
+014,weekday,014-56,Roseville Nexus,1,0146
+014,weekday,014-57,Roseville Nexus,1,0146
+014,weekday,014-58,Roseville Nexus,1,0146
+014,weekday,014-59,Roseville Nexus,1,0146
+014,weekday,014-60,Roseville Nexus,1,0146
+014,weekday,014-61,Roseville Nexus,1,0146
+014,weekday,014-62,Roseville Nexus,1,0146
+014,weekday,014-63,Roseville Nexus,1,0146
+014,weekday,014-64,Roseville Nexus,1,0146
+014,weekday,014-65,Roseville Nexus,1,0146
+014,weekday,014-66,Roseville Nexus,1,0146
+014,weekday,014-67,Roseville Nexus,1,0146
+014,weekday,014-68,Roseville Nexus,1,0146
+014,weekday,014-69,Roseville Nexus,1,0146
+014,weekday,014-70,Roseville Nexus,1,0146
+014,weekday,014-71,Roseville Nexus,1,0146
+014,weekday,014-72,Roseville Nexus,1,0146
+014,weekday,014-73,Orchard Place Mall,0,0144
+014,weekday,014-74,Orchard Place Mall,0,0144
+014,weekday,014-75,Orchard Place Mall,0,0144
+014,weekday,014-76,Orchard Place Mall,0,0144
+014,weekday,014-77,Orchard Place Mall,0,0144
+014,weekday,014-78,Orchard Place Mall,0,0144
+014,weekday,014-79,Orchard Place Mall,0,0144
+014,weekday,014-80,Orchard Place Mall,0,0144
+014,weekday,014-81,Orchard Place Mall,0,0144
+014,weekday,014-82,Orchard Place Mall,0,0144
+014,weekday,014-83,Orchard Place Mall,0,0144
+014,weekday,014-84,Orchard Place Mall,0,0144
+014,weekday,014-85,Orchard Place Mall,0,0144
+014,weekday,014-86,Orchard Place Mall,0,0144
+014,weekday,014-87,Orchard Place Mall,0,0144
+014,weekday,014-88,Orchard Place Mall,0,0144
+014,weekday,014-89,Orchard Place Mall,0,0144
+014,weekday,014-90,Orchard Place Mall,0,0144
+014,weekday,014-91,Orchard Place Mall,0,0144
+014,weekday,014-92,Orchard Place Mall,0,0144
+014,weekday,014-93,Orchard Place Mall,0,0144
+014,weekday,014-94,Orchard Place Mall,0,0144
+014,weekday,014-95,Orchard Place Mall,0,0144
+014,weekday,014-96,Orchard Place Mall,0,0144
+014,weekday,014-97,Orchard Place Mall,0,0144
+014,weekday,014-98,Orchard Place Mall,0,0144
+014,weekday,014-99,Orchard Place Mall,0,0144
+014,weekday,014-100,Orchard Place Mall,0,0144
+014,weekday,014-101,Orchard Place Mall,0,0144
+014,weekday,014-102,Orchard Place Mall,0,0144
+014,weekday,014-103,Orchard Place Mall,0,0144

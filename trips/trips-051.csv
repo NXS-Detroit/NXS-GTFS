@@ -1,0 +1,105 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+051,saturday,051-1,Henry Ford West Bloomfield,1,0518
+051,saturday,051-2,Henry Ford West Bloomfield,1,0518
+051,saturday,051-3,Henry Ford West Bloomfield,1,0518
+051,saturday,051-4,Henry Ford West Bloomfield,1,0518
+051,saturday,051-5,Henry Ford West Bloomfield,1,0518
+051,saturday,051-6,Henry Ford West Bloomfield,1,0518
+051,saturday,051-7,Henry Ford West Bloomfield,1,0518
+051,saturday,051-8,Henry Ford West Bloomfield,1,0518
+051,saturday,051-9,Henry Ford West Bloomfield,1,0518
+051,saturday,051-10,Henry Ford West Bloomfield,1,0518
+051,saturday,051-11,Henry Ford West Bloomfield,1,0518
+051,saturday,051-12,Henry Ford West Bloomfield,1,0518
+051,saturday,051-13,Henry Ford West Bloomfield,1,0518
+051,saturday,051-14,Henry Ford West Bloomfield,1,0518
+051,saturday,051-15,Henry Ford West Bloomfield,1,0518
+051,saturday,051-16,Henry Ford West Bloomfield,1,0518
+051,saturday,051-17,Henry Ford West Bloomfield,1,0518
+051,saturday,051-18,Henry Ford West Bloomfield,1,0518
+051,saturday,051-19,Henry Ford West Bloomfield,1,0518
+051,saturday,051-20,Henry Ford West Bloomfield,1,0518
+051,saturday,051-21,Henry Ford West Bloomfield,1,0518
+051,saturday,051-22,Metro Airport Nexus,0,0512
+051,saturday,051-23,Metro Airport Nexus,0,0512
+051,saturday,051-24,Metro Airport Nexus,0,0512
+051,saturday,051-25,Metro Airport Nexus,0,0512
+051,saturday,051-26,Metro Airport Nexus,0,0512
+051,saturday,051-27,Metro Airport Nexus,0,0512
+051,saturday,051-28,Metro Airport Nexus,0,0512
+051,saturday,051-29,Metro Airport Nexus,0,0512
+051,saturday,051-30,Metro Airport Nexus,0,0512
+051,saturday,051-31,Metro Airport Nexus,0,0512
+051,saturday,051-32,Metro Airport Nexus,0,0512
+051,saturday,051-33,Metro Airport Nexus,0,0512
+051,saturday,051-34,Metro Airport Nexus,0,0512
+051,saturday,051-35,Metro Airport Nexus,0,0512
+051,saturday,051-36,Metro Airport Nexus,0,0512
+051,saturday,051-37,Metro Airport Nexus,0,0512
+051,saturday,051-38,Metro Airport Nexus,0,0512
+051,saturday,051-39,Metro Airport Nexus,0,0512
+051,saturday,051-40,Metro Airport Nexus,0,0512
+051,saturday,051-41,Metro Airport Nexus,0,0512
+051,saturday,051-42,Metro Airport Nexus,0,0512
+051,weekday,051-43,Henry Ford West Bloomfield,1,0518
+051,weekday,051-44,Henry Ford West Bloomfield,1,0518
+051,weekday,051-45,Henry Ford West Bloomfield,1,0518
+051,weekday,051-46,Henry Ford West Bloomfield,1,0518
+051,weekday,051-47,Henry Ford West Bloomfield,1,0518
+051,weekday,051-48,Henry Ford West Bloomfield,1,0518
+051,weekday,051-49,Henry Ford West Bloomfield,1,0518
+051,weekday,051-50,Henry Ford West Bloomfield,1,0518
+051,weekday,051-51,Henry Ford West Bloomfield,1,0518
+051,weekday,051-52,Henry Ford West Bloomfield,1,0518
+051,weekday,051-53,Henry Ford West Bloomfield,1,0518
+051,weekday,051-54,Henry Ford West Bloomfield,1,0518
+051,weekday,051-55,Henry Ford West Bloomfield,1,0518
+051,weekday,051-56,Henry Ford West Bloomfield,1,0518
+051,weekday,051-57,Henry Ford West Bloomfield,1,0518
+051,weekday,051-58,Henry Ford West Bloomfield,1,0518
+051,weekday,051-59,Henry Ford West Bloomfield,1,0518
+051,weekday,051-60,Henry Ford West Bloomfield,1,0518
+051,weekday,051-61,Henry Ford West Bloomfield,1,0518
+051,weekday,051-62,Henry Ford West Bloomfield,1,0518
+051,weekday,051-63,Henry Ford West Bloomfield,1,0518
+051,weekday,051-64,Henry Ford West Bloomfield,1,0518
+051,weekday,051-65,Henry Ford West Bloomfield,1,0518
+051,weekday,051-66,Henry Ford West Bloomfield,1,0518
+051,weekday,051-67,Henry Ford West Bloomfield,1,0518
+051,weekday,051-68,Henry Ford West Bloomfield,1,0518
+051,weekday,051-69,Henry Ford West Bloomfield,1,0518
+051,weekday,051-70,Northville Park & Ride,1,0517
+051,weekday,051-71,Northville Park & Ride,1,0517
+051,weekday,051-72,Northville Park & Ride,1,0517
+051,weekday,051-73,Northville Park & Ride,1,0517
+051,weekday,051-74,Metro Airport Nexus,0,0511
+051,weekday,051-75,Metro Airport Nexus,0,0511
+051,weekday,051-76,Metro Airport Nexus,0,0511
+051,weekday,051-77,Metro Airport Nexus,0,0511
+051,weekday,051-78,Metro Airport Nexus,0,0512
+051,weekday,051-79,Metro Airport Nexus,0,0512
+051,weekday,051-80,Metro Airport Nexus,0,0512
+051,weekday,051-81,Metro Airport Nexus,0,0512
+051,weekday,051-82,Metro Airport Nexus,0,0512
+051,weekday,051-83,Metro Airport Nexus,0,0512
+051,weekday,051-84,Metro Airport Nexus,0,0512
+051,weekday,051-85,Metro Airport Nexus,0,0512
+051,weekday,051-86,Metro Airport Nexus,0,0512
+051,weekday,051-87,Metro Airport Nexus,0,0512
+051,weekday,051-88,Metro Airport Nexus,0,0512
+051,weekday,051-89,Metro Airport Nexus,0,0512
+051,weekday,051-90,Metro Airport Nexus,0,0512
+051,weekday,051-91,Metro Airport Nexus,0,0512
+051,weekday,051-92,Metro Airport Nexus,0,0512
+051,weekday,051-93,Metro Airport Nexus,0,0512
+051,weekday,051-94,Metro Airport Nexus,0,0512
+051,weekday,051-95,Metro Airport Nexus,0,0512
+051,weekday,051-96,Metro Airport Nexus,0,0512
+051,weekday,051-97,Metro Airport Nexus,0,0512
+051,weekday,051-98,Metro Airport Nexus,0,0512
+051,weekday,051-99,Metro Airport Nexus,0,0512
+051,weekday,051-100,Metro Airport Nexus,0,0512
+051,weekday,051-101,Metro Airport Nexus,0,0512
+051,weekday,051-102,Metro Airport Nexus,0,0512
+051,weekday,051-103,Metro Airport Nexus,0,0512
+051,weekday,051-104,Metro Airport Nexus,0,0512

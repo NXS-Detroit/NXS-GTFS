@@ -1,0 +1,1 @@
+Please see [this file](https://github.com/NXS-Detroit/NXS-License/blob/master/LICENSE.md) for the license of this repository.

@@ -1,0 +1,329 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+056,saturday,056-1,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-2,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-3,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-4,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-5,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-6,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-7,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-8,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-9,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-10,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-11,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-12,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-13,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-14,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-15,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-16,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-17,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-18,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-19,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-20,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-21,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-22,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-23,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-24,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-25,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-26,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-27,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-28,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-29,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-30,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-31,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-32,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-33,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-34,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-35,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-36,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-37,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-38,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-39,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-40,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-41,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-42,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-43,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-44,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-45,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-46,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-47,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-48,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-49,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-50,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-51,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-52,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-53,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-54,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-55,Oakland Community College Orchard Ridge,0,0568
+056,saturday,056-56,Metro Airport Nexus,1,0562
+056,saturday,056-57,Metro Airport Nexus,1,0562
+056,saturday,056-58,Metro Airport Nexus,1,0562
+056,saturday,056-59,Metro Airport Nexus,1,0562
+056,saturday,056-60,Metro Airport Nexus,1,0562
+056,saturday,056-61,Metro Airport Nexus,1,0562
+056,saturday,056-62,Metro Airport Nexus,1,0562
+056,saturday,056-63,Metro Airport Nexus,1,0562
+056,saturday,056-64,Metro Airport Nexus,1,0562
+056,saturday,056-65,Metro Airport Nexus,1,0562
+056,saturday,056-66,Metro Airport Nexus,1,0562
+056,saturday,056-67,Metro Airport Nexus,1,0562
+056,saturday,056-68,Metro Airport Nexus,1,0562
+056,saturday,056-69,Metro Airport Nexus,1,0562
+056,saturday,056-70,Metro Airport Nexus,1,0562
+056,saturday,056-71,Metro Airport Nexus,1,0562
+056,saturday,056-72,Metro Airport Nexus,1,0562
+056,saturday,056-73,Metro Airport Nexus,1,0562
+056,saturday,056-74,Metro Airport Nexus,1,0562
+056,saturday,056-75,Metro Airport Nexus,1,0562
+056,saturday,056-76,Metro Airport Nexus,1,0562
+056,saturday,056-77,Metro Airport Nexus,1,0562
+056,saturday,056-78,Metro Airport Nexus,1,0562
+056,saturday,056-79,Metro Airport Nexus,1,0562
+056,saturday,056-80,Metro Airport Nexus,1,0562
+056,saturday,056-81,Metro Airport Nexus,1,0562
+056,saturday,056-82,Metro Airport Nexus,1,0562
+056,saturday,056-83,Metro Airport Nexus,1,0562
+056,saturday,056-84,Metro Airport Nexus,1,0562
+056,saturday,056-85,Metro Airport Nexus,1,0562
+056,saturday,056-86,Metro Airport Nexus,1,0562
+056,saturday,056-87,Metro Airport Nexus,1,0562
+056,saturday,056-88,Metro Airport Nexus,1,0562
+056,saturday,056-89,Metro Airport Nexus,1,0562
+056,saturday,056-90,Metro Airport Nexus,1,0562
+056,saturday,056-91,Metro Airport Nexus,1,0562
+056,saturday,056-92,Metro Airport Nexus,1,0562
+056,saturday,056-93,Metro Airport Nexus,1,0562
+056,saturday,056-94,Metro Airport Nexus,1,0562
+056,saturday,056-95,Metro Airport Nexus,1,0562
+056,saturday,056-96,Metro Airport Nexus,1,0562
+056,saturday,056-97,Metro Airport Nexus,1,0562
+056,saturday,056-98,Metro Airport Nexus,1,0562
+056,saturday,056-99,Metro Airport Nexus,1,0562
+056,saturday,056-100,Metro Airport Nexus,1,0562
+056,saturday,056-101,Metro Airport Nexus,1,0562
+056,saturday,056-102,Metro Airport Nexus,1,0562
+056,saturday,056-103,Metro Airport Nexus,1,0562
+056,saturday,056-104,Metro Airport Nexus,1,0562
+056,saturday,056-105,Metro Airport Nexus,1,0562
+056,saturday,056-106,Metro Airport Nexus,1,0562
+056,saturday,056-107,Metro Airport Nexus,1,0562
+056,saturday,056-108,Metro Airport Nexus,1,0562
+056,saturday,056-109,Metro Airport Nexus,1,0562
+056,saturday,056-110,Metro Airport Nexus,1,0562
+056,sunday,056-111,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-112,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-113,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-114,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-115,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-116,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-117,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-118,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-119,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-120,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-121,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-122,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-123,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-124,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-125,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-126,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-127,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-128,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-129,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-130,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-131,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-132,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-133,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-134,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-135,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-136,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-137,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-138,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-139,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-140,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-141,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-142,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-143,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-144,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-145,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-146,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-147,Oakland Community College Orchard Ridge,0,0568
+056,sunday,056-148,Metro Airport Nexus,1,0562
+056,sunday,056-149,Metro Airport Nexus,1,0562
+056,sunday,056-150,Metro Airport Nexus,1,0562
+056,sunday,056-151,Metro Airport Nexus,1,0562
+056,sunday,056-152,Metro Airport Nexus,1,0562
+056,sunday,056-153,Metro Airport Nexus,1,0562
+056,sunday,056-154,Metro Airport Nexus,1,0562
+056,sunday,056-155,Metro Airport Nexus,1,0562
+056,sunday,056-156,Metro Airport Nexus,1,0562
+056,sunday,056-157,Metro Airport Nexus,1,0562
+056,sunday,056-158,Metro Airport Nexus,1,0562
+056,sunday,056-159,Metro Airport Nexus,1,0562
+056,sunday,056-160,Metro Airport Nexus,1,0562
+056,sunday,056-161,Metro Airport Nexus,1,0562
+056,sunday,056-162,Metro Airport Nexus,1,0562
+056,sunday,056-163,Metro Airport Nexus,1,0562
+056,sunday,056-164,Metro Airport Nexus,1,0562
+056,sunday,056-165,Metro Airport Nexus,1,0562
+056,sunday,056-166,Metro Airport Nexus,1,0562
+056,sunday,056-167,Metro Airport Nexus,1,0562
+056,sunday,056-168,Metro Airport Nexus,1,0562
+056,sunday,056-169,Metro Airport Nexus,1,0562
+056,sunday,056-170,Metro Airport Nexus,1,0562
+056,sunday,056-171,Metro Airport Nexus,1,0562
+056,sunday,056-172,Metro Airport Nexus,1,0562
+056,sunday,056-173,Metro Airport Nexus,1,0562
+056,sunday,056-174,Metro Airport Nexus,1,0562
+056,sunday,056-175,Metro Airport Nexus,1,0562
+056,sunday,056-176,Metro Airport Nexus,1,0562
+056,sunday,056-177,Metro Airport Nexus,1,0562
+056,sunday,056-178,Metro Airport Nexus,1,0562
+056,sunday,056-179,Metro Airport Nexus,1,0562
+056,sunday,056-180,Metro Airport Nexus,1,0562
+056,sunday,056-181,Metro Airport Nexus,1,0562
+056,sunday,056-182,Metro Airport Nexus,1,0562
+056,sunday,056-183,Metro Airport Nexus,1,0562
+056,sunday,056-184,Metro Airport Nexus,1,0562
+056,weekday,056-185,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-186,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-187,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-188,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-189,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-190,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-191,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-192,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-193,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-194,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-195,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-196,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-197,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-198,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-199,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-200,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-201,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-202,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-203,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-204,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-205,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-206,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-207,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-208,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-209,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-210,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-211,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-212,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-213,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-214,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-215,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-216,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-217,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-218,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-219,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-220,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-221,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-222,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-223,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-224,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-225,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-226,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-227,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-228,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-229,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-230,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-231,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-232,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-233,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-234,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-235,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-236,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-237,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-238,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-239,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-240,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-241,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-242,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-243,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-244,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-245,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-246,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-247,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-248,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-249,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-250,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-251,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-252,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-253,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-254,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-255,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-256,Oakland Community College Orchard Ridge,0,0568
+056,weekday,056-257,Metro Airport Nexus,1,0562
+056,weekday,056-258,Metro Airport Nexus,1,0562
+056,weekday,056-259,Metro Airport Nexus,1,0562
+056,weekday,056-260,Metro Airport Nexus,1,0562
+056,weekday,056-261,Metro Airport Nexus,1,0562
+056,weekday,056-262,Metro Airport Nexus,1,0562
+056,weekday,056-263,Metro Airport Nexus,1,0562
+056,weekday,056-264,Metro Airport Nexus,1,0562
+056,weekday,056-265,Metro Airport Nexus,1,0562
+056,weekday,056-266,Metro Airport Nexus,1,0562
+056,weekday,056-267,Metro Airport Nexus,1,0562
+056,weekday,056-268,Metro Airport Nexus,1,0562
+056,weekday,056-269,Metro Airport Nexus,1,0562
+056,weekday,056-270,Metro Airport Nexus,1,0562
+056,weekday,056-271,Metro Airport Nexus,1,0562
+056,weekday,056-272,Metro Airport Nexus,1,0562
+056,weekday,056-273,Metro Airport Nexus,1,0562
+056,weekday,056-274,Metro Airport Nexus,1,0562
+056,weekday,056-275,Metro Airport Nexus,1,0562
+056,weekday,056-276,Metro Airport Nexus,1,0562
+056,weekday,056-277,Metro Airport Nexus,1,0562
+056,weekday,056-278,Metro Airport Nexus,1,0562
+056,weekday,056-279,Metro Airport Nexus,1,0562
+056,weekday,056-280,Metro Airport Nexus,1,0562
+056,weekday,056-281,Metro Airport Nexus,1,0562
+056,weekday,056-282,Metro Airport Nexus,1,0562
+056,weekday,056-283,Metro Airport Nexus,1,0562
+056,weekday,056-284,Metro Airport Nexus,1,0562
+056,weekday,056-285,Metro Airport Nexus,1,0562
+056,weekday,056-286,Metro Airport Nexus,1,0562
+056,weekday,056-287,Metro Airport Nexus,1,0562
+056,weekday,056-288,Metro Airport Nexus,1,0562
+056,weekday,056-289,Metro Airport Nexus,1,0562
+056,weekday,056-290,Metro Airport Nexus,1,0562
+056,weekday,056-291,Metro Airport Nexus,1,0562
+056,weekday,056-292,Metro Airport Nexus,1,0562
+056,weekday,056-293,Metro Airport Nexus,1,0562
+056,weekday,056-294,Metro Airport Nexus,1,0562
+056,weekday,056-295,Metro Airport Nexus,1,0562
+056,weekday,056-296,Metro Airport Nexus,1,0562
+056,weekday,056-297,Metro Airport Nexus,1,0562
+056,weekday,056-298,Metro Airport Nexus,1,0562
+056,weekday,056-299,Metro Airport Nexus,1,0562
+056,weekday,056-300,Metro Airport Nexus,1,0562
+056,weekday,056-301,Metro Airport Nexus,1,0562
+056,weekday,056-302,Metro Airport Nexus,1,0562
+056,weekday,056-303,Metro Airport Nexus,1,0562
+056,weekday,056-304,Metro Airport Nexus,1,0562
+056,weekday,056-305,Metro Airport Nexus,1,0562
+056,weekday,056-306,Metro Airport Nexus,1,0562
+056,weekday,056-307,Metro Airport Nexus,1,0562
+056,weekday,056-308,Metro Airport Nexus,1,0562
+056,weekday,056-309,Metro Airport Nexus,1,0562
+056,weekday,056-310,Metro Airport Nexus,1,0562
+056,weekday,056-311,Metro Airport Nexus,1,0562
+056,weekday,056-312,Metro Airport Nexus,1,0562
+056,weekday,056-313,Metro Airport Nexus,1,0562
+056,weekday,056-314,Metro Airport Nexus,1,0562
+056,weekday,056-315,Metro Airport Nexus,1,0562
+056,weekday,056-316,Metro Airport Nexus,1,0562
+056,weekday,056-317,Metro Airport Nexus,1,0562
+056,weekday,056-318,Metro Airport Nexus,1,0562
+056,weekday,056-319,Metro Airport Nexus,1,0562
+056,weekday,056-320,Metro Airport Nexus,1,0562
+056,weekday,056-321,Metro Airport Nexus,1,0562
+056,weekday,056-322,Metro Airport Nexus,1,0562
+056,weekday,056-323,Metro Airport Nexus,1,0562
+056,weekday,056-324,Metro Airport Nexus,1,0562
+056,weekday,056-325,Metro Airport Nexus,1,0562
+056,weekday,056-326,Metro Airport Nexus,1,0562
+056,weekday,056-327,Metro Airport Nexus,1,0562
+056,weekday,056-328,Metro Airport Nexus,1,0562

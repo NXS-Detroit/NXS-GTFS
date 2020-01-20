@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone
+NXS Detroit,Neighborhood and Crosstown System of Metro Detroit,https://nxsbus.org/,America/Detroit

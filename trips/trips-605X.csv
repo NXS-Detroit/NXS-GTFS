@@ -1,0 +1,27 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+605,preholiday,605X-1,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-2,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-3,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-4,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-5,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-6,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-7,Shelby Township Amazon,0,6068,605X
+605,preholiday,605X-8,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-9,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-10,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-11,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-12,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-13,Rosa Parks Nexus,1,6062,605X
+605,preholiday,605X-14,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-15,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-16,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-17,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-18,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-19,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-20,Shelby Township Amazon,0,6068,605X
+605,weekdaynoph,605X-21,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-22,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-23,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-24,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-25,Rosa Parks Nexus,1,6062,605X
+605,weekdaynoph,605X-26,Rosa Parks Nexus,1,6062,605X

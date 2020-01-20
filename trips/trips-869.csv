@@ -1,0 +1,61 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+869,weekday,869-1,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-2,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-3,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-4,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-5,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-6,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-7,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-8,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-9,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-10,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-11,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-12,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-13,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-14,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-15,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-16,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-17,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-18,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-19,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-20,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-21,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-22,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-23,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-24,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-25,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-26,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-27,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-28,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-29,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-30,Mt Clemens via Southfield City Center,0,8696
+869,weekday,869-31,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-32,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-33,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-34,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-35,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-36,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-37,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-38,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-39,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-40,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-41,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-42,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-43,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-44,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-45,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-46,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-47,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-48,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-49,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-50,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-51,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-52,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-53,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-54,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-55,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-56,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-57,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-58,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-59,Novi Park & Ride via Southfield City Center,1,8694
+869,weekday,869-60,Novi Park & Ride via Southfield City Center,1,8694

@@ -1,0 +1,7 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+standard,2.00,USD,0,,10800
+premium,2.50,USD,0,,10800
+edge,3.00,USD,0,,10800
+international,5.00,USD,0,,10800
+free,0.00,USD,0,0,600
+downtown,1.00,USD,0,0,600

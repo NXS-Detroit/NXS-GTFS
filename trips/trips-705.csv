@@ -1,0 +1,104 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+705,saturday,705-1,Lake St Clair Metro Park,0,7057
+705,saturday,705-2,Lake St Clair Metro Park,0,7057
+705,saturday,705-3,Lake St Clair Metro Park,0,7057
+705,saturday,705-4,Lake St Clair Metro Park,0,7057
+705,saturday,705-5,Lake St Clair Metro Park,0,7057
+705,saturday,705-6,Lake St Clair Metro Park,0,7057
+705,saturday,705-7,Lake St Clair Metro Park,0,7057
+705,saturday,705-8,Lake St Clair Metro Park,0,7057
+705,saturday,705-9,Lake St Clair Metro Park,0,7057
+705,saturday,705-10,Lake St Clair Metro Park,0,7057
+705,saturday,705-11,Lake St Clair Metro Park,0,7057
+705,saturday,705-12,Lake St Clair Metro Park,0,7057
+705,saturday,705-13,Lake St Clair Metro Park,0,7057
+705,saturday,705-14,Lake St Clair Metro Park,0,7057
+705,saturday,705-15,Lake St Clair Metro Park,0,7057
+705,saturday,705-16,Metro Parkway / Jefferson,1,7058
+705,saturday,705-17,Metro Parkway / Jefferson,1,7058
+705,saturday,705-18,Rosa Parks Nexus,1,7052
+705,saturday,705-19,Rosa Parks Nexus,1,7052
+705,saturday,705-20,Rosa Parks Nexus,1,7051
+705,saturday,705-21,Rosa Parks Nexus,1,7051
+705,saturday,705-22,Rosa Parks Nexus,1,7051
+705,saturday,705-23,Rosa Parks Nexus,1,7051
+705,saturday,705-24,Rosa Parks Nexus,1,7051
+705,saturday,705-25,Rosa Parks Nexus,1,7051
+705,saturday,705-26,Rosa Parks Nexus,1,7051
+705,saturday,705-27,Rosa Parks Nexus,1,7051
+705,saturday,705-28,Rosa Parks Nexus,1,7051
+705,saturday,705-29,Rosa Parks Nexus,1,7051
+705,saturday,705-30,Rosa Parks Nexus,1,7051
+705,saturday,705-31,Rosa Parks Nexus,1,7051
+705,saturday,705-32,Rosa Parks Nexus,1,7051
+705,saturday,705-33,Rosa Parks Nexus,1,7051
+705,weekday,705-34,Metro Parkway / Jefferson,1,7058
+705,weekday,705-35,Lake St Clair Metro Park,0,7057
+705,weekday,705-36,Lake St Clair Metro Park,0,7057
+705,weekday,705-37,Lake St Clair Metro Park,0,7057
+705,weekday,705-38,Lake St Clair Metro Park,0,7057
+705,weekday,705-39,Lake St Clair Metro Park,0,7057
+705,weekday,705-40,Lake St Clair Metro Park,0,7057
+705,weekday,705-41,Lake St Clair Metro Park,0,7057
+705,weekday,705-42,Lake St Clair Metro Park,0,7057
+705,weekday,705-43,Lake St Clair Metro Park,0,7057
+705,weekday,705-44,Lake St Clair Metro Park,0,7057
+705,weekday,705-45,Lake St Clair Metro Park,0,7057
+705,weekday,705-46,Lake St Clair Metro Park,0,7057
+705,weekday,705-47,Lake St Clair Metro Park,0,7057
+705,weekday,705-48,Lake St Clair Metro Park,0,7057
+705,weekday,705-49,Lake St Clair Metro Park,0,7057
+705,weekday,705-50,Lake St Clair Metro Park,0,7057
+705,weekday,705-51,Lake St Clair Metro Park,0,7057
+705,weekday,705-52,Lake St Clair Metro Park,0,7057
+705,weekday,705-53,Lake St Clair Metro Park,0,7057
+705,weekday,705-54,Lake St Clair Metro Park,0,7057
+705,weekday,705-55,Lake St Clair Metro Park,0,7057
+705,weekday,705-56,Lake St Clair Metro Park,0,7057
+705,weekday,705-57,Lake St Clair Metro Park,0,7057
+705,weekday,705-58,Lake St Clair Metro Park,0,7057
+705,weekday,705-59,Lake St Clair Metro Park,0,7057
+705,weekday,705-60,Lake St Clair Metro Park,0,7057
+705,weekday,705-61,Metro Parkway / Jefferson,1,7058
+705,weekday,705-62,Metro Parkway / Jefferson,1,7058
+705,weekday,705-63,Metro Parkway / Jefferson,1,7058
+705,weekday,705-64,Metro Parkway / Jefferson,1,7058
+705,weekday,705-65,Metro Parkway / Jefferson,1,7058
+705,weekday,705-66,Metro Parkway / Jefferson,1,7058
+705,weekday,705-67,Metro Parkway / Jefferson,1,7058
+705,weekday,705-68,Metro Parkway / Jefferson,1,7058
+705,weekday,705-69,Rosa Parks Nexus,1,7052
+705,weekday,705-70,Rosa Parks Nexus,1,7052
+705,weekday,705-71,Rosa Parks Nexus,1,7052
+705,weekday,705-72,Rosa Parks Nexus,1,7052
+705,weekday,705-73,Rosa Parks Nexus,1,7051
+705,weekday,705-74,Rosa Parks Nexus,1,7051
+705,weekday,705-75,Rosa Parks Nexus,1,7051
+705,weekday,705-76,Rosa Parks Nexus,1,7051
+705,weekday,705-77,Rosa Parks Nexus,1,7051
+705,weekday,705-78,Rosa Parks Nexus,1,7051
+705,weekday,705-79,Rosa Parks Nexus,1,7051
+705,weekday,705-80,Rosa Parks Nexus,1,7051
+705,weekday,705-81,Rosa Parks Nexus,1,7051
+705,weekday,705-82,Rosa Parks Nexus,1,7051
+705,weekday,705-83,Rosa Parks Nexus,1,7051
+705,weekday,705-84,Rosa Parks Nexus,1,7051
+705,weekday,705-85,Rosa Parks Nexus,1,7051
+705,weekday,705-86,Rosa Parks Nexus,1,7051
+705,weekday,705-87,Rosa Parks Nexus,1,7051
+705,weekday,705-88,Rosa Parks Nexus,1,7051
+705,weekday,705-89,Rosa Parks Nexus,1,7051
+705,weekday,705-90,Rosa Parks Nexus,1,7051
+705,weekday,705-91,Rosa Parks Nexus,1,7051
+705,weekday,705-92,Rosa Parks Nexus,1,7051
+705,weekday,705-93,Rosa Parks Nexus,1,7051
+705,weekday,705-94,Rosa Parks Nexus,1,7051
+705,weekday,705-95,Rosa Parks Nexus,1,7051
+705,weekday,705-96,Rosa Parks Nexus,1,7051
+705,weekday,705-97,Rosa Parks Nexus,1,7051
+705,weekday,705-98,Rosa Parks Nexus,1,7051
+705,weekday,705-99,Rosa Parks Nexus,1,7051
+705,weekday,705-100,Rosa Parks Nexus,1,7052
+705,weekday,705-101,Rosa Parks Nexus,1,7052
+705,weekday,705-102,Rosa Parks Nexus,1,7052
+705,weekday,705-103,Rosa Parks Nexus,1,7052

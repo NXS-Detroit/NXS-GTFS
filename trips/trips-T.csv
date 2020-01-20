@@ -1,0 +1,294 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+T,saturday,T-1,Pontiac Nexus,0,0908
+T,saturday,T-2,Pontiac Nexus,0,0908
+T,saturday,T-3,Pontiac Nexus,0,0908
+T,saturday,T-4,Pontiac Nexus,0,0908
+T,saturday,T-5,Pontiac Nexus,0,0908
+T,saturday,T-6,Pontiac Nexus,0,0908
+T,saturday,T-7,Pontiac Nexus,0,0908
+T,saturday,T-8,Pontiac Nexus,0,0908
+T,saturday,T-9,Pontiac Nexus,0,0908
+T,saturday,T-10,Pontiac Nexus,0,0908
+T,saturday,T-11,Pontiac Nexus,0,0908
+T,saturday,T-12,Pontiac Nexus,0,0908
+T,saturday,T-13,Pontiac Nexus,0,0908
+T,saturday,T-14,Pontiac Nexus,0,0908
+T,saturday,T-15,Pontiac Nexus,0,0908
+T,saturday,T-16,Pontiac Nexus,0,0908
+T,saturday,T-17,Pontiac Nexus,0,0908
+T,saturday,T-18,Pontiac Nexus,0,0908
+T,saturday,T-19,Pontiac Nexus,0,0908
+T,saturday,T-20,Pontiac Nexus,0,0908
+T,saturday,T-21,Pontiac Nexus,0,0908
+T,saturday,T-22,Pontiac Nexus,0,0908
+T,saturday,T-23,Pontiac Nexus,0,0908
+T,saturday,T-24,Pontiac Nexus,0,0908
+T,saturday,T-25,Pontiac Nexus,0,0908
+T,saturday,T-26,Pontiac Nexus,0,0908
+T,saturday,T-27,Pontiac Nexus,0,0908
+T,saturday,T-28,Pontiac Nexus,0,0908
+T,saturday,T-29,Pontiac Nexus,0,0908
+T,saturday,T-30,Pontiac Nexus,0,0908
+T,saturday,T-31,Pontiac Nexus,0,0908
+T,saturday,T-32,Pontiac Nexus,0,0908
+T,saturday,T-33,Pontiac Nexus,0,0908
+T,saturday,T-34,Huron / Perry,0,0907
+T,saturday,T-35,Pontiac Nexus,0,0908
+T,saturday,T-36,Pontiac Nexus,0,0908
+T,saturday,T-37,Pontiac Nexus,0,0908
+T,saturday,T-38,Huron / Perry,0,0907
+T,saturday,T-39,Pontiac Nexus,0,0908
+T,saturday,T-40,Pontiac Nexus,0,0908
+T,saturday,T-41,Pontiac Nexus,0,0908
+T,saturday,T-42,Pontiac Nexus,0,0908
+T,saturday,T-43,Huron / Perry,0,0907
+T,saturday,T-44,Pontiac Nexus,0,0908
+T,saturday,T-45,Pontiac Nexus,0,0908
+T,saturday,T-46,Pontiac Nexus,0,0908
+T,saturday,T-47,Pontiac Nexus,0,0908
+T,saturday,T-48,Huron / Perry,0,0907
+T,saturday,T-49,Metro Airport Nexus,1,0902
+T,saturday,T-50,Metro Airport Nexus,1,0902
+T,saturday,T-51,Metro Airport Nexus,1,0902
+T,saturday,T-52,Metro Airport Nexus,1,0902
+T,saturday,T-53,Metro Airport Nexus,1,0902
+T,saturday,T-54,Metro Airport Nexus,1,0902
+T,saturday,T-55,Metro Airport Nexus,1,0902
+T,saturday,T-56,Metro Airport Nexus,1,0902
+T,saturday,T-57,Metro Airport Nexus,1,0902
+T,saturday,T-58,Metro Airport Nexus,1,0902
+T,saturday,T-59,Metro Airport Nexus,1,0902
+T,saturday,T-60,Metro Airport Nexus,1,0902
+T,saturday,T-61,Metro Airport Nexus,1,0902
+T,saturday,T-62,Metro Airport Nexus,1,0902
+T,saturday,T-63,Metro Airport Nexus,1,0902
+T,saturday,T-64,Metro Airport Nexus,1,0902
+T,saturday,T-65,Metro Airport Nexus,1,0902
+T,saturday,T-66,Metro Airport Nexus,1,0902
+T,saturday,T-67,Metro Airport Nexus,1,0902
+T,saturday,T-68,Metro Airport Nexus,1,0902
+T,saturday,T-69,Metro Airport Nexus,1,0902
+T,saturday,T-70,Metro Airport Nexus,1,0902
+T,saturday,T-71,Metro Airport Nexus,1,0902
+T,saturday,T-72,Metro Airport Nexus,1,0902
+T,saturday,T-73,Metro Airport Nexus,1,0902
+T,saturday,T-74,Metro Airport Nexus,1,0902
+T,saturday,T-75,Metro Airport Nexus,1,0902
+T,saturday,T-76,Metro Airport Nexus,1,0902
+T,saturday,T-77,Metro Airport Nexus,1,0902
+T,saturday,T-78,Metro Airport Nexus,1,0902
+T,saturday,T-79,Metro Airport Nexus,1,0902
+T,saturday,T-80,Metro Airport Nexus,1,0902
+T,saturday,T-81,Metro Airport Nexus,1,0902
+T,saturday,T-82,Metro Airport Nexus,1,0902
+T,saturday,T-83,Metro Airport Nexus,1,0902
+T,saturday,T-84,Metro Airport Nexus,1,0902
+T,saturday,T-85,Metro Airport Nexus,1,0902
+T,saturday,T-86,Metro Airport Nexus,1,0902
+T,saturday,T-87,Metro Airport Nexus,1,0902
+T,saturday,T-88,Metro Airport Nexus,1,0902
+T,saturday,T-89,Metro Airport Nexus,1,0902
+T,saturday,T-90,Metro Airport Nexus,1,0902
+T,saturday,T-91,Metro Airport Nexus,1,0902
+T,saturday,T-92,Metro Airport Nexus,1,0902
+T,saturday,T-93,Metro Airport Nexus,1,0902
+T,saturday,T-94,Metro Airport Nexus,1,0902
+T,saturday,T-95,Metro Airport Nexus,1,0902
+T,saturday,T-96,Metro Airport Nexus,1,0902
+T,saturday,T-97,Metro Airport Nexus,1,0902
+T,saturday,T-98,Metro Airport Nexus,1,0902
+T,saturday,T-99,Metro Airport Nexus,1,0902
+T,saturday,T-100,Metro Airport Nexus,1,0902
+T,sunday,T-101,Pontiac Nexus,0,0908
+T,sunday,T-102,Pontiac Nexus,0,0908
+T,sunday,T-103,Pontiac Nexus,0,0908
+T,sunday,T-104,Pontiac Nexus,0,0908
+T,sunday,T-105,Pontiac Nexus,0,0908
+T,sunday,T-106,Pontiac Nexus,0,0908
+T,sunday,T-107,Pontiac Nexus,0,0908
+T,sunday,T-108,Pontiac Nexus,0,0908
+T,sunday,T-109,Pontiac Nexus,0,0908
+T,sunday,T-110,Pontiac Nexus,0,0908
+T,sunday,T-111,Pontiac Nexus,0,0908
+T,sunday,T-112,Pontiac Nexus,0,0908
+T,sunday,T-113,Pontiac Nexus,0,0908
+T,sunday,T-114,Pontiac Nexus,0,0908
+T,sunday,T-115,Pontiac Nexus,0,0908
+T,sunday,T-116,Pontiac Nexus,0,0908
+T,sunday,T-117,Pontiac Nexus,0,0908
+T,sunday,T-118,Pontiac Nexus,0,0908
+T,sunday,T-119,Pontiac Nexus,0,0908
+T,sunday,T-120,Pontiac Nexus,0,0908
+T,sunday,T-121,Pontiac Nexus,0,0908
+T,sunday,T-122,Huron / Perry,0,0907
+T,sunday,T-123,Pontiac Nexus,0,0908
+T,sunday,T-124,Huron / Perry,0,0907
+T,sunday,T-125,Pontiac Nexus,0,0908
+T,sunday,T-126,Huron / Perry,0,0907
+T,sunday,T-127,Pontiac Nexus,0,0908
+T,sunday,T-128,Pontiac Nexus,0,0908
+T,sunday,T-129,Pontiac Nexus,0,0908
+T,sunday,T-130,Pontiac Nexus,0,0908
+T,sunday,T-131,Metro Airport Nexus,1,0902
+T,sunday,T-132,Metro Airport Nexus,1,0902
+T,sunday,T-133,Metro Airport Nexus,1,0902
+T,sunday,T-134,Metro Airport Nexus,1,0902
+T,sunday,T-135,Metro Airport Nexus,1,0902
+T,sunday,T-136,Metro Airport Nexus,1,0902
+T,sunday,T-137,Metro Airport Nexus,1,0902
+T,sunday,T-138,Metro Airport Nexus,1,0902
+T,sunday,T-139,Metro Airport Nexus,1,0902
+T,sunday,T-140,Metro Airport Nexus,1,0902
+T,sunday,T-141,Metro Airport Nexus,1,0902
+T,sunday,T-142,Metro Airport Nexus,1,0902
+T,sunday,T-143,Metro Airport Nexus,1,0902
+T,sunday,T-144,Metro Airport Nexus,1,0902
+T,sunday,T-145,Metro Airport Nexus,1,0902
+T,sunday,T-146,Metro Airport Nexus,1,0902
+T,sunday,T-147,Metro Airport Nexus,1,0902
+T,sunday,T-148,Metro Airport Nexus,1,0902
+T,sunday,T-149,Metro Airport Nexus,1,0902
+T,sunday,T-150,Metro Airport Nexus,1,0902
+T,sunday,T-151,Metro Airport Nexus,1,0902
+T,sunday,T-152,Metro Airport Nexus,1,0902
+T,sunday,T-153,Metro Airport Nexus,1,0902
+T,sunday,T-154,Metro Airport Nexus,1,0902
+T,sunday,T-155,Metro Airport Nexus,1,0902
+T,sunday,T-156,Metro Airport Nexus,1,0902
+T,sunday,T-157,Metro Airport Nexus,1,0902
+T,sunday,T-158,Metro Airport Nexus,1,0902
+T,sunday,T-159,Metro Airport Nexus,1,0902
+T,sunday,T-160,Metro Airport Nexus,1,0902
+T,sunday,T-161,Metro Airport Nexus,1,0902
+T,weekday,T-162,Pontiac Nexus,0,0908
+T,weekday,T-163,Pontiac Nexus,0,0908
+T,weekday,T-164,Pontiac Nexus,0,0908
+T,weekday,T-165,Pontiac Nexus,0,0908
+T,weekday,T-166,Pontiac Nexus,0,0908
+T,weekday,T-167,Pontiac Nexus,0,0908
+T,weekday,T-168,Pontiac Nexus,0,0908
+T,weekday,T-169,Pontiac Nexus,0,0908
+T,weekday,T-170,Pontiac Nexus,0,0908
+T,weekday,T-171,Pontiac Nexus,0,0908
+T,weekday,T-172,Pontiac Nexus,0,0908
+T,weekday,T-173,Pontiac Nexus,0,0908
+T,weekday,T-174,Pontiac Nexus,0,0908
+T,weekday,T-175,Pontiac Nexus,0,0908
+T,weekday,T-176,Pontiac Nexus,0,0908
+T,weekday,T-177,Pontiac Nexus,0,0908
+T,weekday,T-178,Pontiac Nexus,0,0908
+T,weekday,T-179,Pontiac Nexus,0,0908
+T,weekday,T-180,Pontiac Nexus,0,0908
+T,weekday,T-181,Pontiac Nexus,0,0908
+T,weekday,T-182,Pontiac Nexus,0,0908
+T,weekday,T-183,Pontiac Nexus,0,0908
+T,weekday,T-184,Pontiac Nexus,0,0908
+T,weekday,T-185,Pontiac Nexus,0,0908
+T,weekday,T-186,Pontiac Nexus,0,0908
+T,weekday,T-187,Pontiac Nexus,0,0908
+T,weekday,T-188,Pontiac Nexus,0,0908
+T,weekday,T-189,Pontiac Nexus,0,0908
+T,weekday,T-190,Pontiac Nexus,0,0908
+T,weekday,T-191,Pontiac Nexus,0,0908
+T,weekday,T-192,Pontiac Nexus,0,0908
+T,weekday,T-193,Pontiac Nexus,0,0908
+T,weekday,T-194,Pontiac Nexus,0,0908
+T,weekday,T-195,Pontiac Nexus,0,0908
+T,weekday,T-196,Pontiac Nexus,0,0908
+T,weekday,T-197,Pontiac Nexus,0,0908
+T,weekday,T-198,Pontiac Nexus,0,0908
+T,weekday,T-199,Pontiac Nexus,0,0908
+T,weekday,T-200,Pontiac Nexus,0,0908
+T,weekday,T-201,Pontiac Nexus,0,0908
+T,weekday,T-202,Pontiac Nexus,0,0908
+T,weekday,T-203,Pontiac Nexus,0,0908
+T,weekday,T-204,Pontiac Nexus,0,0908
+T,weekday,T-205,Pontiac Nexus,0,0908
+T,weekday,T-206,Pontiac Nexus,0,0908
+T,weekday,T-207,Huron / Perry,0,0907
+T,weekday,T-208,Pontiac Nexus,0,0908
+T,weekday,T-209,Pontiac Nexus,0,0908
+T,weekday,T-210,Huron / Perry,0,0907
+T,weekday,T-211,Pontiac Nexus,0,0908
+T,weekday,T-212,Huron / Perry,0,0907
+T,weekday,T-213,Pontiac Nexus,0,0908
+T,weekday,T-214,Huron / Perry,0,0907
+T,weekday,T-215,Pontiac Nexus,0,0908
+T,weekday,T-216,Huron / Perry,0,0907
+T,weekday,T-217,Pontiac Nexus,0,0908
+T,weekday,T-218,Huron / Perry,0,0907
+T,weekday,T-219,Pontiac Nexus,0,0908
+T,weekday,T-220,Pontiac Nexus,0,0908
+T,weekday,T-221,Pontiac Nexus,0,0908
+T,weekday,T-222,Pontiac Nexus,0,0908
+T,weekday,T-223,Pontiac Nexus,0,0908
+T,weekday,T-224,Pontiac Nexus,0,0908
+T,weekday,T-225,Huron / Perry,0,0907
+T,weekday,T-226,Huron / Perry,0,0907
+T,weekday,T-227,Huron / Perry,0,0907
+T,weekday,T-228,Metro Airport Nexus,1,0902
+T,weekday,T-229,Metro Airport Nexus,1,0902
+T,weekday,T-230,Metro Airport Nexus,1,0902
+T,weekday,T-231,Metro Airport Nexus,1,0902
+T,weekday,T-232,Metro Airport Nexus,1,0902
+T,weekday,T-233,Metro Airport Nexus,1,0902
+T,weekday,T-234,Metro Airport Nexus,1,0902
+T,weekday,T-235,Metro Airport Nexus,1,0902
+T,weekday,T-236,Metro Airport Nexus,1,0902
+T,weekday,T-237,Metro Airport Nexus,1,0902
+T,weekday,T-238,Metro Airport Nexus,1,0902
+T,weekday,T-239,Metro Airport Nexus,1,0902
+T,weekday,T-240,Metro Airport Nexus,1,0902
+T,weekday,T-241,Metro Airport Nexus,1,0902
+T,weekday,T-242,Metro Airport Nexus,1,0902
+T,weekday,T-243,Metro Airport Nexus,1,0902
+T,weekday,T-244,Metro Airport Nexus,1,0902
+T,weekday,T-245,Metro Airport Nexus,1,0902
+T,weekday,T-246,Metro Airport Nexus,1,0902
+T,weekday,T-247,Metro Airport Nexus,1,0902
+T,weekday,T-248,Metro Airport Nexus,1,0902
+T,weekday,T-249,Metro Airport Nexus,1,0902
+T,weekday,T-250,Metro Airport Nexus,1,0902
+T,weekday,T-251,Metro Airport Nexus,1,0902
+T,weekday,T-252,Metro Airport Nexus,1,0902
+T,weekday,T-253,Metro Airport Nexus,1,0902
+T,weekday,T-254,Metro Airport Nexus,1,0902
+T,weekday,T-255,Metro Airport Nexus,1,0902
+T,weekday,T-256,Metro Airport Nexus,1,0902
+T,weekday,T-257,Metro Airport Nexus,1,0902
+T,weekday,T-258,Metro Airport Nexus,1,0902
+T,weekday,T-259,Metro Airport Nexus,1,0902
+T,weekday,T-260,Metro Airport Nexus,1,0902
+T,weekday,T-261,Metro Airport Nexus,1,0902
+T,weekday,T-262,Metro Airport Nexus,1,0902
+T,weekday,T-263,Metro Airport Nexus,1,0902
+T,weekday,T-264,Metro Airport Nexus,1,0902
+T,weekday,T-265,Metro Airport Nexus,1,0902
+T,weekday,T-266,Metro Airport Nexus,1,0902
+T,weekday,T-267,Metro Airport Nexus,1,0902
+T,weekday,T-268,Metro Airport Nexus,1,0902
+T,weekday,T-269,Metro Airport Nexus,1,0902
+T,weekday,T-270,Metro Airport Nexus,1,0902
+T,weekday,T-271,Metro Airport Nexus,1,0902
+T,weekday,T-272,Metro Airport Nexus,1,0902
+T,weekday,T-273,Metro Airport Nexus,1,0902
+T,weekday,T-274,Metro Airport Nexus,1,0902
+T,weekday,T-275,Metro Airport Nexus,1,0902
+T,weekday,T-276,Metro Airport Nexus,1,0902
+T,weekday,T-277,Metro Airport Nexus,1,0902
+T,weekday,T-278,Metro Airport Nexus,1,0902
+T,weekday,T-279,Metro Airport Nexus,1,0902
+T,weekday,T-280,Metro Airport Nexus,1,0902
+T,weekday,T-281,Metro Airport Nexus,1,0902
+T,weekday,T-282,Metro Airport Nexus,1,0902
+T,weekday,T-283,Metro Airport Nexus,1,0902
+T,weekday,T-284,Metro Airport Nexus,1,0902
+T,weekday,T-285,Metro Airport Nexus,1,0902
+T,weekday,T-286,Metro Airport Nexus,1,0902
+T,weekday,T-287,Metro Airport Nexus,1,0902
+T,weekday,T-288,Metro Airport Nexus,1,0902
+T,weekday,T-289,Metro Airport Nexus,1,0902
+T,weekday,T-290,Metro Airport Nexus,1,0902
+T,weekday,T-291,Metro Airport Nexus,1,0902
+T,weekday,T-292,Metro Airport Nexus,1,0902
+T,weekday,T-293,Metro Airport Nexus,1,0902

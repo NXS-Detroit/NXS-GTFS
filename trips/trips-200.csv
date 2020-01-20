@@ -1,0 +1,721 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+200,saturday,200-1,Congress / St Antoine,0,2006,200C
+200,saturday,200-2,Congress / St Antoine,0,2009,200W
+200,saturday,200-3,Congress / St Antoine,0,2006,200C
+200,saturday,200-4,Congress / St Antoine,0,2009,200W
+200,saturday,200-5,Congress / St Antoine,0,2006,200C
+200,saturday,200-6,Congress / St Antoine,0,2009,200W
+200,saturday,200-7,Congress / St Antoine,0,2006,200C
+200,saturday,200-8,Congress / St Antoine,0,2009,200W
+200,saturday,200-9,Congress / St Antoine,0,2006,200C
+200,saturday,200-10,Congress / St Antoine,0,2009,200W
+200,saturday,200-11,Congress / St Antoine,0,2006,200C
+200,saturday,200-12,Congress / St Antoine,0,2009,200W
+200,saturday,200-13,Congress / St Antoine,0,2006,200C
+200,saturday,200-14,Congress / St Antoine,0,2009,200W
+200,saturday,200-15,Congress / St Antoine,0,2006,200C
+200,saturday,200-16,Congress / St Antoine,0,2009,200W
+200,saturday,200-17,Congress / St Antoine,0,2006,200C
+200,saturday,200-18,Congress / St Antoine,0,2009,200W
+200,saturday,200-19,Congress / St Antoine,0,2006,200C
+200,saturday,200-20,Congress / St Antoine,0,2009,200W
+200,saturday,200-21,Congress / St Antoine,0,2006,200C
+200,saturday,200-22,Congress / St Antoine,0,2009,200W
+200,saturday,200-23,Congress / St Antoine,0,2006,200C
+200,saturday,200-24,Congress / St Antoine,0,2009,200W
+200,saturday,200-25,Congress / St Antoine,0,2006,200C
+200,saturday,200-26,Congress / St Antoine,0,2009,200W
+200,saturday,200-27,Congress / St Antoine,0,2006,200C
+200,saturday,200-28,Congress / St Antoine,0,2009,200W
+200,saturday,200-29,Congress / St Antoine,0,2006,200C
+200,saturday,200-30,Congress / St Antoine,0,2009,200W
+200,saturday,200-31,Congress / St Antoine,0,2006,200C
+200,saturday,200-32,Congress / St Antoine,0,2009,200W
+200,saturday,200-33,Congress / St Antoine,0,2006,200C
+200,saturday,200-34,Congress / St Antoine,0,2009,200W
+200,saturday,200-35,Congress / St Antoine,0,2006,200C
+200,saturday,200-36,Congress / St Antoine,0,2009,200W
+200,saturday,200-37,Congress / St Antoine,0,2006,200C
+200,saturday,200-38,Congress / St Antoine,0,2009,200W
+200,saturday,200-39,Congress / St Antoine,0,2006,200C
+200,saturday,200-40,Congress / St Antoine,0,2009,200W
+200,saturday,200-41,Congress / St Antoine,0,2006,200C
+200,saturday,200-42,Congress / St Antoine,0,2009,200W
+200,saturday,200-43,Congress / St Antoine,0,2006,200C
+200,saturday,200-44,Congress / St Antoine,0,2009,200W
+200,saturday,200-45,Congress / St Antoine,0,2006,200C
+200,saturday,200-46,Congress / St Antoine,0,2009,200W
+200,saturday,200-47,Congress / St Antoine,0,2006,200C
+200,saturday,200-48,Congress / St Antoine,0,2009,200W
+200,saturday,200-49,Congress / St Antoine,0,2006,200C
+200,saturday,200-50,Congress / St Antoine,0,2009,200W
+200,saturday,200-51,Congress / St Antoine,0,2006,200C
+200,saturday,200-52,Congress / St Antoine,0,2009,200W
+200,saturday,200-53,Congress / St Antoine,0,2006,200C
+200,saturday,200-54,Congress / St Antoine,0,2009,200W
+200,saturday,200-55,Congress / St Antoine,0,2006,200C
+200,saturday,200-56,Congress / St Antoine,0,2009,200W
+200,saturday,200-57,Congress / St Antoine,0,2006,200C
+200,saturday,200-58,Congress / St Antoine,0,2009,200W
+200,saturday,200-59,Congress / St Antoine,0,2006,200C
+200,saturday,200-60,Congress / St Antoine,0,2009,200W
+200,saturday,200-61,Congress / St Antoine,0,2006,200C
+200,saturday,200-62,Congress / St Antoine,0,2009,200W
+200,saturday,200-63,Congress / St Antoine,0,2006,200C
+200,saturday,200-64,Congress / St Antoine,0,2009,200W
+200,saturday,200-65,Congress / St Antoine,0,2006,200C
+200,saturday,200-66,Congress / St Antoine,0,2009,200W
+200,saturday,200-67,Congress / St Antoine,0,2006,200C
+200,saturday,200-68,Congress / St Antoine,0,2009,200W
+200,saturday,200-69,Congress / St Antoine,0,2006,200C
+200,saturday,200-70,Congress / St Antoine,0,2009,200W
+200,saturday,200-71,Congress / St Antoine,0,2006,200C
+200,saturday,200-72,Congress / St Antoine,0,2009,200W
+200,saturday,200-73,Congress / St Antoine,0,2006,200C
+200,saturday,200-74,Congress / St Antoine,0,2009,200W
+200,saturday,200-75,Congress / St Antoine,0,2006,200C
+200,saturday,200-76,Congress / St Antoine,0,2009,200W
+200,saturday,200-77,Congress / St Antoine,0,2006,200C
+200,saturday,200-78,Congress / St Antoine,0,2009,200W
+200,saturday,200-79,Congress / St Antoine,0,2006,200C
+200,saturday,200-80,Congress / St Antoine,0,2009,200W
+200,saturday,200-81,Congress / St Antoine,0,2006,200C
+200,saturday,200-82,Congress / St Antoine,0,2009,200W
+200,saturday,200-83,Congress / St Antoine,0,2006,200C
+200,saturday,200-84,Congress / St Antoine,0,2009,200W
+200,saturday,200-85,Congress / St Antoine,0,2006,200C
+200,saturday,200-86,Congress / St Antoine,0,2009,200W
+200,saturday,200-87,Congress / St Antoine,0,2006,200C
+200,saturday,200-88,Congress / St Antoine,0,2009,200W
+200,saturday,200-89,Congress / St Antoine,0,2006,200C
+200,saturday,200-90,Congress / St Antoine,0,2009,200W
+200,saturday,200-91,Congress / St Antoine,0,2006,200C
+200,saturday,200-92,Congress / St Antoine,0,2009,200W
+200,saturday,200-93,Congress / St Antoine,0,2006,200C
+200,saturday,200-94,Congress / St Antoine,0,2009,200W
+200,saturday,200-95,Congress / St Antoine,0,2006,200C
+200,saturday,200-96,Congress / St Antoine,0,2009,200W
+200,saturday,200-97,Congress / St Antoine,0,2006,200C
+200,saturday,200-98,Congress / St Antoine,0,2009,200W
+200,saturday,200-99,Congress / St Antoine,0,2006,200C
+200,saturday,200-100,Congress / St Antoine,0,2009,200W
+200,saturday,200-101,Congress / St Antoine,0,2006,200C
+200,saturday,200-102,Congress / St Antoine,0,2009,200W
+200,saturday,200-103,Congress / St Antoine,0,2006,200C
+200,saturday,200-104,Congress / St Antoine,0,2009,200W
+200,saturday,200-105,Michigan / Canton Center,1,2004,200C
+200,saturday,200-106,Westland Meijer,1,2007,200W
+200,saturday,200-107,Michigan / Canton Center,1,2004,200C
+200,saturday,200-108,Westland Meijer,1,2007,200W
+200,saturday,200-109,Michigan / Canton Center,1,2004,200C
+200,saturday,200-110,Westland Meijer,1,2007,200W
+200,saturday,200-111,Michigan / Canton Center,1,2004,200C
+200,saturday,200-112,Westland Meijer,1,2007,200W
+200,saturday,200-113,Michigan / Canton Center,1,2004,200C
+200,saturday,200-114,Westland Meijer,1,2007,200W
+200,saturday,200-115,Michigan / Canton Center,1,2004,200C
+200,saturday,200-116,Westland Meijer,1,2007,200W
+200,saturday,200-117,Michigan / Canton Center,1,2004,200C
+200,saturday,200-118,Westland Meijer,1,2007,200W
+200,saturday,200-119,Michigan / Canton Center,1,2004,200C
+200,saturday,200-120,Westland Meijer,1,2007,200W
+200,saturday,200-121,Michigan / Canton Center,1,2004,200C
+200,saturday,200-122,Westland Meijer,1,2007,200W
+200,saturday,200-123,Michigan / Canton Center,1,2004,200C
+200,saturday,200-124,Westland Meijer,1,2007,200W
+200,saturday,200-125,Michigan / Canton Center,1,2004,200C
+200,saturday,200-126,Westland Meijer,1,2007,200W
+200,saturday,200-127,Michigan / Canton Center,1,2004,200C
+200,saturday,200-128,Westland Meijer,1,2007,200W
+200,saturday,200-129,Michigan / Canton Center,1,2004,200C
+200,saturday,200-130,Westland Meijer,1,2007,200W
+200,saturday,200-131,Michigan / Canton Center,1,2004,200C
+200,saturday,200-132,Westland Meijer,1,2007,200W
+200,saturday,200-133,Michigan / Canton Center,1,2004,200C
+200,saturday,200-134,Westland Meijer,1,2007,200W
+200,saturday,200-135,Michigan / Canton Center,1,2004,200C
+200,saturday,200-136,Westland Meijer,1,2007,200W
+200,saturday,200-137,Michigan / Canton Center,1,2004,200C
+200,saturday,200-138,Westland Meijer,1,2007,200W
+200,saturday,200-139,Michigan / Canton Center,1,2004,200C
+200,saturday,200-140,Westland Meijer,1,2007,200W
+200,saturday,200-141,Michigan / Canton Center,1,2004,200C
+200,saturday,200-142,Westland Meijer,1,2007,200W
+200,saturday,200-143,Michigan / Canton Center,1,2004,200C
+200,saturday,200-144,Westland Meijer,1,2007,200W
+200,saturday,200-145,Michigan / Canton Center,1,2004,200C
+200,saturday,200-146,Westland Meijer,1,2007,200W
+200,saturday,200-147,Michigan / Canton Center,1,2004,200C
+200,saturday,200-148,Westland Meijer,1,2007,200W
+200,saturday,200-149,Michigan / Canton Center,1,2004,200C
+200,saturday,200-150,Westland Meijer,1,2007,200W
+200,saturday,200-151,Michigan / Canton Center,1,2004,200C
+200,saturday,200-152,Westland Meijer,1,2007,200W
+200,saturday,200-153,Michigan / Canton Center,1,2004,200C
+200,saturday,200-154,Westland Meijer,1,2007,200W
+200,saturday,200-155,Michigan / Canton Center,1,2004,200C
+200,saturday,200-156,Westland Meijer,1,2007,200W
+200,saturday,200-157,Michigan / Canton Center,1,2004,200C
+200,saturday,200-158,Westland Meijer,1,2007,200W
+200,saturday,200-159,Michigan / Canton Center,1,2004,200C
+200,saturday,200-160,Westland Meijer,1,2007,200W
+200,saturday,200-161,Michigan / Canton Center,1,2004,200C
+200,saturday,200-162,Westland Meijer,1,2007,200W
+200,saturday,200-163,Michigan / Canton Center,1,2004,200C
+200,saturday,200-164,Westland Meijer,1,2007,200W
+200,saturday,200-165,Michigan / Canton Center,1,2004,200C
+200,saturday,200-166,Westland Meijer,1,2007,200W
+200,saturday,200-167,Michigan / Canton Center,1,2004,200C
+200,saturday,200-168,Westland Meijer,1,2007,200W
+200,saturday,200-169,Michigan / Canton Center,1,2004,200C
+200,saturday,200-170,Westland Meijer,1,2007,200W
+200,saturday,200-171,Michigan / Canton Center,1,2004,200C
+200,saturday,200-172,Westland Meijer,1,2007,200W
+200,saturday,200-173,Michigan / Canton Center,1,2004,200C
+200,saturday,200-174,Westland Meijer,1,2007,200W
+200,saturday,200-175,Michigan / Canton Center,1,2004,200C
+200,saturday,200-176,Westland Meijer,1,2007,200W
+200,saturday,200-177,Michigan / Canton Center,1,2004,200C
+200,saturday,200-178,Westland Meijer,1,2007,200W
+200,saturday,200-179,Michigan / Canton Center,1,2004,200C
+200,saturday,200-180,Westland Meijer,1,2007,200W
+200,saturday,200-181,Michigan / Canton Center,1,2004,200C
+200,saturday,200-182,Westland Meijer,1,2007,200W
+200,saturday,200-183,Michigan / Canton Center,1,2004,200C
+200,saturday,200-184,Westland Meijer,1,2007,200W
+200,saturday,200-185,Michigan / Canton Center,1,2004,200C
+200,saturday,200-186,Westland Meijer,1,2007,200W
+200,saturday,200-187,Michigan / Canton Center,1,2004,200C
+200,saturday,200-188,Westland Meijer,1,2007,200W
+200,saturday,200-189,Michigan / Canton Center,1,2004,200C
+200,saturday,200-190,Westland Meijer,1,2007,200W
+200,saturday,200-191,Michigan / Canton Center,1,2004,200C
+200,saturday,200-192,Westland Meijer,1,2007,200W
+200,saturday,200-193,Michigan / Canton Center,1,2004,200C
+200,saturday,200-194,Westland Meijer,1,2007,200W
+200,saturday,200-195,Michigan / Canton Center,1,2004,200C
+200,saturday,200-196,Westland Meijer,1,2007,200W
+200,saturday,200-197,Michigan / Canton Center,1,2004,200C
+200,saturday,200-198,Westland Meijer,1,2007,200W
+200,saturday,200-199,Michigan / Canton Center,1,2004,200C
+200,saturday,200-200,Westland Meijer,1,2007,200W
+200,saturday,200-201,Michigan / Canton Center,1,2004,200C
+200,saturday,200-202,Westland Meijer,1,2007,200W
+200,saturday,200-203,Michigan / Canton Center,1,2004,200C
+200,saturday,200-204,Westland Meijer,1,2007,200W
+200,saturday,200-205,Michigan / Canton Center,1,2004,200C
+200,saturday,200-206,Westland Meijer,1,2007,200W
+200,saturday,200-207,Michigan / Canton Center,1,2004,200C
+200,saturday,200-208,Westland Meijer,1,2007,200W
+200,sunday,200-209,Congress / St Antoine,0,2006,200C
+200,sunday,200-210,Congress / St Antoine,0,2009,200W
+200,sunday,200-211,Congress / St Antoine,0,2006,200C
+200,sunday,200-212,Congress / St Antoine,0,2009,200W
+200,sunday,200-213,Congress / St Antoine,0,2006,200C
+200,sunday,200-214,Congress / St Antoine,0,2009,200W
+200,sunday,200-215,Congress / St Antoine,0,2006,200C
+200,sunday,200-216,Congress / St Antoine,0,2009,200W
+200,sunday,200-217,Congress / St Antoine,0,2006,200C
+200,sunday,200-218,Congress / St Antoine,0,2009,200W
+200,sunday,200-219,Congress / St Antoine,0,2006,200C
+200,sunday,200-220,Congress / St Antoine,0,2009,200W
+200,sunday,200-221,Congress / St Antoine,0,2006,200C
+200,sunday,200-222,Congress / St Antoine,0,2009,200W
+200,sunday,200-223,Congress / St Antoine,0,2006,200C
+200,sunday,200-224,Congress / St Antoine,0,2009,200W
+200,sunday,200-225,Congress / St Antoine,0,2006,200C
+200,sunday,200-226,Congress / St Antoine,0,2009,200W
+200,sunday,200-227,Congress / St Antoine,0,2006,200C
+200,sunday,200-228,Congress / St Antoine,0,2009,200W
+200,sunday,200-229,Congress / St Antoine,0,2006,200C
+200,sunday,200-230,Congress / St Antoine,0,2009,200W
+200,sunday,200-231,Congress / St Antoine,0,2006,200C
+200,sunday,200-232,Congress / St Antoine,0,2009,200W
+200,sunday,200-233,Congress / St Antoine,0,2006,200C
+200,sunday,200-234,Congress / St Antoine,0,2009,200W
+200,sunday,200-235,Congress / St Antoine,0,2006,200C
+200,sunday,200-236,Congress / St Antoine,0,2009,200W
+200,sunday,200-237,Congress / St Antoine,0,2006,200C
+200,sunday,200-238,Congress / St Antoine,0,2009,200W
+200,sunday,200-239,Congress / St Antoine,0,2006,200C
+200,sunday,200-240,Congress / St Antoine,0,2009,200W
+200,sunday,200-241,Congress / St Antoine,0,2006,200C
+200,sunday,200-242,Congress / St Antoine,0,2009,200W
+200,sunday,200-243,Congress / St Antoine,0,2006,200C
+200,sunday,200-244,Congress / St Antoine,0,2009,200W
+200,sunday,200-245,Congress / St Antoine,0,2006,200C
+200,sunday,200-246,Congress / St Antoine,0,2009,200W
+200,sunday,200-247,Congress / St Antoine,0,2006,200C
+200,sunday,200-248,Congress / St Antoine,0,2009,200W
+200,sunday,200-249,Congress / St Antoine,0,2006,200C
+200,sunday,200-250,Congress / St Antoine,0,2009,200W
+200,sunday,200-251,Congress / St Antoine,0,2006,200C
+200,sunday,200-252,Congress / St Antoine,0,2009,200W
+200,sunday,200-253,Congress / St Antoine,0,2006,200C
+200,sunday,200-254,Congress / St Antoine,0,2009,200W
+200,sunday,200-255,Congress / St Antoine,0,2006,200C
+200,sunday,200-256,Congress / St Antoine,0,2009,200W
+200,sunday,200-257,Congress / St Antoine,0,2006,200C
+200,sunday,200-258,Congress / St Antoine,0,2009,200W
+200,sunday,200-259,Congress / St Antoine,0,2006,200C
+200,sunday,200-260,Congress / St Antoine,0,2009,200W
+200,sunday,200-261,Congress / St Antoine,0,2006,200C
+200,sunday,200-262,Congress / St Antoine,0,2009,200W
+200,sunday,200-263,Congress / St Antoine,0,2006,200C
+200,sunday,200-264,Congress / St Antoine,0,2009,200W
+200,sunday,200-265,Congress / St Antoine,0,2006,200C
+200,sunday,200-266,Congress / St Antoine,0,2009,200W
+200,sunday,200-267,Congress / St Antoine,0,2006,200C
+200,sunday,200-268,Congress / St Antoine,0,2009,200W
+200,sunday,200-269,Congress / St Antoine,0,2006,200C
+200,sunday,200-270,Congress / St Antoine,0,2009,200W
+200,sunday,200-271,Congress / St Antoine,0,2006,200C
+200,sunday,200-272,Congress / St Antoine,0,2009,200W
+200,sunday,200-273,Congress / St Antoine,0,2006,200C
+200,sunday,200-274,Congress / St Antoine,0,2009,200W
+200,sunday,200-275,Congress / St Antoine,0,2006,200C
+200,sunday,200-276,Congress / St Antoine,0,2009,200W
+200,sunday,200-277,Congress / St Antoine,0,2006,200C
+200,sunday,200-278,Congress / St Antoine,0,2009,200W
+200,sunday,200-279,Congress / St Antoine,0,2006,200C
+200,sunday,200-280,Congress / St Antoine,0,2009,200W
+200,sunday,200-281,Congress / St Antoine,0,2006,200C
+200,sunday,200-282,Congress / St Antoine,0,2009,200W
+200,sunday,200-283,Michigan / Canton Center,1,2004,200C
+200,sunday,200-284,Westland Meijer,1,2007,200W
+200,sunday,200-285,Michigan / Canton Center,1,2004,200C
+200,sunday,200-286,Westland Meijer,1,2007,200W
+200,sunday,200-287,Michigan / Canton Center,1,2004,200C
+200,sunday,200-288,Westland Meijer,1,2007,200W
+200,sunday,200-289,Michigan / Canton Center,1,2004,200C
+200,sunday,200-290,Westland Meijer,1,2007,200W
+200,sunday,200-291,Michigan / Canton Center,1,2004,200C
+200,sunday,200-292,Westland Meijer,1,2007,200W
+200,sunday,200-293,Michigan / Canton Center,1,2004,200C
+200,sunday,200-294,Westland Meijer,1,2007,200W
+200,sunday,200-295,Michigan / Canton Center,1,2004,200C
+200,sunday,200-296,Westland Meijer,1,2007,200W
+200,sunday,200-297,Michigan / Canton Center,1,2004,200C
+200,sunday,200-298,Westland Meijer,1,2007,200W
+200,sunday,200-299,Michigan / Canton Center,1,2004,200C
+200,sunday,200-300,Westland Meijer,1,2007,200W
+200,sunday,200-301,Michigan / Canton Center,1,2004,200C
+200,sunday,200-302,Westland Meijer,1,2007,200W
+200,sunday,200-303,Michigan / Canton Center,1,2004,200C
+200,sunday,200-304,Westland Meijer,1,2007,200W
+200,sunday,200-305,Michigan / Canton Center,1,2004,200C
+200,sunday,200-306,Westland Meijer,1,2007,200W
+200,sunday,200-307,Michigan / Canton Center,1,2004,200C
+200,sunday,200-308,Westland Meijer,1,2007,200W
+200,sunday,200-309,Michigan / Canton Center,1,2004,200C
+200,sunday,200-310,Westland Meijer,1,2007,200W
+200,sunday,200-311,Michigan / Canton Center,1,2004,200C
+200,sunday,200-312,Westland Meijer,1,2007,200W
+200,sunday,200-313,Michigan / Canton Center,1,2004,200C
+200,sunday,200-314,Westland Meijer,1,2007,200W
+200,sunday,200-315,Michigan / Canton Center,1,2004,200C
+200,sunday,200-316,Westland Meijer,1,2007,200W
+200,sunday,200-317,Michigan / Canton Center,1,2004,200C
+200,sunday,200-318,Westland Meijer,1,2007,200W
+200,sunday,200-319,Michigan / Canton Center,1,2004,200C
+200,sunday,200-320,Westland Meijer,1,2007,200W
+200,sunday,200-321,Michigan / Canton Center,1,2004,200C
+200,sunday,200-322,Westland Meijer,1,2007,200W
+200,sunday,200-323,Michigan / Canton Center,1,2004,200C
+200,sunday,200-324,Westland Meijer,1,2007,200W
+200,sunday,200-325,Michigan / Canton Center,1,2004,200C
+200,sunday,200-326,Westland Meijer,1,2007,200W
+200,sunday,200-327,Michigan / Canton Center,1,2004,200C
+200,sunday,200-328,Westland Meijer,1,2007,200W
+200,sunday,200-329,Michigan / Canton Center,1,2004,200C
+200,sunday,200-330,Westland Meijer,1,2007,200W
+200,sunday,200-331,Michigan / Canton Center,1,2004,200C
+200,sunday,200-332,Westland Meijer,1,2007,200W
+200,sunday,200-333,Michigan / Canton Center,1,2004,200C
+200,sunday,200-334,Westland Meijer,1,2007,200W
+200,sunday,200-335,Michigan / Canton Center,1,2004,200C
+200,sunday,200-336,Westland Meijer,1,2007,200W
+200,sunday,200-337,Michigan / Canton Center,1,2004,200C
+200,sunday,200-338,Westland Meijer,1,2007,200W
+200,sunday,200-339,Michigan / Canton Center,1,2004,200C
+200,sunday,200-340,Westland Meijer,1,2007,200W
+200,sunday,200-341,Michigan / Canton Center,1,2004,200C
+200,sunday,200-342,Westland Meijer,1,2007,200W
+200,sunday,200-343,Michigan / Canton Center,1,2004,200C
+200,sunday,200-344,Westland Meijer,1,2007,200W
+200,sunday,200-345,Michigan / Canton Center,1,2004,200C
+200,sunday,200-346,Westland Meijer,1,2007,200W
+200,sunday,200-347,Michigan / Canton Center,1,2004,200C
+200,sunday,200-348,Westland Meijer,1,2007,200W
+200,sunday,200-349,Michigan / Canton Center,1,2004,200C
+200,sunday,200-350,Westland Meijer,1,2007,200W
+200,sunday,200-351,Michigan / Canton Center,1,2004,200C
+200,sunday,200-352,Westland Meijer,1,2007,200W
+200,sunday,200-353,Michigan / Canton Center,1,2004,200C
+200,sunday,200-354,Westland Meijer,1,2007,200W
+200,sunday,200-355,Michigan / Canton Center,1,2004,200C
+200,sunday,200-356,Westland Meijer,1,2007,200W
+200,weekday,200-357,Congress / St Antoine,0,2006,200C
+200,weekday,200-358,Congress / St Antoine,0,2009,200W
+200,weekday,200-359,Congress / St Antoine,0,2006,200C
+200,weekday,200-360,Congress / St Antoine,0,2009,200W
+200,weekday,200-361,Congress / St Antoine,0,2006,200C
+200,weekday,200-362,Congress / St Antoine,0,2009,200W
+200,weekday,200-363,Congress / St Antoine,0,2006,200C
+200,weekday,200-364,Congress / St Antoine,0,2009,200W
+200,weekday,200-365,Congress / St Antoine,0,2006,200C
+200,weekday,200-366,Congress / St Antoine,0,2009,200W
+200,weekday,200-367,Congress / St Antoine,0,2006,200C
+200,weekday,200-368,Congress / St Antoine,0,2009,200W
+200,weekday,200-369,Congress / St Antoine,0,2006,200C
+200,weekday,200-370,Congress / St Antoine,0,2009,200W
+200,weekday,200-371,Congress / St Antoine,0,2006,200C
+200,weekday,200-372,Congress / St Antoine,0,2009,200W
+200,weekday,200-373,Congress / St Antoine,0,2006,200C
+200,weekday,200-374,Congress / St Antoine,0,2009,200W
+200,weekday,200-375,Congress / St Antoine,0,2006,200C
+200,weekday,200-376,Congress / St Antoine,0,2009,200W
+200,weekday,200-377,Congress / St Antoine,0,2006,200C
+200,weekday,200-378,Congress / St Antoine,0,2009,200W
+200,weekday,200-379,Congress / St Antoine,0,2006,200C
+200,weekday,200-380,Congress / St Antoine,0,2009,200W
+200,weekday,200-381,Congress / St Antoine,0,2006,200C
+200,weekday,200-382,Congress / St Antoine,0,2009,200W
+200,weekday,200-383,Congress / St Antoine,0,2006,200C
+200,weekday,200-384,Congress / St Antoine,0,2009,200W
+200,weekday,200-385,Congress / St Antoine,0,2006,200C
+200,weekday,200-386,Congress / St Antoine,0,2009,200W
+200,weekday,200-387,Congress / St Antoine,0,2006,200C
+200,weekday,200-388,Congress / St Antoine,0,2009,200W
+200,weekday,200-389,Congress / St Antoine,0,2006,200C
+200,weekday,200-390,Congress / St Antoine,0,2009,200W
+200,weekday,200-391,Congress / St Antoine,0,2006,200C
+200,weekday,200-392,Congress / St Antoine,0,2009,200W
+200,weekday,200-393,Congress / St Antoine,0,2006,200C
+200,weekday,200-394,Congress / St Antoine,0,2009,200W
+200,weekday,200-395,Congress / St Antoine,0,2006,200C
+200,weekday,200-396,Congress / St Antoine,0,2009,200W
+200,weekday,200-397,Congress / St Antoine,0,2006,200C
+200,weekday,200-398,Congress / St Antoine,0,2009,200W
+200,weekday,200-399,Congress / St Antoine,0,2006,200C
+200,weekday,200-400,Congress / St Antoine,0,2009,200W
+200,weekday,200-401,Congress / St Antoine,0,2006,200C
+200,weekday,200-402,Congress / St Antoine,0,2009,200W
+200,weekday,200-403,Congress / St Antoine,0,2006,200C
+200,weekday,200-404,Congress / St Antoine,0,2009,200W
+200,weekday,200-405,Congress / St Antoine,0,2006,200C
+200,weekday,200-406,Congress / St Antoine,0,2009,200W
+200,weekday,200-407,Congress / St Antoine,0,2006,200C
+200,weekday,200-408,Congress / St Antoine,0,2009,200W
+200,weekday,200-409,Congress / St Antoine,0,2006,200C
+200,weekday,200-410,Congress / St Antoine,0,2009,200W
+200,weekday,200-411,Congress / St Antoine,0,2006,200C
+200,weekday,200-412,Congress / St Antoine,0,2009,200W
+200,weekday,200-413,Congress / St Antoine,0,2006,200C
+200,weekday,200-414,Congress / St Antoine,0,2009,200W
+200,weekday,200-415,Congress / St Antoine,0,2006,200C
+200,weekday,200-416,Congress / St Antoine,0,2009,200W
+200,weekday,200-417,Congress / St Antoine,0,2006,200C
+200,weekday,200-418,Congress / St Antoine,0,2009,200W
+200,weekday,200-419,Congress / St Antoine,0,2006,200C
+200,weekday,200-420,Congress / St Antoine,0,2009,200W
+200,weekday,200-421,Congress / St Antoine,0,2006,200C
+200,weekday,200-422,Congress / St Antoine,0,2009,200W
+200,weekday,200-423,Congress / St Antoine,0,2006,200C
+200,weekday,200-424,Congress / St Antoine,0,2009,200W
+200,weekday,200-425,Congress / St Antoine,0,2006,200C
+200,weekday,200-426,Congress / St Antoine,0,2009,200W
+200,weekday,200-427,Congress / St Antoine,0,2006,200C
+200,weekday,200-428,Congress / St Antoine,0,2009,200W
+200,weekday,200-429,Congress / St Antoine,0,2006,200C
+200,weekday,200-430,Congress / St Antoine,0,2009,200W
+200,weekday,200-431,Congress / St Antoine,0,2006,200C
+200,weekday,200-432,Congress / St Antoine,0,2009,200W
+200,weekday,200-433,Congress / St Antoine,0,2006,200C
+200,weekday,200-434,Congress / St Antoine,0,2009,200W
+200,weekday,200-435,Congress / St Antoine,0,2006,200C
+200,weekday,200-436,Congress / St Antoine,0,2009,200W
+200,weekday,200-437,Congress / St Antoine,0,2006,200C
+200,weekday,200-438,Congress / St Antoine,0,2009,200W
+200,weekday,200-439,Congress / St Antoine,0,2006,200C
+200,weekday,200-440,Congress / St Antoine,0,2009,200W
+200,weekday,200-441,Congress / St Antoine,0,2006,200C
+200,weekday,200-442,Congress / St Antoine,0,2009,200W
+200,weekday,200-443,Congress / St Antoine,0,2006,200C
+200,weekday,200-444,Congress / St Antoine,0,2009,200W
+200,weekday,200-445,Congress / St Antoine,0,2006,200C
+200,weekday,200-446,Congress / St Antoine,0,2009,200W
+200,weekday,200-447,Congress / St Antoine,0,2006,200C
+200,weekday,200-448,Congress / St Antoine,0,2009,200W
+200,weekday,200-449,Congress / St Antoine,0,2006,200C
+200,weekday,200-450,Congress / St Antoine,0,2009,200W
+200,weekday,200-451,Congress / St Antoine,0,2006,200C
+200,weekday,200-452,Congress / St Antoine,0,2009,200W
+200,weekday,200-453,Congress / St Antoine,0,2006,200C
+200,weekday,200-454,Congress / St Antoine,0,2009,200W
+200,weekday,200-455,Congress / St Antoine,0,2006,200C
+200,weekday,200-456,Congress / St Antoine,0,2009,200W
+200,weekday,200-457,Congress / St Antoine,0,2006,200C
+200,weekday,200-458,Congress / St Antoine,0,2009,200W
+200,weekday,200-459,Congress / St Antoine,0,2006,200C
+200,weekday,200-460,Congress / St Antoine,0,2009,200W
+200,weekday,200-461,Congress / St Antoine,0,2006,200C
+200,weekday,200-462,Congress / St Antoine,0,2009,200W
+200,weekday,200-463,Congress / St Antoine,0,2006,200C
+200,weekday,200-464,Congress / St Antoine,0,2009,200W
+200,weekday,200-465,Congress / St Antoine,0,2006,200C
+200,weekday,200-466,Congress / St Antoine,0,2009,200W
+200,weekday,200-467,Congress / St Antoine,0,2006,200C
+200,weekday,200-468,Congress / St Antoine,0,2009,200W
+200,weekday,200-469,Congress / St Antoine,0,2006,200C
+200,weekday,200-470,Congress / St Antoine,0,2009,200W
+200,weekday,200-471,Congress / St Antoine,0,2006,200C
+200,weekday,200-472,Congress / St Antoine,0,2009,200W
+200,weekday,200-473,Congress / St Antoine,0,2006,200C
+200,weekday,200-474,Congress / St Antoine,0,2009,200W
+200,weekday,200-475,Congress / St Antoine,0,2006,200C
+200,weekday,200-476,Congress / St Antoine,0,2009,200W
+200,weekday,200-477,Congress / St Antoine,0,2006,200C
+200,weekday,200-478,Congress / St Antoine,0,2009,200W
+200,weekday,200-479,Congress / St Antoine,0,2006,200C
+200,weekday,200-480,Congress / St Antoine,0,2009,200W
+200,weekday,200-481,Congress / St Antoine,0,2006,200C
+200,weekday,200-482,Congress / St Antoine,0,2009,200W
+200,weekday,200-483,Congress / St Antoine,0,2006,200C
+200,weekday,200-484,Congress / St Antoine,0,2009,200W
+200,weekday,200-485,Congress / St Antoine,0,2006,200C
+200,weekday,200-486,Congress / St Antoine,0,2009,200W
+200,weekday,200-487,Congress / St Antoine,0,2006,200C
+200,weekday,200-488,Congress / St Antoine,0,2009,200W
+200,weekday,200-489,Congress / St Antoine,0,2006,200C
+200,weekday,200-490,Congress / St Antoine,0,2009,200W
+200,weekday,200-491,Congress / St Antoine,0,2006,200C
+200,weekday,200-492,Congress / St Antoine,0,2009,200W
+200,weekday,200-493,Congress / St Antoine,0,2006,200C
+200,weekday,200-494,Congress / St Antoine,0,2009,200W
+200,weekday,200-495,Congress / St Antoine,0,2006,200C
+200,weekday,200-496,Congress / St Antoine,0,2009,200W
+200,weekday,200-497,Congress / St Antoine,0,2006,200C
+200,weekday,200-498,Congress / St Antoine,0,2009,200W
+200,weekday,200-499,Congress / St Antoine,0,2006,200C
+200,weekday,200-500,Congress / St Antoine,0,2009,200W
+200,weekday,200-501,Congress / St Antoine,0,2006,200C
+200,weekday,200-502,Congress / St Antoine,0,2009,200W
+200,weekday,200-503,Congress / St Antoine,0,2006,200C
+200,weekday,200-504,Congress / St Antoine,0,2009,200W
+200,weekday,200-505,Congress / St Antoine,0,2006,200C
+200,weekday,200-506,Congress / St Antoine,0,2009,200W
+200,weekday,200-507,Congress / St Antoine,0,2006,200C
+200,weekday,200-508,Congress / St Antoine,0,2009,200W
+200,weekday,200-509,Congress / St Antoine,0,2006,200C
+200,weekday,200-510,Congress / St Antoine,0,2009,200W
+200,weekday,200-511,Congress / St Antoine,0,2006,200C
+200,weekday,200-512,Congress / St Antoine,0,2009,200W
+200,weekday,200-513,Congress / St Antoine,0,2006,200C
+200,weekday,200-514,Congress / St Antoine,0,2009,200W
+200,weekday,200-515,Congress / St Antoine,0,2006,200C
+200,weekday,200-516,Congress / St Antoine,0,2009,200W
+200,weekday,200-517,Congress / St Antoine,0,2006,200C
+200,weekday,200-518,Congress / St Antoine,0,2009,200W
+200,weekday,200-519,Congress / St Antoine,0,2006,200C
+200,weekday,200-520,Congress / St Antoine,0,2009,200W
+200,weekday,200-521,Congress / St Antoine,0,2006,200C
+200,weekday,200-522,Congress / St Antoine,0,2009,200W
+200,weekday,200-523,Congress / St Antoine,0,2006,200C
+200,weekday,200-524,Congress / St Antoine,0,2009,200W
+200,weekday,200-525,Congress / St Antoine,0,2006,200C
+200,weekday,200-526,Congress / St Antoine,0,2009,200W
+200,weekday,200-527,Congress / St Antoine,0,2006,200C
+200,weekday,200-528,Congress / St Antoine,0,2009,200W
+200,weekday,200-529,Congress / St Antoine,0,2006,200C
+200,weekday,200-530,Congress / St Antoine,0,2009,200W
+200,weekday,200-531,Congress / St Antoine,0,2006,200C
+200,weekday,200-532,Congress / St Antoine,0,2009,200W
+200,weekday,200-533,Congress / St Antoine,0,2006,200C
+200,weekday,200-534,Congress / St Antoine,0,2009,200W
+200,weekday,200-535,Congress / St Antoine,0,2006,200C
+200,weekday,200-536,Congress / St Antoine,0,2009,200W
+200,weekday,200-537,Congress / St Antoine,0,2006,200C
+200,weekday,200-538,Congress / St Antoine,0,2009,200W
+200,weekday,200-539,Michigan / Canton Center,1,2004,200C
+200,weekday,200-540,Westland Meijer,1,2007,200W
+200,weekday,200-541,Michigan / Canton Center,1,2004,200C
+200,weekday,200-542,Westland Meijer,1,2007,200W
+200,weekday,200-543,Michigan / Canton Center,1,2004,200C
+200,weekday,200-544,Westland Meijer,1,2007,200W
+200,weekday,200-545,Michigan / Canton Center,1,2004,200C
+200,weekday,200-546,Westland Meijer,1,2007,200W
+200,weekday,200-547,Michigan / Canton Center,1,2004,200C
+200,weekday,200-548,Westland Meijer,1,2007,200W
+200,weekday,200-549,Michigan / Canton Center,1,2004,200C
+200,weekday,200-550,Westland Meijer,1,2007,200W
+200,weekday,200-551,Michigan / Canton Center,1,2004,200C
+200,weekday,200-552,Westland Meijer,1,2007,200W
+200,weekday,200-553,Michigan / Canton Center,1,2004,200C
+200,weekday,200-554,Westland Meijer,1,2007,200W
+200,weekday,200-555,Michigan / Canton Center,1,2004,200C
+200,weekday,200-556,Westland Meijer,1,2007,200W
+200,weekday,200-557,Michigan / Canton Center,1,2004,200C
+200,weekday,200-558,Westland Meijer,1,2007,200W
+200,weekday,200-559,Michigan / Canton Center,1,2004,200C
+200,weekday,200-560,Westland Meijer,1,2007,200W
+200,weekday,200-561,Michigan / Canton Center,1,2004,200C
+200,weekday,200-562,Westland Meijer,1,2007,200W
+200,weekday,200-563,Michigan / Canton Center,1,2004,200C
+200,weekday,200-564,Westland Meijer,1,2007,200W
+200,weekday,200-565,Michigan / Canton Center,1,2004,200C
+200,weekday,200-566,Westland Meijer,1,2007,200W
+200,weekday,200-567,Michigan / Canton Center,1,2004,200C
+200,weekday,200-568,Westland Meijer,1,2007,200W
+200,weekday,200-569,Michigan / Canton Center,1,2004,200C
+200,weekday,200-570,Westland Meijer,1,2007,200W
+200,weekday,200-571,Michigan / Canton Center,1,2004,200C
+200,weekday,200-572,Westland Meijer,1,2007,200W
+200,weekday,200-573,Michigan / Canton Center,1,2004,200C
+200,weekday,200-574,Westland Meijer,1,2007,200W
+200,weekday,200-575,Michigan / Canton Center,1,2004,200C
+200,weekday,200-576,Westland Meijer,1,2007,200W
+200,weekday,200-577,Michigan / Canton Center,1,2004,200C
+200,weekday,200-578,Westland Meijer,1,2007,200W
+200,weekday,200-579,Michigan / Canton Center,1,2004,200C
+200,weekday,200-580,Westland Meijer,1,2007,200W
+200,weekday,200-581,Michigan / Canton Center,1,2004,200C
+200,weekday,200-582,Westland Meijer,1,2007,200W
+200,weekday,200-583,Michigan / Canton Center,1,2004,200C
+200,weekday,200-584,Westland Meijer,1,2007,200W
+200,weekday,200-585,Michigan / Canton Center,1,2004,200C
+200,weekday,200-586,Westland Meijer,1,2007,200W
+200,weekday,200-587,Michigan / Canton Center,1,2004,200C
+200,weekday,200-588,Westland Meijer,1,2007,200W
+200,weekday,200-589,Michigan / Canton Center,1,2004,200C
+200,weekday,200-590,Westland Meijer,1,2007,200W
+200,weekday,200-591,Michigan / Canton Center,1,2004,200C
+200,weekday,200-592,Westland Meijer,1,2007,200W
+200,weekday,200-593,Michigan / Canton Center,1,2004,200C
+200,weekday,200-594,Westland Meijer,1,2007,200W
+200,weekday,200-595,Michigan / Canton Center,1,2004,200C
+200,weekday,200-596,Westland Meijer,1,2007,200W
+200,weekday,200-597,Michigan / Canton Center,1,2004,200C
+200,weekday,200-598,Westland Meijer,1,2007,200W
+200,weekday,200-599,Michigan / Canton Center,1,2004,200C
+200,weekday,200-600,Westland Meijer,1,2007,200W
+200,weekday,200-601,Michigan / Canton Center,1,2004,200C
+200,weekday,200-602,Westland Meijer,1,2007,200W
+200,weekday,200-603,Michigan / Canton Center,1,2004,200C
+200,weekday,200-604,Westland Meijer,1,2007,200W
+200,weekday,200-605,Michigan / Canton Center,1,2004,200C
+200,weekday,200-606,Westland Meijer,1,2007,200W
+200,weekday,200-607,Michigan / Canton Center,1,2004,200C
+200,weekday,200-608,Westland Meijer,1,2007,200W
+200,weekday,200-609,Michigan / Canton Center,1,2004,200C
+200,weekday,200-610,Westland Meijer,1,2007,200W
+200,weekday,200-611,Michigan / Canton Center,1,2004,200C
+200,weekday,200-612,Westland Meijer,1,2007,200W
+200,weekday,200-613,Michigan / Canton Center,1,2004,200C
+200,weekday,200-614,Westland Meijer,1,2007,200W
+200,weekday,200-615,Michigan / Canton Center,1,2004,200C
+200,weekday,200-616,Westland Meijer,1,2007,200W
+200,weekday,200-617,Michigan / Canton Center,1,2004,200C
+200,weekday,200-618,Westland Meijer,1,2007,200W
+200,weekday,200-619,Michigan / Canton Center,1,2004,200C
+200,weekday,200-620,Westland Meijer,1,2007,200W
+200,weekday,200-621,Michigan / Canton Center,1,2004,200C
+200,weekday,200-622,Westland Meijer,1,2007,200W
+200,weekday,200-623,Michigan / Canton Center,1,2004,200C
+200,weekday,200-624,Westland Meijer,1,2007,200W
+200,weekday,200-625,Michigan / Canton Center,1,2004,200C
+200,weekday,200-626,Westland Meijer,1,2007,200W
+200,weekday,200-627,Michigan / Canton Center,1,2004,200C
+200,weekday,200-628,Westland Meijer,1,2007,200W
+200,weekday,200-629,Michigan / Canton Center,1,2004,200C
+200,weekday,200-630,Westland Meijer,1,2007,200W
+200,weekday,200-631,Michigan / Canton Center,1,2004,200C
+200,weekday,200-632,Westland Meijer,1,2007,200W
+200,weekday,200-633,Michigan / Canton Center,1,2004,200C
+200,weekday,200-634,Westland Meijer,1,2007,200W
+200,weekday,200-635,Michigan / Canton Center,1,2004,200C
+200,weekday,200-636,Westland Meijer,1,2007,200W
+200,weekday,200-637,Michigan / Canton Center,1,2004,200C
+200,weekday,200-638,Westland Meijer,1,2007,200W
+200,weekday,200-639,Michigan / Canton Center,1,2004,200C
+200,weekday,200-640,Westland Meijer,1,2007,200W
+200,weekday,200-641,Michigan / Canton Center,1,2004,200C
+200,weekday,200-642,Westland Meijer,1,2007,200W
+200,weekday,200-643,Michigan / Canton Center,1,2004,200C
+200,weekday,200-644,Westland Meijer,1,2007,200W
+200,weekday,200-645,Michigan / Canton Center,1,2004,200C
+200,weekday,200-646,Westland Meijer,1,2007,200W
+200,weekday,200-647,Michigan / Canton Center,1,2004,200C
+200,weekday,200-648,Westland Meijer,1,2007,200W
+200,weekday,200-649,Michigan / Canton Center,1,2004,200C
+200,weekday,200-650,Westland Meijer,1,2007,200W
+200,weekday,200-651,Michigan / Canton Center,1,2004,200C
+200,weekday,200-652,Westland Meijer,1,2007,200W
+200,weekday,200-653,Michigan / Canton Center,1,2004,200C
+200,weekday,200-654,Westland Meijer,1,2007,200W
+200,weekday,200-655,Michigan / Canton Center,1,2004,200C
+200,weekday,200-656,Westland Meijer,1,2007,200W
+200,weekday,200-657,Michigan / Canton Center,1,2004,200C
+200,weekday,200-658,Westland Meijer,1,2007,200W
+200,weekday,200-659,Michigan / Canton Center,1,2004,200C
+200,weekday,200-660,Westland Meijer,1,2007,200W
+200,weekday,200-661,Michigan / Canton Center,1,2004,200C
+200,weekday,200-662,Westland Meijer,1,2007,200W
+200,weekday,200-663,Michigan / Canton Center,1,2004,200C
+200,weekday,200-664,Westland Meijer,1,2007,200W
+200,weekday,200-665,Michigan / Canton Center,1,2004,200C
+200,weekday,200-666,Westland Meijer,1,2007,200W
+200,weekday,200-667,Michigan / Canton Center,1,2004,200C
+200,weekday,200-668,Westland Meijer,1,2007,200W
+200,weekday,200-669,Michigan / Canton Center,1,2004,200C
+200,weekday,200-670,Westland Meijer,1,2007,200W
+200,weekday,200-671,Michigan / Canton Center,1,2004,200C
+200,weekday,200-672,Westland Meijer,1,2007,200W
+200,weekday,200-673,Michigan / Canton Center,1,2004,200C
+200,weekday,200-674,Westland Meijer,1,2007,200W
+200,weekday,200-675,Michigan / Canton Center,1,2004,200C
+200,weekday,200-676,Westland Meijer,1,2007,200W
+200,weekday,200-677,Michigan / Canton Center,1,2004,200C
+200,weekday,200-678,Westland Meijer,1,2007,200W
+200,weekday,200-679,Michigan / Canton Center,1,2004,200C
+200,weekday,200-680,Westland Meijer,1,2007,200W
+200,weekday,200-681,Michigan / Canton Center,1,2004,200C
+200,weekday,200-682,Westland Meijer,1,2007,200W
+200,weekday,200-683,Michigan / Canton Center,1,2004,200C
+200,weekday,200-684,Westland Meijer,1,2007,200W
+200,weekday,200-685,Michigan / Canton Center,1,2004,200C
+200,weekday,200-686,Westland Meijer,1,2007,200W
+200,weekday,200-687,Michigan / Canton Center,1,2004,200C
+200,weekday,200-688,Westland Meijer,1,2007,200W
+200,weekday,200-689,Michigan / Canton Center,1,2004,200C
+200,weekday,200-690,Westland Meijer,1,2007,200W
+200,weekday,200-691,Michigan / Canton Center,1,2004,200C
+200,weekday,200-692,Westland Meijer,1,2007,200W
+200,weekday,200-693,Michigan / Canton Center,1,2004,200C
+200,weekday,200-694,Westland Meijer,1,2007,200W
+200,weekday,200-695,Michigan / Canton Center,1,2004,200C
+200,weekday,200-696,Westland Meijer,1,2007,200W
+200,weekday,200-697,Michigan / Canton Center,1,2004,200C
+200,weekday,200-698,Westland Meijer,1,2007,200W
+200,weekday,200-699,Michigan / Canton Center,1,2004,200C
+200,weekday,200-700,Westland Meijer,1,2007,200W
+200,weekday,200-701,Michigan / Canton Center,1,2004,200C
+200,weekday,200-702,Westland Meijer,1,2007,200W
+200,weekday,200-703,Michigan / Canton Center,1,2004,200C
+200,weekday,200-704,Westland Meijer,1,2007,200W
+200,weekday,200-705,Michigan / Canton Center,1,2004,200C
+200,weekday,200-706,Westland Meijer,1,2007,200W
+200,weekday,200-707,Michigan / Canton Center,1,2004,200C
+200,weekday,200-708,Westland Meijer,1,2007,200W
+200,weekday,200-709,Michigan / Canton Center,1,2004,200C
+200,weekday,200-710,Westland Meijer,1,2007,200W
+200,weekday,200-711,Michigan / Canton Center,1,2004,200C
+200,weekday,200-712,Westland Meijer,1,2007,200W
+200,weekday,200-713,Michigan / Canton Center,1,2004,200C
+200,weekday,200-714,Westland Meijer,1,2007,200W
+200,weekday,200-715,Michigan / Canton Center,1,2004,200C
+200,weekday,200-716,Westland Meijer,1,2007,200W
+200,weekday,200-717,Michigan / Canton Center,1,2004,200C
+200,weekday,200-718,Westland Meijer,1,2007,200W
+200,weekday,200-719,Michigan / Canton Center,1,2004,200C
+200,weekday,200-720,Westland Meijer,1,2007,200W

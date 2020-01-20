@@ -1,0 +1,104 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
+814,saturday,814-1,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-2,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-3,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-4,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-5,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-6,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-7,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-8,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-9,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-10,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-11,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-12,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-13,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-14,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-15,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-16,Lafayette / St Antoine,1,8146,814D
+814,saturday,814-17,Blake Transit Center,0,8144,814D
+814,saturday,814-18,Blake Transit Center,0,8144,814D
+814,saturday,814-19,Blake Transit Center,0,8144,814D
+814,saturday,814-20,Blake Transit Center,0,8144,814D
+814,saturday,814-21,Blake Transit Center,0,8144,814D
+814,saturday,814-22,Blake Transit Center,0,8144,814D
+814,saturday,814-23,Blake Transit Center,0,8144,814D
+814,saturday,814-24,Blake Transit Center,0,8144,814D
+814,saturday,814-25,Blake Transit Center,0,8144,814D
+814,saturday,814-26,Blake Transit Center,0,8144,814D
+814,saturday,814-27,Blake Transit Center,0,8144,814D
+814,saturday,814-28,Blake Transit Center,0,8144,814D
+814,saturday,814-29,Blake Transit Center,0,8144,814D
+814,saturday,814-30,Blake Transit Center,0,8144,814D
+814,saturday,814-31,Blake Transit Center,0,8144,814D
+814,saturday,814-32,Blake Transit Center,0,8144,814D
+814,saturday,814-33,Blake Transit Center,0,8144,814D
+814,weekday,814-34,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-35,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-36,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-37,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-38,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-39,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-40,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-41,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-42,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-43,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-44,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-45,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-46,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-47,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-48,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-49,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-50,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-51,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-52,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-53,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-54,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-55,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-56,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-57,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-58,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-59,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-60,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-61,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-62,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-63,Lodge / Grand Blvd via Downtown Detroit,1,8149,814W
+814,weekday,814-64,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-65,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-66,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-67,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-68,Lafayette / St Antoine,1,8146,814D
+814,weekday,814-69,Blake Transit Center,0,8144,814D
+814,weekday,814-70,Central Campus Transit Center,1,8147,814W
+814,weekday,814-71,Blake Transit Center,0,8144,814D
+814,weekday,814-72,Central Campus Transit Center,1,8147,814W
+814,weekday,814-73,Blake Transit Center,0,8144,814D
+814,weekday,814-74,Central Campus Transit Center,1,8147,814W
+814,weekday,814-75,Blake Transit Center,0,8144,814D
+814,weekday,814-76,Central Campus Transit Center,1,8147,814W
+814,weekday,814-77,Blake Transit Center,0,8144,814D
+814,weekday,814-78,Central Campus Transit Center,1,8147,814W
+814,weekday,814-79,Blake Transit Center,0,8144,814D
+814,weekday,814-80,Blake Transit Center,0,8144,814D
+814,weekday,814-81,Blake Transit Center,0,8144,814D
+814,weekday,814-82,Blake Transit Center,0,8144,814D
+814,weekday,814-83,Blake Transit Center,0,8144,814D
+814,weekday,814-84,Blake Transit Center,0,8144,814D
+814,weekday,814-85,Blake Transit Center,0,8144,814D
+814,weekday,814-86,Blake Transit Center,0,8144,814D
+814,weekday,814-87,Blake Transit Center,0,8144,814D
+814,weekday,814-88,Blake Transit Center,0,8144,814D
+814,weekday,814-89,Central Campus Transit Center,1,8147,814W
+814,weekday,814-90,Blake Transit Center,0,8144,814D
+814,weekday,814-91,Central Campus Transit Center,1,8147,814W
+814,weekday,814-92,Blake Transit Center,0,8144,814D
+814,weekday,814-93,Central Campus Transit Center,1,8147,814W
+814,weekday,814-94,Blake Transit Center,0,8144,814D
+814,weekday,814-95,Central Campus Transit Center,1,8147,814W
+814,weekday,814-96,Blake Transit Center,0,8144,814D
+814,weekday,814-97,Central Campus Transit Center,1,8147,814W
+814,weekday,814-98,Blake Transit Center,0,8144,814D
+814,weekday,814-99,Blake Transit Center,0,8144,814D
+814,weekday,814-100,Blake Transit Center,0,8144,814D
+814,weekday,814-101,Blake Transit Center,0,8144,814D
+814,weekday,814-102,Blake Transit Center,0,8144,814D
+814,weekday,814-103,Blake Transit Center,0,8144,814D
