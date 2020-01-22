@@ -49,18 +49,17 @@ INSERT INTO nexuses VALUES
   ('782', 'New Center', 'NB Woodward');
 
 SELECT
-  arrival_time AS "Time",
-  route_id AS "Route",
-  trip_headsign AS "Destination"
-FROM stop_times
-  JOIN trips USING (trip_id)
-WHERE
-  stop_id IN (SELECT stop_id FROM nexuses WHERE loc = 'Rosa Parks')
-  AND service_id IN ('weekday', 'weekdaynoph')
+  loc AS "Nexus",
+  detail AS "Detail",
+  count(trip_id) AS "# Departures"
+FROM nexuses
+  LEFT JOIN stop_times USING (stop_id)
+  LEFT JOIN trips USING (trip_id)
+WHERE service_id IN ('weekday', 'weekdaynoph', 'weekdaynorf')
   AND stop_sequence < (
     SELECT max(stop_sequence)
     FROM stop_times AS inner_trips
     WHERE inner_trips.trip_id = trips.trip_id
   )
   AND timepoint = 1
-ORDER BY arrival_time ASC;
+GROUP BY stop_id;

@@ -65,18 +65,25 @@
       "Exceptions": {
         "2020-05-25": "sundaynorf",
         "2020-07-04": "sundaynorf",
+        "2020-08-22": "saturdayrenfest",
+        "2020-08-23": "sundayrenfest",
+        "2020-08-29": "saturdayrenfest",
+        "2020-08-30": "sundayrenfest",
+        "2020-09-05": "saturdayrenfest",
+        "2020-09-06": "sundayrenfest",
         "2020-09-07": "sundayrenfest",
+        "2020-09-12": "saturdayrenfest",
+        "2020-09-13": "sundayrenfest",
+        "2020-09-19": "saturdayrenfest",
+        "2020-09-20": "sundayrenfest",
+        "2020-09-26": "saturdayrenfest",
+        "2020-09-27": "sundayrenfest",
+        "2020-10-03": "saturdayrenfest",
+        "2020-10-04": "sundayrenfest",
         "2020-11-26": "sundaynorf",
         "2020-12-25": "sundaynorf",
         "2021-01-01": "sundaynorf"
       }
-    },
-    {
-      "Start": "2020-08-22",
-      "End": "2020-10-04",
-      "Saturday": "saturdayrenfest",
-      "Sunday": "sundayrenfest",
-      "Exceptions": {}
     }
   ],
   "BlankCalendars": [
