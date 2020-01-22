@@ -3,7 +3,10 @@ DROP TABLE IF EXISTS pathways;
 DROP TABLE IF EXISTS transfers;
 DROP TABLE IF EXISTS frequencies;
 DROP TABLE IF EXISTS shapes;
+DROP TABLE IF EXISTS shape_ids;
 DROP TABLE IF EXISTS fare_rules;
+DROP TABLE IF EXISTS fare_demographic_prices;
+DROP TABLE IF EXISTS fare_demographics;
 DROP TABLE IF EXISTS fare_attributes;
 DROP TABLE IF EXISTS calendar_dates;
 DROP TABLE IF EXISTS calendar;
@@ -11,6 +14,7 @@ DROP TABLE IF EXISTS stop_times;
 DROP TABLE IF EXISTS trips;
 DROP TABLE IF EXISTS routes;
 DROP TABLE IF EXISTS stops;
+DROP TABLE IF EXISTS fare_zones;
 DROP TABLE IF EXISTS levels;
 DROP TABLE IF EXISTS agency;
 CREATE TABLE agency (
@@ -28,6 +32,7 @@ CREATE TABLE levels (
   level_index REAL NOT NULL,
   level_name TEXT
 );
+CREATE TABLE fare_zones (zone_id TEXT PRIMARY KEY NOT NULL);
 CREATE TABLE stops (
   stop_id TEXT PRIMARY KEY NOT NULL,
   stop_code TEXT,
@@ -41,7 +46,7 @@ CREATE TABLE stops (
     stop_lon BETWEEN -180.0
     AND 180.0
   ),
-  zone_id TEXT,
+  zone_id TEXT REFERENCES fare_zones,
   stop_url TEXT,
   location_type INTEGER NOT NULL DEFAULT 0 CHECK (
     location_type BETWEEN 0
@@ -126,8 +131,9 @@ CREATE TABLE calendar (
   start_date TEXT NOT NULL,
   end_date TEXT NOT NULL
 );
+CREATE TABLE shape_ids (shape_id TEXT PRIMARY KEY NOT NULL);
 CREATE TABLE shapes (
-  shape_id TEXT NOT NULL,
+  shape_id TEXT NOT NULL REFERENCES shape_ids(shape_id),
   shape_pt_lat REAL NOT NULL CHECK (
     shape_pt_lat BETWEEN -90.0
     AND 90.0
@@ -151,7 +157,7 @@ CREATE TABLE trips (
     AND 1
   ),
   block_id TEXT,
-  shape_id TEXT REFERENCES shapes(shape_id),
+  shape_id TEXT REFERENCES shape_ids(shape_id),
   wheelchair_accessible INTEGER NOT NULL DEFAULT 0 CHECK (
     wheelchair_accessible BETWEEN 0
     AND 2
@@ -204,12 +210,23 @@ CREATE TABLE fare_attributes (
   agency_id TEXT NOT NULL DEFAULT '1' REFERENCES agency(agency_id),
   transfer_duration INTEGER CHECK (transfer_duration >= 0)
 );
+CREATE TABLE fare_demographics (
+  demographic_id TEXT PRIMARY KEY NOT NULL,
+  demographic_preset INT NOT NULL CHECK (demographic_preset >= 0),
+  demographic_detail TEXT NOT NULL
+);
+CREATE TABLE fare_demographic_prices (
+  demographic_id TEXT NOT NULL REFERENCES fare_demographics(demographic_id),
+  fare_id TEXT NOT NULL REFERENCES fare_attributes(fare_id),
+  adjusted_price REAL NOT NULL,
+  PRIMARY KEY (demographic_id, fare_id)
+);
 CREATE TABLE fare_rules (
   fare_id TEXT NOT NULL REFERENCES fare_attributes(fare_id),
   route_id TEXT REFERENCES routes(route_id),
-  origin_id TEXT REFERENCES stops(zone_id),
-  destination_id TEXT REFERENCES stops(zone_id),
-  contains_id TEXT REFERENCES stops(zone_id),
+  origin_id TEXT REFERENCES fare_zones(zone_id),
+  destination_id TEXT REFERENCES fare_zones(zone_id),
+  contains_id TEXT REFERENCES fare_zones(zone_id),
   UNIQUE(
     fare_id,
     route_id,

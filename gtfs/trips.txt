@@ -9106,132 +9106,132 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
 420,weekday,420-98,Commerce Crossing,1,4202,
 420,weekday,420-99,Commerce Crossing,1,4202,
 420,weekday,420-100,Commerce Crossing,1,4202,
-430Z,saturday,430-1,Detroit Zoo,0,4308,
-430Z,saturday,430-2,Detroit Zoo,0,4308,
-430Z,saturday,430-3,Detroit Zoo,0,4308,
-430Z,saturday,430-4,Detroit Zoo,0,4308,
-430Z,saturday,430-5,Detroit Zoo,0,4308,
-430Z,saturday,430-6,Detroit Zoo,0,4308,
-430Z,saturday,430-7,Detroit Zoo,0,4308,
-430Z,saturday,430-8,Detroit Zoo,0,4308,
-430Z,saturday,430-9,Detroit Zoo,0,4308,
-430Z,saturday,430-10,Detroit Zoo,0,4308,
-430Z,saturday,430-11,Detroit Zoo,0,4308,
-430Z,saturday,430-12,Detroit Zoo,0,4308,
-430Z,saturday,430-13,Detroit Zoo,0,4308,
-430Z,saturday,430-14,Detroit Zoo,0,4308,
-430Z,saturday,430-15,Detroit Zoo,0,4308,
-430Z,saturday,430-16,University of Detroit Mercy,1,4302,
-430Z,saturday,430-17,University of Detroit Mercy,1,4302,
-430Z,saturday,430-18,University of Detroit Mercy,1,4302,
-430Z,saturday,430-19,University of Detroit Mercy,1,4302,
-430Z,saturday,430-20,University of Detroit Mercy,1,4302,
-430Z,saturday,430-21,University of Detroit Mercy,1,4302,
-430Z,saturday,430-22,University of Detroit Mercy,1,4302,
-430Z,saturday,430-23,University of Detroit Mercy,1,4302,
-430Z,saturday,430-24,University of Detroit Mercy,1,4302,
-430Z,saturday,430-25,University of Detroit Mercy,1,4302,
-430Z,saturday,430-26,University of Detroit Mercy,1,4302,
-430Z,saturday,430-27,University of Detroit Mercy,1,4302,
-430Z,saturday,430-28,University of Detroit Mercy,1,4302,
-430Z,saturday,430-29,University of Detroit Mercy,1,4302,
-430Z,saturday,430-30,University of Detroit Mercy,1,4302,
-430S,sunday,430-31,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-32,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-33,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-34,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-35,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-36,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-37,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-38,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-39,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-40,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-41,Royal Oak Nexus via Detroit Zoo,0,4309,
-430S,sunday,430-42,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-43,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-44,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-45,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-46,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-47,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-48,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-49,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-50,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-51,University of Detroit Mercy via Detroit Zoo,1,4303,
-430S,sunday,430-52,University of Detroit Mercy via Detroit Zoo,1,4303,
-430R,weekday,430-53,Royal Oak Nexus,0,4307,
-430R,weekday,430-54,Royal Oak Nexus,0,4307,
-430R,weekday,430-55,Royal Oak Nexus,0,4307,
-430R,weekday,430-56,Royal Oak Nexus,0,4307,
-430R,weekday,430-57,Royal Oak Nexus,0,4307,
-430Z,weekday,430-58,Detroit Zoo,0,4308,
-430R,weekday,430-59,Royal Oak Nexus,0,4307,
-430Z,weekday,430-60,Detroit Zoo,0,4308,
-430Z,weekday,430-61,Detroit Zoo,0,4308,
-430Z,weekday,430-62,Detroit Zoo,0,4308,
-430Z,weekday,430-63,Detroit Zoo,0,4308,
-430Z,weekday,430-64,Detroit Zoo,0,4308,
-430Z,weekday,430-65,Detroit Zoo,0,4308,
-430Z,weekday,430-66,Detroit Zoo,0,4308,
-430Z,weekday,430-67,Detroit Zoo,0,4308,
-430Z,weekday,430-68,Detroit Zoo,0,4308,
-430Z,weekday,430-69,Detroit Zoo,0,4308,
-430Z,weekday,430-70,Detroit Zoo,0,4308,
-430Z,weekday,430-71,Detroit Zoo,0,4308,
-430Z,weekday,430-72,Detroit Zoo,0,4308,
-430Z,weekday,430-73,Detroit Zoo,0,4308,
-430Z,weekday,430-74,Detroit Zoo,0,4308,
-430Z,weekday,430-75,Detroit Zoo,0,4308,
-430Z,weekday,430-76,Detroit Zoo,0,4308,
-430Z,weekday,430-77,Detroit Zoo,0,4308,
-430Z,weekday,430-78,Detroit Zoo,0,4308,
-430R,weekday,430-79,Royal Oak Nexus,0,4307,
-430R,weekday,430-80,Royal Oak Nexus,0,4307,
-430Z,weekday,430-81,Detroit Zoo,0,4308,
-430R,weekday,430-82,Royal Oak Nexus,0,4307,
-430R,weekday,430-83,Royal Oak Nexus,0,4307,
-430R,weekday,430-84,Royal Oak Nexus,0,4307,
-430R,weekday,430-85,Royal Oak Nexus,0,4307,
-430R,weekday,430-86,Royal Oak Nexus,0,4307,
-430R,weekday,430-87,Royal Oak Nexus,0,4307,
-430R,weekday,430-88,Royal Oak Nexus,0,4307,
-430R,weekday,430-89,Royal Oak Nexus,0,4307,
-430R,weekday,430-90,Royal Oak Nexus,0,4307,
-430R,weekday,430-91,University of Detroit Mercy,1,4301,
-430R,weekday,430-92,University of Detroit Mercy,1,4301,
-430R,weekday,430-93,University of Detroit Mercy,1,4301,
-430R,weekday,430-94,University of Detroit Mercy,1,4301,
-430R,weekday,430-95,University of Detroit Mercy,1,4301,
-430R,weekday,430-96,University of Detroit Mercy,1,4301,
-430Z,weekday,430-97,University of Detroit Mercy,1,4302,
-430R,weekday,430-98,University of Detroit Mercy,1,4301,
-430Z,weekday,430-99,University of Detroit Mercy,1,4302,
-430Z,weekday,430-100,University of Detroit Mercy,1,4302,
-430Z,weekday,430-101,University of Detroit Mercy,1,4302,
-430Z,weekday,430-102,University of Detroit Mercy,1,4302,
-430Z,weekday,430-103,University of Detroit Mercy,1,4302,
-430Z,weekday,430-104,University of Detroit Mercy,1,4302,
-430Z,weekday,430-105,University of Detroit Mercy,1,4302,
-430Z,weekday,430-106,University of Detroit Mercy,1,4302,
-430Z,weekday,430-107,University of Detroit Mercy,1,4302,
-430Z,weekday,430-108,University of Detroit Mercy,1,4302,
-430Z,weekday,430-109,University of Detroit Mercy,1,4302,
-430Z,weekday,430-110,University of Detroit Mercy,1,4302,
-430Z,weekday,430-111,University of Detroit Mercy,1,4302,
-430Z,weekday,430-112,University of Detroit Mercy,1,4302,
-430Z,weekday,430-113,University of Detroit Mercy,1,4302,
-430Z,weekday,430-114,University of Detroit Mercy,1,4302,
-430Z,weekday,430-115,University of Detroit Mercy,1,4302,
-430Z,weekday,430-116,University of Detroit Mercy,1,4302,
-430Z,weekday,430-117,University of Detroit Mercy,1,4302,
-430Z,weekday,430-118,University of Detroit Mercy,1,4302,
-430Z,weekday,430-119,University of Detroit Mercy,1,4302,
-430R,weekday,430-120,University of Detroit Mercy,1,4301,
-430R,weekday,430-121,University of Detroit Mercy,1,4301,
-430Z,weekday,430-122,University of Detroit Mercy,1,4302,
-430R,weekday,430-123,University of Detroit Mercy,1,4301,
-430R,weekday,430-124,University of Detroit Mercy,1,4301,
-430R,weekday,430-125,University of Detroit Mercy,1,4301,
-430R,weekday,430-126,University of Detroit Mercy,1,4301,
+430,saturday,430-1,Detroit Zoo,0,4308,430Z
+430,saturday,430-2,Detroit Zoo,0,4308,430Z
+430,saturday,430-3,Detroit Zoo,0,4308,430Z
+430,saturday,430-4,Detroit Zoo,0,4308,430Z
+430,saturday,430-5,Detroit Zoo,0,4308,430Z
+430,saturday,430-6,Detroit Zoo,0,4308,430Z
+430,saturday,430-7,Detroit Zoo,0,4308,430Z
+430,saturday,430-8,Detroit Zoo,0,4308,430Z
+430,saturday,430-9,Detroit Zoo,0,4308,430Z
+430,saturday,430-10,Detroit Zoo,0,4308,430Z
+430,saturday,430-11,Detroit Zoo,0,4308,430Z
+430,saturday,430-12,Detroit Zoo,0,4308,430Z
+430,saturday,430-13,Detroit Zoo,0,4308,430Z
+430,saturday,430-14,Detroit Zoo,0,4308,430Z
+430,saturday,430-15,Detroit Zoo,0,4308,430Z
+430,saturday,430-16,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-17,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-18,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-19,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-20,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-21,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-22,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-23,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-24,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-25,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-26,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-27,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-28,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-29,University of Detroit Mercy,1,4302,430Z
+430,saturday,430-30,University of Detroit Mercy,1,4302,430Z
+430,sunday,430-31,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-32,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-33,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-34,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-35,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-36,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-37,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-38,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-39,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-40,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-41,Royal Oak Nexus via Detroit Zoo,0,4309,430S
+430,sunday,430-42,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-43,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-44,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-45,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-46,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-47,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-48,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-49,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-50,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-51,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,sunday,430-52,University of Detroit Mercy via Detroit Zoo,1,4303,430S
+430,weekday,430-53,Royal Oak Nexus,0,4307,430R
+430,weekday,430-54,Royal Oak Nexus,0,4307,430R
+430,weekday,430-55,Royal Oak Nexus,0,4307,430R
+430,weekday,430-56,Royal Oak Nexus,0,4307,430R
+430,weekday,430-57,Royal Oak Nexus,0,4307,430R
+430,weekday,430-58,Detroit Zoo,0,4308,430Z
+430,weekday,430-59,Royal Oak Nexus,0,4307,430R
+430,weekday,430-60,Detroit Zoo,0,4308,430Z
+430,weekday,430-61,Detroit Zoo,0,4308,430Z
+430,weekday,430-62,Detroit Zoo,0,4308,430Z
+430,weekday,430-63,Detroit Zoo,0,4308,430Z
+430,weekday,430-64,Detroit Zoo,0,4308,430Z
+430,weekday,430-65,Detroit Zoo,0,4308,430Z
+430,weekday,430-66,Detroit Zoo,0,4308,430Z
+430,weekday,430-67,Detroit Zoo,0,4308,430Z
+430,weekday,430-68,Detroit Zoo,0,4308,430Z
+430,weekday,430-69,Detroit Zoo,0,4308,430Z
+430,weekday,430-70,Detroit Zoo,0,4308,430Z
+430,weekday,430-71,Detroit Zoo,0,4308,430Z
+430,weekday,430-72,Detroit Zoo,0,4308,430Z
+430,weekday,430-73,Detroit Zoo,0,4308,430Z
+430,weekday,430-74,Detroit Zoo,0,4308,430Z
+430,weekday,430-75,Detroit Zoo,0,4308,430Z
+430,weekday,430-76,Detroit Zoo,0,4308,430Z
+430,weekday,430-77,Detroit Zoo,0,4308,430Z
+430,weekday,430-78,Detroit Zoo,0,4308,430Z
+430,weekday,430-79,Royal Oak Nexus,0,4307,430R
+430,weekday,430-80,Royal Oak Nexus,0,4307,430R
+430,weekday,430-81,Detroit Zoo,0,4308,430Z
+430,weekday,430-82,Royal Oak Nexus,0,4307,430R
+430,weekday,430-83,Royal Oak Nexus,0,4307,430R
+430,weekday,430-84,Royal Oak Nexus,0,4307,430R
+430,weekday,430-85,Royal Oak Nexus,0,4307,430R
+430,weekday,430-86,Royal Oak Nexus,0,4307,430R
+430,weekday,430-87,Royal Oak Nexus,0,4307,430R
+430,weekday,430-88,Royal Oak Nexus,0,4307,430R
+430,weekday,430-89,Royal Oak Nexus,0,4307,430R
+430,weekday,430-90,Royal Oak Nexus,0,4307,430R
+430,weekday,430-91,University of Detroit Mercy,1,4301,430R
+430,weekday,430-92,University of Detroit Mercy,1,4301,430R
+430,weekday,430-93,University of Detroit Mercy,1,4301,430R
+430,weekday,430-94,University of Detroit Mercy,1,4301,430R
+430,weekday,430-95,University of Detroit Mercy,1,4301,430R
+430,weekday,430-96,University of Detroit Mercy,1,4301,430R
+430,weekday,430-97,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-98,University of Detroit Mercy,1,4301,430R
+430,weekday,430-99,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-100,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-101,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-102,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-103,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-104,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-105,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-106,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-107,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-108,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-109,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-110,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-111,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-112,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-113,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-114,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-115,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-116,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-117,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-118,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-119,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-120,University of Detroit Mercy,1,4301,430R
+430,weekday,430-121,University of Detroit Mercy,1,4301,430R
+430,weekday,430-122,University of Detroit Mercy,1,4302,430Z
+430,weekday,430-123,University of Detroit Mercy,1,4301,430R
+430,weekday,430-124,University of Detroit Mercy,1,4301,430R
+430,weekday,430-125,University of Detroit Mercy,1,4301,430R
+430,weekday,430-126,University of Detroit Mercy,1,4301,430R
 435,weekday,435-1,Pontiac Nexus,0,4358,
 435,weekday,435-2,Pontiac Nexus,0,4358,
 435,weekday,435-3,Pontiac Nexus,0,4358,
@@ -11134,110 +11134,110 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
 545,weekday,545-82,Great Lakes Crossing,1,5454,
 545,weekday,545-83,Great Lakes Crossing,1,5454,
 545,weekday,545-84,Great Lakes Crossing,1,5454,
-570Z,saturday,570-1,Troy Nexus,0,5708,
-570Z,saturday,570-2,Troy Nexus,0,5708,
-570Z,saturday,570-3,Troy Nexus,0,5708,
-570Z,saturday,570-4,Troy Nexus,0,5708,
-570Z,saturday,570-5,Troy Nexus,0,5708,
-570Z,saturday,570-6,Troy Nexus,0,5708,
-570Z,saturday,570-7,Troy Nexus,0,5708,
-570Z,saturday,570-8,Troy Nexus,0,5708,
-570Z,saturday,570-9,Troy Nexus,0,5708,
-570Z,saturday,570-10,Troy Nexus,0,5708,
-570Z,saturday,570-11,Troy Nexus,0,5708,
-570Z,saturday,570-12,Troy Nexus,0,5708,
-570Z,saturday,570-13,Troy Nexus,0,5708,
-570Z,saturday,570-14,Troy Nexus,0,5708,
-570Z,saturday,570-15,Troy Nexus,0,5708,
-570Z,saturday,570-16,Detroit Zoo,1,5702,
-570Z,saturday,570-17,Detroit Zoo,1,5702,
-570Z,saturday,570-18,Detroit Zoo,1,5702,
-570Z,saturday,570-19,Detroit Zoo,1,5702,
-570Z,saturday,570-20,Detroit Zoo,1,5702,
-570Z,saturday,570-21,Detroit Zoo,1,5702,
-570Z,saturday,570-22,Detroit Zoo,1,5702,
-570Z,saturday,570-23,Detroit Zoo,1,5702,
-570Z,saturday,570-24,Detroit Zoo,1,5702,
-570Z,saturday,570-25,Detroit Zoo,1,5702,
-570Z,saturday,570-26,Detroit Zoo,1,5702,
-570Z,saturday,570-27,Detroit Zoo,1,5702,
-570Z,saturday,570-28,Detroit Zoo,1,5702,
-570Z,saturday,570-29,Detroit Zoo,1,5702,
-570Z,saturday,570-30,Detroit Zoo,1,5702,
-570R,weekday,570-31,Troy Nexus,0,5707,
-570R,weekday,570-32,Troy Nexus,0,5707,
-570R,weekday,570-33,Troy Nexus,0,5707,
-570R,weekday,570-34,Troy Nexus,0,5707,
-570R,weekday,570-35,Troy Nexus,0,5707,
-570Z,weekday,570-36,Troy Nexus,0,5708,
-570R,weekday,570-37,Troy Nexus,0,5707,
-570Z,weekday,570-38,Troy Nexus,0,5708,
-570Z,weekday,570-39,Troy Nexus,0,5708,
-570Z,weekday,570-40,Troy Nexus,0,5708,
-570Z,weekday,570-41,Troy Nexus,0,5708,
-570Z,weekday,570-42,Troy Nexus,0,5708,
-570Z,weekday,570-43,Troy Nexus,0,5708,
-570Z,weekday,570-44,Troy Nexus,0,5708,
-570Z,weekday,570-45,Troy Nexus,0,5708,
-570Z,weekday,570-46,Troy Nexus,0,5708,
-570Z,weekday,570-47,Troy Nexus,0,5708,
-570Z,weekday,570-48,Troy Nexus,0,5708,
-570Z,weekday,570-49,Troy Nexus,0,5708,
-570Z,weekday,570-50,Troy Nexus,0,5708,
-570Z,weekday,570-51,Troy Nexus,0,5708,
-570Z,weekday,570-52,Troy Nexus,0,5708,
-570Z,weekday,570-53,Troy Nexus,0,5708,
-570Z,weekday,570-54,Troy Nexus,0,5708,
-570Z,weekday,570-55,Troy Nexus,0,5708,
-570Z,weekday,570-56,Troy Nexus,0,5708,
-570R,weekday,570-57,Troy Nexus,0,5707,
-570R,weekday,570-58,Troy Nexus,0,5707,
-570Z,weekday,570-59,Troy Nexus,0,5708,
-570R,weekday,570-60,Troy Nexus,0,5707,
-570R,weekday,570-61,Troy Nexus,0,5707,
-570R,weekday,570-62,Troy Nexus,0,5707,
-570R,weekday,570-63,Troy Nexus,0,5707,
-570R,weekday,570-64,Troy Nexus,0,5707,
-570R,weekday,570-65,Troy Nexus,0,5707,
-570R,weekday,570-66,Troy Nexus,0,5707,
-570R,weekday,570-67,Troy Nexus,0,5707,
-570R,weekday,570-68,Troy Nexus,0,5707,
-570R,weekday,570-69,Royal Oak Nexus,1,5701,
-570R,weekday,570-70,Royal Oak Nexus,1,5701,
-570R,weekday,570-71,Royal Oak Nexus,1,5701,
-570R,weekday,570-72,Royal Oak Nexus,1,5701,
-570R,weekday,570-73,Royal Oak Nexus,1,5701,
-570R,weekday,570-74,Royal Oak Nexus,1,5701,
-570Z,weekday,570-75,Detroit Zoo,1,5702,
-570R,weekday,570-76,Royal Oak Nexus,1,5701,
-570Z,weekday,570-77,Detroit Zoo,1,5702,
-570Z,weekday,570-78,Detroit Zoo,1,5702,
-570Z,weekday,570-79,Detroit Zoo,1,5702,
-570Z,weekday,570-80,Detroit Zoo,1,5702,
-570Z,weekday,570-81,Detroit Zoo,1,5702,
-570Z,weekday,570-82,Detroit Zoo,1,5702,
-570Z,weekday,570-83,Detroit Zoo,1,5702,
-570Z,weekday,570-84,Detroit Zoo,1,5702,
-570Z,weekday,570-85,Detroit Zoo,1,5702,
-570Z,weekday,570-86,Detroit Zoo,1,5702,
-570Z,weekday,570-87,Detroit Zoo,1,5702,
-570Z,weekday,570-88,Detroit Zoo,1,5702,
-570Z,weekday,570-89,Detroit Zoo,1,5702,
-570Z,weekday,570-90,Detroit Zoo,1,5702,
-570Z,weekday,570-91,Detroit Zoo,1,5702,
-570Z,weekday,570-92,Detroit Zoo,1,5702,
-570Z,weekday,570-93,Detroit Zoo,1,5702,
-570Z,weekday,570-94,Detroit Zoo,1,5702,
-570Z,weekday,570-95,Detroit Zoo,1,5702,
-570Z,weekday,570-96,Detroit Zoo,1,5702,
-570Z,weekday,570-97,Detroit Zoo,1,5702,
-570R,weekday,570-98,Royal Oak Nexus,1,5701,
-570R,weekday,570-99,Royal Oak Nexus,1,5701,
-570Z,weekday,570-100,Detroit Zoo,1,5702,
-570R,weekday,570-101,Royal Oak Nexus,1,5701,
-570R,weekday,570-102,Royal Oak Nexus,1,5701,
-570R,weekday,570-103,Royal Oak Nexus,1,5701,
-570R,weekday,570-104,Royal Oak Nexus,1,5701,
+570,saturday,570-1,Troy Nexus,0,5708,570Z
+570,saturday,570-2,Troy Nexus,0,5708,570Z
+570,saturday,570-3,Troy Nexus,0,5708,570Z
+570,saturday,570-4,Troy Nexus,0,5708,570Z
+570,saturday,570-5,Troy Nexus,0,5708,570Z
+570,saturday,570-6,Troy Nexus,0,5708,570Z
+570,saturday,570-7,Troy Nexus,0,5708,570Z
+570,saturday,570-8,Troy Nexus,0,5708,570Z
+570,saturday,570-9,Troy Nexus,0,5708,570Z
+570,saturday,570-10,Troy Nexus,0,5708,570Z
+570,saturday,570-11,Troy Nexus,0,5708,570Z
+570,saturday,570-12,Troy Nexus,0,5708,570Z
+570,saturday,570-13,Troy Nexus,0,5708,570Z
+570,saturday,570-14,Troy Nexus,0,5708,570Z
+570,saturday,570-15,Troy Nexus,0,5708,570Z
+570,saturday,570-16,Detroit Zoo,1,5702,570Z
+570,saturday,570-17,Detroit Zoo,1,5702,570Z
+570,saturday,570-18,Detroit Zoo,1,5702,570Z
+570,saturday,570-19,Detroit Zoo,1,5702,570Z
+570,saturday,570-20,Detroit Zoo,1,5702,570Z
+570,saturday,570-21,Detroit Zoo,1,5702,570Z
+570,saturday,570-22,Detroit Zoo,1,5702,570Z
+570,saturday,570-23,Detroit Zoo,1,5702,570Z
+570,saturday,570-24,Detroit Zoo,1,5702,570Z
+570,saturday,570-25,Detroit Zoo,1,5702,570Z
+570,saturday,570-26,Detroit Zoo,1,5702,570Z
+570,saturday,570-27,Detroit Zoo,1,5702,570Z
+570,saturday,570-28,Detroit Zoo,1,5702,570Z
+570,saturday,570-29,Detroit Zoo,1,5702,570Z
+570,saturday,570-30,Detroit Zoo,1,5702,570Z
+570,weekday,570-31,Troy Nexus,0,5707,570R
+570,weekday,570-32,Troy Nexus,0,5707,570R
+570,weekday,570-33,Troy Nexus,0,5707,570R
+570,weekday,570-34,Troy Nexus,0,5707,570R
+570,weekday,570-35,Troy Nexus,0,5707,570R
+570,weekday,570-36,Troy Nexus,0,5708,570Z
+570,weekday,570-37,Troy Nexus,0,5707,570R
+570,weekday,570-38,Troy Nexus,0,5708,570Z
+570,weekday,570-39,Troy Nexus,0,5708,570Z
+570,weekday,570-40,Troy Nexus,0,5708,570Z
+570,weekday,570-41,Troy Nexus,0,5708,570Z
+570,weekday,570-42,Troy Nexus,0,5708,570Z
+570,weekday,570-43,Troy Nexus,0,5708,570Z
+570,weekday,570-44,Troy Nexus,0,5708,570Z
+570,weekday,570-45,Troy Nexus,0,5708,570Z
+570,weekday,570-46,Troy Nexus,0,5708,570Z
+570,weekday,570-47,Troy Nexus,0,5708,570Z
+570,weekday,570-48,Troy Nexus,0,5708,570Z
+570,weekday,570-49,Troy Nexus,0,5708,570Z
+570,weekday,570-50,Troy Nexus,0,5708,570Z
+570,weekday,570-51,Troy Nexus,0,5708,570Z
+570,weekday,570-52,Troy Nexus,0,5708,570Z
+570,weekday,570-53,Troy Nexus,0,5708,570Z
+570,weekday,570-54,Troy Nexus,0,5708,570Z
+570,weekday,570-55,Troy Nexus,0,5708,570Z
+570,weekday,570-56,Troy Nexus,0,5708,570Z
+570,weekday,570-57,Troy Nexus,0,5707,570R
+570,weekday,570-58,Troy Nexus,0,5707,570R
+570,weekday,570-59,Troy Nexus,0,5708,570Z
+570,weekday,570-60,Troy Nexus,0,5707,570R
+570,weekday,570-61,Troy Nexus,0,5707,570R
+570,weekday,570-62,Troy Nexus,0,5707,570R
+570,weekday,570-63,Troy Nexus,0,5707,570R
+570,weekday,570-64,Troy Nexus,0,5707,570R
+570,weekday,570-65,Troy Nexus,0,5707,570R
+570,weekday,570-66,Troy Nexus,0,5707,570R
+570,weekday,570-67,Troy Nexus,0,5707,570R
+570,weekday,570-68,Troy Nexus,0,5707,570R
+570,weekday,570-69,Royal Oak Nexus,1,5701,570R
+570,weekday,570-70,Royal Oak Nexus,1,5701,570R
+570,weekday,570-71,Royal Oak Nexus,1,5701,570R
+570,weekday,570-72,Royal Oak Nexus,1,5701,570R
+570,weekday,570-73,Royal Oak Nexus,1,5701,570R
+570,weekday,570-74,Royal Oak Nexus,1,5701,570R
+570,weekday,570-75,Detroit Zoo,1,5702,570Z
+570,weekday,570-76,Royal Oak Nexus,1,5701,570R
+570,weekday,570-77,Detroit Zoo,1,5702,570Z
+570,weekday,570-78,Detroit Zoo,1,5702,570Z
+570,weekday,570-79,Detroit Zoo,1,5702,570Z
+570,weekday,570-80,Detroit Zoo,1,5702,570Z
+570,weekday,570-81,Detroit Zoo,1,5702,570Z
+570,weekday,570-82,Detroit Zoo,1,5702,570Z
+570,weekday,570-83,Detroit Zoo,1,5702,570Z
+570,weekday,570-84,Detroit Zoo,1,5702,570Z
+570,weekday,570-85,Detroit Zoo,1,5702,570Z
+570,weekday,570-86,Detroit Zoo,1,5702,570Z
+570,weekday,570-87,Detroit Zoo,1,5702,570Z
+570,weekday,570-88,Detroit Zoo,1,5702,570Z
+570,weekday,570-89,Detroit Zoo,1,5702,570Z
+570,weekday,570-90,Detroit Zoo,1,5702,570Z
+570,weekday,570-91,Detroit Zoo,1,5702,570Z
+570,weekday,570-92,Detroit Zoo,1,5702,570Z
+570,weekday,570-93,Detroit Zoo,1,5702,570Z
+570,weekday,570-94,Detroit Zoo,1,5702,570Z
+570,weekday,570-95,Detroit Zoo,1,5702,570Z
+570,weekday,570-96,Detroit Zoo,1,5702,570Z
+570,weekday,570-97,Detroit Zoo,1,5702,570Z
+570,weekday,570-98,Royal Oak Nexus,1,5701,570R
+570,weekday,570-99,Royal Oak Nexus,1,5701,570R
+570,weekday,570-100,Detroit Zoo,1,5702,570Z
+570,weekday,570-101,Royal Oak Nexus,1,5701,570R
+570,weekday,570-102,Royal Oak Nexus,1,5701,570R
+570,weekday,570-103,Royal Oak Nexus,1,5701,570R
+570,weekday,570-104,Royal Oak Nexus,1,5701,570R
 571,saturday,571-1,Oakland University,0,5716,
 571,saturday,571-2,Oakland University,0,5716,
 571,saturday,571-3,Oakland University,0,5716,
