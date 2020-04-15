@@ -1,3 +1,4 @@
 map.osm
 output/
 .vscode/
+sqlite/private/
