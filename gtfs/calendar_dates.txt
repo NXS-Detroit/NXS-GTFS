@@ -28,7 +28,6 @@ weekdaynoph,20201225,2
 weekdaynoph,20201231,2
 preholiday,20201231,1
 weekdaynoph,20210101,2
-weekdaynorf,20200525,2
 sundaynorf,20200525,1
 saturdaynorf,20200704,2
 sundaynorf,20200704,1
@@ -44,7 +43,6 @@ saturdaynorf,20200905,2
 saturdayrenfest,20200905,1
 sundaynorf,20200906,2
 sundayrenfest,20200906,1
-weekdaynorf,20200907,2
 sundayrenfest,20200907,1
 saturdaynorf,20200912,2
 saturdayrenfest,20200912,1
@@ -62,9 +60,6 @@ saturdaynorf,20201003,2
 saturdayrenfest,20201003,1
 sundaynorf,20201004,2
 sundayrenfest,20201004,1
-weekdaynorf,20201126,2
 sundaynorf,20201126,1
-weekdaynorf,20201225,2
 sundaynorf,20201225,1
-weekdaynorf,20210101,2
 sundaynorf,20210101,1

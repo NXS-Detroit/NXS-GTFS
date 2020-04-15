@@ -12,8 +12,8 @@
   },
   "Calendars": [
     {
-      "Start": "2020-01-06",
-      "End": "2021-01-03",
+      "Start": "2020-04-13",
+      "End": "2021-04-18",
       "Monday": "weekday",
       "Tuesday": "weekday",
       "Wednesday": "weekday",
@@ -31,8 +31,8 @@
       }
     },
     {
-      "Start": "2020-01-06",
-      "End": "2021-01-03",
+      "Start": "2020-04-13",
+      "End": "2021-04-18",
       "Monday": "weekdaynoph",
       "Tuesday": "weekdaynoph",
       "Wednesday": "weekdaynoph",
@@ -53,13 +53,8 @@
       }
     },
     {
-      "Start": "2020-01-06",
-      "End": "2021-01-03",
-      "Monday": "weekdaynorf",
-      "Tuesday": "weekdaynorf",
-      "Wednesday": "weekdaynorf",
-      "Thursday": "weekdaynorf",
-      "Friday": "weekdaynorf",
+      "Start": "2020-04-13",
+      "End": "2021-04-18",
       "Saturday": "saturdaynorf",
       "Sunday": "sundaynorf",
       "Exceptions": {
@@ -86,8 +81,6 @@
       }
     }
   ],
-  "BlankCalendars": [
-    "weekdayrenfest"
-  ],
+  "BlankCalendars": [],
   "TimeZone": "America/Detroit"
 }

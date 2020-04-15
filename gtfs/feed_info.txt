@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-ShadowFoxNixill,https://github.com/ShadowFoxNixill/GTFS-Finalizer/,en,20200106,20200413,20200106v2
+ShadowFoxNixill,https://github.com/ShadowFoxNixill/GTFS-Finalizer/,en,20200413,20200705,2020413v01
