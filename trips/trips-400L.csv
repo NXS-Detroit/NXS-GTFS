@@ -1,0 +1,338 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+400L,NormalMonFri,400L-1,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-2,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-3,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-4,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-5,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-6,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-7,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-8,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-9,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-10,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-11,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-12,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-13,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-14,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-15,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-16,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-17,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-18,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-19,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-20,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-21,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-22,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-23,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-24,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-25,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-26,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-27,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-28,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-29,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-30,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-31,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-32,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-33,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-34,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-35,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-36,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-37,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-38,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-39,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-40,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-41,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-42,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-43,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-44,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-45,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-46,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-47,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-48,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-49,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-50,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-51,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-52,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-53,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-54,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-55,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-56,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-57,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-58,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-59,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-60,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-61,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-62,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-63,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-64,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-65,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-66,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-67,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-68,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-69,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-70,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-71,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-72,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-73,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-74,Henry Ford West Bloomfield,1,400L_N
+400L,NormalMonFri,400L-75,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-76,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-77,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-78,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-79,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-80,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-81,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-82,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-83,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-84,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-85,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-86,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-87,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-88,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-89,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-90,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-91,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-92,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-93,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-94,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-95,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-96,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-97,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-98,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-99,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-100,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-101,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-102,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-103,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-104,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-105,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-106,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-107,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-108,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-109,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-110,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-111,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-112,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-113,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-114,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-115,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-116,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-117,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-118,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-119,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-120,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-121,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-122,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-123,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-124,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-125,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-126,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-127,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-128,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-129,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-130,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-131,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-132,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-133,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-134,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-135,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-136,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-137,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-138,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-139,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-140,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-141,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-142,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-143,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-144,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-145,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-146,Rosa Parks Nexus,0,400L_S
+400L,NormalMonFri,400L-147,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-148,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-149,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-150,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-151,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-152,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-153,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-154,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-155,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-156,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-157,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-158,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-159,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-160,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-161,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-162,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-163,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-164,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-165,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-166,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-167,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-168,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-169,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-170,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-171,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-172,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-173,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-174,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-175,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-176,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-177,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-178,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-179,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-180,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-181,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-182,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-183,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-184,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-185,Henry Ford West Bloomfield,1,400L_N
+400L,NormalSunday,400L-186,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-187,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-188,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-189,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-190,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-191,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-192,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-193,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-194,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-195,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-196,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-197,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-198,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-199,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-200,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-201,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-202,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-203,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-204,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-205,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-206,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-207,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-208,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-209,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-210,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-211,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-212,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-213,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-214,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-215,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-216,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-217,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-218,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-219,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-220,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-221,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-222,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-223,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-224,Rosa Parks Nexus,0,400L_S
+400L,NormalSunday,400L-225,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-226,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-227,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-228,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-229,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-230,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-231,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-232,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-233,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-234,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-235,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-236,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-237,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-238,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-239,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-240,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-241,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-242,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-243,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-244,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-245,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-246,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-247,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-248,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-249,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-250,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-251,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-252,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-253,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-254,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-255,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-256,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-257,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-258,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-259,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-260,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-261,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-262,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-263,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-264,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-265,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-266,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-267,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-268,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-269,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-270,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-271,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-272,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-273,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-274,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-275,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-276,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-277,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-278,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-279,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-280,Henry Ford West Bloomfield,1,400L_N
+400L,SatToDaily,400L-281,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-282,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-283,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-284,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-285,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-286,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-287,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-288,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-289,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-290,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-291,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-292,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-293,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-294,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-295,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-296,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-297,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-298,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-299,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-300,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-301,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-302,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-303,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-304,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-305,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-306,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-307,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-308,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-309,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-310,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-311,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-312,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-313,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-314,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-315,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-316,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-317,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-318,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-319,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-320,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-321,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-322,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-323,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-324,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-325,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-326,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-327,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-328,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-329,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-330,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-331,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-332,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-333,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-334,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-335,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-336,Rosa Parks Nexus,0,400L_S
+400L,SatToDaily,400L-337,Rosa Parks Nexus,0,400L_S

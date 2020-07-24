@@ -1,151 +1,151 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-006,saturday,006-1,Grosse Pointe Nexus,1,0066,
-006,saturday,006-2,Grosse Pointe Nexus,1,0066,
-006,saturday,006-3,Grosse Pointe Nexus,1,0066,
-006,saturday,006-4,Grosse Pointe Nexus,1,0066,
-006,saturday,006-5,Grosse Pointe Nexus,1,0066,
-006,saturday,006-6,Grosse Pointe Nexus,1,0066,
-006,saturday,006-7,Grosse Pointe Nexus,1,0066,
-006,saturday,006-8,Grosse Pointe Nexus,1,0066,
-006,saturday,006-9,Grosse Pointe Nexus,1,0066,
-006,saturday,006-10,Grosse Pointe Nexus,1,0066,
-006,saturday,006-11,Grosse Pointe Nexus,1,0066,
-006,saturday,006-12,Grosse Pointe Nexus,1,0066,
-006,saturday,006-13,Grosse Pointe Nexus,1,0066,
-006,saturday,006-14,Grosse Pointe Nexus,1,0066,
-006,saturday,006-15,Grosse Pointe Nexus,1,0066,
-006,saturday,006-16,Grosse Pointe Nexus,1,0066,
-006,saturday,006-17,Grosse Pointe Nexus,1,0066,
-006,saturday,006-18,Grosse Pointe Nexus,1,0066,
-006,saturday,006-19,Grosse Pointe Nexus,1,0066,
-006,saturday,006-20,Grosse Pointe Nexus,1,0066,
-006,saturday,006-21,Grosse Pointe Nexus,1,0066,
-006,saturday,006-22,Grosse Pointe Nexus,1,0066,
-006,saturday,006-23,Grosse Pointe Nexus,1,0066,
-006,saturday,006-24,Grosse Pointe Nexus,1,0066,
-006,saturday,006-25,Grosse Pointe Nexus,1,0066,
-006,saturday,006-26,Grosse Pointe Nexus,1,0066,
-006,saturday,006-27,Grosse Pointe Nexus,1,0066,
-006,saturday,006-28,Schoolcraft College,0,0064,
-006,saturday,006-29,Schoolcraft College,0,0064,
-006,saturday,006-30,Schoolcraft College,0,0064,
-006,saturday,006-31,Schoolcraft College,0,0064,
-006,saturday,006-32,Schoolcraft College,0,0064,
-006,saturday,006-33,Schoolcraft College,0,0064,
-006,saturday,006-34,Schoolcraft College,0,0064,
-006,saturday,006-35,Schoolcraft College,0,0064,
-006,saturday,006-36,Schoolcraft College,0,0064,
-006,saturday,006-37,Schoolcraft College,0,0064,
-006,saturday,006-38,Schoolcraft College,0,0064,
-006,saturday,006-39,Schoolcraft College,0,0064,
-006,saturday,006-40,Schoolcraft College,0,0064,
-006,saturday,006-41,Schoolcraft College,0,0064,
-006,saturday,006-42,Schoolcraft College,0,0064,
-006,saturday,006-43,Schoolcraft College,0,0064,
-006,saturday,006-44,Schoolcraft College,0,0064,
-006,saturday,006-45,Schoolcraft College,0,0064,
-006,saturday,006-46,Schoolcraft College,0,0064,
-006,saturday,006-47,Schoolcraft College,0,0064,
-006,saturday,006-48,Schoolcraft College,0,0064,
-006,saturday,006-49,Schoolcraft College,0,0064,
-006,saturday,006-50,Schoolcraft College,0,0064,
-006,saturday,006-51,Schoolcraft College,0,0064,
-006,saturday,006-52,Schoolcraft College,0,0064,
-006,saturday,006-53,Schoolcraft College,0,0064,
-006,saturday,006-54,Schoolcraft College,0,0064,
-006,saturday,006-55,Schoolcraft College,0,0064,
-006,weekday,006-56,Grosse Pointe Nexus,1,0066,
-006,weekday,006-57,Grosse Pointe Nexus,1,0066,
-006,weekday,006-58,Grosse Pointe Nexus,1,0066,
-006,weekday,006-59,Grosse Pointe Nexus,1,0066,
-006,weekday,006-60,Grosse Pointe Nexus,1,0066,
-006,weekday,006-61,Grosse Pointe Nexus,1,0066,
-006,weekday,006-62,Grosse Pointe Nexus,1,0066,
-006,weekday,006-63,Grosse Pointe Nexus,1,0066,
-006,weekday,006-64,Grosse Pointe Nexus,1,0066,
-006,weekday,006-65,Grosse Pointe Nexus,1,0066,
-006,weekday,006-66,Grosse Pointe Nexus,1,0066,
-006,weekday,006-67,Grosse Pointe Nexus,1,0066,
-006,weekday,006-68,Grosse Pointe Nexus,1,0066,
-006,weekday,006-69,Grosse Pointe Nexus,1,0066,
-006,weekday,006-70,Grosse Pointe Nexus,1,0066,
-006,weekday,006-71,Grosse Pointe Nexus,1,0066,
-006,weekday,006-72,Grosse Pointe Nexus,1,0066,
-006,weekday,006-73,Grosse Pointe Nexus,1,0066,
-006,weekday,006-74,Grosse Pointe Nexus,1,0066,
-006,weekday,006-75,Grosse Pointe Nexus,1,0066,
-006,weekday,006-76,Grosse Pointe Nexus,1,0066,
-006,weekday,006-77,Grosse Pointe Nexus,1,0066,
-006,weekday,006-78,Grosse Pointe Nexus,1,0066,
-006,weekday,006-79,Grosse Pointe Nexus,1,0066,
-006,weekday,006-80,Grosse Pointe Nexus,1,0066,
-006,weekday,006-81,Grosse Pointe Nexus,1,0066,
-006,weekday,006-82,Grosse Pointe Nexus,1,0066,
-006,weekday,006-83,Grosse Pointe Nexus,1,0066,
-006,weekday,006-84,Grosse Pointe Nexus,1,0066,
-006,weekday,006-85,Grosse Pointe Nexus,1,0066,
-006,weekday,006-86,Grosse Pointe Nexus,1,0066,
-006,weekday,006-87,Grosse Pointe Nexus,1,0066,
-006,weekday,006-88,Grosse Pointe Nexus,1,0066,
-006,weekday,006-89,Grosse Pointe Nexus,1,0066,
-006,weekday,006-90,Grosse Pointe Nexus,1,0066,
-006,weekday,006-91,Grosse Pointe Nexus,1,0066,
-006,weekday,006-92,Grosse Pointe Nexus,1,0066,
-006,weekday,006-93,Grosse Pointe Nexus,1,0066,
-006,weekday,006-94,Grosse Pointe Nexus,1,0066,
-006,weekday,006-95,Grosse Pointe Nexus,1,0066,
-006,weekday,006-96,Grosse Pointe Nexus,1,0066,
-006,weekday,006-97,Grosse Pointe Nexus,1,0066,
-006,weekday,006-98,Grosse Pointe Nexus,1,0066,
-006,weekday,006-99,Grosse Pointe Nexus,1,0066,
-006,weekday,006-100,Grosse Pointe Nexus,1,0066,
-006,weekday,006-101,Grosse Pointe Nexus,1,0066,
-006,weekday,006-102,Grosse Pointe Nexus,1,0066,
-006,weekday,006-103,Grosse Pointe Nexus,1,0066,
-006,weekday,006-104,Schoolcraft College,0,0064,
-006,weekday,006-105,Schoolcraft College,0,0064,
-006,weekday,006-106,Schoolcraft College,0,0064,
-006,weekday,006-107,Schoolcraft College,0,0064,
-006,weekday,006-108,Schoolcraft College,0,0064,
-006,weekday,006-109,Schoolcraft College,0,0064,
-006,weekday,006-110,Schoolcraft College,0,0064,
-006,weekday,006-111,Schoolcraft College,0,0064,
-006,weekday,006-112,Schoolcraft College,0,0064,
-006,weekday,006-113,Schoolcraft College,0,0064,
-006,weekday,006-114,Schoolcraft College,0,0064,
-006,weekday,006-115,Schoolcraft College,0,0064,
-006,weekday,006-116,Schoolcraft College,0,0064,
-006,weekday,006-117,Schoolcraft College,0,0064,
-006,weekday,006-118,Schoolcraft College,0,0064,
-006,weekday,006-119,Schoolcraft College,0,0064,
-006,weekday,006-120,Schoolcraft College,0,0064,
-006,weekday,006-121,Schoolcraft College,0,0064,
-006,weekday,006-122,Schoolcraft College,0,0064,
-006,weekday,006-123,Schoolcraft College,0,0064,
-006,weekday,006-124,Schoolcraft College,0,0064,
-006,weekday,006-125,Schoolcraft College,0,0064,
-006,weekday,006-126,Schoolcraft College,0,0064,
-006,weekday,006-127,Schoolcraft College,0,0064,
-006,weekday,006-128,Schoolcraft College,0,0064,
-006,weekday,006-129,Schoolcraft College,0,0064,
-006,weekday,006-130,Schoolcraft College,0,0064,
-006,weekday,006-131,Schoolcraft College,0,0064,
-006,weekday,006-132,Schoolcraft College,0,0064,
-006,weekday,006-133,Schoolcraft College,0,0064,
-006,weekday,006-134,Schoolcraft College,0,0064,
-006,weekday,006-135,Schoolcraft College,0,0064,
-006,weekday,006-136,Schoolcraft College,0,0064,
-006,weekday,006-137,Schoolcraft College,0,0064,
-006,weekday,006-138,Schoolcraft College,0,0064,
-006,weekday,006-139,Schoolcraft College,0,0064,
-006,weekday,006-140,Schoolcraft College,0,0064,
-006,weekday,006-141,Schoolcraft College,0,0064,
-006,weekday,006-142,Schoolcraft College,0,0064,
-006,weekday,006-143,Schoolcraft College,0,0064,
-006,weekday,006-144,Schoolcraft College,0,0064,
-006,weekday,006-145,Schoolcraft College,0,0064,
-006,weekday,006-146,Schoolcraft College,0,0064,
-006,weekday,006-147,Schoolcraft College,0,0064,
-006,weekday,006-148,Schoolcraft College,0,0064,
-006,weekday,006-149,Schoolcraft College,0,0064,
-006,weekday,006-150,Schoolcraft College,0,0064,
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+006,NormalMonFri,006-1,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-2,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-3,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-4,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-5,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-6,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-7,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-8,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-9,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-10,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-11,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-12,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-13,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-14,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-15,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-16,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-17,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-18,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-19,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-20,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-21,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-22,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-23,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-24,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-25,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-26,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-27,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-28,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-29,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-30,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-31,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-32,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-33,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-34,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-35,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-36,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-37,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-38,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-39,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-40,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-41,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-42,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-43,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-44,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-45,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-46,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-47,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-48,Grosse Pointe Nexus,1,6_E
+006,NormalMonFri,006-49,Schoolcraft College,0,6_W
+006,NormalMonFri,006-50,Schoolcraft College,0,6_W
+006,NormalMonFri,006-51,Schoolcraft College,0,6_W
+006,NormalMonFri,006-52,Schoolcraft College,0,6_W
+006,NormalMonFri,006-53,Schoolcraft College,0,6_W
+006,NormalMonFri,006-54,Schoolcraft College,0,6_W
+006,NormalMonFri,006-55,Schoolcraft College,0,6_W
+006,NormalMonFri,006-56,Schoolcraft College,0,6_W
+006,NormalMonFri,006-57,Schoolcraft College,0,6_W
+006,NormalMonFri,006-58,Schoolcraft College,0,6_W
+006,NormalMonFri,006-59,Schoolcraft College,0,6_W
+006,NormalMonFri,006-60,Schoolcraft College,0,6_W
+006,NormalMonFri,006-61,Schoolcraft College,0,6_W
+006,NormalMonFri,006-62,Schoolcraft College,0,6_W
+006,NormalMonFri,006-63,Schoolcraft College,0,6_W
+006,NormalMonFri,006-64,Schoolcraft College,0,6_W
+006,NormalMonFri,006-65,Schoolcraft College,0,6_W
+006,NormalMonFri,006-66,Schoolcraft College,0,6_W
+006,NormalMonFri,006-67,Schoolcraft College,0,6_W
+006,NormalMonFri,006-68,Schoolcraft College,0,6_W
+006,NormalMonFri,006-69,Schoolcraft College,0,6_W
+006,NormalMonFri,006-70,Schoolcraft College,0,6_W
+006,NormalMonFri,006-71,Schoolcraft College,0,6_W
+006,NormalMonFri,006-72,Schoolcraft College,0,6_W
+006,NormalMonFri,006-73,Schoolcraft College,0,6_W
+006,NormalMonFri,006-74,Schoolcraft College,0,6_W
+006,NormalMonFri,006-75,Schoolcraft College,0,6_W
+006,NormalMonFri,006-76,Schoolcraft College,0,6_W
+006,NormalMonFri,006-77,Schoolcraft College,0,6_W
+006,NormalMonFri,006-78,Schoolcraft College,0,6_W
+006,NormalMonFri,006-79,Schoolcraft College,0,6_W
+006,NormalMonFri,006-80,Schoolcraft College,0,6_W
+006,NormalMonFri,006-81,Schoolcraft College,0,6_W
+006,NormalMonFri,006-82,Schoolcraft College,0,6_W
+006,NormalMonFri,006-83,Schoolcraft College,0,6_W
+006,NormalMonFri,006-84,Schoolcraft College,0,6_W
+006,NormalMonFri,006-85,Schoolcraft College,0,6_W
+006,NormalMonFri,006-86,Schoolcraft College,0,6_W
+006,NormalMonFri,006-87,Schoolcraft College,0,6_W
+006,NormalMonFri,006-88,Schoolcraft College,0,6_W
+006,NormalMonFri,006-89,Schoolcraft College,0,6_W
+006,NormalMonFri,006-90,Schoolcraft College,0,6_W
+006,NormalMonFri,006-91,Schoolcraft College,0,6_W
+006,NormalMonFri,006-92,Schoolcraft College,0,6_W
+006,NormalMonFri,006-93,Schoolcraft College,0,6_W
+006,NormalMonFri,006-94,Schoolcraft College,0,6_W
+006,NormalMonFri,006-95,Schoolcraft College,0,6_W
+006,SatToMonSat,006-96,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-97,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-98,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-99,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-100,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-101,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-102,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-103,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-104,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-105,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-106,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-107,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-108,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-109,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-110,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-111,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-112,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-113,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-114,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-115,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-116,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-117,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-118,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-119,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-120,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-121,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-122,Grosse Pointe Nexus,1,6_E
+006,SatToMonSat,006-123,Schoolcraft College,0,6_W
+006,SatToMonSat,006-124,Schoolcraft College,0,6_W
+006,SatToMonSat,006-125,Schoolcraft College,0,6_W
+006,SatToMonSat,006-126,Schoolcraft College,0,6_W
+006,SatToMonSat,006-127,Schoolcraft College,0,6_W
+006,SatToMonSat,006-128,Schoolcraft College,0,6_W
+006,SatToMonSat,006-129,Schoolcraft College,0,6_W
+006,SatToMonSat,006-130,Schoolcraft College,0,6_W
+006,SatToMonSat,006-131,Schoolcraft College,0,6_W
+006,SatToMonSat,006-132,Schoolcraft College,0,6_W
+006,SatToMonSat,006-133,Schoolcraft College,0,6_W
+006,SatToMonSat,006-134,Schoolcraft College,0,6_W
+006,SatToMonSat,006-135,Schoolcraft College,0,6_W
+006,SatToMonSat,006-136,Schoolcraft College,0,6_W
+006,SatToMonSat,006-137,Schoolcraft College,0,6_W
+006,SatToMonSat,006-138,Schoolcraft College,0,6_W
+006,SatToMonSat,006-139,Schoolcraft College,0,6_W
+006,SatToMonSat,006-140,Schoolcraft College,0,6_W
+006,SatToMonSat,006-141,Schoolcraft College,0,6_W
+006,SatToMonSat,006-142,Schoolcraft College,0,6_W
+006,SatToMonSat,006-143,Schoolcraft College,0,6_W
+006,SatToMonSat,006-144,Schoolcraft College,0,6_W
+006,SatToMonSat,006-145,Schoolcraft College,0,6_W
+006,SatToMonSat,006-146,Schoolcraft College,0,6_W
+006,SatToMonSat,006-147,Schoolcraft College,0,6_W
+006,SatToMonSat,006-148,Schoolcraft College,0,6_W
+006,SatToMonSat,006-149,Schoolcraft College,0,6_W
+006,SatToMonSat,006-150,Schoolcraft College,0,6_W

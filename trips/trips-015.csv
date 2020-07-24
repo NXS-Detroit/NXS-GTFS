@@ -1,177 +1,177 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-015,saturday,015-1,Roseville Nexus,0,0156,015H
-015,saturday,015-2,Roseville Nexus,0,0156,015H
-015,saturday,015-3,Roseville Nexus,0,0156,015H
-015,saturday,015-4,Roseville Nexus,0,0159,015W
-015,saturday,015-5,Roseville Nexus,0,0156,015H
-015,saturday,015-6,Roseville Nexus,0,0159,015W
-015,saturday,015-7,Roseville Nexus,0,0156,015H
-015,saturday,015-8,Roseville Nexus,0,0159,015W
-015,saturday,015-9,Roseville Nexus,0,0156,015H
-015,saturday,015-10,Roseville Nexus,0,0159,015W
-015,saturday,015-11,Roseville Nexus,0,0156,015H
-015,saturday,015-12,Roseville Nexus,0,0159,015W
-015,saturday,015-13,Roseville Nexus,0,0156,015H
-015,saturday,015-14,Roseville Nexus,0,0159,015W
-015,saturday,015-15,Roseville Nexus,0,0156,015H
-015,saturday,015-16,Roseville Nexus,0,0159,015W
-015,saturday,015-17,Roseville Nexus,0,0156,015H
-015,saturday,015-18,Roseville Nexus,0,0159,015W
-015,saturday,015-19,Roseville Nexus,0,0156,015H
-015,saturday,015-20,Roseville Nexus,0,0159,015W
-015,saturday,015-21,Roseville Nexus,0,0156,015H
-015,saturday,015-22,Roseville Nexus,0,0159,015W
-015,saturday,015-23,Roseville Nexus,0,0156,015H
-015,saturday,015-24,Roseville Nexus,0,0159,015W
-015,saturday,015-25,Roseville Nexus,0,0156,015H
-015,saturday,015-26,Roseville Nexus,0,0159,015W
-015,saturday,015-27,Roseville Nexus,0,0156,015H
-015,saturday,015-28,Roseville Nexus,0,0159,015W
-015,saturday,015-29,Wixom Public Library,1,0157,015W
-015,saturday,015-30,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-31,Wixom Public Library,1,0157,015W
-015,saturday,015-32,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-33,Wixom Public Library,1,0157,015W
-015,saturday,015-34,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-35,Wixom Public Library,1,0157,015W
-015,saturday,015-36,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-37,Wixom Public Library,1,0157,015W
-015,saturday,015-38,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-39,Wixom Public Library,1,0157,015W
-015,saturday,015-40,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-41,Wixom Public Library,1,0157,015W
-015,saturday,015-42,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-43,Wixom Public Library,1,0157,015W
-015,saturday,015-44,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-45,Wixom Public Library,1,0157,015W
-015,saturday,015-46,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-47,Wixom Public Library,1,0157,015W
-015,saturday,015-48,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-49,Wixom Public Library,1,0157,015W
-015,saturday,015-50,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-51,Wixom Public Library,1,0157,015W
-015,saturday,015-52,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-53,Wixom Public Library,1,0157,015W
-015,saturday,015-54,Henry Ford West Bloomfield,1,0154,015H
-015,saturday,015-55,Henry Ford West Bloomfield,1,0154,015H
-015,sunday,015-56,Roseville Nexus,0,0153,015S
-015,sunday,015-57,Roseville Nexus,0,0153,015S
-015,sunday,015-58,Roseville Nexus,0,0153,015S
-015,sunday,015-59,Roseville Nexus,0,0153,015S
-015,sunday,015-60,Roseville Nexus,0,0153,015S
-015,sunday,015-61,Roseville Nexus,0,0153,015S
-015,sunday,015-62,Roseville Nexus,0,0153,015S
-015,sunday,015-63,Roseville Nexus,0,0153,015S
-015,sunday,015-64,Roseville Nexus,0,0153,015S
-015,sunday,015-65,Roseville Nexus,0,0153,015S
-015,sunday,015-66,Roseville Nexus,0,0153,015S
-015,sunday,015-67,Roseville Nexus,0,0153,015S
-015,sunday,015-68,Roseville Nexus,0,0153,015S
-015,sunday,015-69,Roseville Nexus,0,0153,015S
-015,sunday,015-70,Roseville Nexus,0,0153,015S
-015,sunday,015-71,Roseville Nexus,0,0153,015S
-015,sunday,015-72,Roseville Nexus,0,0153,015S
-015,sunday,015-73,Maple / Old Woodward,1,0151,015S
-015,sunday,015-74,Maple / Old Woodward,1,0151,015S
-015,sunday,015-75,Maple / Old Woodward,1,0151,015S
-015,sunday,015-76,Maple / Old Woodward,1,0151,015S
-015,sunday,015-77,Maple / Old Woodward,1,0151,015S
-015,sunday,015-78,Maple / Old Woodward,1,0151,015S
-015,sunday,015-79,Maple / Old Woodward,1,0151,015S
-015,sunday,015-80,Maple / Old Woodward,1,0151,015S
-015,sunday,015-81,Maple / Old Woodward,1,0151,015S
-015,sunday,015-82,Maple / Old Woodward,1,0151,015S
-015,sunday,015-83,Maple / Old Woodward,1,0151,015S
-015,sunday,015-84,Maple / Old Woodward,1,0151,015S
-015,sunday,015-85,Maple / Old Woodward,1,0151,015S
-015,sunday,015-86,Maple / Old Woodward,1,0151,015S
-015,sunday,015-87,Maple / Old Woodward,1,0151,015S
-015,sunday,015-88,Maple / Old Woodward,1,0151,015S
-015,sunday,015-89,Maple / Old Woodward,1,0151,015S
-015,sunday,015-90,Maple / Old Woodward,1,0151,015S
-015,weekday,015-91,Roseville Nexus,0,0156,015H
-015,weekday,015-92,Roseville Nexus,0,0156,015H
-015,weekday,015-93,Roseville Nexus,0,0156,015H
-015,weekday,015-94,Roseville Nexus,0,0156,015H
-015,weekday,015-95,Roseville Nexus,0,0159,015W
-015,weekday,015-96,Roseville Nexus,0,0156,015H
-015,weekday,015-97,Roseville Nexus,0,0159,015W
-015,weekday,015-98,Roseville Nexus,0,0156,015H
-015,weekday,015-99,Roseville Nexus,0,0159,015W
-015,weekday,015-100,Roseville Nexus,0,0156,015H
-015,weekday,015-101,Roseville Nexus,0,0159,015W
-015,weekday,015-102,Roseville Nexus,0,0156,015H
-015,weekday,015-103,Roseville Nexus,0,0159,015W
-015,weekday,015-104,Roseville Nexus,0,0156,015H
-015,weekday,015-105,Roseville Nexus,0,0159,015W
-015,weekday,015-106,Roseville Nexus,0,0156,015H
-015,weekday,015-107,Roseville Nexus,0,0159,015W
-015,weekday,015-108,Roseville Nexus,0,0156,015H
-015,weekday,015-109,Roseville Nexus,0,0159,015W
-015,weekday,015-110,Roseville Nexus,0,0156,015H
-015,weekday,015-111,Roseville Nexus,0,0159,015W
-015,weekday,015-112,Roseville Nexus,0,0156,015H
-015,weekday,015-113,Roseville Nexus,0,0159,015W
-015,weekday,015-114,Roseville Nexus,0,0156,015H
-015,weekday,015-115,Roseville Nexus,0,0159,015W
-015,weekday,015-116,Roseville Nexus,0,0156,015H
-015,weekday,015-117,Roseville Nexus,0,0159,015W
-015,weekday,015-118,Roseville Nexus,0,0156,015H
-015,weekday,015-119,Roseville Nexus,0,0159,015W
-015,weekday,015-120,Roseville Nexus,0,0156,015H
-015,weekday,015-121,Roseville Nexus,0,0159,015W
-015,weekday,015-122,Roseville Nexus,0,0156,015H
-015,weekday,015-123,Roseville Nexus,0,0159,015W
-015,weekday,015-124,Roseville Nexus,0,0156,015H
-015,weekday,015-125,Roseville Nexus,0,0159,015W
-015,weekday,015-126,Roseville Nexus,0,0156,015H
-015,weekday,015-127,Roseville Nexus,0,0159,015W
-015,weekday,015-128,Roseville Nexus,0,0156,015H
-015,weekday,015-129,Roseville Nexus,0,0159,015W
-015,weekday,015-130,Roseville Nexus,0,0156,015H
-015,weekday,015-131,Roseville Nexus,0,0159,015W
-015,weekday,015-132,Roseville Nexus,0,0156,015H
-015,weekday,015-133,Roseville Nexus,0,0159,015W
-015,weekday,015-134,Roseville Nexus,0,0156,015H
-015,weekday,015-135,Wixom Public Library,1,0157,015W
-015,weekday,015-136,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-137,Wixom Public Library,1,0157,015W
-015,weekday,015-138,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-139,Wixom Public Library,1,0157,015W
-015,weekday,015-140,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-141,Wixom Public Library,1,0157,015W
-015,weekday,015-142,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-143,Wixom Public Library,1,0157,015W
-015,weekday,015-144,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-145,Wixom Public Library,1,0157,015W
-015,weekday,015-146,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-147,Wixom Public Library,1,0157,015W
-015,weekday,015-148,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-149,Wixom Public Library,1,0157,015W
-015,weekday,015-150,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-151,Wixom Public Library,1,0157,015W
-015,weekday,015-152,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-153,Wixom Public Library,1,0157,015W
-015,weekday,015-154,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-155,Wixom Public Library,1,0157,015W
-015,weekday,015-156,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-157,Wixom Public Library,1,0157,015W
-015,weekday,015-158,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-159,Wixom Public Library,1,0157,015W
-015,weekday,015-160,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-161,Wixom Public Library,1,0157,015W
-015,weekday,015-162,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-163,Wixom Public Library,1,0157,015W
-015,weekday,015-164,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-165,Wixom Public Library,1,0157,015W
-015,weekday,015-166,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-167,Wixom Public Library,1,0157,015W
-015,weekday,015-168,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-169,Wixom Public Library,1,0157,015W
-015,weekday,015-170,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-171,Wixom Public Library,1,0157,015W
-015,weekday,015-172,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-173,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-174,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-175,Henry Ford West Bloomfield,1,0154,015H
-015,weekday,015-176,Henry Ford West Bloomfield,1,0154,015H
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+015H,NormalMonFri,015-1,Roseville Nexus,0,15H_E
+015H,NormalMonFri,015-2,Roseville Nexus,0,15H_E
+015H,NormalMonFri,015-3,Roseville Nexus,0,15H_E
+015H,NormalMonFri,015-4,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-5,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-6,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-7,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-8,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-9,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-10,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-11,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-12,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-13,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-14,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-15,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-16,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-17,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-18,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-19,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-20,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-21,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-22,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-23,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-24,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-25,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-26,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-27,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-28,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-29,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-30,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-31,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-32,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-33,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-34,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-35,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-36,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-37,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-38,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-39,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-40,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-41,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-42,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-43,Roseville Nexus,0,15W_E
+015H,NormalMonFri,015-44,Roseville Nexus,0,15H_E
+015W,NormalMonFri,015-45,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-46,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-47,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-48,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-49,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-50,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-51,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-52,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-53,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-54,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-55,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-56,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-57,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-58,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-59,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-60,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-61,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-62,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-63,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-64,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-65,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-66,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-67,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-68,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-69,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-70,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-71,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-72,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-73,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-74,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-75,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-76,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-77,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-78,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-79,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-80,Henry Ford West Bloomfield,1,15H_W
+015W,NormalMonFri,015-81,Wixom Public Library,1,15W_W
+015H,NormalMonFri,015-82,Henry Ford West Bloomfield,1,15H_W
+015H,NormalMonFri,015-83,Henry Ford West Bloomfield,1,15H_W
+015H,NormalMonFri,015-84,Henry Ford West Bloomfield,1,15H_W
+015H,NormalMonFri,015-85,Henry Ford West Bloomfield,1,15H_W
+015H,NormalMonFri,015-86,Henry Ford West Bloomfield,1,15H_W
+015S,NormalSunday,015-87,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-88,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-89,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-90,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-91,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-92,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-93,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-94,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-95,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-96,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-97,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-98,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-99,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-100,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-101,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-102,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-103,Roseville Nexus,0,15S_E
+015S,NormalSunday,015-104,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-105,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-106,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-107,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-108,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-109,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-110,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-111,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-112,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-113,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-114,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-115,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-116,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-117,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-118,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-119,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-120,Maple / Old Woodward,1,15S_W
+015S,NormalSunday,015-121,Maple / Old Woodward,1,15S_W
+015H,SatToDaily,015-122,Roseville Nexus,0,15H_E
+015H,SatToDaily,015-123,Roseville Nexus,0,15H_E
+015H,SatToDaily,015-124,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-125,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-126,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-127,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-128,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-129,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-130,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-131,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-132,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-133,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-134,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-135,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-136,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-137,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-138,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-139,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-140,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-141,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-142,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-143,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-144,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-145,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-146,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-147,Roseville Nexus,0,15W_E
+015H,SatToDaily,015-148,Roseville Nexus,0,15H_E
+015W,SatToDaily,015-149,Roseville Nexus,0,15W_E
+015W,SatToDaily,015-150,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-151,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-152,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-153,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-154,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-155,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-156,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-157,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-158,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-159,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-160,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-161,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-162,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-163,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-164,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-165,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-166,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-167,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-168,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-169,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-170,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-171,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-172,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-173,Henry Ford West Bloomfield,1,15H_W
+015W,SatToDaily,015-174,Wixom Public Library,1,15W_W
+015H,SatToDaily,015-175,Henry Ford West Bloomfield,1,15H_W
+015H,SatToDaily,015-176,Henry Ford West Bloomfield,1,15H_W

@@ -1,105 +1,105 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-875,preholiday,875-1,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-2,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-3,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-4,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-5,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-6,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-7,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-8,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-9,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-10,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-11,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-12,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-13,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-14,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-15,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-16,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-17,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-18,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-19,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-20,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-21,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-22,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-23,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-24,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-25,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-26,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-27,Pontiac Nexus via Wayne State University,0,8757,875W
-875,preholiday,875-28,Pontiac Nexus via I-75,0,8758,875D
-875,preholiday,875-29,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-30,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-31,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-32,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-33,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-34,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-35,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-36,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-37,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-38,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-39,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-40,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-41,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-42,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-43,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-44,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-45,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-46,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-47,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-48,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-49,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-50,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-51,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-52,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,preholiday,875-53,Rosa Parks Nexus via I-75,1,8752,875D
-875,preholiday,875-54,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-55,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-56,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-57,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-58,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-59,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-60,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-61,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-62,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-63,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-64,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-65,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-66,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-67,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-68,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-69,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-70,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-71,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-72,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-73,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-74,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-75,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-76,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-77,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-78,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-79,Pontiac Nexus via Wayne State University,0,8757,875W
-875,weekdaynoph,875-80,Pontiac Nexus via I-75,0,8758,875D
-875,weekdaynoph,875-81,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-82,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-83,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-84,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-85,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-86,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-87,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-88,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-89,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-90,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-91,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-92,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-93,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-94,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-95,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-96,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-97,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-98,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-99,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-100,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-101,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-102,Rosa Parks Nexus via Wayne State University,1,8751,875W
-875,weekdaynoph,875-103,Rosa Parks Nexus via I-75,1,8752,875D
-875,weekdaynoph,875-104,Rosa Parks Nexus via Wayne State University,1,8751,875W
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+875D,NormalMonFriNoPH,875-1,Pontiac Nexus via I-75,0,875D_N
+875D,NormalMonFriNoPH,875-2,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-3,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-4,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-5,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-6,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-7,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-8,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-9,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-10,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-11,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-12,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-13,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-14,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-15,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-16,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-17,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-18,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-19,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-20,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-21,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-22,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-23,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-24,Pontiac Nexus via I-75,0,875D_N
+875W,NormalMonFriNoPH,875-25,Pontiac Nexus via Wayne State University,1,875W_N
+875D,NormalMonFriNoPH,875-26,Pontiac Nexus via I-75,0,875D_N
+875,NormalMonFriNoPH,875-27,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-28,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-29,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-30,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-31,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-32,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-33,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-34,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-35,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-36,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-37,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-38,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-39,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-40,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-41,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-42,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-43,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-44,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-45,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-46,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-47,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-48,Rosa Parks Nexus,1,875W_S
+875,NormalMonFriNoPH,875-49,Rosa Parks Nexus,1,875D_S
+875W,NormalMonFriNoPH,875-50,Rosa Parks Nexus,1,875W_S
+875D,PreHoliday,875-51,Pontiac Nexus via I-75,0,875D_N
+875D,PreHoliday,875-52,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-53,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-54,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-55,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-56,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-57,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-58,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-59,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-60,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-61,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-62,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-63,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-64,Pontiac Nexus via I-75,0,875D_N
+875D,PreHoliday,875-65,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-66,Pontiac Nexus via Wayne State University,1,875W_N
+875W,PreHoliday,875-67,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-68,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-69,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-70,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-71,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-72,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-73,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-74,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-75,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-76,Pontiac Nexus via I-75,0,875D_N
+875W,PreHoliday,875-77,Pontiac Nexus via Wayne State University,1,875W_N
+875D,PreHoliday,875-78,Pontiac Nexus via I-75,0,875D_N
+875,PreHoliday,875-79,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-80,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-81,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-82,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-83,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-84,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-85,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-86,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-87,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-88,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-89,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-90,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-91,Rosa Parks Nexus,1,875D_S
+875,PreHoliday,875-92,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-93,Rosa Parks Nexus,1,875W_S
+875W,PreHoliday,875-94,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-95,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-96,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-97,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-98,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-99,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-100,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-101,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-102,Rosa Parks Nexus,1,875W_S
+875,PreHoliday,875-103,Rosa Parks Nexus,1,875D_S
+875W,PreHoliday,875-104,Rosa Parks Nexus,1,875W_S

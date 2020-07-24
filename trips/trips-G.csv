@@ -1,552 +1,552 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-G,saturday,G-1,Chesterfield Meijer,0,6908
-G,saturday,G-2,Chesterfield Meijer,0,6908
-G,saturday,G-3,Chesterfield Meijer,0,6908
-G,saturday,G-4,Chesterfield Meijer,0,6908
-G,saturday,G-5,Chesterfield Meijer,0,6908
-G,saturday,G-6,Chesterfield Meijer,0,6908
-G,saturday,G-7,Chesterfield Meijer,0,6908
-G,saturday,G-8,Chesterfield Meijer,0,6908
-G,saturday,G-9,Chesterfield Meijer,0,6908
-G,saturday,G-10,Chesterfield Meijer,0,6908
-G,saturday,G-11,Chesterfield Meijer,0,6908
-G,saturday,G-12,Chesterfield Meijer,0,6908
-G,saturday,G-13,Chesterfield Meijer,0,6908
-G,saturday,G-14,Chesterfield Meijer,0,6908
-G,saturday,G-15,Chesterfield Meijer,0,6908
-G,saturday,G-16,Chesterfield Meijer,0,6908
-G,saturday,G-17,Chesterfield Meijer,0,6908
-G,saturday,G-18,Chesterfield Meijer,0,6908
-G,saturday,G-19,Chesterfield Meijer,0,6908
-G,saturday,G-20,Chesterfield Meijer,0,6908
-G,saturday,G-21,Chesterfield Meijer,0,6908
-G,saturday,G-22,Chesterfield Meijer,0,6908
-G,saturday,G-23,Chesterfield Meijer,0,6908
-G,saturday,G-24,Chesterfield Meijer,0,6908
-G,saturday,G-25,Chesterfield Meijer,0,6908
-G,saturday,G-26,Chesterfield Meijer,0,6908
-G,saturday,G-27,Chesterfield Meijer,0,6908
-G,saturday,G-28,Chesterfield Meijer,0,6908
-G,saturday,G-29,Chesterfield Meijer,0,6908
-G,saturday,G-30,Chesterfield Meijer,0,6908
-G,saturday,G-31,Chesterfield Meijer,0,6908
-G,saturday,G-32,Chesterfield Meijer,0,6908
-G,saturday,G-33,Chesterfield Meijer,0,6908
-G,saturday,G-34,Chesterfield Meijer,0,6908
-G,saturday,G-35,Chesterfield Meijer,0,6908
-G,saturday,G-36,Chesterfield Meijer,0,6908
-G,saturday,G-37,Chesterfield Meijer,0,6908
-G,saturday,G-38,Chesterfield Meijer,0,6908
-G,saturday,G-39,Chesterfield Meijer,0,6908
-G,saturday,G-40,Chesterfield Meijer,0,6908
-G,saturday,G-41,Chesterfield Meijer,0,6908
-G,saturday,G-42,Chesterfield Meijer,0,6908
-G,saturday,G-43,Chesterfield Meijer,0,6908
-G,saturday,G-44,Chesterfield Meijer,0,6908
-G,saturday,G-45,Chesterfield Meijer,0,6908
-G,saturday,G-46,Chesterfield Meijer,0,6908
-G,saturday,G-47,Chesterfield Meijer,0,6908
-G,saturday,G-48,Chesterfield Meijer,0,6908
-G,saturday,G-49,Chesterfield Meijer,0,6908
-G,saturday,G-50,Chesterfield Meijer,0,6908
-G,saturday,G-51,Chesterfield Meijer,0,6908
-G,saturday,G-52,Chesterfield Meijer,0,6908
-G,saturday,G-53,Chesterfield Meijer,0,6908
-G,saturday,G-54,Chesterfield Meijer,0,6908
-G,saturday,G-55,Chesterfield Meijer,0,6908
-G,saturday,G-56,Chesterfield Meijer,0,6908
-G,saturday,G-57,Chesterfield Meijer,0,6908
-G,saturday,G-58,Chesterfield Meijer,0,6908
-G,saturday,G-59,Chesterfield Meijer,0,6908
-G,saturday,G-60,Chesterfield Meijer,0,6908
-G,saturday,G-61,Chesterfield Meijer,0,6908
-G,saturday,G-62,Chesterfield Meijer,0,6908
-G,saturday,G-63,Chesterfield Meijer,0,6908
-G,saturday,G-64,Chesterfield Meijer,0,6908
-G,saturday,G-65,Chesterfield Meijer,0,6908
-G,saturday,G-66,Chesterfield Meijer,0,6908
-G,saturday,G-67,Chesterfield Meijer,0,6908
-G,saturday,G-68,Chesterfield Meijer,0,6908
-G,saturday,G-69,Chesterfield Meijer,0,6908
-G,saturday,G-70,Chesterfield Meijer,0,6908
-G,saturday,G-71,Chesterfield Meijer,0,6908
-G,saturday,G-72,Chesterfield Meijer,0,6908
-G,saturday,G-73,Chesterfield Meijer,0,6908
-G,saturday,G-74,Chesterfield Meijer,0,6908
-G,saturday,G-75,Chesterfield Meijer,0,6908
-G,saturday,G-76,Chesterfield Meijer,0,6908
-G,saturday,G-77,Chesterfield Meijer,0,6908
-G,saturday,G-78,Chesterfield Meijer,0,6908
-G,saturday,G-79,Chesterfield Meijer,0,6908
-G,saturday,G-80,Chesterfield Meijer,0,6908
-G,saturday,G-81,Chesterfield Meijer,0,6908
-G,saturday,G-82,Chesterfield Meijer,0,6908
-G,saturday,G-83,Chesterfield Meijer,0,6908
-G,saturday,G-84,Chesterfield Meijer,0,6908
-G,saturday,G-85,Chesterfield Meijer,0,6908
-G,saturday,G-86,Chesterfield Meijer,0,6908
-G,saturday,G-87,Chesterfield Meijer,0,6908
-G,saturday,G-88,Chesterfield Meijer,0,6908
-G,saturday,G-89,Chesterfield Meijer,0,6908
-G,saturday,G-90,Chesterfield Meijer,0,6908
-G,saturday,G-91,Chesterfield Meijer,0,6908
-G,saturday,G-92,Chesterfield Meijer,0,6908
-G,saturday,G-93,Chesterfield Meijer,0,6908
-G,saturday,G-94,Rosa Parks Nexus,1,6902
-G,saturday,G-95,Rosa Parks Nexus,1,6902
-G,saturday,G-96,Rosa Parks Nexus,1,6902
-G,saturday,G-97,Rosa Parks Nexus,1,6902
-G,saturday,G-98,Rosa Parks Nexus,1,6902
-G,saturday,G-99,Rosa Parks Nexus,1,6902
-G,saturday,G-100,Rosa Parks Nexus,1,6902
-G,saturday,G-101,Rosa Parks Nexus,1,6902
-G,saturday,G-102,Rosa Parks Nexus,1,6902
-G,saturday,G-103,Rosa Parks Nexus,1,6902
-G,saturday,G-104,Rosa Parks Nexus,1,6902
-G,saturday,G-105,Rosa Parks Nexus,1,6902
-G,saturday,G-106,Rosa Parks Nexus,1,6902
-G,saturday,G-107,Rosa Parks Nexus,1,6902
-G,saturday,G-108,Rosa Parks Nexus,1,6902
-G,saturday,G-109,Rosa Parks Nexus,1,6902
-G,saturday,G-110,Rosa Parks Nexus,1,6902
-G,saturday,G-111,Rosa Parks Nexus,1,6902
-G,saturday,G-112,Rosa Parks Nexus,1,6902
-G,saturday,G-113,Rosa Parks Nexus,1,6902
-G,saturday,G-114,Rosa Parks Nexus,1,6902
-G,saturday,G-115,Rosa Parks Nexus,1,6902
-G,saturday,G-116,Rosa Parks Nexus,1,6902
-G,saturday,G-117,Rosa Parks Nexus,1,6902
-G,saturday,G-118,Rosa Parks Nexus,1,6902
-G,saturday,G-119,Rosa Parks Nexus,1,6902
-G,saturday,G-120,Rosa Parks Nexus,1,6902
-G,saturday,G-121,Rosa Parks Nexus,1,6902
-G,saturday,G-122,Rosa Parks Nexus,1,6902
-G,saturday,G-123,Rosa Parks Nexus,1,6902
-G,saturday,G-124,Rosa Parks Nexus,1,6902
-G,saturday,G-125,Rosa Parks Nexus,1,6902
-G,saturday,G-126,Rosa Parks Nexus,1,6902
-G,saturday,G-127,Rosa Parks Nexus,1,6902
-G,saturday,G-128,Rosa Parks Nexus,1,6902
-G,saturday,G-129,Rosa Parks Nexus,1,6902
-G,saturday,G-130,Rosa Parks Nexus,1,6902
-G,saturday,G-131,Rosa Parks Nexus,1,6902
-G,saturday,G-132,Rosa Parks Nexus,1,6902
-G,saturday,G-133,Rosa Parks Nexus,1,6902
-G,saturday,G-134,Rosa Parks Nexus,1,6902
-G,saturday,G-135,Rosa Parks Nexus,1,6902
-G,saturday,G-136,Rosa Parks Nexus,1,6902
-G,saturday,G-137,Rosa Parks Nexus,1,6902
-G,saturday,G-138,Rosa Parks Nexus,1,6902
-G,saturday,G-139,Rosa Parks Nexus,1,6902
-G,saturday,G-140,Rosa Parks Nexus,1,6902
-G,saturday,G-141,Rosa Parks Nexus,1,6902
-G,saturday,G-142,Rosa Parks Nexus,1,6902
-G,saturday,G-143,Rosa Parks Nexus,1,6902
-G,saturday,G-144,Rosa Parks Nexus,1,6902
-G,saturday,G-145,Rosa Parks Nexus,1,6902
-G,saturday,G-146,Rosa Parks Nexus,1,6902
-G,saturday,G-147,Rosa Parks Nexus,1,6902
-G,saturday,G-148,Rosa Parks Nexus,1,6902
-G,saturday,G-149,Rosa Parks Nexus,1,6902
-G,saturday,G-150,Rosa Parks Nexus,1,6902
-G,saturday,G-151,Rosa Parks Nexus,1,6902
-G,saturday,G-152,Rosa Parks Nexus,1,6902
-G,saturday,G-153,Rosa Parks Nexus,1,6902
-G,saturday,G-154,Rosa Parks Nexus,1,6902
-G,saturday,G-155,Rosa Parks Nexus,1,6902
-G,saturday,G-156,Rosa Parks Nexus,1,6902
-G,saturday,G-157,Rosa Parks Nexus,1,6902
-G,saturday,G-158,Rosa Parks Nexus,1,6902
-G,saturday,G-159,Rosa Parks Nexus,1,6902
-G,saturday,G-160,Rosa Parks Nexus,1,6902
-G,saturday,G-161,Rosa Parks Nexus,1,6902
-G,saturday,G-162,Rosa Parks Nexus,1,6902
-G,saturday,G-163,Rosa Parks Nexus,1,6902
-G,saturday,G-164,Rosa Parks Nexus,1,6902
-G,saturday,G-165,Rosa Parks Nexus,1,6902
-G,saturday,G-166,Rosa Parks Nexus,1,6902
-G,saturday,G-167,Rosa Parks Nexus,1,6902
-G,saturday,G-168,Rosa Parks Nexus,1,6902
-G,saturday,G-169,Rosa Parks Nexus,1,6902
-G,saturday,G-170,Rosa Parks Nexus,1,6902
-G,saturday,G-171,Rosa Parks Nexus,1,6902
-G,saturday,G-172,Rosa Parks Nexus,1,6902
-G,saturday,G-173,Rosa Parks Nexus,1,6902
-G,saturday,G-174,Rosa Parks Nexus,1,6902
-G,saturday,G-175,Rosa Parks Nexus,1,6902
-G,saturday,G-176,Rosa Parks Nexus,1,6902
-G,saturday,G-177,Rosa Parks Nexus,1,6902
-G,saturday,G-178,Rosa Parks Nexus,1,6902
-G,saturday,G-179,Rosa Parks Nexus,1,6902
-G,saturday,G-180,Rosa Parks Nexus,1,6902
-G,saturday,G-181,Rosa Parks Nexus,1,6902
-G,saturday,G-182,Rosa Parks Nexus,1,6902
-G,saturday,G-183,Rosa Parks Nexus,1,6902
-G,saturday,G-184,Rosa Parks Nexus,1,6902
-G,saturday,G-185,Rosa Parks Nexus,1,6902
-G,saturday,G-186,Rosa Parks Nexus,1,6902
-G,sunday,G-187,Chesterfield Meijer,0,6908
-G,sunday,G-188,Chesterfield Meijer,0,6908
-G,sunday,G-189,Chesterfield Meijer,0,6908
-G,sunday,G-190,Chesterfield Meijer,0,6908
-G,sunday,G-191,Chesterfield Meijer,0,6908
-G,sunday,G-192,Chesterfield Meijer,0,6908
-G,sunday,G-193,Chesterfield Meijer,0,6908
-G,sunday,G-194,Chesterfield Meijer,0,6908
-G,sunday,G-195,Chesterfield Meijer,0,6908
-G,sunday,G-196,Chesterfield Meijer,0,6908
-G,sunday,G-197,Chesterfield Meijer,0,6908
-G,sunday,G-198,Chesterfield Meijer,0,6908
-G,sunday,G-199,Chesterfield Meijer,0,6908
-G,sunday,G-200,Chesterfield Meijer,0,6908
-G,sunday,G-201,Chesterfield Meijer,0,6908
-G,sunday,G-202,Chesterfield Meijer,0,6908
-G,sunday,G-203,Chesterfield Meijer,0,6908
-G,sunday,G-204,Chesterfield Meijer,0,6908
-G,sunday,G-205,Chesterfield Meijer,0,6908
-G,sunday,G-206,Chesterfield Meijer,0,6908
-G,sunday,G-207,Chesterfield Meijer,0,6908
-G,sunday,G-208,Chesterfield Meijer,0,6908
-G,sunday,G-209,Chesterfield Meijer,0,6908
-G,sunday,G-210,Chesterfield Meijer,0,6908
-G,sunday,G-211,Chesterfield Meijer,0,6908
-G,sunday,G-212,Chesterfield Meijer,0,6908
-G,sunday,G-213,Chesterfield Meijer,0,6908
-G,sunday,G-214,Chesterfield Meijer,0,6908
-G,sunday,G-215,Chesterfield Meijer,0,6908
-G,sunday,G-216,Chesterfield Meijer,0,6908
-G,sunday,G-217,Chesterfield Meijer,0,6908
-G,sunday,G-218,Chesterfield Meijer,0,6908
-G,sunday,G-219,Chesterfield Meijer,0,6908
-G,sunday,G-220,Chesterfield Meijer,0,6908
-G,sunday,G-221,Chesterfield Meijer,0,6908
-G,sunday,G-222,Chesterfield Meijer,0,6908
-G,sunday,G-223,Chesterfield Meijer,0,6908
-G,sunday,G-224,Chesterfield Meijer,0,6908
-G,sunday,G-225,Chesterfield Meijer,0,6908
-G,sunday,G-226,Chesterfield Meijer,0,6908
-G,sunday,G-227,Chesterfield Meijer,0,6908
-G,sunday,G-228,Chesterfield Meijer,0,6908
-G,sunday,G-229,Chesterfield Meijer,0,6908
-G,sunday,G-230,Chesterfield Meijer,0,6908
-G,sunday,G-231,Chesterfield Meijer,0,6908
-G,sunday,G-232,Chesterfield Meijer,0,6908
-G,sunday,G-233,Chesterfield Meijer,0,6908
-G,sunday,G-234,Chesterfield Meijer,0,6908
-G,sunday,G-235,Chesterfield Meijer,0,6908
-G,sunday,G-236,Chesterfield Meijer,0,6908
-G,sunday,G-237,Chesterfield Meijer,0,6908
-G,sunday,G-238,Chesterfield Meijer,0,6908
-G,sunday,G-239,Chesterfield Meijer,0,6908
-G,sunday,G-240,Chesterfield Meijer,0,6908
-G,sunday,G-241,Chesterfield Meijer,0,6908
-G,sunday,G-242,Chesterfield Meijer,0,6908
-G,sunday,G-243,Chesterfield Meijer,0,6908
-G,sunday,G-244,Chesterfield Meijer,0,6908
-G,sunday,G-245,Chesterfield Meijer,0,6908
-G,sunday,G-246,Chesterfield Meijer,0,6908
-G,sunday,G-247,Chesterfield Meijer,0,6908
-G,sunday,G-248,Chesterfield Meijer,0,6908
-G,sunday,G-249,Chesterfield Meijer,0,6908
-G,sunday,G-250,Chesterfield Meijer,0,6908
-G,sunday,G-251,Rosa Parks Nexus,1,6902
-G,sunday,G-252,Rosa Parks Nexus,1,6902
-G,sunday,G-253,Rosa Parks Nexus,1,6902
-G,sunday,G-254,Rosa Parks Nexus,1,6902
-G,sunday,G-255,Rosa Parks Nexus,1,6902
-G,sunday,G-256,Rosa Parks Nexus,1,6902
-G,sunday,G-257,Rosa Parks Nexus,1,6902
-G,sunday,G-258,Rosa Parks Nexus,1,6902
-G,sunday,G-259,Rosa Parks Nexus,1,6902
-G,sunday,G-260,Rosa Parks Nexus,1,6902
-G,sunday,G-261,Rosa Parks Nexus,1,6902
-G,sunday,G-262,Rosa Parks Nexus,1,6902
-G,sunday,G-263,Rosa Parks Nexus,1,6902
-G,sunday,G-264,Rosa Parks Nexus,1,6902
-G,sunday,G-265,Rosa Parks Nexus,1,6902
-G,sunday,G-266,Rosa Parks Nexus,1,6902
-G,sunday,G-267,Rosa Parks Nexus,1,6902
-G,sunday,G-268,Rosa Parks Nexus,1,6902
-G,sunday,G-269,Rosa Parks Nexus,1,6902
-G,sunday,G-270,Rosa Parks Nexus,1,6902
-G,sunday,G-271,Rosa Parks Nexus,1,6902
-G,sunday,G-272,Rosa Parks Nexus,1,6902
-G,sunday,G-273,Rosa Parks Nexus,1,6902
-G,sunday,G-274,Rosa Parks Nexus,1,6902
-G,sunday,G-275,Rosa Parks Nexus,1,6902
-G,sunday,G-276,Rosa Parks Nexus,1,6902
-G,sunday,G-277,Rosa Parks Nexus,1,6902
-G,sunday,G-278,Rosa Parks Nexus,1,6902
-G,sunday,G-279,Rosa Parks Nexus,1,6902
-G,sunday,G-280,Rosa Parks Nexus,1,6902
-G,sunday,G-281,Rosa Parks Nexus,1,6902
-G,sunday,G-282,Rosa Parks Nexus,1,6902
-G,sunday,G-283,Rosa Parks Nexus,1,6902
-G,sunday,G-284,Rosa Parks Nexus,1,6902
-G,sunday,G-285,Rosa Parks Nexus,1,6902
-G,sunday,G-286,Rosa Parks Nexus,1,6902
-G,sunday,G-287,Rosa Parks Nexus,1,6902
-G,sunday,G-288,Rosa Parks Nexus,1,6902
-G,sunday,G-289,Rosa Parks Nexus,1,6902
-G,sunday,G-290,Rosa Parks Nexus,1,6902
-G,sunday,G-291,Rosa Parks Nexus,1,6902
-G,sunday,G-292,Rosa Parks Nexus,1,6902
-G,sunday,G-293,Rosa Parks Nexus,1,6902
-G,sunday,G-294,Rosa Parks Nexus,1,6902
-G,sunday,G-295,Rosa Parks Nexus,1,6902
-G,sunday,G-296,Rosa Parks Nexus,1,6902
-G,sunday,G-297,Rosa Parks Nexus,1,6902
-G,sunday,G-298,Rosa Parks Nexus,1,6902
-G,sunday,G-299,Rosa Parks Nexus,1,6902
-G,sunday,G-300,Rosa Parks Nexus,1,6902
-G,sunday,G-301,Rosa Parks Nexus,1,6902
-G,sunday,G-302,Rosa Parks Nexus,1,6902
-G,sunday,G-303,Rosa Parks Nexus,1,6902
-G,sunday,G-304,Rosa Parks Nexus,1,6902
-G,sunday,G-305,Rosa Parks Nexus,1,6902
-G,sunday,G-306,Rosa Parks Nexus,1,6902
-G,sunday,G-307,Rosa Parks Nexus,1,6902
-G,sunday,G-308,Rosa Parks Nexus,1,6902
-G,sunday,G-309,Rosa Parks Nexus,1,6902
-G,sunday,G-310,Rosa Parks Nexus,1,6902
-G,sunday,G-311,Rosa Parks Nexus,1,6902
-G,sunday,G-312,Rosa Parks Nexus,1,6902
-G,sunday,G-313,Rosa Parks Nexus,1,6902
-G,sunday,G-314,Rosa Parks Nexus,1,6902
-G,weekday,G-315,Chesterfield Meijer,0,6908
-G,weekday,G-316,Chesterfield Meijer,0,6908
-G,weekday,G-317,Chesterfield Meijer,0,6908
-G,weekday,G-318,Chesterfield Meijer,0,6908
-G,weekday,G-319,Chesterfield Meijer,0,6908
-G,weekday,G-320,Chesterfield Meijer,0,6908
-G,weekday,G-321,Chesterfield Meijer,0,6908
-G,weekday,G-322,Chesterfield Meijer,0,6908
-G,weekday,G-323,Chesterfield Meijer,0,6908
-G,weekday,G-324,Chesterfield Meijer,0,6908
-G,weekday,G-325,Chesterfield Meijer,0,6908
-G,weekday,G-326,Chesterfield Meijer,0,6908
-G,weekday,G-327,Chesterfield Meijer,0,6908
-G,weekday,G-328,Chesterfield Meijer,0,6908
-G,weekday,G-329,Chesterfield Meijer,0,6908
-G,weekday,G-330,Chesterfield Meijer,0,6908
-G,weekday,G-331,Chesterfield Meijer,0,6908
-G,weekday,G-332,Chesterfield Meijer,0,6908
-G,weekday,G-333,Chesterfield Meijer,0,6908
-G,weekday,G-334,Chesterfield Meijer,0,6908
-G,weekday,G-335,Chesterfield Meijer,0,6908
-G,weekday,G-336,Chesterfield Meijer,0,6908
-G,weekday,G-337,Chesterfield Meijer,0,6908
-G,weekday,G-338,Chesterfield Meijer,0,6908
-G,weekday,G-339,Chesterfield Meijer,0,6908
-G,weekday,G-340,Chesterfield Meijer,0,6908
-G,weekday,G-341,Chesterfield Meijer,0,6908
-G,weekday,G-342,Chesterfield Meijer,0,6908
-G,weekday,G-343,Chesterfield Meijer,0,6908
-G,weekday,G-344,Chesterfield Meijer,0,6908
-G,weekday,G-345,Chesterfield Meijer,0,6908
-G,weekday,G-346,Chesterfield Meijer,0,6908
-G,weekday,G-347,Chesterfield Meijer,0,6908
-G,weekday,G-348,Chesterfield Meijer,0,6908
-G,weekday,G-349,Chesterfield Meijer,0,6908
-G,weekday,G-350,Chesterfield Meijer,0,6908
-G,weekday,G-351,Chesterfield Meijer,0,6908
-G,weekday,G-352,Chesterfield Meijer,0,6908
-G,weekday,G-353,Chesterfield Meijer,0,6908
-G,weekday,G-354,Chesterfield Meijer,0,6908
-G,weekday,G-355,Chesterfield Meijer,0,6908
-G,weekday,G-356,Chesterfield Meijer,0,6908
-G,weekday,G-357,Chesterfield Meijer,0,6908
-G,weekday,G-358,Chesterfield Meijer,0,6908
-G,weekday,G-359,Chesterfield Meijer,0,6908
-G,weekday,G-360,Chesterfield Meijer,0,6908
-G,weekday,G-361,Chesterfield Meijer,0,6908
-G,weekday,G-362,Chesterfield Meijer,0,6908
-G,weekday,G-363,Chesterfield Meijer,0,6908
-G,weekday,G-364,Chesterfield Meijer,0,6908
-G,weekday,G-365,Chesterfield Meijer,0,6908
-G,weekday,G-366,Chesterfield Meijer,0,6908
-G,weekday,G-367,Chesterfield Meijer,0,6908
-G,weekday,G-368,Chesterfield Meijer,0,6908
-G,weekday,G-369,Chesterfield Meijer,0,6908
-G,weekday,G-370,Chesterfield Meijer,0,6908
-G,weekday,G-371,Chesterfield Meijer,0,6908
-G,weekday,G-372,Chesterfield Meijer,0,6908
-G,weekday,G-373,Chesterfield Meijer,0,6908
-G,weekday,G-374,Chesterfield Meijer,0,6908
-G,weekday,G-375,Chesterfield Meijer,0,6908
-G,weekday,G-376,Chesterfield Meijer,0,6908
-G,weekday,G-377,Chesterfield Meijer,0,6908
-G,weekday,G-378,Chesterfield Meijer,0,6908
-G,weekday,G-379,Chesterfield Meijer,0,6908
-G,weekday,G-380,Chesterfield Meijer,0,6908
-G,weekday,G-381,Chesterfield Meijer,0,6908
-G,weekday,G-382,Chesterfield Meijer,0,6908
-G,weekday,G-383,Chesterfield Meijer,0,6908
-G,weekday,G-384,Chesterfield Meijer,0,6908
-G,weekday,G-385,Chesterfield Meijer,0,6908
-G,weekday,G-386,Chesterfield Meijer,0,6908
-G,weekday,G-387,Chesterfield Meijer,0,6908
-G,weekday,G-388,Chesterfield Meijer,0,6908
-G,weekday,G-389,Chesterfield Meijer,0,6908
-G,weekday,G-390,Chesterfield Meijer,0,6908
-G,weekday,G-391,Chesterfield Meijer,0,6908
-G,weekday,G-392,Chesterfield Meijer,0,6908
-G,weekday,G-393,Chesterfield Meijer,0,6908
-G,weekday,G-394,Chesterfield Meijer,0,6908
-G,weekday,G-395,Chesterfield Meijer,0,6908
-G,weekday,G-396,Chesterfield Meijer,0,6908
-G,weekday,G-397,Chesterfield Meijer,0,6908
-G,weekday,G-398,Chesterfield Meijer,0,6908
-G,weekday,G-399,Chesterfield Meijer,0,6908
-G,weekday,G-400,Chesterfield Meijer,0,6908
-G,weekday,G-401,Chesterfield Meijer,0,6908
-G,weekday,G-402,Chesterfield Meijer,0,6908
-G,weekday,G-403,Chesterfield Meijer,0,6908
-G,weekday,G-404,Chesterfield Meijer,0,6908
-G,weekday,G-405,Chesterfield Meijer,0,6908
-G,weekday,G-406,Chesterfield Meijer,0,6908
-G,weekday,G-407,Chesterfield Meijer,0,6908
-G,weekday,G-408,Chesterfield Meijer,0,6908
-G,weekday,G-409,Chesterfield Meijer,0,6908
-G,weekday,G-410,Chesterfield Meijer,0,6908
-G,weekday,G-411,Chesterfield Meijer,0,6908
-G,weekday,G-412,Chesterfield Meijer,0,6908
-G,weekday,G-413,Chesterfield Meijer,0,6908
-G,weekday,G-414,Chesterfield Meijer,0,6908
-G,weekday,G-415,Chesterfield Meijer,0,6908
-G,weekday,G-416,Chesterfield Meijer,0,6908
-G,weekday,G-417,Chesterfield Meijer,0,6908
-G,weekday,G-418,Chesterfield Meijer,0,6908
-G,weekday,G-419,Chesterfield Meijer,0,6908
-G,weekday,G-420,Chesterfield Meijer,0,6908
-G,weekday,G-421,Chesterfield Meijer,0,6908
-G,weekday,G-422,Chesterfield Meijer,0,6908
-G,weekday,G-423,Chesterfield Meijer,0,6908
-G,weekday,G-424,Chesterfield Meijer,0,6908
-G,weekday,G-425,Chesterfield Meijer,0,6908
-G,weekday,G-426,Chesterfield Meijer,0,6908
-G,weekday,G-427,Chesterfield Meijer,0,6908
-G,weekday,G-428,Chesterfield Meijer,0,6908
-G,weekday,G-429,Chesterfield Meijer,0,6908
-G,weekday,G-430,Chesterfield Meijer,0,6908
-G,weekday,G-431,Chesterfield Meijer,0,6908
-G,weekday,G-432,Chesterfield Meijer,0,6908
-G,weekday,G-433,Chesterfield Meijer,0,6908
-G,weekday,G-434,Chesterfield Meijer,0,6908
-G,weekday,G-435,Chesterfield Meijer,0,6908
-G,weekday,G-436,Chesterfield Meijer,0,6908
-G,weekday,G-437,Chesterfield Meijer,0,6908
-G,weekday,G-438,Chesterfield Meijer,0,6908
-G,weekday,G-439,Chesterfield Meijer,0,6908
-G,weekday,G-440,Chesterfield Meijer,0,6908
-G,weekday,G-441,Chesterfield Meijer,0,6908
-G,weekday,G-442,Chesterfield Meijer,0,6908
-G,weekday,G-443,Chesterfield Meijer,0,6908
-G,weekday,G-444,Chesterfield Meijer,0,6908
-G,weekday,G-445,Chesterfield Meijer,0,6908
-G,weekday,G-446,Chesterfield Meijer,0,6908
-G,weekday,G-447,Chesterfield Meijer,0,6908
-G,weekday,G-448,Chesterfield Meijer,0,6908
-G,weekday,G-449,Chesterfield Meijer,0,6908
-G,weekday,G-450,Chesterfield Meijer,0,6908
-G,weekday,G-451,Chesterfield Meijer,0,6908
-G,weekday,G-452,Chesterfield Meijer,0,6908
-G,weekday,G-453,Chesterfield Meijer,0,6908
-G,weekday,G-454,Chesterfield Meijer,0,6908
-G,weekday,G-455,Chesterfield Meijer,0,6908
-G,weekday,G-456,Chesterfield Meijer,0,6908
-G,weekday,G-457,Rosa Parks Nexus,1,6902
-G,weekday,G-458,Rosa Parks Nexus,1,6902
-G,weekday,G-459,Rosa Parks Nexus,1,6902
-G,weekday,G-460,Rosa Parks Nexus,1,6902
-G,weekday,G-461,Rosa Parks Nexus,1,6902
-G,weekday,G-462,Rosa Parks Nexus,1,6902
-G,weekday,G-463,Rosa Parks Nexus,1,6902
-G,weekday,G-464,Rosa Parks Nexus,1,6902
-G,weekday,G-465,Rosa Parks Nexus,1,6902
-G,weekday,G-466,Rosa Parks Nexus,1,6902
-G,weekday,G-467,Rosa Parks Nexus,1,6902
-G,weekday,G-468,Rosa Parks Nexus,1,6902
-G,weekday,G-469,Rosa Parks Nexus,1,6902
-G,weekday,G-470,Rosa Parks Nexus,1,6902
-G,weekday,G-471,Rosa Parks Nexus,1,6902
-G,weekday,G-472,Rosa Parks Nexus,1,6902
-G,weekday,G-473,Rosa Parks Nexus,1,6902
-G,weekday,G-474,Rosa Parks Nexus,1,6902
-G,weekday,G-475,Rosa Parks Nexus,1,6902
-G,weekday,G-476,Rosa Parks Nexus,1,6902
-G,weekday,G-477,Rosa Parks Nexus,1,6902
-G,weekday,G-478,Rosa Parks Nexus,1,6902
-G,weekday,G-479,Rosa Parks Nexus,1,6902
-G,weekday,G-480,Rosa Parks Nexus,1,6902
-G,weekday,G-481,Rosa Parks Nexus,1,6902
-G,weekday,G-482,Rosa Parks Nexus,1,6902
-G,weekday,G-483,Rosa Parks Nexus,1,6902
-G,weekday,G-484,Rosa Parks Nexus,1,6902
-G,weekday,G-485,Rosa Parks Nexus,1,6902
-G,weekday,G-486,Rosa Parks Nexus,1,6902
-G,weekday,G-487,Rosa Parks Nexus,1,6902
-G,weekday,G-488,Rosa Parks Nexus,1,6902
-G,weekday,G-489,Rosa Parks Nexus,1,6902
-G,weekday,G-490,Rosa Parks Nexus,1,6902
-G,weekday,G-491,Rosa Parks Nexus,1,6902
-G,weekday,G-492,Rosa Parks Nexus,1,6902
-G,weekday,G-493,Rosa Parks Nexus,1,6902
-G,weekday,G-494,Rosa Parks Nexus,1,6902
-G,weekday,G-495,Rosa Parks Nexus,1,6902
-G,weekday,G-496,Rosa Parks Nexus,1,6902
-G,weekday,G-497,Rosa Parks Nexus,1,6902
-G,weekday,G-498,Rosa Parks Nexus,1,6902
-G,weekday,G-499,Rosa Parks Nexus,1,6902
-G,weekday,G-500,Rosa Parks Nexus,1,6902
-G,weekday,G-501,Rosa Parks Nexus,1,6902
-G,weekday,G-502,Rosa Parks Nexus,1,6902
-G,weekday,G-503,Rosa Parks Nexus,1,6902
-G,weekday,G-504,Rosa Parks Nexus,1,6902
-G,weekday,G-505,Rosa Parks Nexus,1,6902
-G,weekday,G-506,Rosa Parks Nexus,1,6902
-G,weekday,G-507,Rosa Parks Nexus,1,6902
-G,weekday,G-508,Rosa Parks Nexus,1,6902
-G,weekday,G-509,Rosa Parks Nexus,1,6902
-G,weekday,G-510,Rosa Parks Nexus,1,6902
-G,weekday,G-511,Rosa Parks Nexus,1,6902
-G,weekday,G-512,Rosa Parks Nexus,1,6902
-G,weekday,G-513,Rosa Parks Nexus,1,6902
-G,weekday,G-514,Rosa Parks Nexus,1,6902
-G,weekday,G-515,Rosa Parks Nexus,1,6902
-G,weekday,G-516,Rosa Parks Nexus,1,6902
-G,weekday,G-517,Rosa Parks Nexus,1,6902
-G,weekday,G-518,Rosa Parks Nexus,1,6902
-G,weekday,G-519,Rosa Parks Nexus,1,6902
-G,weekday,G-520,Rosa Parks Nexus,1,6902
-G,weekday,G-521,Rosa Parks Nexus,1,6902
-G,weekday,G-522,Rosa Parks Nexus,1,6902
-G,weekday,G-523,Rosa Parks Nexus,1,6902
-G,weekday,G-524,Rosa Parks Nexus,1,6902
-G,weekday,G-525,Rosa Parks Nexus,1,6902
-G,weekday,G-526,Rosa Parks Nexus,1,6902
-G,weekday,G-527,Rosa Parks Nexus,1,6902
-G,weekday,G-528,Rosa Parks Nexus,1,6902
-G,weekday,G-529,Rosa Parks Nexus,1,6902
-G,weekday,G-530,Rosa Parks Nexus,1,6902
-G,weekday,G-531,Rosa Parks Nexus,1,6902
-G,weekday,G-532,Rosa Parks Nexus,1,6902
-G,weekday,G-533,Rosa Parks Nexus,1,6902
-G,weekday,G-534,Rosa Parks Nexus,1,6902
-G,weekday,G-535,Rosa Parks Nexus,1,6902
-G,weekday,G-536,Rosa Parks Nexus,1,6902
-G,weekday,G-537,Rosa Parks Nexus,1,6902
-G,weekday,G-538,Rosa Parks Nexus,1,6902
-G,weekday,G-539,Rosa Parks Nexus,1,6902
-G,weekday,G-540,Rosa Parks Nexus,1,6902
-G,weekday,G-541,Rosa Parks Nexus,1,6902
-G,weekday,G-542,Rosa Parks Nexus,1,6902
-G,weekday,G-543,Rosa Parks Nexus,1,6902
-G,weekday,G-544,Rosa Parks Nexus,1,6902
-G,weekday,G-545,Rosa Parks Nexus,1,6902
-G,weekday,G-546,Rosa Parks Nexus,1,6902
-G,weekday,G-547,Rosa Parks Nexus,1,6902
-G,weekday,G-548,Rosa Parks Nexus,1,6902
-G,weekday,G-549,Rosa Parks Nexus,1,6902
-G,weekday,G-550,Rosa Parks Nexus,1,6902
-G,weekday,G-551,Rosa Parks Nexus,1,6902
+G,NormalMonFri,G-1,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-2,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-3,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-4,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-5,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-6,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-7,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-8,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-9,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-10,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-11,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-12,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-13,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-14,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-15,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-16,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-17,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-18,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-19,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-20,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-21,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-22,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-23,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-24,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-25,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-26,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-27,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-28,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-29,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-30,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-31,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-32,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-33,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-34,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-35,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-36,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-37,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-38,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-39,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-40,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-41,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-42,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-43,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-44,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-45,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-46,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-47,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-48,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-49,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-50,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-51,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-52,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-53,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-54,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-55,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-56,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-57,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-58,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-59,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-60,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-61,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-62,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-63,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-64,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-65,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-66,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-67,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-68,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-69,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-70,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-71,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-72,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-73,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-74,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-75,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-76,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-77,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-78,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-79,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-80,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-81,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-82,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-83,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-84,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-85,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-86,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-87,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-88,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-89,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-90,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-91,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-92,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-93,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-94,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-95,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-96,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-97,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-98,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-99,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-100,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-101,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-102,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-103,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-104,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-105,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-106,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-107,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-108,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-109,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-110,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-111,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-112,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-113,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-114,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-115,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-116,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-117,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-118,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-119,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-120,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-121,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-122,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-123,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-124,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-125,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-126,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-127,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-128,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-129,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-130,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-131,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-132,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-133,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-134,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-135,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-136,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-137,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-138,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-139,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-140,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-141,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-142,Chesterfield Meijer,0,GL_N
+G,NormalMonFri,G-143,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-144,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-145,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-146,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-147,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-148,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-149,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-150,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-151,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-152,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-153,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-154,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-155,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-156,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-157,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-158,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-159,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-160,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-161,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-162,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-163,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-164,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-165,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-166,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-167,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-168,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-169,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-170,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-171,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-172,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-173,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-174,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-175,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-176,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-177,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-178,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-179,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-180,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-181,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-182,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-183,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-184,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-185,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-186,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-187,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-188,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-189,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-190,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-191,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-192,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-193,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-194,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-195,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-196,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-197,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-198,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-199,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-200,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-201,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-202,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-203,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-204,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-205,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-206,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-207,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-208,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-209,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-210,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-211,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-212,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-213,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-214,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-215,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-216,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-217,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-218,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-219,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-220,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-221,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-222,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-223,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-224,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-225,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-226,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-227,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-228,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-229,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-230,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-231,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-232,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-233,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-234,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-235,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-236,Rosa Parks Nexus,1,GL_S
+G,NormalMonFri,G-237,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-238,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-239,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-240,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-241,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-242,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-243,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-244,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-245,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-246,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-247,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-248,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-249,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-250,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-251,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-252,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-253,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-254,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-255,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-256,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-257,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-258,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-259,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-260,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-261,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-262,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-263,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-264,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-265,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-266,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-267,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-268,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-269,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-270,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-271,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-272,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-273,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-274,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-275,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-276,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-277,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-278,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-279,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-280,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-281,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-282,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-283,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-284,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-285,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-286,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-287,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-288,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-289,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-290,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-291,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-292,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-293,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-294,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-295,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-296,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-297,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-298,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-299,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-300,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-301,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-302,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-303,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-304,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-305,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-306,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-307,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-308,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-309,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-310,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-311,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-312,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-313,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-314,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-315,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-316,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-317,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-318,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-319,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-320,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-321,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-322,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-323,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-324,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-325,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-326,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-327,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-328,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-329,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-330,Chesterfield Meijer,0,GL_N
+G,NormalSaturday,G-331,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-332,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-333,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-334,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-335,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-336,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-337,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-338,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-339,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-340,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-341,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-342,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-343,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-344,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-345,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-346,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-347,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-348,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-349,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-350,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-351,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-352,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-353,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-354,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-355,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-356,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-357,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-358,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-359,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-360,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-361,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-362,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-363,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-364,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-365,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-366,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-367,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-368,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-369,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-370,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-371,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-372,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-373,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-374,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-375,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-376,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-377,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-378,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-379,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-380,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-381,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-382,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-383,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-384,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-385,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-386,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-387,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-388,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-389,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-390,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-391,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-392,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-393,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-394,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-395,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-396,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-397,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-398,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-399,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-400,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-401,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-402,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-403,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-404,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-405,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-406,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-407,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-408,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-409,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-410,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-411,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-412,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-413,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-414,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-415,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-416,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-417,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-418,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-419,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-420,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-421,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-422,Rosa Parks Nexus,1,GL_S
+G,NormalSaturday,G-423,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-424,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-425,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-426,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-427,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-428,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-429,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-430,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-431,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-432,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-433,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-434,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-435,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-436,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-437,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-438,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-439,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-440,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-441,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-442,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-443,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-444,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-445,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-446,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-447,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-448,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-449,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-450,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-451,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-452,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-453,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-454,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-455,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-456,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-457,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-458,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-459,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-460,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-461,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-462,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-463,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-464,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-465,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-466,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-467,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-468,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-469,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-470,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-471,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-472,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-473,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-474,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-475,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-476,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-477,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-478,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-479,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-480,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-481,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-482,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-483,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-484,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-485,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-486,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-487,Chesterfield Meijer,0,GL_N
+G,NormalSunday,G-488,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-489,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-490,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-491,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-492,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-493,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-494,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-495,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-496,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-497,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-498,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-499,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-500,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-501,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-502,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-503,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-504,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-505,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-506,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-507,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-508,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-509,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-510,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-511,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-512,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-513,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-514,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-515,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-516,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-517,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-518,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-519,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-520,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-521,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-522,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-523,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-524,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-525,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-526,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-527,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-528,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-529,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-530,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-531,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-532,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-533,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-534,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-535,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-536,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-537,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-538,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-539,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-540,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-541,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-542,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-543,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-544,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-545,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-546,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-547,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-548,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-549,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-550,Rosa Parks Nexus,1,GL_S
+G,NormalSunday,G-551,Rosa Parks Nexus,1,GL_S

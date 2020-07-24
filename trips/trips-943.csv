@@ -1,59 +1,59 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-943,weekday,943-1,Richmond,0,9437
-943,weekday,943-2,Memphis,0,9438
-943,weekday,943-3,Memphis,0,9438
-943,weekday,943-4,Memphis,0,9438
-943,weekday,943-5,Memphis,0,9438
-943,weekday,943-6,Memphis,0,9438
-943,weekday,943-7,Memphis,0,9438
-943,weekday,943-8,Memphis,0,9438
-943,weekday,943-9,Memphis,0,9438
-943,weekday,943-10,Memphis,0,9438
-943,weekday,943-11,Memphis,0,9438
-943,weekday,943-12,Memphis,0,9438
-943,weekday,943-13,Memphis,0,9438
-943,weekday,943-14,Memphis,0,9438
-943,weekday,943-15,Memphis,0,9438
-943,weekday,943-16,Richmond,0,9437
-943,weekday,943-17,Memphis,0,9439
-943,weekday,943-18,Memphis,0,9438
-943,weekday,943-19,Memphis,0,9438
-943,weekday,943-20,Memphis,0,9438
-943,weekday,943-21,Memphis,0,9438
-943,weekday,943-22,Memphis,0,9438
-943,weekday,943-23,Memphis,0,9438
-943,weekday,943-24,Memphis,0,9438
-943,weekday,943-25,Memphis,0,9438
-943,weekday,943-26,Memphis,0,9438
-943,weekday,943-27,Memphis,0,9438
-943,weekday,943-28,Memphis,0,9438
-943,weekday,943-29,Memphis,0,9438
-943,weekday,943-30,Memphis,0,9438
-943,weekday,943-31,Gratiot / Crocker,1,9432
-943,weekday,943-32,Gratiot / Crocker,1,9432
-943,weekday,943-33,Gratiot / Crocker,1,9432
-943,weekday,943-34,Gratiot / Crocker,1,9432
-943,weekday,943-35,Gratiot / Crocker,1,9432
-943,weekday,943-36,Gratiot / Crocker,1,9432
-943,weekday,943-37,Gratiot / Crocker,1,9432
-943,weekday,943-38,Gratiot / Crocker,1,9432
-943,weekday,943-39,Gratiot / Crocker,1,9432
-943,weekday,943-40,Gratiot / Crocker,1,9432
-943,weekday,943-41,Gratiot / Crocker,1,9432
-943,weekday,943-42,Gratiot / Crocker,1,9432
-943,weekday,943-43,Gratiot / Crocker,1,9432
-943,weekday,943-44,Gratiot / Crocker,1,9432
-943,weekday,943-45,Gratiot / Crocker,1,9432
-943,weekday,943-46,Gratiot / Crocker,1,9432
-943,weekday,943-47,Gratiot / Crocker,1,9432
-943,weekday,943-48,Gratiot / Crocker,1,9432
-943,weekday,943-49,Gratiot / Crocker,1,9432
-943,weekday,943-50,Gratiot / Crocker,1,9432
-943,weekday,943-51,Gratiot / Crocker,1,9432
-943,weekday,943-52,Gratiot / Crocker,1,9432
-943,weekday,943-53,Gratiot / Crocker,1,9432
-943,weekday,943-54,Gratiot / Crocker,1,9432
-943,weekday,943-55,Gratiot / Crocker,1,9432
-943,weekday,943-56,Gratiot / Crocker,1,9432
-943,weekday,943-57,Gratiot / Crocker,1,9432
-943,weekday,943-58,Gratiot / Crocker,1,9432
+943,NormalMonFri,943-1,Richmond,0,943_N_HS
+943,NormalMonFri,943-2,Memphis,0,943_N
+943,NormalMonFri,943-3,Memphis,0,943_N
+943,NormalMonFri,943-4,Memphis,0,943_N
+943,NormalMonFri,943-5,Memphis,0,943_N
+943,NormalMonFri,943-6,Memphis,0,943_N
+943,NormalMonFri,943-7,Memphis,0,943_N
+943,NormalMonFri,943-8,Memphis,0,943_N
+943,NormalMonFri,943-9,Memphis,0,943_N
+943,NormalMonFri,943-10,Memphis,0,943_N
+943,NormalMonFri,943-11,Memphis,0,943_N
+943,NormalMonFri,943-12,Memphis,0,943_N
+943,NormalMonFri,943-13,Memphis,0,943_N
+943,NormalMonFri,943-14,Memphis,0,943_N
+943,NormalMonFri,943-15,Memphis,0,943_N
+943,NormalMonFri,943-16,Richmond,0,943_N_HS
+943,NormalMonFri,943-17,Memphis,0,943_N_HN
+943,NormalMonFri,943-18,Memphis,0,943_N
+943,NormalMonFri,943-19,Memphis,0,943_N
+943,NormalMonFri,943-20,Memphis,0,943_N
+943,NormalMonFri,943-21,Memphis,0,943_N
+943,NormalMonFri,943-22,Memphis,0,943_N
+943,NormalMonFri,943-23,Memphis,0,943_N
+943,NormalMonFri,943-24,Memphis,0,943_N
+943,NormalMonFri,943-25,Memphis,0,943_N
+943,NormalMonFri,943-26,Memphis,0,943_N
+943,NormalMonFri,943-27,Memphis,0,943_N
+943,NormalMonFri,943-28,Memphis,0,943_N
+943,NormalMonFri,943-29,Memphis,0,943_N
+943,NormalMonFri,943-30,Memphis,0,943_N
+943,NormalMonFri,943-31,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-32,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-33,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-34,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-35,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-36,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-37,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-38,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-39,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-40,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-41,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-42,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-43,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-44,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-45,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-46,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-47,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-48,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-49,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-50,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-51,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-52,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-53,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-54,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-55,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-56,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-57,Gratiot / Crocker,1,943_S
+943,NormalMonFri,943-58,Gratiot / Crocker,1,943_S

@@ -1,223 +1,223 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-952,saturday,952-1,Windsor VIA Rail Station,0,9526
-952,saturday,952-2,Windsor VIA Rail Station,0,9526
-952,saturday,952-3,Windsor VIA Rail Station,0,9526
-952,saturday,952-4,Windsor VIA Rail Station,0,9526
-952,saturday,952-5,Windsor VIA Rail Station,0,9526
-952,saturday,952-6,Windsor VIA Rail Station,0,9526
-952,saturday,952-7,Windsor VIA Rail Station,0,9526
-952,saturday,952-8,Windsor VIA Rail Station,0,9526
-952,saturday,952-9,Windsor VIA Rail Station,0,9526
-952,saturday,952-10,Windsor VIA Rail Station,0,9526
-952,saturday,952-11,Windsor VIA Rail Station,0,9526
-952,saturday,952-12,Windsor VIA Rail Station,0,9526
-952,saturday,952-13,Windsor VIA Rail Station,0,9526
-952,saturday,952-14,Windsor VIA Rail Station,0,9526
-952,saturday,952-15,Windsor VIA Rail Station,0,9526
-952,saturday,952-16,Windsor VIA Rail Station,0,9526
-952,saturday,952-17,Windsor VIA Rail Station,0,9526
-952,saturday,952-18,Windsor VIA Rail Station,0,9526
-952,saturday,952-19,Windsor VIA Rail Station,0,9526
-952,saturday,952-20,Windsor VIA Rail Station,0,9526
-952,saturday,952-21,Windsor VIA Rail Station,0,9526
-952,saturday,952-22,Windsor VIA Rail Station,0,9526
-952,saturday,952-23,Windsor VIA Rail Station,0,9526
-952,saturday,952-24,Windsor VIA Rail Station,0,9526
-952,saturday,952-25,Windsor VIA Rail Station,0,9526
-952,saturday,952-26,Windsor VIA Rail Station,0,9526
-952,saturday,952-27,Windsor VIA Rail Station,0,9526
-952,saturday,952-28,Windsor VIA Rail Station,0,9526
-952,saturday,952-29,Windsor VIA Rail Station,0,9526
-952,saturday,952-30,Windsor VIA Rail Station,0,9526
-952,saturday,952-31,Windsor VIA Rail Station,0,9526
-952,saturday,952-32,Windsor VIA Rail Station,0,9526
-952,saturday,952-33,Windsor VIA Rail Station,0,9526
-952,saturday,952-34,Windsor VIA Rail Station,0,9526
-952,saturday,952-35,Windsor VIA Rail Station,0,9526
-952,saturday,952-36,Metro Airport Nexus,1,9524
-952,saturday,952-37,Metro Airport Nexus,1,9524
-952,saturday,952-38,Metro Airport Nexus,1,9524
-952,saturday,952-39,Metro Airport Nexus,1,9524
-952,saturday,952-40,Metro Airport Nexus,1,9524
-952,saturday,952-41,Metro Airport Nexus,1,9524
-952,saturday,952-42,Metro Airport Nexus,1,9524
-952,saturday,952-43,Metro Airport Nexus,1,9524
-952,saturday,952-44,Metro Airport Nexus,1,9524
-952,saturday,952-45,Metro Airport Nexus,1,9524
-952,saturday,952-46,Metro Airport Nexus,1,9524
-952,saturday,952-47,Metro Airport Nexus,1,9524
-952,saturday,952-48,Metro Airport Nexus,1,9524
-952,saturday,952-49,Metro Airport Nexus,1,9524
-952,saturday,952-50,Metro Airport Nexus,1,9524
-952,saturday,952-51,Metro Airport Nexus,1,9524
-952,saturday,952-52,Metro Airport Nexus,1,9524
-952,saturday,952-53,Metro Airport Nexus,1,9524
-952,saturday,952-54,Metro Airport Nexus,1,9524
-952,saturday,952-55,Metro Airport Nexus,1,9524
-952,saturday,952-56,Metro Airport Nexus,1,9524
-952,saturday,952-57,Metro Airport Nexus,1,9524
-952,saturday,952-58,Metro Airport Nexus,1,9524
-952,saturday,952-59,Metro Airport Nexus,1,9524
-952,saturday,952-60,Metro Airport Nexus,1,9524
-952,saturday,952-61,Metro Airport Nexus,1,9524
-952,saturday,952-62,Metro Airport Nexus,1,9524
-952,saturday,952-63,Metro Airport Nexus,1,9524
-952,saturday,952-64,Metro Airport Nexus,1,9524
-952,saturday,952-65,Metro Airport Nexus,1,9524
-952,saturday,952-66,Metro Airport Nexus,1,9524
-952,saturday,952-67,Metro Airport Nexus,1,9524
-952,saturday,952-68,Metro Airport Nexus,1,9524
-952,saturday,952-69,Metro Airport Nexus,1,9524
-952,saturday,952-70,Metro Airport Nexus,1,9524
-952,sunday,952-71,Windsor VIA Rail Station,0,9526
-952,sunday,952-72,Windsor VIA Rail Station,0,9526
-952,sunday,952-73,Windsor VIA Rail Station,0,9526
-952,sunday,952-74,Windsor VIA Rail Station,0,9526
-952,sunday,952-75,Windsor VIA Rail Station,0,9526
-952,sunday,952-76,Windsor VIA Rail Station,0,9526
-952,sunday,952-77,Windsor VIA Rail Station,0,9526
-952,sunday,952-78,Windsor VIA Rail Station,0,9526
-952,sunday,952-79,Windsor VIA Rail Station,0,9526
-952,sunday,952-80,Windsor VIA Rail Station,0,9526
-952,sunday,952-81,Windsor VIA Rail Station,0,9526
-952,sunday,952-82,Windsor VIA Rail Station,0,9526
-952,sunday,952-83,Windsor VIA Rail Station,0,9526
-952,sunday,952-84,Windsor VIA Rail Station,0,9526
-952,sunday,952-85,Windsor VIA Rail Station,0,9526
-952,sunday,952-86,Windsor VIA Rail Station,0,9526
-952,sunday,952-87,Windsor VIA Rail Station,0,9526
-952,sunday,952-88,Windsor VIA Rail Station,0,9526
-952,sunday,952-89,Windsor VIA Rail Station,0,9526
-952,sunday,952-90,Windsor VIA Rail Station,0,9526
-952,sunday,952-91,Windsor VIA Rail Station,0,9526
-952,sunday,952-92,Windsor VIA Rail Station,0,9526
-952,sunday,952-93,Windsor VIA Rail Station,0,9526
-952,sunday,952-94,Windsor VIA Rail Station,0,9526
-952,sunday,952-95,Windsor VIA Rail Station,0,9526
-952,sunday,952-96,Metro Airport Nexus,1,9524
-952,sunday,952-97,Metro Airport Nexus,1,9524
-952,sunday,952-98,Metro Airport Nexus,1,9524
-952,sunday,952-99,Metro Airport Nexus,1,9524
-952,sunday,952-100,Metro Airport Nexus,1,9524
-952,sunday,952-101,Metro Airport Nexus,1,9524
-952,sunday,952-102,Metro Airport Nexus,1,9524
-952,sunday,952-103,Metro Airport Nexus,1,9524
-952,sunday,952-104,Metro Airport Nexus,1,9524
-952,sunday,952-105,Metro Airport Nexus,1,9524
-952,sunday,952-106,Metro Airport Nexus,1,9524
-952,sunday,952-107,Metro Airport Nexus,1,9524
-952,sunday,952-108,Metro Airport Nexus,1,9524
-952,sunday,952-109,Metro Airport Nexus,1,9524
-952,sunday,952-110,Metro Airport Nexus,1,9524
-952,sunday,952-111,Metro Airport Nexus,1,9524
-952,sunday,952-112,Metro Airport Nexus,1,9524
-952,sunday,952-113,Metro Airport Nexus,1,9524
-952,sunday,952-114,Metro Airport Nexus,1,9524
-952,sunday,952-115,Metro Airport Nexus,1,9524
-952,sunday,952-116,Metro Airport Nexus,1,9524
-952,sunday,952-117,Metro Airport Nexus,1,9524
-952,sunday,952-118,Metro Airport Nexus,1,9524
-952,sunday,952-119,Metro Airport Nexus,1,9524
-952,sunday,952-120,Metro Airport Nexus,1,9524
-952,weekday,952-121,Windsor VIA Rail Station,0,9526
-952,weekday,952-122,Windsor VIA Rail Station,0,9526
-952,weekday,952-123,Windsor VIA Rail Station,0,9526
-952,weekday,952-124,Windsor VIA Rail Station,0,9526
-952,weekday,952-125,Windsor VIA Rail Station,0,9526
-952,weekday,952-126,Windsor VIA Rail Station,0,9526
-952,weekday,952-127,Windsor VIA Rail Station,0,9526
-952,weekday,952-128,Windsor VIA Rail Station,0,9526
-952,weekday,952-129,Windsor VIA Rail Station,0,9526
-952,weekday,952-130,Windsor VIA Rail Station,0,9526
-952,weekday,952-131,Windsor VIA Rail Station,0,9526
-952,weekday,952-132,Windsor VIA Rail Station,0,9526
-952,weekday,952-133,Windsor VIA Rail Station,0,9526
-952,weekday,952-134,Windsor VIA Rail Station,0,9526
-952,weekday,952-135,Windsor VIA Rail Station,0,9526
-952,weekday,952-136,Windsor VIA Rail Station,0,9526
-952,weekday,952-137,Windsor VIA Rail Station,0,9526
-952,weekday,952-138,Windsor VIA Rail Station,0,9526
-952,weekday,952-139,Windsor VIA Rail Station,0,9526
-952,weekday,952-140,Windsor VIA Rail Station,0,9526
-952,weekday,952-141,Windsor VIA Rail Station,0,9526
-952,weekday,952-142,Windsor VIA Rail Station,0,9526
-952,weekday,952-143,Windsor VIA Rail Station,0,9526
-952,weekday,952-144,Windsor VIA Rail Station,0,9526
-952,weekday,952-145,Windsor VIA Rail Station,0,9526
-952,weekday,952-146,Windsor VIA Rail Station,0,9526
-952,weekday,952-147,Windsor VIA Rail Station,0,9526
-952,weekday,952-148,Windsor VIA Rail Station,0,9526
-952,weekday,952-149,Windsor VIA Rail Station,0,9526
-952,weekday,952-150,Windsor VIA Rail Station,0,9526
-952,weekday,952-151,Windsor VIA Rail Station,0,9526
-952,weekday,952-152,Windsor VIA Rail Station,0,9526
-952,weekday,952-153,Windsor VIA Rail Station,0,9526
-952,weekday,952-154,Windsor VIA Rail Station,0,9526
-952,weekday,952-155,Windsor VIA Rail Station,0,9526
-952,weekday,952-156,Windsor VIA Rail Station,0,9526
-952,weekday,952-157,Windsor VIA Rail Station,0,9526
-952,weekday,952-158,Windsor VIA Rail Station,0,9526
-952,weekday,952-159,Windsor VIA Rail Station,0,9526
-952,weekday,952-160,Windsor VIA Rail Station,0,9526
-952,weekday,952-161,Windsor VIA Rail Station,0,9526
-952,weekday,952-162,Windsor VIA Rail Station,0,9526
-952,weekday,952-163,Windsor VIA Rail Station,0,9526
-952,weekday,952-164,Windsor VIA Rail Station,0,9526
-952,weekday,952-165,Windsor VIA Rail Station,0,9526
-952,weekday,952-166,Windsor VIA Rail Station,0,9526
-952,weekday,952-167,Windsor VIA Rail Station,0,9526
-952,weekday,952-168,Windsor VIA Rail Station,0,9526
-952,weekday,952-169,Windsor VIA Rail Station,0,9526
-952,weekday,952-170,Windsor VIA Rail Station,0,9526
-952,weekday,952-171,Windsor VIA Rail Station,0,9526
-952,weekday,952-172,Metro Airport Nexus,1,9524
-952,weekday,952-173,Metro Airport Nexus,1,9524
-952,weekday,952-174,Metro Airport Nexus,1,9524
-952,weekday,952-175,Metro Airport Nexus,1,9524
-952,weekday,952-176,Metro Airport Nexus,1,9524
-952,weekday,952-177,Metro Airport Nexus,1,9524
-952,weekday,952-178,Metro Airport Nexus,1,9524
-952,weekday,952-179,Metro Airport Nexus,1,9524
-952,weekday,952-180,Metro Airport Nexus,1,9524
-952,weekday,952-181,Metro Airport Nexus,1,9524
-952,weekday,952-182,Metro Airport Nexus,1,9524
-952,weekday,952-183,Metro Airport Nexus,1,9524
-952,weekday,952-184,Metro Airport Nexus,1,9524
-952,weekday,952-185,Metro Airport Nexus,1,9524
-952,weekday,952-186,Metro Airport Nexus,1,9524
-952,weekday,952-187,Metro Airport Nexus,1,9524
-952,weekday,952-188,Metro Airport Nexus,1,9524
-952,weekday,952-189,Metro Airport Nexus,1,9524
-952,weekday,952-190,Metro Airport Nexus,1,9524
-952,weekday,952-191,Metro Airport Nexus,1,9524
-952,weekday,952-192,Metro Airport Nexus,1,9524
-952,weekday,952-193,Metro Airport Nexus,1,9524
-952,weekday,952-194,Metro Airport Nexus,1,9524
-952,weekday,952-195,Metro Airport Nexus,1,9524
-952,weekday,952-196,Metro Airport Nexus,1,9524
-952,weekday,952-197,Metro Airport Nexus,1,9524
-952,weekday,952-198,Metro Airport Nexus,1,9524
-952,weekday,952-199,Metro Airport Nexus,1,9524
-952,weekday,952-200,Metro Airport Nexus,1,9524
-952,weekday,952-201,Metro Airport Nexus,1,9524
-952,weekday,952-202,Metro Airport Nexus,1,9524
-952,weekday,952-203,Metro Airport Nexus,1,9524
-952,weekday,952-204,Metro Airport Nexus,1,9524
-952,weekday,952-205,Metro Airport Nexus,1,9524
-952,weekday,952-206,Metro Airport Nexus,1,9524
-952,weekday,952-207,Metro Airport Nexus,1,9524
-952,weekday,952-208,Metro Airport Nexus,1,9524
-952,weekday,952-209,Metro Airport Nexus,1,9524
-952,weekday,952-210,Metro Airport Nexus,1,9524
-952,weekday,952-211,Metro Airport Nexus,1,9524
-952,weekday,952-212,Metro Airport Nexus,1,9524
-952,weekday,952-213,Metro Airport Nexus,1,9524
-952,weekday,952-214,Metro Airport Nexus,1,9524
-952,weekday,952-215,Metro Airport Nexus,1,9524
-952,weekday,952-216,Metro Airport Nexus,1,9524
-952,weekday,952-217,Metro Airport Nexus,1,9524
-952,weekday,952-218,Metro Airport Nexus,1,9524
-952,weekday,952-219,Metro Airport Nexus,1,9524
-952,weekday,952-220,Metro Airport Nexus,1,9524
-952,weekday,952-221,Metro Airport Nexus,1,9524
-952,weekday,952-222,Metro Airport Nexus,1,9524
+952,NormalMonFri,952-1,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-2,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-3,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-4,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-5,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-6,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-7,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-8,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-9,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-10,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-11,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-12,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-13,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-14,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-15,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-16,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-17,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-18,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-19,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-20,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-21,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-22,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-23,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-24,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-25,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-26,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-27,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-28,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-29,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-30,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-31,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-32,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-33,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-34,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-35,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-36,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-37,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-38,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-39,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-40,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-41,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-42,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-43,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-44,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-45,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-46,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-47,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-48,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-49,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-50,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-51,Windsor VIA Rail Station,0,952_E
+952,NormalMonFri,952-52,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-53,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-54,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-55,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-56,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-57,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-58,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-59,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-60,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-61,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-62,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-63,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-64,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-65,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-66,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-67,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-68,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-69,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-70,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-71,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-72,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-73,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-74,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-75,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-76,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-77,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-78,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-79,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-80,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-81,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-82,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-83,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-84,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-85,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-86,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-87,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-88,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-89,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-90,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-91,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-92,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-93,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-94,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-95,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-96,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-97,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-98,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-99,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-100,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-101,Metro Airport Nexus,1,952_W
+952,NormalMonFri,952-102,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-103,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-104,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-105,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-106,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-107,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-108,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-109,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-110,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-111,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-112,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-113,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-114,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-115,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-116,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-117,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-118,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-119,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-120,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-121,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-122,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-123,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-124,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-125,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-126,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-127,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-128,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-129,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-130,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-131,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-132,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-133,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-134,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-135,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-136,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-137,Windsor VIA Rail Station,0,952_E
+952,NormalSaturday,952-138,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-139,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-140,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-141,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-142,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-143,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-144,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-145,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-146,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-147,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-148,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-149,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-150,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-151,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-152,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-153,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-154,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-155,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-156,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-157,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-158,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-159,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-160,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-161,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-162,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-163,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-164,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-165,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-166,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-167,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-168,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-169,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-170,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-171,Metro Airport Nexus,1,952_W
+952,NormalSaturday,952-172,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-173,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-174,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-175,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-176,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-177,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-178,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-179,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-180,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-181,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-182,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-183,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-184,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-185,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-186,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-187,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-188,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-189,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-190,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-191,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-192,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-193,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-194,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-195,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-196,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-197,Windsor VIA Rail Station,0,952_E
+952,NormalSunday,952-198,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-199,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-200,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-201,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-202,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-203,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-204,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-205,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-206,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-207,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-208,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-209,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-210,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-211,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-212,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-213,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-214,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-215,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-216,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-217,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-218,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-219,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-220,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-221,Metro Airport Nexus,1,952_W
+952,NormalSunday,952-222,Metro Airport Nexus,1,952_W

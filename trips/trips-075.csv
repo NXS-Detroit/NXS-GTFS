@@ -1,144 +1,144 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-075,saturday,075-1,Partridge Creek,0,0757
-075,saturday,075-2,Partridge Creek,0,0757
-075,saturday,075-3,Partridge Creek,0,0757
-075,saturday,075-4,Partridge Creek,0,0757
-075,saturday,075-5,Partridge Creek,0,0757
-075,saturday,075-6,Partridge Creek,0,0757
-075,saturday,075-7,Partridge Creek,0,0757
-075,saturday,075-8,Partridge Creek,0,0757
-075,saturday,075-9,Partridge Creek,0,0757
-075,saturday,075-10,Partridge Creek,0,0757
-075,saturday,075-11,Partridge Creek,0,0757
-075,saturday,075-12,Partridge Creek,0,0757
-075,saturday,075-13,Partridge Creek,0,0757
-075,saturday,075-14,Partridge Creek,0,0757
-075,saturday,075-15,Partridge Creek,0,0757
-075,saturday,075-16,Partridge Creek,0,0757
-075,saturday,075-17,Partridge Creek,0,0757
-075,saturday,075-18,Partridge Creek,0,0757
-075,saturday,075-19,Partridge Creek,0,0757
-075,saturday,075-20,Partridge Creek,0,0757
-075,saturday,075-21,Partridge Creek,0,0757
-075,saturday,075-22,Partridge Creek,0,0757
-075,saturday,075-23,Partridge Creek,0,0757
-075,saturday,075-24,Lodge / Grand Blvd,1,0751
-075,saturday,075-25,Lodge / Grand Blvd,1,0751
-075,saturday,075-26,Lodge / Grand Blvd,1,0751
-075,saturday,075-27,Lodge / Grand Blvd,1,0751
-075,saturday,075-28,Lodge / Grand Blvd,1,0751
-075,saturday,075-29,Lodge / Grand Blvd,1,0751
-075,saturday,075-30,Lodge / Grand Blvd,1,0751
-075,saturday,075-31,Lodge / Grand Blvd,1,0751
-075,saturday,075-32,Lodge / Grand Blvd,1,0751
-075,saturday,075-33,Lodge / Grand Blvd,1,0751
-075,saturday,075-34,Lodge / Grand Blvd,1,0751
-075,saturday,075-35,Lodge / Grand Blvd,1,0751
-075,saturday,075-36,Lodge / Grand Blvd,1,0751
-075,saturday,075-37,Lodge / Grand Blvd,1,0751
-075,saturday,075-38,Lodge / Grand Blvd,1,0751
-075,saturday,075-39,Lodge / Grand Blvd,1,0751
-075,saturday,075-40,Lodge / Grand Blvd,1,0751
-075,saturday,075-41,Lodge / Grand Blvd,1,0751
-075,saturday,075-42,Lodge / Grand Blvd,1,0751
-075,saturday,075-43,Lodge / Grand Blvd,1,0751
-075,saturday,075-44,Lodge / Grand Blvd,1,0751
-075,sunday,075-45,Partridge Creek,0,0757
-075,sunday,075-46,Partridge Creek,0,0757
-075,sunday,075-47,Partridge Creek,0,0757
-075,sunday,075-48,Partridge Creek,0,0757
-075,sunday,075-49,Partridge Creek,0,0757
-075,sunday,075-50,Partridge Creek,0,0757
-075,sunday,075-51,Partridge Creek,0,0757
-075,sunday,075-52,Partridge Creek,0,0757
-075,sunday,075-53,Partridge Creek,0,0757
-075,sunday,075-54,Partridge Creek,0,0757
-075,sunday,075-55,Partridge Creek,0,0757
-075,sunday,075-56,Partridge Creek,0,0757
-075,sunday,075-57,Partridge Creek,0,0757
-075,sunday,075-58,Partridge Creek,0,0757
-075,sunday,075-59,Partridge Creek,0,0757
-075,sunday,075-60,Partridge Creek,0,0757
-075,sunday,075-61,Lodge / Grand Blvd,1,0751
-075,sunday,075-62,Lodge / Grand Blvd,1,0751
-075,sunday,075-63,Lodge / Grand Blvd,1,0751
-075,sunday,075-64,Lodge / Grand Blvd,1,0751
-075,sunday,075-65,Lodge / Grand Blvd,1,0751
-075,sunday,075-66,Lodge / Grand Blvd,1,0751
-075,sunday,075-67,Lodge / Grand Blvd,1,0751
-075,sunday,075-68,Lodge / Grand Blvd,1,0751
-075,sunday,075-69,Lodge / Grand Blvd,1,0751
-075,sunday,075-70,Lodge / Grand Blvd,1,0751
-075,sunday,075-71,Lodge / Grand Blvd,1,0751
-075,sunday,075-72,Lodge / Grand Blvd,1,0751
-075,sunday,075-73,Lodge / Grand Blvd,1,0751
-075,sunday,075-74,Lodge / Grand Blvd,1,0751
-075,sunday,075-75,Lodge / Grand Blvd,1,0751
-075,sunday,075-76,Lodge / Grand Blvd,1,0751
-075,weekday,075-77,Partridge Creek,0,0757
-075,weekday,075-78,Partridge Creek,0,0757
-075,weekday,075-79,Partridge Creek,0,0757
-075,weekday,075-80,Partridge Creek,0,0757
-075,weekday,075-81,Partridge Creek,0,0757
-075,weekday,075-82,Partridge Creek,0,0757
-075,weekday,075-83,Partridge Creek,0,0757
-075,weekday,075-84,Partridge Creek,0,0757
-075,weekday,075-85,Partridge Creek,0,0757
-075,weekday,075-86,Partridge Creek,0,0757
-075,weekday,075-87,Partridge Creek,0,0757
-075,weekday,075-88,Partridge Creek,0,0757
-075,weekday,075-89,Partridge Creek,0,0757
-075,weekday,075-90,Partridge Creek,0,0757
-075,weekday,075-91,Partridge Creek,0,0757
-075,weekday,075-92,Partridge Creek,0,0757
-075,weekday,075-93,Partridge Creek,0,0757
-075,weekday,075-94,Partridge Creek,0,0757
-075,weekday,075-95,Partridge Creek,0,0757
-075,weekday,075-96,Partridge Creek,0,0757
-075,weekday,075-97,Partridge Creek,0,0757
-075,weekday,075-98,Partridge Creek,0,0757
-075,weekday,075-99,Partridge Creek,0,0757
-075,weekday,075-100,Partridge Creek,0,0757
-075,weekday,075-101,Partridge Creek,0,0757
-075,weekday,075-102,Partridge Creek,0,0757
-075,weekday,075-103,Partridge Creek,0,0757
-075,weekday,075-104,Partridge Creek,0,0757
-075,weekday,075-105,Partridge Creek,0,0757
-075,weekday,075-106,Partridge Creek,0,0757
-075,weekday,075-107,Partridge Creek,0,0757
-075,weekday,075-108,Partridge Creek,0,0757
-075,weekday,075-109,Partridge Creek,0,0757
-075,weekday,075-110,Partridge Creek,0,0757
-075,weekday,075-111,Lodge / Grand Blvd,1,0751
-075,weekday,075-112,Lodge / Grand Blvd,1,0751
-075,weekday,075-113,Lodge / Grand Blvd,1,0751
-075,weekday,075-114,Lodge / Grand Blvd,1,0751
-075,weekday,075-115,Lodge / Grand Blvd,1,0751
-075,weekday,075-116,Lodge / Grand Blvd,1,0751
-075,weekday,075-117,Lodge / Grand Blvd,1,0751
-075,weekday,075-118,Lodge / Grand Blvd,1,0751
-075,weekday,075-119,Lodge / Grand Blvd,1,0751
-075,weekday,075-120,Lodge / Grand Blvd,1,0751
-075,weekday,075-121,Lodge / Grand Blvd,1,0751
-075,weekday,075-122,Lodge / Grand Blvd,1,0751
-075,weekday,075-123,Lodge / Grand Blvd,1,0751
-075,weekday,075-124,Lodge / Grand Blvd,1,0751
-075,weekday,075-125,Lodge / Grand Blvd,1,0751
-075,weekday,075-126,Lodge / Grand Blvd,1,0751
-075,weekday,075-127,Lodge / Grand Blvd,1,0751
-075,weekday,075-128,Lodge / Grand Blvd,1,0751
-075,weekday,075-129,Lodge / Grand Blvd,1,0751
-075,weekday,075-130,Lodge / Grand Blvd,1,0751
-075,weekday,075-131,Lodge / Grand Blvd,1,0751
-075,weekday,075-132,Lodge / Grand Blvd,1,0751
-075,weekday,075-133,Lodge / Grand Blvd,1,0751
-075,weekday,075-134,Lodge / Grand Blvd,1,0751
-075,weekday,075-135,Lodge / Grand Blvd,1,0751
-075,weekday,075-136,Lodge / Grand Blvd,1,0751
-075,weekday,075-137,Lodge / Grand Blvd,1,0751
-075,weekday,075-138,Lodge / Grand Blvd,1,0751
-075,weekday,075-139,Lodge / Grand Blvd,1,0751
-075,weekday,075-140,Lodge / Grand Blvd,1,0751
-075,weekday,075-141,Lodge / Grand Blvd,1,0751
-075,weekday,075-142,Lodge / Grand Blvd,1,0751
-075,weekday,075-143,Lodge / Grand Blvd,1,0751
+075,NormalMonFri,075-1,Partridge Creek,0,75_N
+075,NormalMonFri,075-2,Partridge Creek,0,75_N
+075,NormalMonFri,075-3,Partridge Creek,0,75_N
+075,NormalMonFri,075-4,Partridge Creek,0,75_N
+075,NormalMonFri,075-5,Partridge Creek,0,75_N
+075,NormalMonFri,075-6,Partridge Creek,0,75_N
+075,NormalMonFri,075-7,Partridge Creek,0,75_N
+075,NormalMonFri,075-8,Partridge Creek,0,75_N
+075,NormalMonFri,075-9,Partridge Creek,0,75_N
+075,NormalMonFri,075-10,Partridge Creek,0,75_N
+075,NormalMonFri,075-11,Partridge Creek,0,75_N
+075,NormalMonFri,075-12,Partridge Creek,0,75_N
+075,NormalMonFri,075-13,Partridge Creek,0,75_N
+075,NormalMonFri,075-14,Partridge Creek,0,75_N
+075,NormalMonFri,075-15,Partridge Creek,0,75_N
+075,NormalMonFri,075-16,Partridge Creek,0,75_N
+075,NormalMonFri,075-17,Partridge Creek,0,75_N
+075,NormalMonFri,075-18,Partridge Creek,0,75_N
+075,NormalMonFri,075-19,Partridge Creek,0,75_N
+075,NormalMonFri,075-20,Partridge Creek,0,75_N
+075,NormalMonFri,075-21,Partridge Creek,0,75_N
+075,NormalMonFri,075-22,Partridge Creek,0,75_N
+075,NormalMonFri,075-23,Partridge Creek,0,75_N
+075,NormalMonFri,075-24,Partridge Creek,0,75_N
+075,NormalMonFri,075-25,Partridge Creek,0,75_N
+075,NormalMonFri,075-26,Partridge Creek,0,75_N
+075,NormalMonFri,075-27,Partridge Creek,0,75_N
+075,NormalMonFri,075-28,Partridge Creek,0,75_N
+075,NormalMonFri,075-29,Partridge Creek,0,75_N
+075,NormalMonFri,075-30,Partridge Creek,0,75_N
+075,NormalMonFri,075-31,Partridge Creek,0,75_N
+075,NormalMonFri,075-32,Partridge Creek,0,75_N
+075,NormalMonFri,075-33,Partridge Creek,0,75_N
+075,NormalMonFri,075-34,Partridge Creek,0,75_N
+075,NormalMonFri,075-35,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-36,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-37,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-38,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-39,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-40,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-41,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-42,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-43,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-44,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-45,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-46,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-47,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-48,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-49,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-50,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-51,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-52,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-53,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-54,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-55,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-56,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-57,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-58,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-59,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-60,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-61,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-62,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-63,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-64,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-65,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-66,Lodge / Grand Blvd,1,75_S
+075,NormalMonFri,075-67,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-68,Partridge Creek,0,75_N
+075,NormalSunday,075-69,Partridge Creek,0,75_N
+075,NormalSunday,075-70,Partridge Creek,0,75_N
+075,NormalSunday,075-71,Partridge Creek,0,75_N
+075,NormalSunday,075-72,Partridge Creek,0,75_N
+075,NormalSunday,075-73,Partridge Creek,0,75_N
+075,NormalSunday,075-74,Partridge Creek,0,75_N
+075,NormalSunday,075-75,Partridge Creek,0,75_N
+075,NormalSunday,075-76,Partridge Creek,0,75_N
+075,NormalSunday,075-77,Partridge Creek,0,75_N
+075,NormalSunday,075-78,Partridge Creek,0,75_N
+075,NormalSunday,075-79,Partridge Creek,0,75_N
+075,NormalSunday,075-80,Partridge Creek,0,75_N
+075,NormalSunday,075-81,Partridge Creek,0,75_N
+075,NormalSunday,075-82,Partridge Creek,0,75_N
+075,NormalSunday,075-83,Partridge Creek,0,75_N
+075,NormalSunday,075-84,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-85,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-86,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-87,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-88,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-89,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-90,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-91,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-92,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-93,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-94,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-95,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-96,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-97,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-98,Lodge / Grand Blvd,1,75_S
+075,NormalSunday,075-99,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-100,Partridge Creek,0,75_N
+075,SatToDaily,075-101,Partridge Creek,0,75_N
+075,SatToDaily,075-102,Partridge Creek,0,75_N
+075,SatToDaily,075-103,Partridge Creek,0,75_N
+075,SatToDaily,075-104,Partridge Creek,0,75_N
+075,SatToDaily,075-105,Partridge Creek,0,75_N
+075,SatToDaily,075-106,Partridge Creek,0,75_N
+075,SatToDaily,075-107,Partridge Creek,0,75_N
+075,SatToDaily,075-108,Partridge Creek,0,75_N
+075,SatToDaily,075-109,Partridge Creek,0,75_N
+075,SatToDaily,075-110,Partridge Creek,0,75_N
+075,SatToDaily,075-111,Partridge Creek,0,75_N
+075,SatToDaily,075-112,Partridge Creek,0,75_N
+075,SatToDaily,075-113,Partridge Creek,0,75_N
+075,SatToDaily,075-114,Partridge Creek,0,75_N
+075,SatToDaily,075-115,Partridge Creek,0,75_N
+075,SatToDaily,075-116,Partridge Creek,0,75_N
+075,SatToDaily,075-117,Partridge Creek,0,75_N
+075,SatToDaily,075-118,Partridge Creek,0,75_N
+075,SatToDaily,075-119,Partridge Creek,0,75_N
+075,SatToDaily,075-120,Partridge Creek,0,75_N
+075,SatToDaily,075-121,Partridge Creek,0,75_N
+075,SatToDaily,075-122,Partridge Creek,0,75_N
+075,SatToDaily,075-123,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-124,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-125,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-126,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-127,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-128,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-129,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-130,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-131,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-132,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-133,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-134,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-135,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-136,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-137,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-138,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-139,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-140,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-141,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-142,Lodge / Grand Blvd,1,75_S
+075,SatToDaily,075-143,Lodge / Grand Blvd,1,75_S

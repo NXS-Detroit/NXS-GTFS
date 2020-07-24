@@ -1,0 +1,90 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+530,NormalMonFri,530-1,Oakland University,0,530_N
+530,NormalMonFri,530-2,Oakland University,0,530_N
+530,NormalMonFri,530-3,Oakland University,0,530_N
+530,NormalMonFri,530-4,Oakland University,0,530_N
+530,NormalMonFri,530-5,Oakland University,0,530_N
+530,NormalMonFri,530-6,Oakland University,0,530_N
+530,NormalMonFri,530-7,Oakland University,0,530_N
+530,NormalMonFri,530-8,Oakland University,0,530_N
+530,NormalMonFri,530-9,Oakland University,0,530_N
+530,NormalMonFri,530-10,Oakland University,0,530_N
+530,NormalMonFri,530-11,Oakland University,0,530_N
+530,NormalMonFri,530-12,Oakland University,0,530_N
+530,NormalMonFri,530-13,Oakland University,0,530_N
+530,NormalMonFri,530-14,Oakland University,0,530_N
+530,NormalMonFri,530-15,Oakland University,0,530_N
+530,NormalMonFri,530-16,Oakland University,0,530_N
+530,NormalMonFri,530-17,Oakland University,0,530_N
+530,NormalMonFri,530-18,Oakland University,0,530_N
+530,NormalMonFri,530-19,Oakland University,0,530_N
+530,NormalMonFri,530-20,Oakland University,0,530_N
+530,NormalMonFri,530-21,Oakland University,0,530_N
+530,NormalMonFri,530-22,Oakland University,0,530_N
+530,NormalMonFri,530-23,Oakland University,0,530_N
+530,NormalMonFri,530-24,Oakland University,0,530_N
+530,NormalMonFri,530-25,Oakland University,0,530_N
+530,NormalMonFri,530-26,Oakland University,0,530_N
+530,NormalMonFri,530-27,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-28,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-29,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-30,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-31,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-32,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-33,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-34,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-35,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-36,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-37,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-38,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-39,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-40,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-41,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-42,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-43,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-44,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-45,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-46,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-47,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-48,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-49,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-50,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-51,Royal Oak Nexus,1,530_S
+530,NormalMonFri,530-52,Royal Oak Nexus,1,530_S
+530,SatToDaily,530-53,Oakland University,0,530_N
+530,SatToDaily,530-54,Oakland University,0,530_N
+530,SatToDaily,530-55,Oakland University,0,530_N
+530,SatToDaily,530-56,Oakland University,0,530_N
+530,SatToDaily,530-57,Oakland University,0,530_N
+530,SatToDaily,530-58,Oakland University,0,530_N
+530,SatToDaily,530-59,Oakland University,0,530_N
+530,SatToDaily,530-60,Oakland University,0,530_N
+530,SatToDaily,530-61,Oakland University,0,530_N
+530,SatToDaily,530-62,Oakland University,0,530_N
+530,SatToDaily,530-63,Oakland University,0,530_N
+530,SatToDaily,530-64,Oakland University,0,530_N
+530,SatToDaily,530-65,Oakland University,0,530_N
+530,SatToDaily,530-66,Oakland University,0,530_N
+530,SatToDaily,530-67,Oakland University,0,530_N
+530,SatToDaily,530-68,Oakland University,0,530_N
+530,SatToDaily,530-69,Oakland University,0,530_N
+530,SatToDaily,530-70,Oakland University,0,530_N
+530,SatToDaily,530-71,Oakland University,0,530_N
+530,SatToMonSat,530-72,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-73,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-74,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-75,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-76,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-77,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-78,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-79,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-80,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-81,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-82,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-83,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-84,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-85,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-86,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-87,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-88,Royal Oak Nexus,1,530_S
+530,SatToMonSat,530-89,Royal Oak Nexus,1,530_S

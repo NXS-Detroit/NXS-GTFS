@@ -1,129 +1,129 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-002,saturday,002-1,Grosse Pointe Nexus,0,0026,
-002,saturday,002-2,Grosse Pointe Nexus,0,0026,
-002,saturday,002-3,Grosse Pointe Nexus,0,0026,
-002,saturday,002-4,Grosse Pointe Nexus,0,0026,
-002,saturday,002-5,Grosse Pointe Nexus,0,0026,
-002,saturday,002-6,Grosse Pointe Nexus,0,0026,
-002,saturday,002-7,Grosse Pointe Nexus,0,0026,
-002,saturday,002-8,Grosse Pointe Nexus,0,0026,
-002,saturday,002-9,Grosse Pointe Nexus,0,0026,
-002,saturday,002-10,Grosse Pointe Nexus,0,0026,
-002,saturday,002-11,Grosse Pointe Nexus,0,0026,
-002,saturday,002-12,Grosse Pointe Nexus,0,0026,
-002,saturday,002-13,Grosse Pointe Nexus,0,0026,
-002,saturday,002-14,Grosse Pointe Nexus,0,0026,
-002,saturday,002-15,Grosse Pointe Nexus,0,0026,
-002,saturday,002-16,Grosse Pointe Nexus,0,0026,
-002,saturday,002-17,Grosse Pointe Nexus,0,0026,
-002,saturday,002-18,Grosse Pointe Nexus,0,0026,
-002,saturday,002-19,Westland Meijer,1,0024,
-002,saturday,002-20,Westland Meijer,1,0024,
-002,saturday,002-21,Westland Meijer,1,0024,
-002,saturday,002-22,Westland Meijer,1,0024,
-002,saturday,002-23,Westland Meijer,1,0024,
-002,saturday,002-24,Westland Meijer,1,0024,
-002,saturday,002-25,Westland Meijer,1,0024,
-002,saturday,002-26,Westland Meijer,1,0024,
-002,saturday,002-27,Westland Meijer,1,0024,
-002,saturday,002-28,Westland Meijer,1,0024,
-002,saturday,002-29,Westland Meijer,1,0024,
-002,saturday,002-30,Westland Meijer,1,0024,
-002,saturday,002-31,Westland Meijer,1,0024,
-002,saturday,002-32,Westland Meijer,1,0024,
-002,saturday,002-33,Westland Meijer,1,0024,
-002,saturday,002-34,Westland Meijer,1,0024,
-002,saturday,002-35,Westland Meijer,1,0024,
-002,sunday,002-36,Grosse Pointe Nexus,0,0026,
-002,sunday,002-37,Grosse Pointe Nexus,0,0026,
-002,sunday,002-38,Grosse Pointe Nexus,0,0026,
-002,sunday,002-39,Grosse Pointe Nexus,0,0026,
-002,sunday,002-40,Grosse Pointe Nexus,0,0026,
-002,sunday,002-41,Grosse Pointe Nexus,0,0026,
-002,sunday,002-42,Grosse Pointe Nexus,0,0026,
-002,sunday,002-43,Grosse Pointe Nexus,0,0026,
-002,sunday,002-44,Grosse Pointe Nexus,0,0026,
-002,sunday,002-45,Grosse Pointe Nexus,0,0026,
-002,sunday,002-46,Grosse Pointe Nexus,0,0026,
-002,sunday,002-47,Grosse Pointe Nexus,0,0026,
-002,sunday,002-48,Grosse Pointe Nexus,0,0026,
-002,sunday,002-49,Grosse Pointe Nexus,0,0026,
-002,sunday,002-50,Westland Meijer,1,0024,
-002,sunday,002-51,Westland Meijer,1,0024,
-002,sunday,002-52,Westland Meijer,1,0024,
-002,sunday,002-53,Westland Meijer,1,0024,
-002,sunday,002-54,Westland Meijer,1,0024,
-002,sunday,002-55,Westland Meijer,1,0024,
-002,sunday,002-56,Westland Meijer,1,0024,
-002,sunday,002-57,Westland Meijer,1,0024,
-002,sunday,002-58,Westland Meijer,1,0024,
-002,sunday,002-59,Westland Meijer,1,0024,
-002,sunday,002-60,Westland Meijer,1,0024,
-002,sunday,002-61,Westland Meijer,1,0024,
-002,sunday,002-62,Westland Meijer,1,0024,
-002,sunday,002-63,Westland Meijer,1,0024,
-002,weekday,002-64,Grosse Pointe Nexus,0,0026,
-002,weekday,002-65,Grosse Pointe Nexus,0,0026,
-002,weekday,002-66,Grosse Pointe Nexus,0,0026,
-002,weekday,002-67,Grosse Pointe Nexus,0,0026,
-002,weekday,002-68,Grosse Pointe Nexus,0,0026,
-002,weekday,002-69,Grosse Pointe Nexus,0,0026,
-002,weekday,002-70,Grosse Pointe Nexus,0,0026,
-002,weekday,002-71,Grosse Pointe Nexus,0,0026,
-002,weekday,002-72,Grosse Pointe Nexus,0,0026,
-002,weekday,002-73,Grosse Pointe Nexus,0,0026,
-002,weekday,002-74,Grosse Pointe Nexus,0,0026,
-002,weekday,002-75,Grosse Pointe Nexus,0,0026,
-002,weekday,002-76,Grosse Pointe Nexus,0,0026,
-002,weekday,002-77,Grosse Pointe Nexus,0,0026,
-002,weekday,002-78,Grosse Pointe Nexus,0,0026,
-002,weekday,002-79,Grosse Pointe Nexus,0,0026,
-002,weekday,002-80,Grosse Pointe Nexus,0,0026,
-002,weekday,002-81,Grosse Pointe Nexus,0,0026,
-002,weekday,002-82,Grosse Pointe Nexus,0,0026,
-002,weekday,002-83,Grosse Pointe Nexus,0,0026,
-002,weekday,002-84,Grosse Pointe Nexus,0,0026,
-002,weekday,002-85,Grosse Pointe Nexus,0,0026,
-002,weekday,002-86,Grosse Pointe Nexus,0,0026,
-002,weekday,002-87,Grosse Pointe Nexus,0,0026,
-002,weekday,002-88,Grosse Pointe Nexus,0,0026,
-002,weekday,002-89,Grosse Pointe Nexus,0,0026,
-002,weekday,002-90,Grosse Pointe Nexus,0,0026,
-002,weekday,002-91,Grosse Pointe Nexus,0,0026,
-002,weekday,002-92,Grosse Pointe Nexus,0,0026,
-002,weekday,002-93,Grosse Pointe Nexus,0,0026,
-002,weekday,002-94,Grosse Pointe Nexus,0,0026,
-002,weekday,002-95,Grosse Pointe Nexus,0,0026,
-002,weekday,002-96,Grosse Pointe Nexus,0,0026,
-002,weekday,002-97,Westland Meijer,1,0024,
-002,weekday,002-98,Westland Meijer,1,0024,
-002,weekday,002-99,Westland Meijer,1,0024,
-002,weekday,002-100,Westland Meijer,1,0024,
-002,weekday,002-101,Westland Meijer,1,0024,
-002,weekday,002-102,Westland Meijer,1,0024,
-002,weekday,002-103,Westland Meijer,1,0024,
-002,weekday,002-104,Westland Meijer,1,0024,
-002,weekday,002-105,Westland Meijer,1,0024,
-002,weekday,002-106,Westland Meijer,1,0024,
-002,weekday,002-107,Westland Meijer,1,0024,
-002,weekday,002-108,Westland Meijer,1,0024,
-002,weekday,002-109,Westland Meijer,1,0024,
-002,weekday,002-110,Westland Meijer,1,0024,
-002,weekday,002-111,Westland Meijer,1,0024,
-002,weekday,002-112,Westland Meijer,1,0024,
-002,weekday,002-113,Westland Meijer,1,0024,
-002,weekday,002-114,Westland Meijer,1,0024,
-002,weekday,002-115,Westland Meijer,1,0024,
-002,weekday,002-116,Westland Meijer,1,0024,
-002,weekday,002-117,Westland Meijer,1,0024,
-002,weekday,002-118,Westland Meijer,1,0024,
-002,weekday,002-119,Westland Meijer,1,0024,
-002,weekday,002-120,Westland Meijer,1,0024,
-002,weekday,002-121,Westland Meijer,1,0024,
-002,weekday,002-122,Westland Meijer,1,0024,
-002,weekday,002-123,Westland Meijer,1,0024,
-002,weekday,002-124,Westland Meijer,1,0024,
-002,weekday,002-125,Westland Meijer,1,0024,
-002,weekday,002-126,Westland Meijer,1,0024,
-002,weekday,002-127,Westland Meijer,1,0024,
-002,weekday,002-128,Westland Meijer,1,0024,
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+002,NormalMonFri,002-1,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-2,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-3,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-4,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-5,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-6,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-7,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-8,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-9,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-10,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-11,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-12,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-13,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-14,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-15,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-16,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-17,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-18,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-19,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-20,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-21,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-22,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-23,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-24,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-25,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-26,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-27,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-28,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-29,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-30,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-31,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-32,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-33,Grosse Pointe Nexus,0,2_E
+002,NormalMonFri,002-34,Westland Meijer,1,2_W
+002,NormalMonFri,002-35,Westland Meijer,1,2_W
+002,NormalMonFri,002-36,Westland Meijer,1,2_W
+002,NormalMonFri,002-37,Westland Meijer,1,2_W
+002,NormalMonFri,002-38,Westland Meijer,1,2_W
+002,NormalMonFri,002-39,Westland Meijer,1,2_W
+002,NormalMonFri,002-40,Westland Meijer,1,2_W
+002,NormalMonFri,002-41,Westland Meijer,1,2_W
+002,NormalMonFri,002-42,Westland Meijer,1,2_W
+002,NormalMonFri,002-43,Westland Meijer,1,2_W
+002,NormalMonFri,002-44,Westland Meijer,1,2_W
+002,NormalMonFri,002-45,Westland Meijer,1,2_W
+002,NormalMonFri,002-46,Westland Meijer,1,2_W
+002,NormalMonFri,002-47,Westland Meijer,1,2_W
+002,NormalMonFri,002-48,Westland Meijer,1,2_W
+002,NormalMonFri,002-49,Westland Meijer,1,2_W
+002,NormalMonFri,002-50,Westland Meijer,1,2_W
+002,NormalMonFri,002-51,Westland Meijer,1,2_W
+002,NormalMonFri,002-52,Westland Meijer,1,2_W
+002,NormalMonFri,002-53,Westland Meijer,1,2_W
+002,NormalMonFri,002-54,Westland Meijer,1,2_W
+002,NormalMonFri,002-55,Westland Meijer,1,2_W
+002,NormalMonFri,002-56,Westland Meijer,1,2_W
+002,NormalMonFri,002-57,Westland Meijer,1,2_W
+002,NormalMonFri,002-58,Westland Meijer,1,2_W
+002,NormalMonFri,002-59,Westland Meijer,1,2_W
+002,NormalMonFri,002-60,Westland Meijer,1,2_W
+002,NormalMonFri,002-61,Westland Meijer,1,2_W
+002,NormalMonFri,002-62,Westland Meijer,1,2_W
+002,NormalMonFri,002-63,Westland Meijer,1,2_W
+002,NormalMonFri,002-64,Westland Meijer,1,2_W
+002,NormalMonFri,002-65,Westland Meijer,1,2_W
+002,NormalSunday,002-66,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-67,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-68,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-69,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-70,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-71,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-72,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-73,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-74,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-75,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-76,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-77,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-78,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-79,Grosse Pointe Nexus,0,2_E
+002,NormalSunday,002-80,Westland Meijer,1,2_W
+002,NormalSunday,002-81,Westland Meijer,1,2_W
+002,NormalSunday,002-82,Westland Meijer,1,2_W
+002,NormalSunday,002-83,Westland Meijer,1,2_W
+002,NormalSunday,002-84,Westland Meijer,1,2_W
+002,NormalSunday,002-85,Westland Meijer,1,2_W
+002,NormalSunday,002-86,Westland Meijer,1,2_W
+002,NormalSunday,002-87,Westland Meijer,1,2_W
+002,NormalSunday,002-88,Westland Meijer,1,2_W
+002,NormalSunday,002-89,Westland Meijer,1,2_W
+002,NormalSunday,002-90,Westland Meijer,1,2_W
+002,NormalSunday,002-91,Westland Meijer,1,2_W
+002,NormalSunday,002-92,Westland Meijer,1,2_W
+002,NormalSunday,002-93,Westland Meijer,1,2_W
+002,SatToDaily,002-94,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-95,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-96,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-97,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-98,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-99,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-100,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-101,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-102,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-103,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-104,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-105,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-106,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-107,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-108,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-109,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-110,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-111,Grosse Pointe Nexus,0,2_E
+002,SatToDaily,002-112,Westland Meijer,1,2_W
+002,SatToDaily,002-113,Westland Meijer,1,2_W
+002,SatToDaily,002-114,Westland Meijer,1,2_W
+002,SatToDaily,002-115,Westland Meijer,1,2_W
+002,SatToDaily,002-116,Westland Meijer,1,2_W
+002,SatToDaily,002-117,Westland Meijer,1,2_W
+002,SatToDaily,002-118,Westland Meijer,1,2_W
+002,SatToDaily,002-119,Westland Meijer,1,2_W
+002,SatToDaily,002-120,Westland Meijer,1,2_W
+002,SatToDaily,002-121,Westland Meijer,1,2_W
+002,SatToDaily,002-122,Westland Meijer,1,2_W
+002,SatToDaily,002-123,Westland Meijer,1,2_W
+002,SatToDaily,002-124,Westland Meijer,1,2_W
+002,SatToDaily,002-125,Westland Meijer,1,2_W
+002,SatToDaily,002-126,Westland Meijer,1,2_W
+002,SatToDaily,002-127,Westland Meijer,1,2_W
+002,SatToDaily,002-128,Westland Meijer,1,2_W

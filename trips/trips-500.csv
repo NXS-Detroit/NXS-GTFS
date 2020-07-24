@@ -1,1107 +1,775 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-500,preholiday,500-1,Pontiac Nexus,0,5008,500P
-505,preholiday,500-2,Somerset Collection,0,5058,505S
-500,preholiday,500-3,Pontiac Nexus,0,5008,500P
-505,preholiday,500-4,Somerset Collection,0,5058,505S
-500,preholiday,500-5,Pontiac Nexus,0,5008,500P
-505,preholiday,500-6,Somerset Collection,0,5058,505S
-500,preholiday,500-7,Pontiac Nexus,0,5008,500P
-505,preholiday,500-8,Troy Park & Ride,0,5057,505T
-500,preholiday,500-9,Pontiac Nexus,0,5008,500P
-505,preholiday,500-10,Troy Park & Ride,0,5057,505T
-500,preholiday,500-11,Pontiac Nexus,0,5008,500P
-505,preholiday,500-12,Troy Park & Ride,0,5057,505T
-505,preholiday,500-13,Troy Park & Ride,0,5057,505T
-500,preholiday,500-14,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-15,Troy Park & Ride,0,5057,505T
-505,preholiday,500-16,Troy Park & Ride,0,5057,505T
-500,preholiday,500-17,Pontiac Nexus,0,5008,500P
-505,preholiday,500-18,Troy Park & Ride,0,5057,505T
-505,preholiday,500-19,Troy Park & Ride,0,5057,505T
-500,preholiday,500-20,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-21,Troy Park & Ride,0,5057,505T
-505,preholiday,500-22,Troy Park & Ride,0,5057,505T
-500,preholiday,500-23,Pontiac Nexus,0,5008,500P
-505,preholiday,500-24,Troy Park & Ride,0,5057,505T
-505,preholiday,500-25,Troy Park & Ride,0,5057,505T
-500,preholiday,500-26,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-27,Troy Park & Ride,0,5057,505T
-505,preholiday,500-28,Troy Park & Ride,0,5057,505T
-500,preholiday,500-29,Pontiac Nexus,0,5008,500P
-505,preholiday,500-30,Troy Park & Ride,0,5057,505T
-505,preholiday,500-31,Troy Park & Ride,0,5057,505T
-500,preholiday,500-32,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-33,Troy Park & Ride,0,5057,505T
-505,preholiday,500-34,Troy Park & Ride,0,5057,505T
-500,preholiday,500-35,Pontiac Nexus,0,5008,500P
-505,preholiday,500-36,Troy Park & Ride,0,5057,505T
-505,preholiday,500-37,Somerset Collection,0,5058,505S
-500,preholiday,500-38,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-39,Somerset Collection,0,5058,505S
-505,preholiday,500-40,Somerset Collection,0,5058,505S
-500,preholiday,500-41,Pontiac Nexus,0,5008,500P
-505,preholiday,500-42,Somerset Collection,0,5058,505S
-505,preholiday,500-43,Somerset Collection,0,5058,505S
-500,preholiday,500-44,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-45,Somerset Collection,0,5058,505S
-505,preholiday,500-46,Somerset Collection,0,5058,505S
-500,preholiday,500-47,Pontiac Nexus,0,5008,500P
-505,preholiday,500-48,Somerset Collection,0,5058,505S
-505,preholiday,500-49,Somerset Collection,0,5058,505S
-500,preholiday,500-50,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-51,Somerset Collection,0,5058,505S
-505,preholiday,500-52,Somerset Collection,0,5058,505S
-500,preholiday,500-53,Pontiac Nexus,0,5008,500P
-505,preholiday,500-54,Somerset Collection,0,5058,505S
-505,preholiday,500-55,Somerset Collection,0,5058,505S
-500,preholiday,500-56,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-57,Somerset Collection,0,5058,505S
-505,preholiday,500-58,Somerset Collection,0,5058,505S
-500,preholiday,500-59,Pontiac Nexus,0,5008,500P
-505,preholiday,500-60,Somerset Collection,0,5058,505S
-505,preholiday,500-61,Somerset Collection,0,5058,505S
-500,preholiday,500-62,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-63,Troy Park & Ride,0,5057,505T
-505,preholiday,500-64,Troy Park & Ride,0,5057,505T
-500,preholiday,500-65,Pontiac Nexus,0,5008,500P
-505,preholiday,500-66,Troy Park & Ride,0,5057,505T
-505,preholiday,500-67,Troy Park & Ride,0,5057,505T
-500,preholiday,500-68,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-69,Troy Park & Ride,0,5057,505T
-505,preholiday,500-70,Troy Park & Ride,0,5057,505T
-500,preholiday,500-71,Pontiac Nexus,0,5008,500P
-505,preholiday,500-72,Troy Park & Ride,0,5057,505T
-505,preholiday,500-73,Troy Park & Ride,0,5057,505T
-500,preholiday,500-74,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-75,Troy Park & Ride,0,5057,505T
-505,preholiday,500-76,Troy Park & Ride,0,5057,505T
-500,preholiday,500-77,Pontiac Nexus,0,5008,500P
-505,preholiday,500-78,Troy Park & Ride,0,5057,505T
-505,preholiday,500-79,Troy Park & Ride,0,5057,505T
-500,preholiday,500-80,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-81,Troy Park & Ride,0,5057,505T
-505,preholiday,500-82,Troy Park & Ride,0,5057,505T
-500,preholiday,500-83,Pontiac Nexus,0,5008,500P
-505,preholiday,500-84,Troy Park & Ride,0,5057,505T
-505,preholiday,500-85,Troy Park & Ride,0,5057,505T
-500,preholiday,500-86,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-87,Troy Park & Ride,0,5057,505T
-505,preholiday,500-88,Troy Park & Ride,0,5057,505T
-500,preholiday,500-89,Pontiac Nexus,0,5008,500P
-505,preholiday,500-90,Troy Park & Ride,0,5057,505T
-505,preholiday,500-91,Troy Park & Ride,0,5057,505T
-500,preholiday,500-92,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-93,Troy Park & Ride,0,5057,505T
-505,preholiday,500-94,Troy Park & Ride,0,5057,505T
-500,preholiday,500-95,Pontiac Nexus,0,5008,500P
-505,preholiday,500-96,Troy Park & Ride,0,5057,505T
-505,preholiday,500-97,Troy Park & Ride,0,5057,505T
-500,preholiday,500-98,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-99,Troy Park & Ride,0,5057,505T
-505,preholiday,500-100,Troy Park & Ride,0,5057,505T
-500,preholiday,500-101,Pontiac Nexus,0,5008,500P
-505,preholiday,500-102,Troy Park & Ride,0,5057,505T
-505,preholiday,500-103,Troy Park & Ride,0,5057,505T
-500,preholiday,500-104,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-105,Troy Park & Ride,0,5057,505T
-505,preholiday,500-106,Troy Park & Ride,0,5057,505T
-500,preholiday,500-107,Pontiac Nexus,0,5008,500P
-505,preholiday,500-108,Troy Park & Ride,0,5057,505T
-505,preholiday,500-109,Troy Park & Ride,0,5057,505T
-500,preholiday,500-110,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-111,Troy Park & Ride,0,5057,505T
-505,preholiday,500-112,Troy Park & Ride,0,5057,505T
-500,preholiday,500-113,Pontiac Nexus,0,5008,500P
-505,preholiday,500-114,Troy Park & Ride,0,5057,505T
-505,preholiday,500-115,Troy Park & Ride,0,5057,505T
-500,preholiday,500-116,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-117,Troy Park & Ride,0,5057,505T
-505,preholiday,500-118,Troy Park & Ride,0,5057,505T
-500,preholiday,500-119,Pontiac Nexus,0,5008,500P
-505,preholiday,500-120,Troy Park & Ride,0,5057,505T
-505,preholiday,500-121,Troy Park & Ride,0,5057,505T
-500,preholiday,500-122,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-123,Troy Park & Ride,0,5057,505T
-505,preholiday,500-124,Troy Park & Ride,0,5057,505T
-500,preholiday,500-125,Pontiac Nexus,0,5008,500P
-505,preholiday,500-126,Troy Park & Ride,0,5057,505T
-505,preholiday,500-127,Troy Park & Ride,0,5057,505T
-500,preholiday,500-128,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-129,Troy Park & Ride,0,5057,505T
-505,preholiday,500-130,Troy Park & Ride,0,5057,505T
-500,preholiday,500-131,Pontiac Nexus,0,5008,500P
-505,preholiday,500-132,Troy Park & Ride,0,5057,505T
-505,preholiday,500-133,Troy Park & Ride,0,5057,505T
-500,preholiday,500-134,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-135,Troy Park & Ride,0,5057,505T
-505,preholiday,500-136,Troy Park & Ride,0,5057,505T
-500,preholiday,500-137,Pontiac Nexus,0,5008,500P
-505,preholiday,500-138,Troy Park & Ride,0,5057,505T
-505,preholiday,500-139,Troy Park & Ride,0,5057,505T
-500,preholiday,500-140,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-141,Troy Park & Ride,0,5057,505T
-505,preholiday,500-142,Troy Park & Ride,0,5057,505T
-500,preholiday,500-143,Pontiac Nexus,0,5008,500P
-505,preholiday,500-144,Troy Park & Ride,0,5057,505T
-505,preholiday,500-145,Troy Park & Ride,0,5057,505T
-500,preholiday,500-146,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-147,Somerset Collection,0,5058,505S
-505,preholiday,500-148,Somerset Collection,0,5058,505S
-500,preholiday,500-149,Pontiac Nexus,0,5008,500P
-505,preholiday,500-150,Somerset Collection,0,5058,505S
-505,preholiday,500-151,Somerset Collection,0,5058,505S
-500,preholiday,500-152,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-153,Somerset Collection,0,5058,505S
-505,preholiday,500-154,Somerset Collection,0,5058,505S
-500,preholiday,500-155,Pontiac Nexus,0,5008,500P
-505,preholiday,500-156,Somerset Collection,0,5058,505S
-505,preholiday,500-157,Somerset Collection,0,5058,505S
-500,preholiday,500-158,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-159,Somerset Collection,0,5058,505S
-505,preholiday,500-160,Somerset Collection,0,5058,505S
-500,preholiday,500-161,Pontiac Nexus,0,5008,500P
-505,preholiday,500-162,Somerset Collection,0,5058,505S
-505,preholiday,500-163,Somerset Collection,0,5058,505S
-500,preholiday,500-164,Great Lakes Crossing,0,5007,500G
-505,preholiday,500-165,Somerset Collection,0,5058,505S
-500,preholiday,500-166,Pontiac Nexus,0,5008,500P
-505,preholiday,500-167,Somerset Collection,0,5058,505S
-500,preholiday,500-168,Pontiac Nexus,0,5008,500P
-505,preholiday,500-169,Somerset Collection,0,5058,505S
-500,preholiday,500-170,Pontiac Nexus,0,5008,500P
-505,preholiday,500-171,Somerset Collection,0,5058,505S
-500,preholiday,500-172,Pontiac Nexus,0,5008,500P
-505,preholiday,500-173,Somerset Collection,0,5058,505S
-500,preholiday,500-174,Pontiac Nexus,0,5008,500P
-505,preholiday,500-175,Somerset Collection,0,5058,505S
-500,preholiday,500-176,Pontiac Nexus,0,5008,500P
-505,preholiday,500-177,Somerset Collection,0,5058,505S
-500,preholiday,500-178,Pontiac Nexus,0,5008,500P
-505,preholiday,500-179,Somerset Collection,0,5058,505S
-500,preholiday,500-180,Pontiac Nexus,0,5008,500P
-505,preholiday,500-181,Somerset Collection,0,5058,505S
-500,preholiday,500-182,Pontiac Nexus,0,5008,500P
-505,preholiday,500-183,Somerset Collection,0,5058,505S
-500,preholiday,500-184,Pontiac Nexus,0,5008,500P
-505,preholiday,500-185,Somerset Collection,0,5058,505S
-505,preholiday,500-186,Jefferson / Brush,1,5052,505S
-500,preholiday,500-187,Jefferson / Brush,1,5002,500P
-505,preholiday,500-188,Jefferson / Brush,1,5052,505S
-500,preholiday,500-189,Jefferson / Brush,1,5002,500P
-505,preholiday,500-190,Jefferson / Brush,1,5052,505S
-500,preholiday,500-191,Jefferson / Brush,1,5002,500P
-505,preholiday,500-192,Jefferson / Brush,1,5052,505S
-500,preholiday,500-193,Jefferson / Brush,1,5002,500P
-505,preholiday,500-194,Jefferson / Brush,1,5052,505S
-500,preholiday,500-195,Jefferson / Brush,1,5002,500P
-505,preholiday,500-196,Jefferson / Brush,1,5052,505S
-505,preholiday,500-197,Jefferson / Brush,1,5052,505S
-500,preholiday,500-198,Jefferson / Brush,1,5002,500P
-505,preholiday,500-199,Jefferson / Brush,1,5052,505S
-505,preholiday,500-200,Jefferson / Brush,1,5052,505S
-500,preholiday,500-201,Jefferson / Brush,1,5002,500P
-505,preholiday,500-202,Jefferson / Brush,1,5051,505T
-505,preholiday,500-203,Jefferson / Brush,1,5051,505T
-500,preholiday,500-204,Jefferson / Brush,1,5002,500P
-505,preholiday,500-205,Jefferson / Brush,1,5051,505T
-505,preholiday,500-206,Jefferson / Brush,1,5051,505T
-500,preholiday,500-207,Jefferson / Brush,1,5002,500P
-505,preholiday,500-208,Jefferson / Brush,1,5051,505T
-505,preholiday,500-209,Jefferson / Brush,1,5051,505T
-500,preholiday,500-210,Jefferson / Brush,1,5002,500P
-505,preholiday,500-211,Jefferson / Brush,1,5051,505T
-505,preholiday,500-212,Jefferson / Brush,1,5051,505T
-500,preholiday,500-213,Jefferson / Brush,1,5002,500P
-505,preholiday,500-214,Jefferson / Brush,1,5051,505T
-505,preholiday,500-215,Jefferson / Brush,1,5051,505T
-500,preholiday,500-216,Jefferson / Brush,1,5002,500P
-505,preholiday,500-217,Jefferson / Brush,1,5051,505T
-505,preholiday,500-218,Jefferson / Brush,1,5051,505T
-500,preholiday,500-219,Jefferson / Brush,1,5002,500P
-505,preholiday,500-220,Jefferson / Brush,1,5051,505T
-505,preholiday,500-221,Jefferson / Brush,1,5051,505T
-500,preholiday,500-222,Jefferson / Brush,1,5002,500P
-505,preholiday,500-223,Jefferson / Brush,1,5051,505T
-505,preholiday,500-224,Jefferson / Brush,1,5051,505T
-500,preholiday,500-225,Jefferson / Brush,1,5002,500P
-505,preholiday,500-226,Jefferson / Brush,1,5051,505T
-505,preholiday,500-227,Jefferson / Brush,1,5051,505T
-500,preholiday,500-228,Jefferson / Brush,1,5002,500P
-505,preholiday,500-229,Jefferson / Brush,1,5051,505T
-505,preholiday,500-230,Jefferson / Brush,1,5051,505T
-500,preholiday,500-231,Jefferson / Brush,1,5001,500G
-505,preholiday,500-232,Jefferson / Brush,1,5051,505T
-505,preholiday,500-233,Jefferson / Brush,1,5051,505T
-500,preholiday,500-234,Jefferson / Brush,1,5002,500P
-505,preholiday,500-235,Jefferson / Brush,1,5051,505T
-505,preholiday,500-236,Jefferson / Brush,1,5051,505T
-500,preholiday,500-237,Jefferson / Brush,1,5001,500G
-505,preholiday,500-238,Jefferson / Brush,1,5051,505T
-505,preholiday,500-239,Jefferson / Brush,1,5051,505T
-500,preholiday,500-240,Jefferson / Brush,1,5002,500P
-505,preholiday,500-241,Jefferson / Brush,1,5051,505T
-505,preholiday,500-242,Jefferson / Brush,1,5052,505S
-500,preholiday,500-243,Jefferson / Brush,1,5001,500G
-505,preholiday,500-244,Jefferson / Brush,1,5052,505S
-505,preholiday,500-245,Jefferson / Brush,1,5052,505S
-500,preholiday,500-246,Jefferson / Brush,1,5002,500P
-505,preholiday,500-247,Jefferson / Brush,1,5052,505S
-505,preholiday,500-248,Jefferson / Brush,1,5052,505S
-500,preholiday,500-249,Jefferson / Brush,1,5001,500G
-505,preholiday,500-250,Jefferson / Brush,1,5052,505S
-505,preholiday,500-251,Jefferson / Brush,1,5052,505S
-500,preholiday,500-252,Jefferson / Brush,1,5002,500P
-505,preholiday,500-253,Jefferson / Brush,1,5052,505S
-505,preholiday,500-254,Jefferson / Brush,1,5052,505S
-500,preholiday,500-255,Jefferson / Brush,1,5002,500P
-505,preholiday,500-256,Jefferson / Brush,1,5052,505S
-505,preholiday,500-257,Jefferson / Brush,1,5052,505S
-500,preholiday,500-258,Jefferson / Brush,1,5001,500G
-505,preholiday,500-259,Jefferson / Brush,1,5052,505S
-505,preholiday,500-260,Jefferson / Brush,1,5052,505S
-500,preholiday,500-261,Jefferson / Brush,1,5002,500P
-505,preholiday,500-262,Jefferson / Brush,1,5052,505S
-505,preholiday,500-263,Jefferson / Brush,1,5052,505S
-500,preholiday,500-264,Jefferson / Brush,1,5001,500G
-505,preholiday,500-265,Jefferson / Brush,1,5051,505T
-505,preholiday,500-266,Jefferson / Brush,1,5051,505T
-500,preholiday,500-267,Jefferson / Brush,1,5002,500P
-505,preholiday,500-268,Jefferson / Brush,1,5051,505T
-505,preholiday,500-269,Jefferson / Brush,1,5051,505T
-500,preholiday,500-270,Jefferson / Brush,1,5001,500G
-505,preholiday,500-271,Jefferson / Brush,1,5051,505T
-505,preholiday,500-272,Jefferson / Brush,1,5051,505T
-500,preholiday,500-273,Jefferson / Brush,1,5002,500P
-505,preholiday,500-274,Jefferson / Brush,1,5051,505T
-505,preholiday,500-275,Jefferson / Brush,1,5051,505T
-500,preholiday,500-276,Jefferson / Brush,1,5001,500G
-505,preholiday,500-277,Jefferson / Brush,1,5051,505T
-505,preholiday,500-278,Jefferson / Brush,1,5051,505T
-500,preholiday,500-279,Jefferson / Brush,1,5002,500P
-505,preholiday,500-280,Jefferson / Brush,1,5051,505T
-505,preholiday,500-281,Jefferson / Brush,1,5051,505T
-500,preholiday,500-282,Jefferson / Brush,1,5001,500G
-505,preholiday,500-283,Jefferson / Brush,1,5051,505T
-505,preholiday,500-284,Jefferson / Brush,1,5051,505T
-500,preholiday,500-285,Jefferson / Brush,1,5002,500P
-505,preholiday,500-286,Jefferson / Brush,1,5051,505T
-505,preholiday,500-287,Jefferson / Brush,1,5051,505T
-500,preholiday,500-288,Jefferson / Brush,1,5001,500G
-505,preholiday,500-289,Jefferson / Brush,1,5051,505T
-505,preholiday,500-290,Jefferson / Brush,1,5051,505T
-500,preholiday,500-291,Jefferson / Brush,1,5002,500P
-505,preholiday,500-292,Jefferson / Brush,1,5051,505T
-505,preholiday,500-293,Jefferson / Brush,1,5051,505T
-500,preholiday,500-294,Jefferson / Brush,1,5001,500G
-505,preholiday,500-295,Jefferson / Brush,1,5051,505T
-505,preholiday,500-296,Jefferson / Brush,1,5051,505T
-500,preholiday,500-297,Jefferson / Brush,1,5002,500P
-505,preholiday,500-298,Jefferson / Brush,1,5051,505T
-505,preholiday,500-299,Jefferson / Brush,1,5051,505T
-500,preholiday,500-300,Jefferson / Brush,1,5001,500G
-505,preholiday,500-301,Jefferson / Brush,1,5051,505T
-505,preholiday,500-302,Jefferson / Brush,1,5051,505T
-500,preholiday,500-303,Jefferson / Brush,1,5002,500P
-505,preholiday,500-304,Jefferson / Brush,1,5051,505T
-505,preholiday,500-305,Jefferson / Brush,1,5051,505T
-500,preholiday,500-306,Jefferson / Brush,1,5001,500G
-505,preholiday,500-307,Jefferson / Brush,1,5051,505T
-505,preholiday,500-308,Jefferson / Brush,1,5051,505T
-500,preholiday,500-309,Jefferson / Brush,1,5002,500P
-505,preholiday,500-310,Jefferson / Brush,1,5051,505T
-505,preholiday,500-311,Jefferson / Brush,1,5051,505T
-500,preholiday,500-312,Jefferson / Brush,1,5001,500G
-505,preholiday,500-313,Jefferson / Brush,1,5051,505T
-505,preholiday,500-314,Jefferson / Brush,1,5051,505T
-500,preholiday,500-315,Jefferson / Brush,1,5002,500P
-505,preholiday,500-316,Jefferson / Brush,1,5051,505T
-505,preholiday,500-317,Jefferson / Brush,1,5051,505T
-500,preholiday,500-318,Jefferson / Brush,1,5002,500P
-505,preholiday,500-319,Jefferson / Brush,1,5051,505T
-505,preholiday,500-320,Jefferson / Brush,1,5051,505T
-500,preholiday,500-321,Jefferson / Brush,1,5001,500G
-505,preholiday,500-322,Jefferson / Brush,1,5051,505T
-505,preholiday,500-323,Jefferson / Brush,1,5051,505T
-500,preholiday,500-324,Jefferson / Brush,1,5002,500P
-505,preholiday,500-325,Jefferson / Brush,1,5051,505T
-505,preholiday,500-326,Jefferson / Brush,1,5051,505T
-500,preholiday,500-327,Jefferson / Brush,1,5001,500G
-505,preholiday,500-328,Jefferson / Brush,1,5051,505T
-505,preholiday,500-329,Jefferson / Brush,1,5051,505T
-500,preholiday,500-330,Jefferson / Brush,1,5002,500P
-505,preholiday,500-331,Jefferson / Brush,1,5051,505T
-505,preholiday,500-332,Jefferson / Brush,1,5051,505T
-500,preholiday,500-333,Jefferson / Brush,1,5001,500G
-505,preholiday,500-334,Jefferson / Brush,1,5051,505T
-505,preholiday,500-335,Jefferson / Brush,1,5051,505T
-500,preholiday,500-336,Jefferson / Brush,1,5002,500P
-505,preholiday,500-337,Jefferson / Brush,1,5051,505T
-505,preholiday,500-338,Jefferson / Brush,1,5051,505T
-500,preholiday,500-339,Jefferson / Brush,1,5001,500G
-505,preholiday,500-340,Jefferson / Brush,1,5051,505T
-505,preholiday,500-341,Jefferson / Brush,1,5051,505T
-500,preholiday,500-342,Jefferson / Brush,1,5002,500P
-505,preholiday,500-343,Jefferson / Brush,1,5051,505T
-505,preholiday,500-344,Jefferson / Brush,1,5051,505T
-500,preholiday,500-345,Jefferson / Brush,1,5001,500G
-505,preholiday,500-346,Jefferson / Brush,1,5052,505S
-505,preholiday,500-347,Jefferson / Brush,1,5052,505S
-500,preholiday,500-348,Jefferson / Brush,1,5002,500P
-505,preholiday,500-349,Jefferson / Brush,1,5052,505S
-505,preholiday,500-350,Jefferson / Brush,1,5052,505S
-500,preholiday,500-351,Jefferson / Brush,1,5001,500G
-505,preholiday,500-352,Jefferson / Brush,1,5052,505S
-505,preholiday,500-353,Jefferson / Brush,1,5052,505S
-500,preholiday,500-354,Jefferson / Brush,1,5002,500P
-505,preholiday,500-355,Jefferson / Brush,1,5052,505S
-500,preholiday,500-356,Jefferson / Brush,1,5002,500P
-505,preholiday,500-357,Jefferson / Brush,1,5052,505S
-500,preholiday,500-358,Jefferson / Brush,1,5001,500G
-505,preholiday,500-359,Jefferson / Brush,1,5052,505S
-500,preholiday,500-360,Jefferson / Brush,1,5002,500P
-505,preholiday,500-361,Jefferson / Brush,1,5052,505S
-500,preholiday,500-362,Jefferson / Brush,1,5001,500G
-505,preholiday,500-363,Jefferson / Brush,1,5052,505S
-500,preholiday,500-364,Jefferson / Brush,1,5002,500P
-505,preholiday,500-365,Jefferson / Brush,1,5052,505S
-500,preholiday,500-366,Jefferson / Brush,1,5002,500P
-505,preholiday,500-367,Jefferson / Brush,1,5052,505S
-500,preholiday,500-368,Jefferson / Brush,1,5002,500P
-505,preholiday,500-369,Jefferson / Brush,1,5052,505S
-500,preholiday,500-370,Jefferson / Brush,1,5002,500P
-505,preholiday,500-371,Jefferson / Brush,1,5052,505S
-500,preholiday,500-372,Jefferson / Brush,1,5002,500P
-500,saturday,500-373,Pontiac Nexus,0,5008,500P
-505,saturday,500-374,Somerset Collection,0,5058,505S
-500,saturday,500-375,Pontiac Nexus,0,5008,500P
-505,saturday,500-376,Somerset Collection,0,5058,505S
-500,saturday,500-377,Pontiac Nexus,0,5008,500P
-505,saturday,500-378,Somerset Collection,0,5058,505S
-500,saturday,500-379,Pontiac Nexus,0,5008,500P
-505,saturday,500-380,Somerset Collection,0,5058,505S
-500,saturday,500-381,Great Lakes Crossing,0,5007,500G
-505,saturday,500-382,Somerset Collection,0,5058,505S
-500,saturday,500-383,Pontiac Nexus,0,5008,500P
-505,saturday,500-384,Somerset Collection,0,5058,505S
-500,saturday,500-385,Great Lakes Crossing,0,5007,500G
-505,saturday,500-386,Somerset Collection,0,5058,505S
-505,saturday,500-387,Somerset Collection,0,5058,505S
-500,saturday,500-388,Pontiac Nexus,0,5008,500P
-505,saturday,500-389,Somerset Collection,0,5058,505S
-505,saturday,500-390,Somerset Collection,0,5058,505S
-500,saturday,500-391,Great Lakes Crossing,0,5007,500G
-505,saturday,500-392,Somerset Collection,0,5058,505S
-505,saturday,500-393,Somerset Collection,0,5058,505S
-500,saturday,500-394,Pontiac Nexus,0,5008,500P
-505,saturday,500-395,Somerset Collection,0,5058,505S
-505,saturday,500-396,Somerset Collection,0,5058,505S
-500,saturday,500-397,Great Lakes Crossing,0,5007,500G
-505,saturday,500-398,Somerset Collection,0,5058,505S
-505,saturday,500-399,Somerset Collection,0,5058,505S
-500,saturday,500-400,Pontiac Nexus,0,5008,500P
-505,saturday,500-401,Somerset Collection,0,5058,505S
-505,saturday,500-402,Somerset Collection,0,5058,505S
-500,saturday,500-403,Great Lakes Crossing,0,5007,500G
-505,saturday,500-404,Somerset Collection,0,5058,505S
-505,saturday,500-405,Somerset Collection,0,5058,505S
-500,saturday,500-406,Pontiac Nexus,0,5008,500P
-505,saturday,500-407,Somerset Collection,0,5058,505S
-505,saturday,500-408,Somerset Collection,0,5058,505S
-500,saturday,500-409,Great Lakes Crossing,0,5007,500G
-505,saturday,500-410,Somerset Collection,0,5058,505S
-505,saturday,500-411,Somerset Collection,0,5058,505S
-500,saturday,500-412,Pontiac Nexus,0,5008,500P
-505,saturday,500-413,Somerset Collection,0,5058,505S
-505,saturday,500-414,Somerset Collection,0,5058,505S
-500,saturday,500-415,Great Lakes Crossing,0,5007,500G
-505,saturday,500-416,Somerset Collection,0,5058,505S
-505,saturday,500-417,Somerset Collection,0,5058,505S
-500,saturday,500-418,Pontiac Nexus,0,5008,500P
-505,saturday,500-419,Somerset Collection,0,5058,505S
-505,saturday,500-420,Somerset Collection,0,5058,505S
-500,saturday,500-421,Great Lakes Crossing,0,5007,500G
-505,saturday,500-422,Somerset Collection,0,5058,505S
-505,saturday,500-423,Somerset Collection,0,5058,505S
-500,saturday,500-424,Pontiac Nexus,0,5008,500P
-505,saturday,500-425,Somerset Collection,0,5058,505S
-505,saturday,500-426,Somerset Collection,0,5058,505S
-500,saturday,500-427,Great Lakes Crossing,0,5007,500G
-505,saturday,500-428,Somerset Collection,0,5058,505S
-505,saturday,500-429,Somerset Collection,0,5058,505S
-500,saturday,500-430,Pontiac Nexus,0,5008,500P
-505,saturday,500-431,Somerset Collection,0,5058,505S
-505,saturday,500-432,Somerset Collection,0,5058,505S
-500,saturday,500-433,Great Lakes Crossing,0,5007,500G
-505,saturday,500-434,Somerset Collection,0,5058,505S
-505,saturday,500-435,Somerset Collection,0,5058,505S
-500,saturday,500-436,Pontiac Nexus,0,5008,500P
-505,saturday,500-437,Somerset Collection,0,5058,505S
-505,saturday,500-438,Somerset Collection,0,5058,505S
-500,saturday,500-439,Great Lakes Crossing,0,5007,500G
-505,saturday,500-440,Somerset Collection,0,5058,505S
-505,saturday,500-441,Somerset Collection,0,5058,505S
-500,saturday,500-442,Pontiac Nexus,0,5008,500P
-505,saturday,500-443,Somerset Collection,0,5058,505S
-505,saturday,500-444,Somerset Collection,0,5058,505S
-500,saturday,500-445,Great Lakes Crossing,0,5007,500G
-505,saturday,500-446,Somerset Collection,0,5058,505S
-505,saturday,500-447,Somerset Collection,0,5058,505S
-500,saturday,500-448,Pontiac Nexus,0,5008,500P
-505,saturday,500-449,Somerset Collection,0,5058,505S
-505,saturday,500-450,Somerset Collection,0,5058,505S
-500,saturday,500-451,Great Lakes Crossing,0,5007,500G
-505,saturday,500-452,Somerset Collection,0,5058,505S
-505,saturday,500-453,Somerset Collection,0,5058,505S
-500,saturday,500-454,Pontiac Nexus,0,5008,500P
-505,saturday,500-455,Somerset Collection,0,5058,505S
-500,saturday,500-456,Great Lakes Crossing,0,5007,500G
-505,saturday,500-457,Somerset Collection,0,5058,505S
-500,saturday,500-458,Pontiac Nexus,0,5008,500P
-505,saturday,500-459,Somerset Collection,0,5058,505S
-500,saturday,500-460,Great Lakes Crossing,0,5007,500G
-505,saturday,500-461,Somerset Collection,0,5058,505S
-500,saturday,500-462,Pontiac Nexus,0,5008,500P
-505,saturday,500-463,Somerset Collection,0,5058,505S
-500,saturday,500-464,Pontiac Nexus,0,5008,500P
-505,saturday,500-465,Somerset Collection,0,5058,505S
-500,saturday,500-466,Pontiac Nexus,0,5008,500P
-505,saturday,500-467,Somerset Collection,0,5058,505S
-500,saturday,500-468,Pontiac Nexus,0,5008,500P
-505,saturday,500-469,Somerset Collection,0,5058,505S
-500,saturday,500-470,Pontiac Nexus,0,5008,500P
-505,saturday,500-471,Somerset Collection,0,5058,505S
-500,saturday,500-472,Pontiac Nexus,0,5008,500P
-505,saturday,500-473,Somerset Collection,0,5058,505S
-500,saturday,500-474,Pontiac Nexus,0,5008,500P
-505,saturday,500-475,Somerset Collection,0,5058,505S
-500,saturday,500-476,Pontiac Nexus,0,5008,500P
-505,saturday,500-477,Somerset Collection,0,5058,505S
-505,saturday,500-478,Jefferson / Brush,1,5052,505S
-500,saturday,500-479,Jefferson / Brush,1,5002,500P
-505,saturday,500-480,Jefferson / Brush,1,5052,505S
-500,saturday,500-481,Jefferson / Brush,1,5002,500P
-505,saturday,500-482,Jefferson / Brush,1,5052,505S
-500,saturday,500-483,Jefferson / Brush,1,5002,500P
-505,saturday,500-484,Jefferson / Brush,1,5052,505S
-500,saturday,500-485,Jefferson / Brush,1,5002,500P
-505,saturday,500-486,Jefferson / Brush,1,5052,505S
-500,saturday,500-487,Jefferson / Brush,1,5002,500P
-505,saturday,500-488,Jefferson / Brush,1,5052,505S
-505,saturday,500-489,Jefferson / Brush,1,5052,505S
-500,saturday,500-490,Jefferson / Brush,1,5002,500P
-505,saturday,500-491,Jefferson / Brush,1,5052,505S
-505,saturday,500-492,Jefferson / Brush,1,5052,505S
-500,saturday,500-493,Jefferson / Brush,1,5002,500P
-505,saturday,500-494,Jefferson / Brush,1,5052,505S
-505,saturday,500-495,Jefferson / Brush,1,5052,505S
-500,saturday,500-496,Jefferson / Brush,1,5002,500P
-505,saturday,500-497,Jefferson / Brush,1,5052,505S
-505,saturday,500-498,Jefferson / Brush,1,5052,505S
-500,saturday,500-499,Jefferson / Brush,1,5001,500G
-505,saturday,500-500,Jefferson / Brush,1,5052,505S
-505,saturday,500-501,Jefferson / Brush,1,5052,505S
-500,saturday,500-502,Jefferson / Brush,1,5002,500P
-505,saturday,500-503,Jefferson / Brush,1,5052,505S
-505,saturday,500-504,Jefferson / Brush,1,5052,505S
-500,saturday,500-505,Jefferson / Brush,1,5001,500G
-505,saturday,500-506,Jefferson / Brush,1,5052,505S
-505,saturday,500-507,Jefferson / Brush,1,5052,505S
-500,saturday,500-508,Jefferson / Brush,1,5002,500P
-505,saturday,500-509,Jefferson / Brush,1,5052,505S
-505,saturday,500-510,Jefferson / Brush,1,5052,505S
-500,saturday,500-511,Jefferson / Brush,1,5001,500G
-505,saturday,500-512,Jefferson / Brush,1,5052,505S
-505,saturday,500-513,Jefferson / Brush,1,5052,505S
-500,saturday,500-514,Jefferson / Brush,1,5002,500P
-505,saturday,500-515,Jefferson / Brush,1,5052,505S
-505,saturday,500-516,Jefferson / Brush,1,5052,505S
-500,saturday,500-517,Jefferson / Brush,1,5001,500G
-505,saturday,500-518,Jefferson / Brush,1,5052,505S
-505,saturday,500-519,Jefferson / Brush,1,5052,505S
-500,saturday,500-520,Jefferson / Brush,1,5002,500P
-505,saturday,500-521,Jefferson / Brush,1,5052,505S
-505,saturday,500-522,Jefferson / Brush,1,5052,505S
-500,saturday,500-523,Jefferson / Brush,1,5001,500G
-505,saturday,500-524,Jefferson / Brush,1,5052,505S
-505,saturday,500-525,Jefferson / Brush,1,5052,505S
-500,saturday,500-526,Jefferson / Brush,1,5002,500P
-505,saturday,500-527,Jefferson / Brush,1,5052,505S
-505,saturday,500-528,Jefferson / Brush,1,5052,505S
-500,saturday,500-529,Jefferson / Brush,1,5001,500G
-505,saturday,500-530,Jefferson / Brush,1,5052,505S
-505,saturday,500-531,Jefferson / Brush,1,5052,505S
-500,saturday,500-532,Jefferson / Brush,1,5002,500P
-505,saturday,500-533,Jefferson / Brush,1,5052,505S
-505,saturday,500-534,Jefferson / Brush,1,5052,505S
-500,saturday,500-535,Jefferson / Brush,1,5001,500G
-505,saturday,500-536,Jefferson / Brush,1,5052,505S
-505,saturday,500-537,Jefferson / Brush,1,5052,505S
-500,saturday,500-538,Jefferson / Brush,1,5002,500P
-505,saturday,500-539,Jefferson / Brush,1,5052,505S
-505,saturday,500-540,Jefferson / Brush,1,5052,505S
-500,saturday,500-541,Jefferson / Brush,1,5001,500G
-505,saturday,500-542,Jefferson / Brush,1,5052,505S
-505,saturday,500-543,Jefferson / Brush,1,5052,505S
-500,saturday,500-544,Jefferson / Brush,1,5002,500P
-505,saturday,500-545,Jefferson / Brush,1,5052,505S
-505,saturday,500-546,Jefferson / Brush,1,5052,505S
-500,saturday,500-547,Jefferson / Brush,1,5001,500G
-505,saturday,500-548,Jefferson / Brush,1,5052,505S
-505,saturday,500-549,Jefferson / Brush,1,5052,505S
-500,saturday,500-550,Jefferson / Brush,1,5002,500P
-505,saturday,500-551,Jefferson / Brush,1,5052,505S
-505,saturday,500-552,Jefferson / Brush,1,5052,505S
-500,saturday,500-553,Jefferson / Brush,1,5001,500G
-505,saturday,500-554,Jefferson / Brush,1,5052,505S
-505,saturday,500-555,Jefferson / Brush,1,5052,505S
-500,saturday,500-556,Jefferson / Brush,1,5002,500P
-505,saturday,500-557,Jefferson / Brush,1,5052,505S
-505,saturday,500-558,Jefferson / Brush,1,5052,505S
-500,saturday,500-559,Jefferson / Brush,1,5001,500G
-505,saturday,500-560,Jefferson / Brush,1,5052,505S
-505,saturday,500-561,Jefferson / Brush,1,5052,505S
-500,saturday,500-562,Jefferson / Brush,1,5002,500P
-505,saturday,500-563,Jefferson / Brush,1,5052,505S
-500,saturday,500-564,Jefferson / Brush,1,5001,500G
-505,saturday,500-565,Jefferson / Brush,1,5052,505S
-500,saturday,500-566,Jefferson / Brush,1,5002,500P
-505,saturday,500-567,Jefferson / Brush,1,5052,505S
-500,saturday,500-568,Jefferson / Brush,1,5001,500G
-505,saturday,500-569,Jefferson / Brush,1,5052,505S
-500,saturday,500-570,Jefferson / Brush,1,5002,500P
-505,saturday,500-571,Jefferson / Brush,1,5052,505S
-500,saturday,500-572,Jefferson / Brush,1,5002,500P
-505,saturday,500-573,Jefferson / Brush,1,5052,505S
-500,saturday,500-574,Jefferson / Brush,1,5001,500G
-505,saturday,500-575,Jefferson / Brush,1,5052,505S
-500,saturday,500-576,Jefferson / Brush,1,5002,500P
-505,saturday,500-577,Jefferson / Brush,1,5052,505S
-500,saturday,500-578,Jefferson / Brush,1,5002,500P
-505,saturday,500-579,Jefferson / Brush,1,5052,505S
-500,saturday,500-580,Jefferson / Brush,1,5002,500P
-505,saturday,500-581,Jefferson / Brush,1,5052,505S
-500,saturday,500-582,Jefferson / Brush,1,5002,500P
-500,sunday,500-583,Pontiac Nexus,0,5008,500P
-505,sunday,500-584,Somerset Collection,0,5058,505S
-500,sunday,500-585,Pontiac Nexus,0,5008,500P
-505,sunday,500-586,Somerset Collection,0,5058,505S
-500,sunday,500-587,Pontiac Nexus,0,5008,500P
-505,sunday,500-588,Somerset Collection,0,5058,505S
-500,sunday,500-589,Pontiac Nexus,0,5008,500P
-505,sunday,500-590,Somerset Collection,0,5058,505S
-500,sunday,500-591,Great Lakes Crossing,0,5007,500G
-505,sunday,500-592,Somerset Collection,0,5058,505S
-500,sunday,500-593,Pontiac Nexus,0,5008,500P
-505,sunday,500-594,Somerset Collection,0,5058,505S
-500,sunday,500-595,Great Lakes Crossing,0,5007,500G
-505,sunday,500-596,Somerset Collection,0,5058,505S
-500,sunday,500-597,Pontiac Nexus,0,5008,500P
-505,sunday,500-598,Somerset Collection,0,5058,505S
-500,sunday,500-599,Great Lakes Crossing,0,5007,500G
-505,sunday,500-600,Somerset Collection,0,5058,505S
-500,sunday,500-601,Pontiac Nexus,0,5008,500P
-505,sunday,500-602,Somerset Collection,0,5058,505S
-500,sunday,500-603,Great Lakes Crossing,0,5007,500G
-505,sunday,500-604,Somerset Collection,0,5058,505S
-500,sunday,500-605,Pontiac Nexus,0,5008,500P
-505,sunday,500-606,Somerset Collection,0,5058,505S
-500,sunday,500-607,Great Lakes Crossing,0,5007,500G
-505,sunday,500-608,Somerset Collection,0,5058,505S
-500,sunday,500-609,Pontiac Nexus,0,5008,500P
-505,sunday,500-610,Somerset Collection,0,5058,505S
-500,sunday,500-611,Great Lakes Crossing,0,5007,500G
-505,sunday,500-612,Somerset Collection,0,5058,505S
-500,sunday,500-613,Pontiac Nexus,0,5008,500P
-505,sunday,500-614,Somerset Collection,0,5058,505S
-500,sunday,500-615,Great Lakes Crossing,0,5007,500G
-505,sunday,500-616,Somerset Collection,0,5058,505S
-500,sunday,500-617,Pontiac Nexus,0,5008,500P
-505,sunday,500-618,Somerset Collection,0,5058,505S
-500,sunday,500-619,Great Lakes Crossing,0,5007,500G
-505,sunday,500-620,Somerset Collection,0,5058,505S
-500,sunday,500-621,Pontiac Nexus,0,5008,500P
-505,sunday,500-622,Somerset Collection,0,5058,505S
-500,sunday,500-623,Great Lakes Crossing,0,5007,500G
-505,sunday,500-624,Somerset Collection,0,5058,505S
-500,sunday,500-625,Pontiac Nexus,0,5008,500P
-505,sunday,500-626,Somerset Collection,0,5058,505S
-500,sunday,500-627,Great Lakes Crossing,0,5007,500G
-505,sunday,500-628,Somerset Collection,0,5058,505S
-500,sunday,500-629,Pontiac Nexus,0,5008,500P
-505,sunday,500-630,Somerset Collection,0,5058,505S
-500,sunday,500-631,Great Lakes Crossing,0,5007,500G
-505,sunday,500-632,Somerset Collection,0,5058,505S
-500,sunday,500-633,Pontiac Nexus,0,5008,500P
-505,sunday,500-634,Somerset Collection,0,5058,505S
-500,sunday,500-635,Great Lakes Crossing,0,5007,500G
-505,sunday,500-636,Somerset Collection,0,5058,505S
-500,sunday,500-637,Pontiac Nexus,0,5008,500P
-505,sunday,500-638,Somerset Collection,0,5058,505S
-500,sunday,500-639,Pontiac Nexus,0,5008,500P
-505,sunday,500-640,Somerset Collection,0,5058,505S
-500,sunday,500-641,Pontiac Nexus,0,5008,500P
-505,sunday,500-642,Somerset Collection,0,5058,505S
-500,sunday,500-643,Pontiac Nexus,0,5008,500P
-505,sunday,500-644,Somerset Collection,0,5058,505S
-500,sunday,500-645,Pontiac Nexus,0,5008,500P
-505,sunday,500-646,Somerset Collection,0,5058,505S
-500,sunday,500-647,Pontiac Nexus,0,5008,500P
-505,sunday,500-648,Somerset Collection,0,5058,505S
-500,sunday,500-649,Pontiac Nexus,0,5008,500P
-505,sunday,500-650,Somerset Collection,0,5058,505S
-500,sunday,500-651,Pontiac Nexus,0,5008,500P
-505,sunday,500-652,Somerset Collection,0,5058,505S
-500,sunday,500-653,Pontiac Nexus,0,5008,500P
-505,sunday,500-654,Somerset Collection,0,5058,505S
-500,sunday,500-655,Pontiac Nexus,0,5008,500P
-505,sunday,500-656,Somerset Collection,0,5058,505S
-500,sunday,500-657,Pontiac Nexus,0,5008,500P
-505,sunday,500-658,Somerset Collection,0,5058,505S
-505,sunday,500-659,Jefferson / Brush,1,5052,505S
-500,sunday,500-660,Jefferson / Brush,1,5002,500P
-505,sunday,500-661,Jefferson / Brush,1,5052,505S
-500,sunday,500-662,Jefferson / Brush,1,5002,500P
-505,sunday,500-663,Jefferson / Brush,1,5052,505S
-500,sunday,500-664,Jefferson / Brush,1,5002,500P
-505,sunday,500-665,Jefferson / Brush,1,5052,505S
-500,sunday,500-666,Jefferson / Brush,1,5002,500P
-505,sunday,500-667,Jefferson / Brush,1,5052,505S
-500,sunday,500-668,Jefferson / Brush,1,5002,500P
-505,sunday,500-669,Jefferson / Brush,1,5052,505S
-500,sunday,500-670,Jefferson / Brush,1,5002,500P
-505,sunday,500-671,Jefferson / Brush,1,5052,505S
-500,sunday,500-672,Jefferson / Brush,1,5002,500P
-505,sunday,500-673,Jefferson / Brush,1,5052,505S
-500,sunday,500-674,Jefferson / Brush,1,5002,500P
-505,sunday,500-675,Jefferson / Brush,1,5052,505S
-500,sunday,500-676,Jefferson / Brush,1,5001,500G
-505,sunday,500-677,Jefferson / Brush,1,5052,505S
-500,sunday,500-678,Jefferson / Brush,1,5002,500P
-505,sunday,500-679,Jefferson / Brush,1,5052,505S
-500,sunday,500-680,Jefferson / Brush,1,5002,500P
-505,sunday,500-681,Jefferson / Brush,1,5052,505S
-500,sunday,500-682,Jefferson / Brush,1,5001,500G
-505,sunday,500-683,Jefferson / Brush,1,5052,505S
-500,sunday,500-684,Jefferson / Brush,1,5002,500P
-505,sunday,500-685,Jefferson / Brush,1,5052,505S
-500,sunday,500-686,Jefferson / Brush,1,5001,500G
-505,sunday,500-687,Jefferson / Brush,1,5052,505S
-500,sunday,500-688,Jefferson / Brush,1,5002,500P
-505,sunday,500-689,Jefferson / Brush,1,5052,505S
-500,sunday,500-690,Jefferson / Brush,1,5001,500G
-505,sunday,500-691,Jefferson / Brush,1,5052,505S
-500,sunday,500-692,Jefferson / Brush,1,5002,500P
-505,sunday,500-693,Jefferson / Brush,1,5052,505S
-500,sunday,500-694,Jefferson / Brush,1,5001,500G
-505,sunday,500-695,Jefferson / Brush,1,5052,505S
-500,sunday,500-696,Jefferson / Brush,1,5002,500P
-505,sunday,500-697,Jefferson / Brush,1,5052,505S
-500,sunday,500-698,Jefferson / Brush,1,5001,500G
-505,sunday,500-699,Jefferson / Brush,1,5052,505S
-500,sunday,500-700,Jefferson / Brush,1,5002,500P
-505,sunday,500-701,Jefferson / Brush,1,5052,505S
-500,sunday,500-702,Jefferson / Brush,1,5001,500G
-505,sunday,500-703,Jefferson / Brush,1,5052,505S
-500,sunday,500-704,Jefferson / Brush,1,5002,500P
-505,sunday,500-705,Jefferson / Brush,1,5052,505S
-500,sunday,500-706,Jefferson / Brush,1,5001,500G
-505,sunday,500-707,Jefferson / Brush,1,5052,505S
-500,sunday,500-708,Jefferson / Brush,1,5002,500P
-505,sunday,500-709,Jefferson / Brush,1,5052,505S
-500,sunday,500-710,Jefferson / Brush,1,5001,500G
-505,sunday,500-711,Jefferson / Brush,1,5052,505S
-500,sunday,500-712,Jefferson / Brush,1,5002,500P
-505,sunday,500-713,Jefferson / Brush,1,5052,505S
-500,sunday,500-714,Jefferson / Brush,1,5001,500G
-505,sunday,500-715,Jefferson / Brush,1,5052,505S
-500,sunday,500-716,Jefferson / Brush,1,5002,500P
-505,sunday,500-717,Jefferson / Brush,1,5052,505S
-500,sunday,500-718,Jefferson / Brush,1,5001,500G
-505,sunday,500-719,Jefferson / Brush,1,5052,505S
-500,sunday,500-720,Jefferson / Brush,1,5002,500P
-505,sunday,500-721,Jefferson / Brush,1,5052,505S
-500,sunday,500-722,Jefferson / Brush,1,5001,500G
-505,sunday,500-723,Jefferson / Brush,1,5052,505S
-500,sunday,500-724,Jefferson / Brush,1,5002,500P
-505,sunday,500-725,Jefferson / Brush,1,5052,505S
-500,sunday,500-726,Jefferson / Brush,1,5002,500P
-505,sunday,500-727,Jefferson / Brush,1,5052,505S
-500,sunday,500-728,Jefferson / Brush,1,5002,500P
-505,sunday,500-729,Jefferson / Brush,1,5052,505S
-500,sunday,500-730,Jefferson / Brush,1,5002,500P
-505,sunday,500-731,Jefferson / Brush,1,5052,505S
-500,sunday,500-732,Jefferson / Brush,1,5002,500P
-505,sunday,500-733,Jefferson / Brush,1,5052,505S
-500,sunday,500-734,Jefferson / Brush,1,5002,500P
-500,weekdaynoph,500-735,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-736,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-737,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-738,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-739,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-740,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-741,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-742,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-743,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-744,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-745,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-746,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-747,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-748,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-749,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-750,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-751,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-752,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-753,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-754,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-755,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-756,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-757,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-758,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-759,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-760,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-761,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-762,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-763,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-764,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-765,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-766,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-767,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-768,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-769,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-770,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-771,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-772,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-773,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-774,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-775,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-776,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-777,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-778,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-779,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-780,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-781,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-782,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-783,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-784,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-785,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-786,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-787,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-788,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-789,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-790,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-791,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-792,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-793,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-794,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-795,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-796,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-797,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-798,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-799,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-800,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-801,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-802,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-803,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-804,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-805,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-806,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-807,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-808,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-809,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-810,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-811,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-812,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-813,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-814,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-815,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-816,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-817,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-818,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-819,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-820,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-821,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-822,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-823,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-824,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-825,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-826,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-827,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-828,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-829,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-830,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-831,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-832,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-833,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-834,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-835,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-836,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-837,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-838,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-839,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-840,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-841,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-842,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-843,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-844,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-845,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-846,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-847,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-848,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-849,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-850,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-851,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-852,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-853,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-854,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-855,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-856,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-857,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-858,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-859,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-860,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-861,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-862,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-863,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-864,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-865,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-866,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-867,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-868,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-869,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-870,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-871,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-872,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-873,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-874,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-875,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-876,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-877,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-878,Troy Park & Ride,0,5057,505T
-505,weekdaynoph,500-879,Troy Park & Ride,0,5057,505T
-500,weekdaynoph,500-880,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-881,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-882,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-883,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-884,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-885,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-886,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-887,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-888,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-889,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-890,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-891,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-892,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-893,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-894,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-895,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-896,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-897,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-898,Great Lakes Crossing,0,5007,500G
-505,weekdaynoph,500-899,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-900,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-901,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-902,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-903,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-904,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-905,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-906,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-907,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-908,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-909,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-910,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-911,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-912,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-913,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-914,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-915,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-916,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-917,Somerset Collection,0,5058,505S
-500,weekdaynoph,500-918,Pontiac Nexus,0,5008,500P
-505,weekdaynoph,500-919,Somerset Collection,0,5058,505S
-505,weekdaynoph,500-920,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-921,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-922,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-923,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-924,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-925,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-926,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-927,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-928,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-929,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-930,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-931,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-932,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-933,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-934,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-935,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-936,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-937,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-938,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-939,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-940,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-941,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-942,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-943,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-944,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-945,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-946,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-947,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-948,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-949,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-950,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-951,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-952,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-953,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-954,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-955,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-956,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-957,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-958,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-959,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-960,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-961,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-962,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-963,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-964,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-965,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-966,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-967,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-968,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-969,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-970,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-971,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-972,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-973,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-974,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-975,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-976,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-977,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-978,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-979,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-980,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-981,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-982,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-983,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-984,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-985,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-986,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-987,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-988,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-989,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-990,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-991,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-992,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-993,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-994,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-995,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-996,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-997,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-998,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-999,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1000,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1001,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1002,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1003,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1004,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1005,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1006,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1007,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1008,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1009,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1010,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1011,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1012,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1013,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1014,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1015,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1016,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1017,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1018,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1019,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1020,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1021,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1022,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1023,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1024,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1025,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1026,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1027,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1028,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1029,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1030,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1031,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1032,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1033,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1034,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1035,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1036,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1037,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1038,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1039,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1040,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1041,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1042,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1043,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1044,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1045,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1046,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1047,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1048,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1049,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1050,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1051,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1052,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1053,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1054,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1055,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1056,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1057,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1058,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1059,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1060,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1061,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1062,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1063,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1064,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1065,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1066,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1067,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1068,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1069,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1070,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1071,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1072,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1073,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1074,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1075,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1076,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1077,Jefferson / Brush,1,5051,505T
-505,weekdaynoph,500-1078,Jefferson / Brush,1,5051,505T
-500,weekdaynoph,500-1079,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1080,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1081,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1082,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1083,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1084,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1085,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1086,Jefferson / Brush,1,5052,505S
-505,weekdaynoph,500-1087,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1088,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1089,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1090,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1091,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1092,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1093,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1094,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1095,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1096,Jefferson / Brush,1,5001,500G
-505,weekdaynoph,500-1097,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1098,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1099,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1100,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1101,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1102,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1103,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1104,Jefferson / Brush,1,5002,500P
-505,weekdaynoph,500-1105,Jefferson / Brush,1,5052,505S
-500,weekdaynoph,500-1106,Jefferson / Brush,1,5002,500P
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+500P,MonFriToMonSatNoDC,500-1,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-2,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-3,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-4,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-5,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-6,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-7,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-8,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-9,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-10,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-11,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-12,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-13,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-14,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-15,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-16,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-17,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-18,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-19,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-20,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-21,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-22,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-23,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-24,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-25,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-26,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-27,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-28,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-29,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-30,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-31,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-32,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-33,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-34,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-35,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-36,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-37,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-38,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-39,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-40,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-41,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-42,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-43,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-44,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-45,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-46,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-47,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-48,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-49,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-50,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-51,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-52,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-53,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-54,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-55,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-56,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-57,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-58,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-59,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-60,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-61,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-62,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-63,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-64,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-65,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-66,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-67,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-68,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-69,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-70,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-71,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-72,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-73,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-74,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-75,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-76,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-77,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-78,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-79,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-80,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-81,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-82,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-83,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-84,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-85,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-86,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-87,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-88,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-89,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-90,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-91,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-92,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-93,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-94,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-95,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-96,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-97,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-98,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-99,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-100,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-101,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-102,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-103,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-104,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-105,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-106,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-107,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-108,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-109,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-110,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-111,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-112,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-113,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-114,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-115,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-116,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-117,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-118,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-119,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-120,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-121,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-122,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-123,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-124,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-125,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-126,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-127,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-128,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-129,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-130,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-131,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-132,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-133,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-134,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-135,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-136,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-137,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-138,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-139,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-140,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-141,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-142,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-143,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-144,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-145,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-146,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-147,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-148,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-149,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-150,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-151,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-152,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-153,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-154,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-155,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-156,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-157,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-158,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-159,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-160,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-161,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-162,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-163,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-164,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-165,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-166,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-167,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-168,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-169,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-170,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-171,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-172,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-173,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-174,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-175,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-176,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-177,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-178,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-179,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-180,Big Beaver / Rochester,0,503_N
+500G,MonFriToMonSatNoDC,500-181,Great Lakes Crossing,0,500G_N
+505T,MonFriToMonSatNoDC,500-182,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-183,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-184,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-185,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-186,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-187,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-188,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-189,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-190,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-191,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-192,Big Beaver / Rochester,0,503_N
+500P,MonFriToMonSatNoDC,500-193,Pontiac Nexus,0,500P_N
+505T,MonFriToMonSatNoDC,500-194,Troy Park & Ride,0,505T_N
+503,MonFriToMonSatNoDC,500-195,Big Beaver / Rochester,0,503_N
+503,MonFriToMonSatNoDC,500-196,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-197,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-198,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-199,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-200,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-201,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-202,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-203,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-204,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-205,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-206,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-207,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-208,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-209,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-210,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-211,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-212,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-213,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-214,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-215,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-216,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-217,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-218,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-219,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-220,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-221,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-222,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-223,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-224,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-225,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-226,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-227,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-228,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-229,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-230,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-231,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-232,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-233,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-234,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-235,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-236,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-237,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-238,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-239,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-240,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-241,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-242,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-243,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-244,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-245,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-246,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-247,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-248,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-249,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-250,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-251,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-252,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-253,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-254,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-255,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-256,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-257,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-258,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-259,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-260,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-261,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-262,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-263,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-264,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-265,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-266,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-267,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-268,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-269,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-270,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-271,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-272,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-273,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-274,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-275,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-276,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-277,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-278,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-279,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-280,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-281,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-282,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-283,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-284,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-285,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-286,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-287,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-288,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-289,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-290,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-291,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-292,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-293,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-294,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-295,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-296,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-297,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-298,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-299,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-300,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-301,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-302,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-303,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-304,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-305,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-306,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-307,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-308,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-309,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-310,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-311,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-312,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-313,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-314,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-315,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-316,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-317,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-318,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-319,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-320,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-321,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-322,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-323,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-324,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-325,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-326,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-327,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-328,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-329,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-330,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-331,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-332,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-333,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-334,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-335,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-336,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-337,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-338,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-339,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-340,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-341,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-342,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-343,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-344,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-345,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-346,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-347,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-348,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-349,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-350,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-351,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-352,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-353,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-354,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-355,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-356,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-357,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-358,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-359,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-360,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-361,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-362,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-363,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-364,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-365,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-366,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-367,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-368,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-369,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-370,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-371,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-372,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-373,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-374,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-375,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-376,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-377,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-378,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-379,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-380,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-381,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-382,Jefferson / Brush,1,503_S
+500G,MonFriToMonSatNoDC,500-383,Jefferson / Brush,1,500G_S
+505T,MonFriToMonSatNoDC,500-384,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-385,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-386,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-387,Jefferson / Brush,1,505T_S
+503,MonFriToMonSatNoDC,500-388,Jefferson / Brush,1,503_S
+500P,MonFriToMonSatNoDC,500-389,Jefferson / Brush,1,500P_S
+505T,MonFriToMonSatNoDC,500-390,Jefferson / Brush,1,505T_S
+500P,NormalSunday,500-391,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-392,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-393,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-394,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-395,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-396,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-397,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-398,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-399,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-400,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-401,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-402,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-403,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-404,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-405,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-406,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-407,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-408,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-409,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-410,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-411,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-412,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-413,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-414,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-415,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-416,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-417,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-418,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-419,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-420,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-421,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-422,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-423,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-424,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-425,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-426,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-427,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-428,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-429,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-430,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-431,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-432,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-433,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-434,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-435,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-436,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-437,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-438,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-439,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-440,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-441,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-442,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-443,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-444,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-445,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-446,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-447,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-448,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-449,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-450,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-451,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-452,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-453,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-454,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-455,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-456,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-457,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-458,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-459,Big Beaver / Rochester,0,503_N
+500G,NormalSunday,500-460,Great Lakes Crossing,0,500G_N
+505T,NormalSunday,500-461,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-462,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-463,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-464,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-465,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-466,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-467,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-468,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-469,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-470,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-471,Big Beaver / Rochester,0,503_N
+500P,NormalSunday,500-472,Pontiac Nexus,0,500P_N
+505T,NormalSunday,500-473,Troy Park & Ride,0,505T_N
+503,NormalSunday,500-474,Big Beaver / Rochester,0,503_N
+503,NormalSunday,500-475,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-476,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-477,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-478,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-479,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-480,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-481,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-482,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-483,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-484,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-485,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-486,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-487,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-488,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-489,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-490,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-491,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-492,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-493,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-494,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-495,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-496,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-497,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-498,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-499,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-500,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-501,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-502,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-503,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-504,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-505,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-506,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-507,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-508,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-509,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-510,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-511,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-512,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-513,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-514,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-515,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-516,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-517,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-518,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-519,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-520,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-521,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-522,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-523,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-524,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-525,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-526,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-527,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-528,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-529,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-530,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-531,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-532,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-533,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-534,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-535,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-536,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-537,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-538,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-539,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-540,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-541,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-542,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-543,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-544,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-545,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-546,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-547,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-548,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-549,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-550,Jefferson / Brush,1,503_S
+500G,NormalSunday,500-551,Jefferson / Brush,1,500G_S
+505T,NormalSunday,500-552,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-553,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-554,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-555,Jefferson / Brush,1,505T_S
+503,NormalSunday,500-556,Jefferson / Brush,1,503_S
+500P,NormalSunday,500-557,Jefferson / Brush,1,500P_S
+505T,NormalSunday,500-558,Jefferson / Brush,1,505T_S
+500P,SatToSunNoDC,500-559,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-560,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-561,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-562,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-563,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-564,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-565,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-566,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-567,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-568,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-569,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-570,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-571,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-572,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-573,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-574,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-575,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-576,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-577,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-578,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-579,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-580,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-581,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-582,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-583,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-584,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-585,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-586,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-587,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-588,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-589,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-590,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-591,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-592,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-593,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-594,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-595,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-596,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-597,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-598,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-599,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-600,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-601,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-602,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-603,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-604,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-605,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-606,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-607,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-608,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-609,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-610,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-611,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-612,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-613,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-614,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-615,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-616,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-617,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-618,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-619,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-620,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-621,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-622,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-623,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-624,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-625,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-626,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-627,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-628,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-629,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-630,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-631,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-632,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-633,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-634,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-635,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-636,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-637,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-638,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-639,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-640,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-641,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-642,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-643,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-644,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-645,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-646,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-647,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-648,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-649,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-650,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-651,Big Beaver / Rochester,0,503_N
+500G,SatToSunNoDC,500-652,Great Lakes Crossing,0,500G_N
+505T,SatToSunNoDC,500-653,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-654,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-655,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-656,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-657,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-658,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-659,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-660,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-661,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-662,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-663,Big Beaver / Rochester,0,503_N
+500P,SatToSunNoDC,500-664,Pontiac Nexus,0,500P_N
+505T,SatToSunNoDC,500-665,Troy Park & Ride,0,505T_N
+503,SatToSunNoDC,500-666,Big Beaver / Rochester,0,503_N
+503,SatToSunNoDC,500-667,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-668,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-669,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-670,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-671,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-672,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-673,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-674,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-675,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-676,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-677,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-678,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-679,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-680,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-681,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-682,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-683,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-684,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-685,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-686,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-687,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-688,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-689,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-690,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-691,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-692,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-693,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-694,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-695,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-696,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-697,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-698,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-699,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-700,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-701,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-702,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-703,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-704,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-705,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-706,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-707,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-708,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-709,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-710,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-711,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-712,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-713,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-714,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-715,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-716,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-717,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-718,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-719,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-720,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-721,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-722,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-723,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-724,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-725,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-726,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-727,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-728,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-729,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-730,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-731,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-732,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-733,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-734,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-735,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-736,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-737,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-738,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-739,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-740,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-741,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-742,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-743,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-744,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-745,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-746,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-747,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-748,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-749,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-750,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-751,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-752,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-753,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-754,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-755,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-756,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-757,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-758,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-759,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-760,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-761,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-762,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-763,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-764,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-765,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-766,Jefferson / Brush,1,503_S
+500G,SatToSunNoDC,500-767,Jefferson / Brush,1,500G_S
+505T,SatToSunNoDC,500-768,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-769,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-770,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-771,Jefferson / Brush,1,505T_S
+503,SatToSunNoDC,500-772,Jefferson / Brush,1,503_S
+500P,SatToSunNoDC,500-773,Jefferson / Brush,1,500P_S
+505T,SatToSunNoDC,500-774,Jefferson / Brush,1,505T_S

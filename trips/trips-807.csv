@@ -1,89 +1,89 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-807,saturday,807-1,Southfield Greyhound,0,8078
-807,saturday,807-2,Southfield Greyhound,0,8078
-807,saturday,807-3,Southfield Greyhound,0,8078
-807,saturday,807-4,Southfield Greyhound,0,8078
-807,saturday,807-5,Southfield Greyhound,0,8078
-807,saturday,807-6,Southfield Greyhound,0,8078
-807,saturday,807-7,Southfield Greyhound,0,8078
-807,saturday,807-8,Southfield Greyhound,0,8078
-807,saturday,807-9,Southfield Greyhound,0,8078
-807,saturday,807-10,Southfield Greyhound,0,8078
-807,saturday,807-11,Southfield Greyhound,0,8078
-807,saturday,807-12,Southfield Greyhound,0,8078
-807,saturday,807-13,Southfield Greyhound,0,8078
-807,saturday,807-14,Southfield Greyhound,0,8078
-807,saturday,807-15,Southfield Greyhound,0,8078
-807,saturday,807-16,Southfield Greyhound,0,8078
-807,saturday,807-17,Southfield Greyhound,0,8078
-807,saturday,807-18,Southfield Greyhound,0,8078
-807,saturday,807-19,Southfield Greyhound,0,8078
-807,saturday,807-20,Southfield Greyhound,0,8078
-807,saturday,807-21,Southfield Greyhound,0,8078
-807,saturday,807-22,Metro Airport Nexus,1,8072
-807,saturday,807-23,Metro Airport Nexus,1,8072
-807,saturday,807-24,Metro Airport Nexus,1,8072
-807,saturday,807-25,Metro Airport Nexus,1,8072
-807,saturday,807-26,Metro Airport Nexus,1,8072
-807,saturday,807-27,Metro Airport Nexus,1,8072
-807,saturday,807-28,Metro Airport Nexus,1,8072
-807,saturday,807-29,Metro Airport Nexus,1,8072
-807,saturday,807-30,Metro Airport Nexus,1,8072
-807,saturday,807-31,Metro Airport Nexus,1,8072
-807,saturday,807-32,Metro Airport Nexus,1,8072
-807,saturday,807-33,Metro Airport Nexus,1,8072
-807,saturday,807-34,Metro Airport Nexus,1,8072
-807,saturday,807-35,Metro Airport Nexus,1,8072
-807,saturday,807-36,Metro Airport Nexus,1,8072
-807,saturday,807-37,Metro Airport Nexus,1,8072
-807,saturday,807-38,Metro Airport Nexus,1,8072
-807,saturday,807-39,Metro Airport Nexus,1,8072
-807,saturday,807-40,Metro Airport Nexus,1,8072
-807,saturday,807-41,Metro Airport Nexus,1,8072
-807,saturday,807-42,Metro Airport Nexus,1,8072
-807,weekday,807-43,Southfield Greyhound,0,8078
-807,weekday,807-44,Southfield Greyhound,0,8078
-807,weekday,807-45,Southfield Greyhound via Henry Ford Academy Students' Gate,0,8079
-807,weekday,807-46,Southfield Greyhound,0,8078
-807,weekday,807-47,Southfield Greyhound,0,8078
-807,weekday,807-48,Southfield Greyhound,0,8078
-807,weekday,807-49,Southfield Greyhound,0,8078
-807,weekday,807-50,Southfield Greyhound,0,8078
-807,weekday,807-51,Southfield Greyhound,0,8078
-807,weekday,807-52,Southfield Greyhound,0,8078
-807,weekday,807-53,Southfield Greyhound,0,8078
-807,weekday,807-54,Southfield Greyhound,0,8078
-807,weekday,807-55,Southfield Greyhound,0,8078
-807,weekday,807-56,Southfield Greyhound via Henry Ford Academy Students' Gate,0,8079
-807,weekday,807-57,Southfield Greyhound,0,8078
-807,weekday,807-58,Southfield Greyhound,0,8078
-807,weekday,807-59,Southfield Greyhound,0,8078
-807,weekday,807-60,Southfield Greyhound,0,8078
-807,weekday,807-61,Southfield Greyhound,0,8078
-807,weekday,807-62,Southfield Greyhound,0,8078
-807,weekday,807-63,Southfield Greyhound,0,8078
-807,weekday,807-64,Southfield Greyhound,0,8078
-807,weekday,807-65,Southfield Greyhound,0,8078
-807,weekday,807-66,Metro Airport Nexus,1,8072
-807,weekday,807-67,Metro Airport Nexus,1,8072
-807,weekday,807-68,Metro Airport Nexus via Henry Ford Academy Students' Gate,1,8073
-807,weekday,807-69,Metro Airport Nexus,1,8072
-807,weekday,807-70,Metro Airport Nexus,1,8072
-807,weekday,807-71,Metro Airport Nexus,1,8072
-807,weekday,807-72,Metro Airport Nexus,1,8072
-807,weekday,807-73,Metro Airport Nexus,1,8072
-807,weekday,807-74,Metro Airport Nexus,1,8072
-807,weekday,807-75,Metro Airport Nexus,1,8072
-807,weekday,807-76,Metro Airport Nexus,1,8072
-807,weekday,807-77,Metro Airport Nexus,1,8072
-807,weekday,807-78,Metro Airport Nexus,1,8072
-807,weekday,807-79,Metro Airport Nexus,1,8072
-807,weekday,807-80,Metro Airport Nexus via Henry Ford Academy Students' Gate,1,8073
-807,weekday,807-81,Metro Airport Nexus,1,8072
-807,weekday,807-82,Metro Airport Nexus,1,8072
-807,weekday,807-83,Metro Airport Nexus,1,8072
-807,weekday,807-84,Metro Airport Nexus,1,8072
-807,weekday,807-85,Metro Airport Nexus,1,8072
-807,weekday,807-86,Metro Airport Nexus,1,8072
-807,weekday,807-87,Metro Airport Nexus,1,8072
-807,weekday,807-88,Metro Airport Nexus,1,8072
+807,NormalMonFri,807-1,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-2,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-3,Southfield Greyhound via Henry Ford Academy Students' Gate,0,807_N_L
+807,NormalMonFri,807-4,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-5,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-6,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-7,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-8,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-9,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-10,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-11,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-12,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-13,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-14,Southfield Greyhound via Henry Ford Academy Students' Gate,0,807_N_L
+807,NormalMonFri,807-15,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-16,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-17,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-18,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-19,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-20,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-21,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-22,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-23,Southfield Greyhound,0,807_N
+807,NormalMonFri,807-24,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-25,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-26,Metro Airport Nexus via Henry Ford Academy Students' Gate,1,807_S_L
+807,NormalMonFri,807-27,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-28,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-29,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-30,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-31,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-32,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-33,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-34,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-35,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-36,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-37,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-38,Metro Airport Nexus via Henry Ford Academy Students' Gate,1,807_S_L
+807,NormalMonFri,807-39,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-40,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-41,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-42,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-43,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-44,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-45,Metro Airport Nexus,1,807_S
+807,NormalMonFri,807-46,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-47,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-48,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-49,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-50,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-51,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-52,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-53,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-54,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-55,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-56,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-57,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-58,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-59,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-60,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-61,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-62,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-63,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-64,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-65,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-66,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-67,Southfield Greyhound,0,807_N
+807,NormalSaturday,807-68,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-69,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-70,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-71,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-72,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-73,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-74,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-75,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-76,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-77,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-78,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-79,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-80,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-81,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-82,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-83,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-84,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-85,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-86,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-87,Metro Airport Nexus,1,807_S
+807,NormalSaturday,807-88,Metro Airport Nexus,1,807_S

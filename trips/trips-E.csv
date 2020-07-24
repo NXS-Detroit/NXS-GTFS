@@ -1,308 +1,308 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-E,saturday,E-1,Grosse Pointe Nexus,0,6976
-E,saturday,E-2,Grosse Pointe Nexus,0,6976
-E,saturday,E-3,Grosse Pointe Nexus,0,6976
-E,saturday,E-4,Grosse Pointe Nexus,0,6976
-E,saturday,E-5,Grosse Pointe Nexus,0,6976
-E,saturday,E-6,Grosse Pointe Nexus,0,6976
-E,saturday,E-7,Grosse Pointe Nexus,0,6976
-E,saturday,E-8,Grosse Pointe Nexus,0,6976
-E,saturday,E-9,Grosse Pointe Nexus,0,6976
-E,saturday,E-10,Grosse Pointe Nexus,0,6976
-E,saturday,E-11,Grosse Pointe Nexus,0,6976
-E,saturday,E-12,Grosse Pointe Nexus,0,6976
-E,saturday,E-13,Grosse Pointe Nexus,0,6976
-E,saturday,E-14,Grosse Pointe Nexus,0,6976
-E,saturday,E-15,Grosse Pointe Nexus,0,6976
-E,saturday,E-16,Grosse Pointe Nexus,0,6976
-E,saturday,E-17,Grosse Pointe Nexus,0,6976
-E,saturday,E-18,Grosse Pointe Nexus,0,6976
-E,saturday,E-19,Grosse Pointe Nexus,0,6976
-E,saturday,E-20,Grosse Pointe Nexus,0,6976
-E,saturday,E-21,Grosse Pointe Nexus,0,6976
-E,saturday,E-22,Grosse Pointe Nexus,0,6976
-E,saturday,E-23,Grosse Pointe Nexus,0,6976
-E,saturday,E-24,Grosse Pointe Nexus,0,6976
-E,saturday,E-25,Grosse Pointe Nexus,0,6976
-E,saturday,E-26,Grosse Pointe Nexus,0,6976
-E,saturday,E-27,Grosse Pointe Nexus,0,6976
-E,saturday,E-28,Grosse Pointe Nexus,0,6976
-E,saturday,E-29,Grosse Pointe Nexus,0,6976
-E,saturday,E-30,Grosse Pointe Nexus,0,6976
-E,saturday,E-31,Grosse Pointe Nexus,0,6976
-E,saturday,E-32,Grosse Pointe Nexus,0,6976
-E,saturday,E-33,Grosse Pointe Nexus,0,6976
-E,saturday,E-34,Grosse Pointe Nexus,0,6976
-E,saturday,E-35,Grosse Pointe Nexus,0,6976
-E,saturday,E-36,Grosse Pointe Nexus,0,6976
-E,saturday,E-37,Grosse Pointe Nexus,0,6976
-E,saturday,E-38,Grosse Pointe Nexus,0,6976
-E,saturday,E-39,Grosse Pointe Nexus,0,6976
-E,saturday,E-40,Grosse Pointe Nexus,0,6976
-E,saturday,E-41,Grosse Pointe Nexus,0,6976
-E,saturday,E-42,Grosse Pointe Nexus,0,6976
-E,saturday,E-43,Grosse Pointe Nexus,0,6976
-E,saturday,E-44,Grosse Pointe Nexus,0,6976
-E,saturday,E-45,Grosse Pointe Nexus,0,6976
-E,saturday,E-46,Grosse Pointe Nexus,0,6976
-E,saturday,E-47,Grosse Pointe Nexus,0,6976
-E,saturday,E-48,Grosse Pointe Nexus,0,6976
-E,saturday,E-49,Grosse Pointe Nexus,0,6976
-E,saturday,E-50,Grosse Pointe Nexus,0,6976
-E,saturday,E-51,Grosse Pointe Nexus,0,6976
-E,saturday,E-52,Oakland Mall,1,6974
-E,saturday,E-53,Oakland Mall,1,6974
-E,saturday,E-54,Oakland Mall,1,6974
-E,saturday,E-55,Oakland Mall,1,6974
-E,saturday,E-56,Oakland Mall,1,6974
-E,saturday,E-57,Oakland Mall,1,6974
-E,saturday,E-58,Oakland Mall,1,6974
-E,saturday,E-59,Oakland Mall,1,6974
-E,saturday,E-60,Oakland Mall,1,6974
-E,saturday,E-61,Oakland Mall,1,6974
-E,saturday,E-62,Oakland Mall,1,6974
-E,saturday,E-63,Oakland Mall,1,6974
-E,saturday,E-64,Oakland Mall,1,6974
-E,saturday,E-65,Oakland Mall,1,6974
-E,saturday,E-66,Oakland Mall,1,6974
-E,saturday,E-67,Oakland Mall,1,6974
-E,saturday,E-68,Oakland Mall,1,6974
-E,saturday,E-69,Oakland Mall,1,6974
-E,saturday,E-70,Oakland Mall,1,6974
-E,saturday,E-71,Oakland Mall,1,6974
-E,saturday,E-72,Oakland Mall,1,6974
-E,saturday,E-73,Oakland Mall,1,6974
-E,saturday,E-74,Oakland Mall,1,6974
-E,saturday,E-75,Oakland Mall,1,6974
-E,saturday,E-76,Oakland Mall,1,6974
-E,saturday,E-77,Oakland Mall,1,6974
-E,saturday,E-78,Oakland Mall,1,6974
-E,saturday,E-79,Oakland Mall,1,6974
-E,saturday,E-80,Oakland Mall,1,6974
-E,saturday,E-81,Oakland Mall,1,6974
-E,saturday,E-82,Oakland Mall,1,6974
-E,saturday,E-83,Oakland Mall,1,6974
-E,saturday,E-84,Oakland Mall,1,6974
-E,saturday,E-85,Oakland Mall,1,6974
-E,saturday,E-86,Oakland Mall,1,6974
-E,saturday,E-87,Oakland Mall,1,6974
-E,saturday,E-88,Oakland Mall,1,6974
-E,saturday,E-89,Oakland Mall,1,6974
-E,saturday,E-90,Oakland Mall,1,6974
-E,saturday,E-91,Oakland Mall,1,6974
-E,saturday,E-92,Oakland Mall,1,6974
-E,saturday,E-93,Oakland Mall,1,6974
-E,saturday,E-94,Oakland Mall,1,6974
-E,saturday,E-95,Oakland Mall,1,6974
-E,saturday,E-96,Oakland Mall,1,6974
-E,saturday,E-97,Oakland Mall,1,6974
-E,saturday,E-98,Oakland Mall,1,6974
-E,saturday,E-99,Oakland Mall,1,6974
-E,saturday,E-100,Oakland Mall,1,6974
-E,saturday,E-101,Oakland Mall,1,6974
-E,sunday,E-102,Grosse Pointe Nexus,0,6976
-E,sunday,E-103,Grosse Pointe Nexus,0,6976
-E,sunday,E-104,Grosse Pointe Nexus,0,6976
-E,sunday,E-105,Grosse Pointe Nexus,0,6976
-E,sunday,E-106,Grosse Pointe Nexus,0,6976
-E,sunday,E-107,Grosse Pointe Nexus,0,6976
-E,sunday,E-108,Grosse Pointe Nexus,0,6976
-E,sunday,E-109,Grosse Pointe Nexus,0,6976
-E,sunday,E-110,Grosse Pointe Nexus,0,6976
-E,sunday,E-111,Grosse Pointe Nexus,0,6976
-E,sunday,E-112,Grosse Pointe Nexus,0,6976
-E,sunday,E-113,Grosse Pointe Nexus,0,6976
-E,sunday,E-114,Grosse Pointe Nexus,0,6976
-E,sunday,E-115,Grosse Pointe Nexus,0,6976
-E,sunday,E-116,Grosse Pointe Nexus,0,6976
-E,sunday,E-117,Grosse Pointe Nexus,0,6976
-E,sunday,E-118,Grosse Pointe Nexus,0,6976
-E,sunday,E-119,Grosse Pointe Nexus,0,6976
-E,sunday,E-120,Grosse Pointe Nexus,0,6976
-E,sunday,E-121,Grosse Pointe Nexus,0,6976
-E,sunday,E-122,Grosse Pointe Nexus,0,6976
-E,sunday,E-123,Grosse Pointe Nexus,0,6976
-E,sunday,E-124,Grosse Pointe Nexus,0,6976
-E,sunday,E-125,Grosse Pointe Nexus,0,6976
-E,sunday,E-126,Grosse Pointe Nexus,0,6976
-E,sunday,E-127,Grosse Pointe Nexus,0,6976
-E,sunday,E-128,Grosse Pointe Nexus,0,6976
-E,sunday,E-129,Grosse Pointe Nexus,0,6976
-E,sunday,E-130,Grosse Pointe Nexus,0,6976
-E,sunday,E-131,Grosse Pointe Nexus,0,6976
-E,sunday,E-132,Grosse Pointe Nexus,0,6976
-E,sunday,E-133,Grosse Pointe Nexus,0,6976
-E,sunday,E-134,Grosse Pointe Nexus,0,6976
-E,sunday,E-135,Oakland Mall,1,6974
-E,sunday,E-136,Oakland Mall,1,6974
-E,sunday,E-137,Oakland Mall,1,6974
-E,sunday,E-138,Oakland Mall,1,6974
-E,sunday,E-139,Oakland Mall,1,6974
-E,sunday,E-140,Oakland Mall,1,6974
-E,sunday,E-141,Oakland Mall,1,6974
-E,sunday,E-142,Oakland Mall,1,6974
-E,sunday,E-143,Oakland Mall,1,6974
-E,sunday,E-144,Oakland Mall,1,6974
-E,sunday,E-145,Oakland Mall,1,6974
-E,sunday,E-146,Oakland Mall,1,6974
-E,sunday,E-147,Oakland Mall,1,6974
-E,sunday,E-148,Oakland Mall,1,6974
-E,sunday,E-149,Oakland Mall,1,6974
-E,sunday,E-150,Oakland Mall,1,6974
-E,sunday,E-151,Oakland Mall,1,6974
-E,sunday,E-152,Oakland Mall,1,6974
-E,sunday,E-153,Oakland Mall,1,6974
-E,sunday,E-154,Oakland Mall,1,6974
-E,sunday,E-155,Oakland Mall,1,6974
-E,sunday,E-156,Oakland Mall,1,6974
-E,sunday,E-157,Oakland Mall,1,6974
-E,sunday,E-158,Oakland Mall,1,6974
-E,sunday,E-159,Oakland Mall,1,6974
-E,sunday,E-160,Oakland Mall,1,6974
-E,sunday,E-161,Oakland Mall,1,6974
-E,sunday,E-162,Oakland Mall,1,6974
-E,sunday,E-163,Oakland Mall,1,6974
-E,sunday,E-164,Oakland Mall,1,6974
-E,sunday,E-165,Oakland Mall,1,6974
-E,weekday,E-166,Grosse Pointe Nexus,0,6976
-E,weekday,E-167,Grosse Pointe Nexus,0,6976
-E,weekday,E-168,Grosse Pointe Nexus,0,6976
-E,weekday,E-169,Grosse Pointe Nexus,0,6976
-E,weekday,E-170,Grosse Pointe Nexus,0,6976
-E,weekday,E-171,Grosse Pointe Nexus,0,6976
-E,weekday,E-172,Grosse Pointe Nexus,0,6976
-E,weekday,E-173,Grosse Pointe Nexus,0,6976
-E,weekday,E-174,Grosse Pointe Nexus,0,6976
-E,weekday,E-175,Grosse Pointe Nexus,0,6976
-E,weekday,E-176,Grosse Pointe Nexus,0,6976
-E,weekday,E-177,Grosse Pointe Nexus,0,6976
-E,weekday,E-178,Grosse Pointe Nexus,0,6976
-E,weekday,E-179,Grosse Pointe Nexus,0,6976
-E,weekday,E-180,Grosse Pointe Nexus,0,6976
-E,weekday,E-181,Grosse Pointe Nexus,0,6976
-E,weekday,E-182,Grosse Pointe Nexus,0,6976
-E,weekday,E-183,Grosse Pointe Nexus,0,6976
-E,weekday,E-184,Grosse Pointe Nexus,0,6976
-E,weekday,E-185,Grosse Pointe Nexus,0,6976
-E,weekday,E-186,Grosse Pointe Nexus,0,6976
-E,weekday,E-187,Grosse Pointe Nexus,0,6976
-E,weekday,E-188,Grosse Pointe Nexus,0,6976
-E,weekday,E-189,Grosse Pointe Nexus,0,6976
-E,weekday,E-190,Grosse Pointe Nexus,0,6976
-E,weekday,E-191,Grosse Pointe Nexus,0,6976
-E,weekday,E-192,Grosse Pointe Nexus,0,6976
-E,weekday,E-193,Grosse Pointe Nexus,0,6976
-E,weekday,E-194,Grosse Pointe Nexus,0,6976
-E,weekday,E-195,Grosse Pointe Nexus,0,6976
-E,weekday,E-196,Grosse Pointe Nexus,0,6976
-E,weekday,E-197,Grosse Pointe Nexus,0,6976
-E,weekday,E-198,Grosse Pointe Nexus,0,6976
-E,weekday,E-199,Grosse Pointe Nexus,0,6976
-E,weekday,E-200,Grosse Pointe Nexus,0,6976
-E,weekday,E-201,Grosse Pointe Nexus,0,6976
-E,weekday,E-202,Grosse Pointe Nexus,0,6976
-E,weekday,E-203,Grosse Pointe Nexus,0,6976
-E,weekday,E-204,Grosse Pointe Nexus,0,6976
-E,weekday,E-205,Grosse Pointe Nexus,0,6976
-E,weekday,E-206,Grosse Pointe Nexus,0,6976
-E,weekday,E-207,Grosse Pointe Nexus,0,6976
-E,weekday,E-208,Grosse Pointe Nexus,0,6976
-E,weekday,E-209,Grosse Pointe Nexus,0,6976
-E,weekday,E-210,Grosse Pointe Nexus,0,6976
-E,weekday,E-211,Grosse Pointe Nexus,0,6976
-E,weekday,E-212,Grosse Pointe Nexus,0,6976
-E,weekday,E-213,Grosse Pointe Nexus,0,6976
-E,weekday,E-214,Grosse Pointe Nexus,0,6976
-E,weekday,E-215,Grosse Pointe Nexus,0,6976
-E,weekday,E-216,Grosse Pointe Nexus,0,6976
-E,weekday,E-217,Grosse Pointe Nexus,0,6976
-E,weekday,E-218,Grosse Pointe Nexus,0,6976
-E,weekday,E-219,Grosse Pointe Nexus,0,6976
-E,weekday,E-220,Grosse Pointe Nexus,0,6976
-E,weekday,E-221,Grosse Pointe Nexus,0,6976
-E,weekday,E-222,Grosse Pointe Nexus,0,6976
-E,weekday,E-223,Grosse Pointe Nexus,0,6976
-E,weekday,E-224,Grosse Pointe Nexus,0,6976
-E,weekday,E-225,Grosse Pointe Nexus,0,6976
-E,weekday,E-226,Grosse Pointe Nexus,0,6976
-E,weekday,E-227,Grosse Pointe Nexus,0,6976
-E,weekday,E-228,Grosse Pointe Nexus,0,6976
-E,weekday,E-229,Grosse Pointe Nexus,0,6976
-E,weekday,E-230,Grosse Pointe Nexus,0,6976
-E,weekday,E-231,Grosse Pointe Nexus,0,6976
-E,weekday,E-232,Grosse Pointe Nexus,0,6976
-E,weekday,E-233,Grosse Pointe Nexus,0,6976
-E,weekday,E-234,Grosse Pointe Nexus,0,6976
-E,weekday,E-235,Grosse Pointe Nexus,0,6976
-E,weekday,E-236,Grosse Pointe Nexus,0,6976
-E,weekday,E-237,Oakland Mall,1,6974
-E,weekday,E-238,Oakland Mall,1,6974
-E,weekday,E-239,Oakland Mall,1,6974
-E,weekday,E-240,Oakland Mall,1,6974
-E,weekday,E-241,Oakland Mall,1,6974
-E,weekday,E-242,Oakland Mall,1,6974
-E,weekday,E-243,Oakland Mall,1,6974
-E,weekday,E-244,Oakland Mall,1,6974
-E,weekday,E-245,Oakland Mall,1,6974
-E,weekday,E-246,Oakland Mall,1,6974
-E,weekday,E-247,Oakland Mall,1,6974
-E,weekday,E-248,Oakland Mall,1,6974
-E,weekday,E-249,Oakland Mall,1,6974
-E,weekday,E-250,Oakland Mall,1,6974
-E,weekday,E-251,Oakland Mall,1,6974
-E,weekday,E-252,Oakland Mall,1,6974
-E,weekday,E-253,Oakland Mall,1,6974
-E,weekday,E-254,Oakland Mall,1,6974
-E,weekday,E-255,Oakland Mall,1,6974
-E,weekday,E-256,Oakland Mall,1,6974
-E,weekday,E-257,Oakland Mall,1,6974
-E,weekday,E-258,Oakland Mall,1,6974
-E,weekday,E-259,Oakland Mall,1,6974
-E,weekday,E-260,Oakland Mall,1,6974
-E,weekday,E-261,Oakland Mall,1,6974
-E,weekday,E-262,Oakland Mall,1,6974
-E,weekday,E-263,Oakland Mall,1,6974
-E,weekday,E-264,Oakland Mall,1,6974
-E,weekday,E-265,Oakland Mall,1,6974
-E,weekday,E-266,Oakland Mall,1,6974
-E,weekday,E-267,Oakland Mall,1,6974
-E,weekday,E-268,Oakland Mall,1,6974
-E,weekday,E-269,Oakland Mall,1,6974
-E,weekday,E-270,Oakland Mall,1,6974
-E,weekday,E-271,Oakland Mall,1,6974
-E,weekday,E-272,Oakland Mall,1,6974
-E,weekday,E-273,Oakland Mall,1,6974
-E,weekday,E-274,Oakland Mall,1,6974
-E,weekday,E-275,Oakland Mall,1,6974
-E,weekday,E-276,Oakland Mall,1,6974
-E,weekday,E-277,Oakland Mall,1,6974
-E,weekday,E-278,Oakland Mall,1,6974
-E,weekday,E-279,Oakland Mall,1,6974
-E,weekday,E-280,Oakland Mall,1,6974
-E,weekday,E-281,Oakland Mall,1,6974
-E,weekday,E-282,Oakland Mall,1,6974
-E,weekday,E-283,Oakland Mall,1,6974
-E,weekday,E-284,Oakland Mall,1,6974
-E,weekday,E-285,Oakland Mall,1,6974
-E,weekday,E-286,Oakland Mall,1,6974
-E,weekday,E-287,Oakland Mall,1,6974
-E,weekday,E-288,Oakland Mall,1,6974
-E,weekday,E-289,Oakland Mall,1,6974
-E,weekday,E-290,Oakland Mall,1,6974
-E,weekday,E-291,Oakland Mall,1,6974
-E,weekday,E-292,Oakland Mall,1,6974
-E,weekday,E-293,Oakland Mall,1,6974
-E,weekday,E-294,Oakland Mall,1,6974
-E,weekday,E-295,Oakland Mall,1,6974
-E,weekday,E-296,Oakland Mall,1,6974
-E,weekday,E-297,Oakland Mall,1,6974
-E,weekday,E-298,Oakland Mall,1,6974
-E,weekday,E-299,Oakland Mall,1,6974
-E,weekday,E-300,Oakland Mall,1,6974
-E,weekday,E-301,Oakland Mall,1,6974
-E,weekday,E-302,Oakland Mall,1,6974
-E,weekday,E-303,Oakland Mall,1,6974
-E,weekday,E-304,Oakland Mall,1,6974
-E,weekday,E-305,Oakland Mall,1,6974
-E,weekday,E-306,Oakland Mall,1,6974
-E,weekday,E-307,Oakland Mall,1,6974
+E,NormalMonFri,E-1,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-2,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-3,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-4,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-5,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-6,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-7,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-8,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-9,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-10,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-11,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-12,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-13,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-14,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-15,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-16,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-17,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-18,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-19,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-20,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-21,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-22,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-23,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-24,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-25,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-26,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-27,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-28,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-29,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-30,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-31,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-32,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-33,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-34,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-35,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-36,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-37,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-38,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-39,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-40,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-41,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-42,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-43,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-44,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-45,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-46,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-47,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-48,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-49,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-50,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-51,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-52,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-53,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-54,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-55,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-56,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-57,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-58,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-59,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-60,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-61,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-62,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-63,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-64,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-65,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-66,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-67,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-68,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-69,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-70,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-71,Grosse Pointe Nexus,0,EL_E
+E,NormalMonFri,E-72,Oakland Mall,1,EL_W
+E,NormalMonFri,E-73,Oakland Mall,1,EL_W
+E,NormalMonFri,E-74,Oakland Mall,1,EL_W
+E,NormalMonFri,E-75,Oakland Mall,1,EL_W
+E,NormalMonFri,E-76,Oakland Mall,1,EL_W
+E,NormalMonFri,E-77,Oakland Mall,1,EL_W
+E,NormalMonFri,E-78,Oakland Mall,1,EL_W
+E,NormalMonFri,E-79,Oakland Mall,1,EL_W
+E,NormalMonFri,E-80,Oakland Mall,1,EL_W
+E,NormalMonFri,E-81,Oakland Mall,1,EL_W
+E,NormalMonFri,E-82,Oakland Mall,1,EL_W
+E,NormalMonFri,E-83,Oakland Mall,1,EL_W
+E,NormalMonFri,E-84,Oakland Mall,1,EL_W
+E,NormalMonFri,E-85,Oakland Mall,1,EL_W
+E,NormalMonFri,E-86,Oakland Mall,1,EL_W
+E,NormalMonFri,E-87,Oakland Mall,1,EL_W
+E,NormalMonFri,E-88,Oakland Mall,1,EL_W
+E,NormalMonFri,E-89,Oakland Mall,1,EL_W
+E,NormalMonFri,E-90,Oakland Mall,1,EL_W
+E,NormalMonFri,E-91,Oakland Mall,1,EL_W
+E,NormalMonFri,E-92,Oakland Mall,1,EL_W
+E,NormalMonFri,E-93,Oakland Mall,1,EL_W
+E,NormalMonFri,E-94,Oakland Mall,1,EL_W
+E,NormalMonFri,E-95,Oakland Mall,1,EL_W
+E,NormalMonFri,E-96,Oakland Mall,1,EL_W
+E,NormalMonFri,E-97,Oakland Mall,1,EL_W
+E,NormalMonFri,E-98,Oakland Mall,1,EL_W
+E,NormalMonFri,E-99,Oakland Mall,1,EL_W
+E,NormalMonFri,E-100,Oakland Mall,1,EL_W
+E,NormalMonFri,E-101,Oakland Mall,1,EL_W
+E,NormalMonFri,E-102,Oakland Mall,1,EL_W
+E,NormalMonFri,E-103,Oakland Mall,1,EL_W
+E,NormalMonFri,E-104,Oakland Mall,1,EL_W
+E,NormalMonFri,E-105,Oakland Mall,1,EL_W
+E,NormalMonFri,E-106,Oakland Mall,1,EL_W
+E,NormalMonFri,E-107,Oakland Mall,1,EL_W
+E,NormalMonFri,E-108,Oakland Mall,1,EL_W
+E,NormalMonFri,E-109,Oakland Mall,1,EL_W
+E,NormalMonFri,E-110,Oakland Mall,1,EL_W
+E,NormalMonFri,E-111,Oakland Mall,1,EL_W
+E,NormalMonFri,E-112,Oakland Mall,1,EL_W
+E,NormalMonFri,E-113,Oakland Mall,1,EL_W
+E,NormalMonFri,E-114,Oakland Mall,1,EL_W
+E,NormalMonFri,E-115,Oakland Mall,1,EL_W
+E,NormalMonFri,E-116,Oakland Mall,1,EL_W
+E,NormalMonFri,E-117,Oakland Mall,1,EL_W
+E,NormalMonFri,E-118,Oakland Mall,1,EL_W
+E,NormalMonFri,E-119,Oakland Mall,1,EL_W
+E,NormalMonFri,E-120,Oakland Mall,1,EL_W
+E,NormalMonFri,E-121,Oakland Mall,1,EL_W
+E,NormalMonFri,E-122,Oakland Mall,1,EL_W
+E,NormalMonFri,E-123,Oakland Mall,1,EL_W
+E,NormalMonFri,E-124,Oakland Mall,1,EL_W
+E,NormalMonFri,E-125,Oakland Mall,1,EL_W
+E,NormalMonFri,E-126,Oakland Mall,1,EL_W
+E,NormalMonFri,E-127,Oakland Mall,1,EL_W
+E,NormalMonFri,E-128,Oakland Mall,1,EL_W
+E,NormalMonFri,E-129,Oakland Mall,1,EL_W
+E,NormalMonFri,E-130,Oakland Mall,1,EL_W
+E,NormalMonFri,E-131,Oakland Mall,1,EL_W
+E,NormalMonFri,E-132,Oakland Mall,1,EL_W
+E,NormalMonFri,E-133,Oakland Mall,1,EL_W
+E,NormalMonFri,E-134,Oakland Mall,1,EL_W
+E,NormalMonFri,E-135,Oakland Mall,1,EL_W
+E,NormalMonFri,E-136,Oakland Mall,1,EL_W
+E,NormalMonFri,E-137,Oakland Mall,1,EL_W
+E,NormalMonFri,E-138,Oakland Mall,1,EL_W
+E,NormalMonFri,E-139,Oakland Mall,1,EL_W
+E,NormalMonFri,E-140,Oakland Mall,1,EL_W
+E,NormalMonFri,E-141,Oakland Mall,1,EL_W
+E,NormalMonFri,E-142,Oakland Mall,1,EL_W
+E,NormalSunday,E-143,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-144,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-145,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-146,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-147,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-148,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-149,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-150,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-151,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-152,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-153,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-154,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-155,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-156,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-157,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-158,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-159,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-160,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-161,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-162,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-163,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-164,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-165,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-166,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-167,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-168,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-169,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-170,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-171,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-172,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-173,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-174,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-175,Grosse Pointe Nexus,0,EL_E
+E,NormalSunday,E-176,Oakland Mall,1,EL_W
+E,NormalSunday,E-177,Oakland Mall,1,EL_W
+E,NormalSunday,E-178,Oakland Mall,1,EL_W
+E,NormalSunday,E-179,Oakland Mall,1,EL_W
+E,NormalSunday,E-180,Oakland Mall,1,EL_W
+E,NormalSunday,E-181,Oakland Mall,1,EL_W
+E,NormalSunday,E-182,Oakland Mall,1,EL_W
+E,NormalSunday,E-183,Oakland Mall,1,EL_W
+E,NormalSunday,E-184,Oakland Mall,1,EL_W
+E,NormalSunday,E-185,Oakland Mall,1,EL_W
+E,NormalSunday,E-186,Oakland Mall,1,EL_W
+E,NormalSunday,E-187,Oakland Mall,1,EL_W
+E,NormalSunday,E-188,Oakland Mall,1,EL_W
+E,NormalSunday,E-189,Oakland Mall,1,EL_W
+E,NormalSunday,E-190,Oakland Mall,1,EL_W
+E,NormalSunday,E-191,Oakland Mall,1,EL_W
+E,NormalSunday,E-192,Oakland Mall,1,EL_W
+E,NormalSunday,E-193,Oakland Mall,1,EL_W
+E,NormalSunday,E-194,Oakland Mall,1,EL_W
+E,NormalSunday,E-195,Oakland Mall,1,EL_W
+E,NormalSunday,E-196,Oakland Mall,1,EL_W
+E,NormalSunday,E-197,Oakland Mall,1,EL_W
+E,NormalSunday,E-198,Oakland Mall,1,EL_W
+E,NormalSunday,E-199,Oakland Mall,1,EL_W
+E,NormalSunday,E-200,Oakland Mall,1,EL_W
+E,NormalSunday,E-201,Oakland Mall,1,EL_W
+E,NormalSunday,E-202,Oakland Mall,1,EL_W
+E,NormalSunday,E-203,Oakland Mall,1,EL_W
+E,NormalSunday,E-204,Oakland Mall,1,EL_W
+E,NormalSunday,E-205,Oakland Mall,1,EL_W
+E,NormalSunday,E-206,Oakland Mall,1,EL_W
+E,SatToDaily,E-207,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-208,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-209,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-210,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-211,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-212,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-213,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-214,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-215,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-216,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-217,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-218,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-219,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-220,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-221,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-222,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-223,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-224,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-225,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-226,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-227,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-228,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-229,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-230,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-231,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-232,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-233,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-234,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-235,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-236,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-237,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-238,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-239,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-240,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-241,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-242,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-243,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-244,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-245,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-246,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-247,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-248,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-249,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-250,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-251,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-252,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-253,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-254,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-255,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-256,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-257,Grosse Pointe Nexus,0,EL_E
+E,SatToDaily,E-258,Oakland Mall,1,EL_W
+E,SatToDaily,E-259,Oakland Mall,1,EL_W
+E,SatToDaily,E-260,Oakland Mall,1,EL_W
+E,SatToDaily,E-261,Oakland Mall,1,EL_W
+E,SatToDaily,E-262,Oakland Mall,1,EL_W
+E,SatToDaily,E-263,Oakland Mall,1,EL_W
+E,SatToDaily,E-264,Oakland Mall,1,EL_W
+E,SatToDaily,E-265,Oakland Mall,1,EL_W
+E,SatToDaily,E-266,Oakland Mall,1,EL_W
+E,SatToDaily,E-267,Oakland Mall,1,EL_W
+E,SatToDaily,E-268,Oakland Mall,1,EL_W
+E,SatToDaily,E-269,Oakland Mall,1,EL_W
+E,SatToDaily,E-270,Oakland Mall,1,EL_W
+E,SatToDaily,E-271,Oakland Mall,1,EL_W
+E,SatToDaily,E-272,Oakland Mall,1,EL_W
+E,SatToDaily,E-273,Oakland Mall,1,EL_W
+E,SatToDaily,E-274,Oakland Mall,1,EL_W
+E,SatToDaily,E-275,Oakland Mall,1,EL_W
+E,SatToDaily,E-276,Oakland Mall,1,EL_W
+E,SatToDaily,E-277,Oakland Mall,1,EL_W
+E,SatToDaily,E-278,Oakland Mall,1,EL_W
+E,SatToDaily,E-279,Oakland Mall,1,EL_W
+E,SatToDaily,E-280,Oakland Mall,1,EL_W
+E,SatToDaily,E-281,Oakland Mall,1,EL_W
+E,SatToDaily,E-282,Oakland Mall,1,EL_W
+E,SatToDaily,E-283,Oakland Mall,1,EL_W
+E,SatToDaily,E-284,Oakland Mall,1,EL_W
+E,SatToDaily,E-285,Oakland Mall,1,EL_W
+E,SatToDaily,E-286,Oakland Mall,1,EL_W
+E,SatToDaily,E-287,Oakland Mall,1,EL_W
+E,SatToDaily,E-288,Oakland Mall,1,EL_W
+E,SatToDaily,E-289,Oakland Mall,1,EL_W
+E,SatToDaily,E-290,Oakland Mall,1,EL_W
+E,SatToDaily,E-291,Oakland Mall,1,EL_W
+E,SatToDaily,E-292,Oakland Mall,1,EL_W
+E,SatToDaily,E-293,Oakland Mall,1,EL_W
+E,SatToDaily,E-294,Oakland Mall,1,EL_W
+E,SatToDaily,E-295,Oakland Mall,1,EL_W
+E,SatToDaily,E-296,Oakland Mall,1,EL_W
+E,SatToDaily,E-297,Oakland Mall,1,EL_W
+E,SatToDaily,E-298,Oakland Mall,1,EL_W
+E,SatToDaily,E-299,Oakland Mall,1,EL_W
+E,SatToDaily,E-300,Oakland Mall,1,EL_W
+E,SatToDaily,E-301,Oakland Mall,1,EL_W
+E,SatToDaily,E-302,Oakland Mall,1,EL_W
+E,SatToDaily,E-303,Oakland Mall,1,EL_W
+E,SatToDaily,E-304,Oakland Mall,1,EL_W
+E,SatToDaily,E-305,Oakland Mall,1,EL_W
+E,SatToDaily,E-306,Oakland Mall,1,EL_W
+E,SatToDaily,E-307,Oakland Mall,1,EL_W

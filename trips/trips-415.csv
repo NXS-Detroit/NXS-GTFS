@@ -1,96 +1,96 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-415,saturday,415-1,Gateway Shopping Center,0,4158
-415,saturday,415-2,Gateway Shopping Center,0,4158
-415,saturday,415-3,Gateway Shopping Center,0,4158
-415,saturday,415-4,Gateway Shopping Center,0,4158
-415,saturday,415-5,Gateway Shopping Center,0,4158
-415,saturday,415-6,Gateway Shopping Center,0,4158
-415,saturday,415-7,Gateway Shopping Center,0,4158
-415,saturday,415-8,Gateway Shopping Center,0,4158
-415,saturday,415-9,Gateway Shopping Center,0,4158
-415,saturday,415-10,Gateway Shopping Center,0,4158
-415,saturday,415-11,Gateway Shopping Center,0,4158
-415,saturday,415-12,Gateway Shopping Center,0,4158
-415,saturday,415-13,Gateway Shopping Center,0,4158
-415,saturday,415-14,Gateway Shopping Center,0,4158
-415,saturday,415-15,Gateway Shopping Center,0,4158
-415,saturday,415-16,Gateway Shopping Center,0,4158
-415,saturday,415-17,Gateway Shopping Center,0,4158
-415,saturday,415-18,Gateway Shopping Center,0,4158
-415,saturday,415-19,Grand Blvd / Jefferson,1,4152
-415,saturday,415-20,Grand Blvd / Jefferson,1,4152
-415,saturday,415-21,Grand Blvd / Jefferson,1,4152
-415,saturday,415-22,Grand Blvd / Jefferson,1,4152
-415,saturday,415-23,Grand Blvd / Jefferson,1,4152
-415,saturday,415-24,Grand Blvd / Jefferson,1,4152
-415,saturday,415-25,Grand Blvd / Jefferson,1,4152
-415,saturday,415-26,Grand Blvd / Jefferson,1,4152
-415,saturday,415-27,Grand Blvd / Jefferson,1,4152
-415,saturday,415-28,Grand Blvd / Jefferson,1,4152
-415,saturday,415-29,Grand Blvd / Jefferson,1,4152
-415,saturday,415-30,Grand Blvd / Jefferson,1,4152
-415,saturday,415-31,Grand Blvd / Jefferson,1,4152
-415,saturday,415-32,Grand Blvd / Jefferson,1,4152
-415,saturday,415-33,Grand Blvd / Jefferson,1,4152
-415,saturday,415-34,Grand Blvd / Jefferson,1,4152
-415,weekday,415-35,Gateway Shopping Center,0,4158
-415,weekday,415-36,Gateway Shopping Center,0,4158
-415,weekday,415-37,Gateway Shopping Center,0,4158
-415,weekday,415-38,Gateway Shopping Center,0,4158
-415,weekday,415-39,Gateway Shopping Center,0,4158
-415,weekday,415-40,Gateway Shopping Center,0,4158
-415,weekday,415-41,Gateway Shopping Center,0,4158
-415,weekday,415-42,Gateway Shopping Center,0,4158
-415,weekday,415-43,Gateway Shopping Center,0,4158
-415,weekday,415-44,Gateway Shopping Center,0,4158
-415,weekday,415-45,Gateway Shopping Center,0,4158
-415,weekday,415-46,Gateway Shopping Center,0,4158
-415,weekday,415-47,Gateway Shopping Center,0,4158
-415,weekday,415-48,Gateway Shopping Center,0,4158
-415,weekday,415-49,Gateway Shopping Center,0,4158
-415,weekday,415-50,Gateway Shopping Center,0,4158
-415,weekday,415-51,Gateway Shopping Center,0,4158
-415,weekday,415-52,Gateway Shopping Center,0,4158
-415,weekday,415-53,Gateway Shopping Center,0,4158
-415,weekday,415-54,Gateway Shopping Center,0,4158
-415,weekday,415-55,Gateway Shopping Center,0,4158
-415,weekday,415-56,Gateway Shopping Center,0,4158
-415,weekday,415-57,Gateway Shopping Center,0,4158
-415,weekday,415-58,Gateway Shopping Center,0,4158
-415,weekday,415-59,Gateway Shopping Center,0,4158
-415,weekday,415-60,Gateway Shopping Center,0,4158
-415,weekday,415-61,Gateway Shopping Center,0,4158
-415,weekday,415-62,Gateway Shopping Center,0,4158
-415,weekday,415-63,Gateway Shopping Center,0,4158
-415,weekday,415-64,Gateway Shopping Center,0,4158
-415,weekday,415-65,Gateway Shopping Center,0,4158
-415,weekday,415-66,Grand Blvd / Jefferson,1,4152
-415,weekday,415-67,Grand Blvd / Jefferson,1,4152
-415,weekday,415-68,Grand Blvd / Jefferson,1,4152
-415,weekday,415-69,Grand Blvd / Jefferson,1,4152
-415,weekday,415-70,Grand Blvd / Jefferson,1,4152
-415,weekday,415-71,Grand Blvd / Jefferson,1,4152
-415,weekday,415-72,Grand Blvd / Jefferson,1,4152
-415,weekday,415-73,Grand Blvd / Jefferson,1,4152
-415,weekday,415-74,Grand Blvd / Jefferson,1,4152
-415,weekday,415-75,Grand Blvd / Jefferson,1,4152
-415,weekday,415-76,Grand Blvd / Jefferson,1,4152
-415,weekday,415-77,Grand Blvd / Jefferson,1,4152
-415,weekday,415-78,Grand Blvd / Jefferson,1,4152
-415,weekday,415-79,Grand Blvd / Jefferson,1,4152
-415,weekday,415-80,Grand Blvd / Jefferson,1,4152
-415,weekday,415-81,Grand Blvd / Jefferson,1,4152
-415,weekday,415-82,Grand Blvd / Jefferson,1,4152
-415,weekday,415-83,Grand Blvd / Jefferson,1,4152
-415,weekday,415-84,Grand Blvd / Jefferson,1,4152
-415,weekday,415-85,Grand Blvd / Jefferson,1,4152
-415,weekday,415-86,Grand Blvd / Jefferson,1,4152
-415,weekday,415-87,Grand Blvd / Jefferson,1,4152
-415,weekday,415-88,Grand Blvd / Jefferson,1,4152
-415,weekday,415-89,Grand Blvd / Jefferson,1,4152
-415,weekday,415-90,Grand Blvd / Jefferson,1,4152
-415,weekday,415-91,Grand Blvd / Jefferson,1,4152
-415,weekday,415-92,Grand Blvd / Jefferson,1,4152
-415,weekday,415-93,Grand Blvd / Jefferson,1,4152
-415,weekday,415-94,Grand Blvd / Jefferson,1,4152
-415,weekday,415-95,Grand Blvd / Jefferson,1,4152
+415,NormalMonFri,415-1,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-2,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-3,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-4,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-5,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-6,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-7,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-8,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-9,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-10,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-11,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-12,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-13,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-14,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-15,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-16,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-17,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-18,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-19,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-20,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-21,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-22,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-23,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-24,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-25,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-26,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-27,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-28,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-29,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-30,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-31,Gateway Shopping Center,0,415_N
+415,NormalMonFri,415-32,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-33,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-34,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-35,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-36,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-37,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-38,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-39,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-40,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-41,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-42,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-43,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-44,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-45,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-46,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-47,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-48,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-49,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-50,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-51,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-52,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-53,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-54,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-55,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-56,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-57,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-58,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-59,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-60,Grand Blvd / Jefferson,1,415_S
+415,NormalMonFri,415-61,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-62,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-63,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-64,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-65,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-66,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-67,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-68,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-69,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-70,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-71,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-72,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-73,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-74,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-75,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-76,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-77,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-78,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-79,Gateway Shopping Center,0,415_N
+415,SatToMonSat,415-80,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-81,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-82,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-83,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-84,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-85,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-86,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-87,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-88,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-89,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-90,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-91,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-92,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-93,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-94,Grand Blvd / Jefferson,1,415_S
+415,SatToMonSat,415-95,Grand Blvd / Jefferson,1,415_S

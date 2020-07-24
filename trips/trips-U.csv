@@ -1,67 +1,67 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-U,preholiday,U-1,Chesterfield Meijer,0,6958
-U,preholiday,U-2,Chesterfield Meijer,0,6958
-U,preholiday,U-3,Chesterfield Meijer,0,6958
-U,preholiday,U-4,Chesterfield Meijer,0,6958
-U,preholiday,U-5,Chesterfield Meijer,0,6958
-U,preholiday,U-6,Chesterfield Meijer,0,6958
-U,preholiday,U-7,Chesterfield Meijer,0,6958
-U,preholiday,U-8,Chesterfield Meijer,0,6958
-U,preholiday,U-9,Chesterfield Meijer,0,6958
-U,preholiday,U-10,Chesterfield Meijer,0,6958
-U,preholiday,U-11,New Center Nexus,1,6952
-U,preholiday,U-12,New Center Nexus,1,6952
-U,preholiday,U-13,New Center Nexus,1,6952
-U,preholiday,U-14,New Center Nexus,1,6952
-U,preholiday,U-15,New Center Nexus,1,6952
-U,preholiday,U-16,New Center Nexus,1,6952
-U,preholiday,U-17,New Center Nexus,1,6952
-U,preholiday,U-18,New Center Nexus,1,6952
-U,preholiday,U-19,New Center Nexus,1,6952
-U,preholiday,U-20,New Center Nexus,1,6952
-U,saturday,U-21,Chesterfield Meijer,0,6958
-U,saturday,U-22,Chesterfield Meijer,0,6958
-U,saturday,U-23,Chesterfield Meijer,0,6958
-U,saturday,U-24,Chesterfield Meijer,0,6958
-U,saturday,U-25,Chesterfield Meijer,0,6958
-U,saturday,U-26,Chesterfield Meijer,0,6958
-U,saturday,U-27,Chesterfield Meijer,0,6958
-U,saturday,U-28,New Center Nexus,1,6952
-U,saturday,U-29,New Center Nexus,1,6952
-U,saturday,U-30,New Center Nexus,1,6952
-U,saturday,U-31,New Center Nexus,1,6952
-U,saturday,U-32,New Center Nexus,1,6952
-U,saturday,U-33,New Center Nexus,1,6952
-U,saturday,U-34,New Center Nexus,1,6952
-U,sunday,U-35,Chesterfield Meijer,0,6958
-U,sunday,U-36,Chesterfield Meijer,0,6958
-U,sunday,U-37,Chesterfield Meijer,0,6958
-U,sunday,U-38,Chesterfield Meijer,0,6958
-U,sunday,U-39,Chesterfield Meijer,0,6958
-U,sunday,U-40,Chesterfield Meijer,0,6958
-U,sunday,U-41,Chesterfield Meijer,0,6958
-U,sunday,U-42,New Center Nexus,1,6952
-U,sunday,U-43,New Center Nexus,1,6952
-U,sunday,U-44,New Center Nexus,1,6952
-U,sunday,U-45,New Center Nexus,1,6952
-U,sunday,U-46,New Center Nexus,1,6952
-U,sunday,U-47,New Center Nexus,1,6952
-U,sunday,U-48,New Center Nexus,1,6952
-U,weekdaynoph,U-49,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-50,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-51,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-52,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-53,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-54,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-55,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-56,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-57,Chesterfield Meijer,0,6958
-U,weekdaynoph,U-58,New Center Nexus,1,6952
-U,weekdaynoph,U-59,New Center Nexus,1,6952
-U,weekdaynoph,U-60,New Center Nexus,1,6952
-U,weekdaynoph,U-61,New Center Nexus,1,6952
-U,weekdaynoph,U-62,New Center Nexus,1,6952
-U,weekdaynoph,U-63,New Center Nexus,1,6952
-U,weekdaynoph,U-64,New Center Nexus,1,6952
-U,weekdaynoph,U-65,New Center Nexus,1,6952
-U,weekdaynoph,U-66,New Center Nexus,1,6952
+U,NormalMonFriNoPH,U-1,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-2,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-3,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-4,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-5,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-6,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-7,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-8,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-9,Chesterfield Meijer,0,UL_N
+U,NormalMonFriNoPH,U-10,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-11,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-12,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-13,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-14,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-15,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-16,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-17,New Center Nexus,1,UL_S
+U,NormalMonFriNoPH,U-18,New Center Nexus,1,UL_S
+U,NormalSaturday,U-19,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-20,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-21,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-22,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-23,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-24,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-25,Chesterfield Meijer,0,UL_N
+U,NormalSaturday,U-26,New Center Nexus,1,UL_S
+U,NormalSaturday,U-27,New Center Nexus,1,UL_S
+U,NormalSaturday,U-28,New Center Nexus,1,UL_S
+U,NormalSaturday,U-29,New Center Nexus,1,UL_S
+U,NormalSaturday,U-30,New Center Nexus,1,UL_S
+U,NormalSaturday,U-31,New Center Nexus,1,UL_S
+U,NormalSaturday,U-32,New Center Nexus,1,UL_S
+U,NormalSunday,U-33,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-34,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-35,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-36,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-37,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-38,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-39,Chesterfield Meijer,0,UL_N
+U,NormalSunday,U-40,New Center Nexus,1,UL_S
+U,NormalSunday,U-41,New Center Nexus,1,UL_S
+U,NormalSunday,U-42,New Center Nexus,1,UL_S
+U,NormalSunday,U-43,New Center Nexus,1,UL_S
+U,NormalSunday,U-44,New Center Nexus,1,UL_S
+U,NormalSunday,U-45,New Center Nexus,1,UL_S
+U,NormalSunday,U-46,New Center Nexus,1,UL_S
+U,PreHoliday,U-47,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-48,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-49,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-50,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-51,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-52,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-53,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-54,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-55,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-56,Chesterfield Meijer,0,UL_N
+U,PreHoliday,U-57,New Center Nexus,1,UL_S
+U,PreHoliday,U-58,New Center Nexus,1,UL_S
+U,PreHoliday,U-59,New Center Nexus,1,UL_S
+U,PreHoliday,U-60,New Center Nexus,1,UL_S
+U,PreHoliday,U-61,New Center Nexus,1,UL_S
+U,PreHoliday,U-62,New Center Nexus,1,UL_S
+U,PreHoliday,U-63,New Center Nexus,1,UL_S
+U,PreHoliday,U-64,New Center Nexus,1,UL_S
+U,PreHoliday,U-65,New Center Nexus,1,UL_S
+U,PreHoliday,U-66,New Center Nexus,1,UL_S

@@ -1,120 +1,150 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-940,saturday,940-1,Blue Water Transfer Center,0,9408
-940,saturday,940-2,Blue Water Transfer Center,0,9408
-940,saturday,940-3,Blue Water Transfer Center,0,9408
-940,saturday,940-4,Blue Water Transfer Center,0,9408
-940,saturday,940-5,Blue Water Transfer Center,0,9408
-940,saturday,940-6,Blue Water Transfer Center,0,9408
-940,saturday,940-7,Blue Water Transfer Center,0,9408
-940,saturday,940-8,Blue Water Transfer Center,0,9408
-940,saturday,940-9,Blue Water Transfer Center,0,9408
-940,saturday,940-10,Blue Water Transfer Center,0,9408
-940,saturday,940-11,Blue Water Transfer Center,0,9408
-940,saturday,940-12,Blue Water Transfer Center,0,9408
-940,saturday,940-13,Blue Water Transfer Center,0,9408
-940,saturday,940-14,Blue Water Transfer Center,0,9408
-940,saturday,940-15,Blue Water Transfer Center,0,9408
-940,saturday,940-16,Blue Water Transfer Center,0,9408
-940,saturday,940-17,Blue Water Transfer Center,0,9408
-940,saturday,940-18,Blue Water Transfer Center,0,9408
-940,saturday,940-19,Blue Water Transfer Center,0,9408
-940,saturday,940-20,Blue Water Transfer Center,0,9408
-940,saturday,940-21,Blue Water Transfer Center,0,9408
-940,saturday,940-22,Gratiot / Crocker,1,9402
-940,saturday,940-23,Gratiot / Crocker,1,9402
-940,saturday,940-24,Gratiot / Crocker,1,9402
-940,saturday,940-25,Gratiot / Crocker,1,9402
-940,saturday,940-26,Gratiot / Crocker,1,9402
-940,saturday,940-27,Gratiot / Crocker,1,9402
-940,saturday,940-28,Gratiot / Crocker,1,9402
-940,saturday,940-29,Gratiot / Crocker,1,9402
-940,saturday,940-30,Gratiot / Crocker,1,9402
-940,saturday,940-31,Gratiot / Crocker,1,9402
-940,saturday,940-32,Gratiot / Crocker,1,9402
-940,saturday,940-33,Gratiot / Crocker,1,9402
-940,saturday,940-34,Gratiot / Crocker,1,9402
-940,saturday,940-35,Gratiot / Crocker,1,9402
-940,saturday,940-36,Gratiot / Crocker,1,9402
-940,saturday,940-37,Gratiot / Crocker,1,9402
-940,saturday,940-38,Gratiot / Crocker,1,9402
-940,saturday,940-39,Gratiot / Crocker,1,9402
-940,saturday,940-40,Gratiot / Crocker,1,9402
-940,saturday,940-41,Gratiot / Crocker,1,9402
-940,saturday,940-42,Gratiot / Crocker,1,9402
-940,sunday,940-43,Blue Water Transfer Center,0,9408
-940,sunday,940-44,Blue Water Transfer Center,0,9408
-940,sunday,940-45,Blue Water Transfer Center,0,9408
-940,sunday,940-46,Blue Water Transfer Center,0,9408
-940,sunday,940-47,Blue Water Transfer Center,0,9408
-940,sunday,940-48,Blue Water Transfer Center,0,9408
-940,sunday,940-49,Blue Water Transfer Center,0,9408
-940,sunday,940-50,Blue Water Transfer Center,0,9408
-940,sunday,940-51,Blue Water Transfer Center,0,9408
-940,sunday,940-52,Blue Water Transfer Center,0,9408
-940,sunday,940-53,Blue Water Transfer Center,0,9408
-940,sunday,940-54,Blue Water Transfer Center,0,9408
-940,sunday,940-55,Gratiot / Crocker,1,9402
-940,sunday,940-56,Gratiot / Crocker,1,9402
-940,sunday,940-57,Gratiot / Crocker,1,9402
-940,sunday,940-58,Gratiot / Crocker,1,9402
-940,sunday,940-59,Gratiot / Crocker,1,9402
-940,sunday,940-60,Gratiot / Crocker,1,9402
-940,sunday,940-61,Gratiot / Crocker,1,9402
-940,sunday,940-62,Gratiot / Crocker,1,9402
-940,sunday,940-63,Gratiot / Crocker,1,9402
-940,sunday,940-64,Gratiot / Crocker,1,9402
-940,sunday,940-65,Gratiot / Crocker,1,9402
-940,sunday,940-66,Gratiot / Crocker,1,9402
-940,weekday,940-67,Blue Water Transfer Center,0,9408
-940,weekday,940-68,Blue Water Transfer Center,0,9408
-940,weekday,940-69,Blue Water Transfer Center,0,9408
-940,weekday,940-70,Blue Water Transfer Center,0,9408
-940,weekday,940-71,Blue Water Transfer Center,0,9408
-940,weekday,940-72,Blue Water Transfer Center,0,9408
-940,weekday,940-73,Blue Water Transfer Center,0,9408
-940,weekday,940-74,Blue Water Transfer Center,0,9408
-940,weekday,940-75,Blue Water Transfer Center,0,9408
-940,weekday,940-76,Blue Water Transfer Center,0,9408
-940,weekday,940-77,Blue Water Transfer Center,0,9408
-940,weekday,940-78,Blue Water Transfer Center,0,9408
-940,weekday,940-79,Blue Water Transfer Center,0,9408
-940,weekday,940-80,Blue Water Transfer Center,0,9408
-940,weekday,940-81,Blue Water Transfer Center,0,9408
-940,weekday,940-82,Blue Water Transfer Center,0,9408
-940,weekday,940-83,Blue Water Transfer Center,0,9408
-940,weekday,940-84,Blue Water Transfer Center,0,9408
-940,weekday,940-85,Blue Water Transfer Center,0,9408
-940,weekday,940-86,Blue Water Transfer Center,0,9408
-940,weekday,940-87,Blue Water Transfer Center,0,9408
-940,weekday,940-88,Blue Water Transfer Center,0,9408
-940,weekday,940-89,Blue Water Transfer Center,0,9408
-940,weekday,940-90,Blue Water Transfer Center,0,9408
-940,weekday,940-91,Blue Water Transfer Center,0,9408
-940,weekday,940-92,Blue Water Transfer Center,0,9408
-940,weekday,940-93,Gratiot / Crocker,1,9402
-940,weekday,940-94,Gratiot / Crocker,1,9402
-940,weekday,940-95,Gratiot / Crocker,1,9402
-940,weekday,940-96,Gratiot / Crocker,1,9402
-940,weekday,940-97,Gratiot / Crocker,1,9402
-940,weekday,940-98,Gratiot / Crocker,1,9402
-940,weekday,940-99,Gratiot / Crocker,1,9402
-940,weekday,940-100,Gratiot / Crocker,1,9402
-940,weekday,940-101,Gratiot / Crocker,1,9402
-940,weekday,940-102,Gratiot / Crocker,1,9402
-940,weekday,940-103,Gratiot / Crocker,1,9402
-940,weekday,940-104,Gratiot / Crocker,1,9402
-940,weekday,940-105,Gratiot / Crocker,1,9402
-940,weekday,940-106,Gratiot / Crocker,1,9402
-940,weekday,940-107,Gratiot / Crocker,1,9402
-940,weekday,940-108,Gratiot / Crocker,1,9402
-940,weekday,940-109,Gratiot / Crocker,1,9402
-940,weekday,940-110,Gratiot / Crocker,1,9402
-940,weekday,940-111,Gratiot / Crocker,1,9402
-940,weekday,940-112,Gratiot / Crocker,1,9402
-940,weekday,940-113,Gratiot / Crocker,1,9402
-940,weekday,940-114,Gratiot / Crocker,1,9402
-940,weekday,940-115,Gratiot / Crocker,1,9402
-940,weekday,940-116,Gratiot / Crocker,1,9402
-940,weekday,940-117,Gratiot / Crocker,1,9402
-940,weekday,940-118,Gratiot / Crocker,1,9402
-943,weekday,940-119,Gratiot / Crocker,1,9431
+940,CovidMonSat,940-1,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-2,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-3,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-4,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-5,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-6,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-7,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-8,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-9,Blue Water Transfer Center,0,940_N
+940,CovidMonSat,940-10,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-11,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-12,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-13,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-14,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-15,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-16,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-17,Gratiot / Crocker,1,940_S
+940,CovidMonSat,940-18,Gratiot / Crocker,1,940_S
+940,CovidSunday,940-19,Blue Water Transfer Center,0,940_N
+940,CovidSunday,940-20,Blue Water Transfer Center,0,940_N
+940,CovidSunday,940-21,Blue Water Transfer Center,0,940_N
+940,CovidSunday,940-22,Blue Water Transfer Center,0,940_N
+940,CovidSunday,940-23,Blue Water Transfer Center,0,940_N
+940,CovidSunday,940-24,Gratiot / Crocker,1,940_S
+940,CovidSunday,940-25,Gratiot / Crocker,1,940_S
+940,CovidSunday,940-26,Gratiot / Crocker,1,940_S
+940,CovidSunday,940-27,Gratiot / Crocker,1,940_S
+940,CovidSunday,940-28,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-29,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-30,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-31,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-32,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-33,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-34,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-35,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-36,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-37,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-38,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-39,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-40,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-41,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-42,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-43,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-44,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-45,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-46,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-47,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-48,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-49,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-50,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-51,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-52,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-53,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-54,Blue Water Transfer Center,0,940_N
+940,NormalMonFri,940-55,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-56,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-57,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-58,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-59,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-60,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-61,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-62,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-63,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-64,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-65,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-66,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-67,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-68,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-69,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-70,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-71,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-72,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-73,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-74,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-75,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-76,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-77,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-78,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-79,Gratiot / Crocker,1,940_S
+940,NormalMonFri,940-80,Gratiot / Crocker,1,940_S
+943,NormalMonFri,940-81,Gratiot / Crocker,1,943_S_HS
+940,NormalSaturday,940-82,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-83,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-84,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-85,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-86,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-87,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-88,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-89,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-90,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-91,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-92,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-93,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-94,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-95,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-96,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-97,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-98,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-99,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-100,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-101,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-102,Blue Water Transfer Center,0,940_N
+940,NormalSaturday,940-103,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-104,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-105,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-106,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-107,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-108,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-109,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-110,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-111,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-112,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-113,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-114,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-115,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-116,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-117,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-118,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-119,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-120,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-121,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-122,Gratiot / Crocker,1,940_S
+940,NormalSaturday,940-123,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-124,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-125,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-126,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-127,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-128,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-129,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-130,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-131,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-132,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-133,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-134,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-135,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-136,Blue Water Transfer Center,0,940_N
+940,NormalSunday,940-137,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-138,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-139,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-140,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-141,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-142,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-143,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-144,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-145,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-146,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-147,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-148,Gratiot / Crocker,1,940_S
+940,NormalSunday,940-149,Gratiot / Crocker,1,940_S

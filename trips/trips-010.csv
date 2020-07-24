@@ -1,194 +1,194 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-010,saturday,010-1,Grosse Pointe Nexus,0,0106
-010,saturday,010-2,Grosse Pointe Nexus,0,0106
-010,saturday,010-3,Grosse Pointe Nexus,0,0106
-010,saturday,010-4,Grosse Pointe Nexus,0,0106
-010,saturday,010-5,Grosse Pointe Nexus,0,0106
-010,saturday,010-6,Grosse Pointe Nexus,0,0106
-010,saturday,010-7,Grosse Pointe Nexus,0,0106
-010,saturday,010-8,Grosse Pointe Nexus,0,0106
-010,saturday,010-9,Grosse Pointe Nexus,0,0106
-010,saturday,010-10,Grosse Pointe Nexus,0,0106
-010,saturday,010-11,Grosse Pointe Nexus,0,0106
-010,saturday,010-12,Grosse Pointe Nexus,0,0106
-010,saturday,010-13,Grosse Pointe Nexus,0,0106
-010,saturday,010-14,Grosse Pointe Nexus,0,0106
-010,saturday,010-15,Grosse Pointe Nexus,0,0106
-010,saturday,010-16,Grosse Pointe Nexus,0,0106
-010,saturday,010-17,Grosse Pointe Nexus,0,0106
-010,saturday,010-18,Grosse Pointe Nexus,0,0106
-010,saturday,010-19,Grosse Pointe Nexus,0,0106
-010,saturday,010-20,Grosse Pointe Nexus,0,0106
-010,saturday,010-21,Grosse Pointe Nexus,0,0106
-010,saturday,010-22,Grosse Pointe Nexus,0,0106
-010,saturday,010-23,Grosse Pointe Nexus,0,0106
-010,saturday,010-24,Grosse Pointe Nexus,0,0106
-010,saturday,010-25,Grosse Pointe Nexus,0,0106
-010,saturday,010-26,Grosse Pointe Nexus,0,0106
-010,saturday,010-27,Grosse Pointe Nexus,0,0106
-010,saturday,010-28,Grosse Pointe Nexus,0,0106
-010,saturday,010-29,Grosse Pointe Nexus,0,0106
-010,saturday,010-30,Grosse Pointe Nexus,0,0106
-010,saturday,010-31,Northridge Commons,1,0104
-010,saturday,010-32,Northridge Commons,1,0104
-010,saturday,010-33,Northridge Commons,1,0104
-010,saturday,010-34,Northridge Commons,1,0104
-010,saturday,010-35,Northridge Commons,1,0104
-010,saturday,010-36,Northridge Commons,1,0104
-010,saturday,010-37,Northridge Commons,1,0104
-010,saturday,010-38,Northridge Commons,1,0104
-010,saturday,010-39,Northridge Commons,1,0104
-010,saturday,010-40,Northridge Commons,1,0104
-010,saturday,010-41,Northridge Commons,1,0104
-010,saturday,010-42,Northridge Commons,1,0104
-010,saturday,010-43,Northridge Commons,1,0104
-010,saturday,010-44,Northridge Commons,1,0104
-010,saturday,010-45,Northridge Commons,1,0104
-010,saturday,010-46,Northridge Commons,1,0104
-010,saturday,010-47,Northridge Commons,1,0104
-010,saturday,010-48,Northridge Commons,1,0104
-010,saturday,010-49,Northridge Commons,1,0104
-010,saturday,010-50,Northridge Commons,1,0104
-010,saturday,010-51,Northridge Commons,1,0104
-010,saturday,010-52,Northridge Commons,1,0104
-010,saturday,010-53,Northridge Commons,1,0104
-010,saturday,010-54,Northridge Commons,1,0104
-010,saturday,010-55,Northridge Commons,1,0104
-010,saturday,010-56,Northridge Commons,1,0104
-010,saturday,010-57,Northridge Commons,1,0104
-010,saturday,010-58,Northridge Commons,1,0104
-010,saturday,010-59,Northridge Commons,1,0104
-010,saturday,010-60,Northridge Commons,1,0104
-010,sunday,010-61,Grosse Pointe Nexus,0,0106
-010,sunday,010-62,Grosse Pointe Nexus,0,0106
-010,sunday,010-63,Grosse Pointe Nexus,0,0106
-010,sunday,010-64,Grosse Pointe Nexus,0,0106
-010,sunday,010-65,Grosse Pointe Nexus,0,0106
-010,sunday,010-66,Grosse Pointe Nexus,0,0106
-010,sunday,010-67,Grosse Pointe Nexus,0,0106
-010,sunday,010-68,Grosse Pointe Nexus,0,0106
-010,sunday,010-69,Grosse Pointe Nexus,0,0106
-010,sunday,010-70,Grosse Pointe Nexus,0,0106
-010,sunday,010-71,Grosse Pointe Nexus,0,0106
-010,sunday,010-72,Grosse Pointe Nexus,0,0106
-010,sunday,010-73,Grosse Pointe Nexus,0,0106
-010,sunday,010-74,Grosse Pointe Nexus,0,0106
-010,sunday,010-75,Grosse Pointe Nexus,0,0106
-010,sunday,010-76,Grosse Pointe Nexus,0,0106
-010,sunday,010-77,Grosse Pointe Nexus,0,0106
-010,sunday,010-78,Grosse Pointe Nexus,0,0106
-010,sunday,010-79,Grosse Pointe Nexus,0,0106
-010,sunday,010-80,Grosse Pointe Nexus,0,0106
-010,sunday,010-81,Northridge Commons,1,0104
-010,sunday,010-82,Northridge Commons,1,0104
-010,sunday,010-83,Northridge Commons,1,0104
-010,sunday,010-84,Northridge Commons,1,0104
-010,sunday,010-85,Northridge Commons,1,0104
-010,sunday,010-86,Northridge Commons,1,0104
-010,sunday,010-87,Northridge Commons,1,0104
-010,sunday,010-88,Northridge Commons,1,0104
-010,sunday,010-89,Northridge Commons,1,0104
-010,sunday,010-90,Northridge Commons,1,0104
-010,sunday,010-91,Northridge Commons,1,0104
-010,sunday,010-92,Northridge Commons,1,0104
-010,sunday,010-93,Northridge Commons,1,0104
-010,sunday,010-94,Northridge Commons,1,0104
-010,sunday,010-95,Northridge Commons,1,0104
-010,sunday,010-96,Northridge Commons,1,0104
-010,sunday,010-97,Northridge Commons,1,0104
-010,sunday,010-98,Northridge Commons,1,0104
-010,sunday,010-99,Northridge Commons,1,0104
-010,sunday,010-100,Northridge Commons,1,0104
-010,weekday,010-101,Grosse Pointe Nexus,0,0106
-010,weekday,010-102,Grosse Pointe Nexus,0,0106
-010,weekday,010-103,Grosse Pointe Nexus,0,0106
-010,weekday,010-104,Grosse Pointe Nexus,0,0106
-010,weekday,010-105,Grosse Pointe Nexus,0,0106
-010,weekday,010-106,Grosse Pointe Nexus,0,0106
-010,weekday,010-107,Grosse Pointe Nexus,0,0106
-010,weekday,010-108,Grosse Pointe Nexus,0,0106
-010,weekday,010-109,Grosse Pointe Nexus,0,0106
-010,weekday,010-110,Grosse Pointe Nexus,0,0106
-010,weekday,010-111,Grosse Pointe Nexus,0,0106
-010,weekday,010-112,Grosse Pointe Nexus,0,0106
-010,weekday,010-113,Grosse Pointe Nexus,0,0106
-010,weekday,010-114,Grosse Pointe Nexus,0,0106
-010,weekday,010-115,Grosse Pointe Nexus,0,0106
-010,weekday,010-116,Grosse Pointe Nexus,0,0106
-010,weekday,010-117,Grosse Pointe Nexus,0,0106
-010,weekday,010-118,Grosse Pointe Nexus,0,0106
-010,weekday,010-119,Grosse Pointe Nexus,0,0106
-010,weekday,010-120,Grosse Pointe Nexus,0,0106
-010,weekday,010-121,Grosse Pointe Nexus,0,0106
-010,weekday,010-122,Grosse Pointe Nexus,0,0106
-010,weekday,010-123,Grosse Pointe Nexus,0,0106
-010,weekday,010-124,Grosse Pointe Nexus,0,0106
-010,weekday,010-125,Grosse Pointe Nexus,0,0106
-010,weekday,010-126,Grosse Pointe Nexus,0,0106
-010,weekday,010-127,Grosse Pointe Nexus,0,0106
-010,weekday,010-128,Grosse Pointe Nexus,0,0106
-010,weekday,010-129,Grosse Pointe Nexus,0,0106
-010,weekday,010-130,Grosse Pointe Nexus,0,0106
-010,weekday,010-131,Grosse Pointe Nexus,0,0106
-010,weekday,010-132,Grosse Pointe Nexus,0,0106
-010,weekday,010-133,Grosse Pointe Nexus,0,0106
-010,weekday,010-134,Grosse Pointe Nexus,0,0106
-010,weekday,010-135,Grosse Pointe Nexus,0,0106
-010,weekday,010-136,Grosse Pointe Nexus,0,0106
-010,weekday,010-137,Grosse Pointe Nexus,0,0106
-010,weekday,010-138,Grosse Pointe Nexus,0,0106
-010,weekday,010-139,Grosse Pointe Nexus,0,0106
-010,weekday,010-140,Grosse Pointe Nexus,0,0106
-010,weekday,010-141,Grosse Pointe Nexus,0,0106
-010,weekday,010-142,Grosse Pointe Nexus,0,0106
-010,weekday,010-143,Grosse Pointe Nexus,0,0106
-010,weekday,010-144,Grosse Pointe Nexus,0,0106
-010,weekday,010-145,Grosse Pointe Nexus,0,0106
-010,weekday,010-146,Grosse Pointe Nexus,0,0106
-010,weekday,010-147,Grosse Pointe Nexus,0,0106
-010,weekday,010-148,Northridge Commons,1,0104
-010,weekday,010-149,Northridge Commons,1,0104
-010,weekday,010-150,Northridge Commons,1,0104
-010,weekday,010-151,Northridge Commons,1,0104
-010,weekday,010-152,Northridge Commons,1,0104
-010,weekday,010-153,Northridge Commons,1,0104
-010,weekday,010-154,Northridge Commons,1,0104
-010,weekday,010-155,Northridge Commons,1,0104
-010,weekday,010-156,Northridge Commons,1,0104
-010,weekday,010-157,Northridge Commons,1,0104
-010,weekday,010-158,Northridge Commons,1,0104
-010,weekday,010-159,Northridge Commons,1,0104
-010,weekday,010-160,Northridge Commons,1,0104
-010,weekday,010-161,Northridge Commons,1,0104
-010,weekday,010-162,Northridge Commons,1,0104
-010,weekday,010-163,Northridge Commons,1,0104
-010,weekday,010-164,Northridge Commons,1,0104
-010,weekday,010-165,Northridge Commons,1,0104
-010,weekday,010-166,Northridge Commons,1,0104
-010,weekday,010-167,Northridge Commons,1,0104
-010,weekday,010-168,Northridge Commons,1,0104
-010,weekday,010-169,Northridge Commons,1,0104
-010,weekday,010-170,Northridge Commons,1,0104
-010,weekday,010-171,Northridge Commons,1,0104
-010,weekday,010-172,Northridge Commons,1,0104
-010,weekday,010-173,Northridge Commons,1,0104
-010,weekday,010-174,Northridge Commons,1,0104
-010,weekday,010-175,Northridge Commons,1,0104
-010,weekday,010-176,Northridge Commons,1,0104
-010,weekday,010-177,Northridge Commons,1,0104
-010,weekday,010-178,Northridge Commons,1,0104
-010,weekday,010-179,Northridge Commons,1,0104
-010,weekday,010-180,Northridge Commons,1,0104
-010,weekday,010-181,Northridge Commons,1,0104
-010,weekday,010-182,Northridge Commons,1,0104
-010,weekday,010-183,Northridge Commons,1,0104
-010,weekday,010-184,Northridge Commons,1,0104
-010,weekday,010-185,Northridge Commons,1,0104
-010,weekday,010-186,Northridge Commons,1,0104
-010,weekday,010-187,Northridge Commons,1,0104
-010,weekday,010-188,Northridge Commons,1,0104
-010,weekday,010-189,Northridge Commons,1,0104
-010,weekday,010-190,Northridge Commons,1,0104
-010,weekday,010-191,Northridge Commons,1,0104
-010,weekday,010-192,Northridge Commons,1,0104
-010,weekday,010-193,Northridge Commons,1,0104
+010,NormalMonFri,010-1,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-2,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-3,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-4,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-5,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-6,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-7,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-8,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-9,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-10,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-11,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-12,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-13,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-14,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-15,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-16,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-17,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-18,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-19,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-20,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-21,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-22,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-23,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-24,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-25,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-26,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-27,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-28,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-29,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-30,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-31,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-32,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-33,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-34,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-35,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-36,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-37,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-38,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-39,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-40,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-41,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-42,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-43,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-44,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-45,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-46,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-47,Grosse Pointe Nexus,0,10_E
+010,NormalMonFri,010-48,Northridge Commons,1,10_W
+010,NormalMonFri,010-49,Northridge Commons,1,10_W
+010,NormalMonFri,010-50,Northridge Commons,1,10_W
+010,NormalMonFri,010-51,Northridge Commons,1,10_W
+010,NormalMonFri,010-52,Northridge Commons,1,10_W
+010,NormalMonFri,010-53,Northridge Commons,1,10_W
+010,NormalMonFri,010-54,Northridge Commons,1,10_W
+010,NormalMonFri,010-55,Northridge Commons,1,10_W
+010,NormalMonFri,010-56,Northridge Commons,1,10_W
+010,NormalMonFri,010-57,Northridge Commons,1,10_W
+010,NormalMonFri,010-58,Northridge Commons,1,10_W
+010,NormalMonFri,010-59,Northridge Commons,1,10_W
+010,NormalMonFri,010-60,Northridge Commons,1,10_W
+010,NormalMonFri,010-61,Northridge Commons,1,10_W
+010,NormalMonFri,010-62,Northridge Commons,1,10_W
+010,NormalMonFri,010-63,Northridge Commons,1,10_W
+010,NormalMonFri,010-64,Northridge Commons,1,10_W
+010,NormalMonFri,010-65,Northridge Commons,1,10_W
+010,NormalMonFri,010-66,Northridge Commons,1,10_W
+010,NormalMonFri,010-67,Northridge Commons,1,10_W
+010,NormalMonFri,010-68,Northridge Commons,1,10_W
+010,NormalMonFri,010-69,Northridge Commons,1,10_W
+010,NormalMonFri,010-70,Northridge Commons,1,10_W
+010,NormalMonFri,010-71,Northridge Commons,1,10_W
+010,NormalMonFri,010-72,Northridge Commons,1,10_W
+010,NormalMonFri,010-73,Northridge Commons,1,10_W
+010,NormalMonFri,010-74,Northridge Commons,1,10_W
+010,NormalMonFri,010-75,Northridge Commons,1,10_W
+010,NormalMonFri,010-76,Northridge Commons,1,10_W
+010,NormalMonFri,010-77,Northridge Commons,1,10_W
+010,NormalMonFri,010-78,Northridge Commons,1,10_W
+010,NormalMonFri,010-79,Northridge Commons,1,10_W
+010,NormalMonFri,010-80,Northridge Commons,1,10_W
+010,NormalMonFri,010-81,Northridge Commons,1,10_W
+010,NormalMonFri,010-82,Northridge Commons,1,10_W
+010,NormalMonFri,010-83,Northridge Commons,1,10_W
+010,NormalMonFri,010-84,Northridge Commons,1,10_W
+010,NormalMonFri,010-85,Northridge Commons,1,10_W
+010,NormalMonFri,010-86,Northridge Commons,1,10_W
+010,NormalMonFri,010-87,Northridge Commons,1,10_W
+010,NormalMonFri,010-88,Northridge Commons,1,10_W
+010,NormalMonFri,010-89,Northridge Commons,1,10_W
+010,NormalMonFri,010-90,Northridge Commons,1,10_W
+010,NormalMonFri,010-91,Northridge Commons,1,10_W
+010,NormalMonFri,010-92,Northridge Commons,1,10_W
+010,NormalMonFri,010-93,Northridge Commons,1,10_W
+010,NormalSunday,010-94,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-95,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-96,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-97,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-98,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-99,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-100,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-101,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-102,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-103,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-104,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-105,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-106,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-107,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-108,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-109,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-110,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-111,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-112,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-113,Grosse Pointe Nexus,0,10_E
+010,NormalSunday,010-114,Northridge Commons,1,10_W
+010,NormalSunday,010-115,Northridge Commons,1,10_W
+010,NormalSunday,010-116,Northridge Commons,1,10_W
+010,NormalSunday,010-117,Northridge Commons,1,10_W
+010,NormalSunday,010-118,Northridge Commons,1,10_W
+010,NormalSunday,010-119,Northridge Commons,1,10_W
+010,NormalSunday,010-120,Northridge Commons,1,10_W
+010,NormalSunday,010-121,Northridge Commons,1,10_W
+010,NormalSunday,010-122,Northridge Commons,1,10_W
+010,NormalSunday,010-123,Northridge Commons,1,10_W
+010,NormalSunday,010-124,Northridge Commons,1,10_W
+010,NormalSunday,010-125,Northridge Commons,1,10_W
+010,NormalSunday,010-126,Northridge Commons,1,10_W
+010,NormalSunday,010-127,Northridge Commons,1,10_W
+010,NormalSunday,010-128,Northridge Commons,1,10_W
+010,NormalSunday,010-129,Northridge Commons,1,10_W
+010,NormalSunday,010-130,Northridge Commons,1,10_W
+010,NormalSunday,010-131,Northridge Commons,1,10_W
+010,NormalSunday,010-132,Northridge Commons,1,10_W
+010,NormalSunday,010-133,Northridge Commons,1,10_W
+010,SatToDaily,010-134,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-135,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-136,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-137,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-138,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-139,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-140,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-141,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-142,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-143,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-144,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-145,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-146,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-147,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-148,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-149,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-150,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-151,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-152,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-153,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-154,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-155,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-156,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-157,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-158,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-159,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-160,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-161,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-162,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-163,Grosse Pointe Nexus,0,10_E
+010,SatToDaily,010-164,Northridge Commons,1,10_W
+010,SatToDaily,010-165,Northridge Commons,1,10_W
+010,SatToDaily,010-166,Northridge Commons,1,10_W
+010,SatToDaily,010-167,Northridge Commons,1,10_W
+010,SatToDaily,010-168,Northridge Commons,1,10_W
+010,SatToDaily,010-169,Northridge Commons,1,10_W
+010,SatToDaily,010-170,Northridge Commons,1,10_W
+010,SatToDaily,010-171,Northridge Commons,1,10_W
+010,SatToDaily,010-172,Northridge Commons,1,10_W
+010,SatToDaily,010-173,Northridge Commons,1,10_W
+010,SatToDaily,010-174,Northridge Commons,1,10_W
+010,SatToDaily,010-175,Northridge Commons,1,10_W
+010,SatToDaily,010-176,Northridge Commons,1,10_W
+010,SatToDaily,010-177,Northridge Commons,1,10_W
+010,SatToDaily,010-178,Northridge Commons,1,10_W
+010,SatToDaily,010-179,Northridge Commons,1,10_W
+010,SatToDaily,010-180,Northridge Commons,1,10_W
+010,SatToDaily,010-181,Northridge Commons,1,10_W
+010,SatToDaily,010-182,Northridge Commons,1,10_W
+010,SatToDaily,010-183,Northridge Commons,1,10_W
+010,SatToDaily,010-184,Northridge Commons,1,10_W
+010,SatToDaily,010-185,Northridge Commons,1,10_W
+010,SatToDaily,010-186,Northridge Commons,1,10_W
+010,SatToDaily,010-187,Northridge Commons,1,10_W
+010,SatToDaily,010-188,Northridge Commons,1,10_W
+010,SatToDaily,010-189,Northridge Commons,1,10_W
+010,SatToDaily,010-190,Northridge Commons,1,10_W
+010,SatToDaily,010-191,Northridge Commons,1,10_W
+010,SatToDaily,010-192,Northridge Commons,1,10_W
+010,SatToDaily,010-193,Northridge Commons,1,10_W

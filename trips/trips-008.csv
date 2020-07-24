@@ -1,318 +1,318 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-008,saturday,008-1,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-2,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-3,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-4,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-5,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-6,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-7,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-8,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-9,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-10,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-11,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-12,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-13,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-14,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-15,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-16,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-17,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-18,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-19,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-20,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-21,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-22,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-23,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-24,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-25,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-26,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-27,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-28,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-29,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-30,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-31,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-32,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-33,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-34,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-35,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-36,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-37,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-38,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-39,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-40,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-41,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-42,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-43,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-44,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-45,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-46,Grosse Pointe Nexus,1,0083,008N
-008,saturday,008-47,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-48,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-49,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-50,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-51,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-52,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-53,Grosse Pointe Nexus,1,0086,008B
-008,saturday,008-54,Botsford Hospital,0,0084,008B
-008,saturday,008-55,Botsford Hospital,0,0084,008B
-008,saturday,008-56,Botsford Hospital,0,0084,008B
-008,saturday,008-57,Botsford Hospital,0,0084,008B
-008,saturday,008-58,Botsford Hospital,0,0084,008B
-008,saturday,008-59,Main / Center,0,0081,008N
-008,saturday,008-60,Botsford Hospital,0,0084,008B
-008,saturday,008-61,Main / Center,0,0081,008N
-008,saturday,008-62,Botsford Hospital,0,0084,008B
-008,saturday,008-63,Main / Center,0,0081,008N
-008,saturday,008-64,Botsford Hospital,0,0084,008B
-008,saturday,008-65,Main / Center,0,0081,008N
-008,saturday,008-66,Botsford Hospital,0,0084,008B
-008,saturday,008-67,Main / Center,0,0081,008N
-008,saturday,008-68,Botsford Hospital,0,0084,008B
-008,saturday,008-69,Main / Center,0,0081,008N
-008,saturday,008-70,Botsford Hospital,0,0084,008B
-008,saturday,008-71,Main / Center,0,0081,008N
-008,saturday,008-72,Botsford Hospital,0,0084,008B
-008,saturday,008-73,Main / Center,0,0081,008N
-008,saturday,008-74,Botsford Hospital,0,0084,008B
-008,saturday,008-75,Main / Center,0,0081,008N
-008,saturday,008-76,Botsford Hospital,0,0084,008B
-008,saturday,008-77,Main / Center,0,0081,008N
-008,saturday,008-78,Botsford Hospital,0,0084,008B
-008,saturday,008-79,Main / Center,0,0081,008N
-008,saturday,008-80,Botsford Hospital,0,0084,008B
-008,saturday,008-81,Main / Center,0,0081,008N
-008,saturday,008-82,Botsford Hospital,0,0084,008B
-008,saturday,008-83,Main / Center,0,0081,008N
-008,saturday,008-84,Botsford Hospital,0,0084,008B
-008,saturday,008-85,Main / Center,0,0081,008N
-008,saturday,008-86,Botsford Hospital,0,0084,008B
-008,saturday,008-87,Main / Center,0,0081,008N
-008,saturday,008-88,Botsford Hospital,0,0084,008B
-008,saturday,008-89,Main / Center,0,0081,008N
-008,saturday,008-90,Botsford Hospital,0,0084,008B
-008,saturday,008-91,Main / Center,0,0081,008N
-008,saturday,008-92,Botsford Hospital,0,0084,008B
-008,saturday,008-93,Botsford Hospital,0,0084,008B
-008,saturday,008-94,Botsford Hospital,0,0084,008B
-008,saturday,008-95,Botsford Hospital,0,0084,008B
-008,saturday,008-96,Botsford Hospital,0,0084,008B
-008,saturday,008-97,Botsford Hospital,0,0084,008B
-008,saturday,008-98,Botsford Hospital,0,0084,008B
-008,saturday,008-99,Botsford Hospital,0,0084,008B
-008,saturday,008-100,Botsford Hospital,0,0084,008B
-008,saturday,008-101,Botsford Hospital,0,0084,008B
-008,saturday,008-102,Botsford Hospital,0,0084,008B
-008,sunday,008-103,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-104,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-105,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-106,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-107,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-108,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-109,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-110,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-111,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-112,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-113,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-114,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-115,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-116,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-117,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-118,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-119,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-120,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-121,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-122,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-123,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-124,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-125,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-126,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-127,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-128,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-129,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-130,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-131,Grosse Pointe Nexus,1,0083,008N
-008,sunday,008-132,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-133,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-134,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-135,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-136,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-137,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-138,Grosse Pointe Nexus,1,0086,008B
-008,sunday,008-139,Botsford Hospital,0,0084,008B
-008,sunday,008-140,Botsford Hospital,0,0084,008B
-008,sunday,008-141,Botsford Hospital,0,0084,008B
-008,sunday,008-142,Botsford Hospital,0,0084,008B
-008,sunday,008-143,Main / Center,0,0081,008N
-008,sunday,008-144,Botsford Hospital,0,0084,008B
-008,sunday,008-145,Main / Center,0,0081,008N
-008,sunday,008-146,Botsford Hospital,0,0084,008B
-008,sunday,008-147,Main / Center,0,0081,008N
-008,sunday,008-148,Botsford Hospital,0,0084,008B
-008,sunday,008-149,Main / Center,0,0081,008N
-008,sunday,008-150,Botsford Hospital,0,0084,008B
-008,sunday,008-151,Main / Center,0,0081,008N
-008,sunday,008-152,Botsford Hospital,0,0084,008B
-008,sunday,008-153,Main / Center,0,0081,008N
-008,sunday,008-154,Botsford Hospital,0,0084,008B
-008,sunday,008-155,Main / Center,0,0081,008N
-008,sunday,008-156,Botsford Hospital,0,0084,008B
-008,sunday,008-157,Main / Center,0,0081,008N
-008,sunday,008-158,Botsford Hospital,0,0084,008B
-008,sunday,008-159,Main / Center,0,0081,008N
-008,sunday,008-160,Botsford Hospital,0,0084,008B
-008,sunday,008-161,Main / Center,0,0081,008N
-008,sunday,008-162,Botsford Hospital,0,0084,008B
-008,sunday,008-163,Main / Center,0,0081,008N
-008,sunday,008-164,Botsford Hospital,0,0084,008B
-008,sunday,008-165,Main / Center,0,0081,008N
-008,sunday,008-166,Botsford Hospital,0,0084,008B
-008,sunday,008-167,Botsford Hospital,0,0084,008B
-008,sunday,008-168,Botsford Hospital,0,0084,008B
-008,sunday,008-169,Botsford Hospital,0,0084,008B
-008,sunday,008-170,Botsford Hospital,0,0084,008B
-008,sunday,008-171,Botsford Hospital,0,0084,008B
-008,sunday,008-172,Botsford Hospital,0,0084,008B
-008,sunday,008-173,Botsford Hospital,0,0084,008B
-008,sunday,008-174,Botsford Hospital,0,0084,008B
-008,weekday,008-175,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-176,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-177,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-178,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-179,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-180,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-181,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-182,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-183,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-184,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-185,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-186,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-187,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-188,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-189,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-190,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-191,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-192,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-193,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-194,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-195,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-196,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-197,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-198,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-199,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-200,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-201,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-202,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-203,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-204,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-205,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-206,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-207,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-208,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-209,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-210,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-211,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-212,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-213,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-214,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-215,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-216,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-217,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-218,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-219,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-220,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-221,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-222,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-223,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-224,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-225,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-226,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-227,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-228,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-229,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-230,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-231,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-232,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-233,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-234,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-235,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-236,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-237,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-238,Grosse Pointe Nexus,1,0083,008N
-008,weekday,008-239,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-240,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-241,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-242,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-243,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-244,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-245,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-246,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-247,Grosse Pointe Nexus,1,0086,008B
-008,weekday,008-248,Botsford Hospital,0,0084,008B
-008,weekday,008-249,Botsford Hospital,0,0084,008B
-008,weekday,008-250,Botsford Hospital,0,0084,008B
-008,weekday,008-251,Botsford Hospital,0,0084,008B
-008,weekday,008-252,Botsford Hospital,0,0084,008B
-008,weekday,008-253,Main / Center,0,0081,008N
-008,weekday,008-254,Botsford Hospital,0,0084,008B
-008,weekday,008-255,Main / Center,0,0081,008N
-008,weekday,008-256,Botsford Hospital,0,0084,008B
-008,weekday,008-257,Main / Center,0,0081,008N
-008,weekday,008-258,Botsford Hospital,0,0084,008B
-008,weekday,008-259,Main / Center,0,0081,008N
-008,weekday,008-260,Botsford Hospital,0,0084,008B
-008,weekday,008-261,Main / Center,0,0081,008N
-008,weekday,008-262,Botsford Hospital,0,0084,008B
-008,weekday,008-263,Main / Center,0,0081,008N
-008,weekday,008-264,Botsford Hospital,0,0084,008B
-008,weekday,008-265,Main / Center,0,0081,008N
-008,weekday,008-266,Botsford Hospital,0,0084,008B
-008,weekday,008-267,Main / Center,0,0081,008N
-008,weekday,008-268,Botsford Hospital,0,0084,008B
-008,weekday,008-269,Main / Center,0,0081,008N
-008,weekday,008-270,Botsford Hospital,0,0084,008B
-008,weekday,008-271,Main / Center,0,0081,008N
-008,weekday,008-272,Botsford Hospital,0,0084,008B
-008,weekday,008-273,Main / Center,0,0081,008N
-008,weekday,008-274,Botsford Hospital,0,0084,008B
-008,weekday,008-275,Main / Center,0,0081,008N
-008,weekday,008-276,Botsford Hospital,0,0084,008B
-008,weekday,008-277,Main / Center,0,0081,008N
-008,weekday,008-278,Botsford Hospital,0,0084,008B
-008,weekday,008-279,Main / Center,0,0081,008N
-008,weekday,008-280,Botsford Hospital,0,0084,008B
-008,weekday,008-281,Main / Center,0,0081,008N
-008,weekday,008-282,Botsford Hospital,0,0084,008B
-008,weekday,008-283,Main / Center,0,0081,008N
-008,weekday,008-284,Botsford Hospital,0,0084,008B
-008,weekday,008-285,Main / Center,0,0081,008N
-008,weekday,008-286,Botsford Hospital,0,0084,008B
-008,weekday,008-287,Main / Center,0,0081,008N
-008,weekday,008-288,Botsford Hospital,0,0084,008B
-008,weekday,008-289,Main / Center,0,0081,008N
-008,weekday,008-290,Botsford Hospital,0,0084,008B
-008,weekday,008-291,Main / Center,0,0081,008N
-008,weekday,008-292,Botsford Hospital,0,0084,008B
-008,weekday,008-293,Main / Center,0,0081,008N
-008,weekday,008-294,Botsford Hospital,0,0084,008B
-008,weekday,008-295,Main / Center,0,0081,008N
-008,weekday,008-296,Botsford Hospital,0,0084,008B
-008,weekday,008-297,Main / Center,0,0081,008N
-008,weekday,008-298,Botsford Hospital,0,0084,008B
-008,weekday,008-299,Main / Center,0,0081,008N
-008,weekday,008-300,Botsford Hospital,0,0084,008B
-008,weekday,008-301,Main / Center,0,0081,008N
-008,weekday,008-302,Botsford Hospital,0,0084,008B
-008,weekday,008-303,Main / Center,0,0081,008N
-008,weekday,008-304,Botsford Hospital,0,0084,008B
-008,weekday,008-305,Main / Center,0,0081,008N
-008,weekday,008-306,Botsford Hospital,0,0084,008B
-008,weekday,008-307,Botsford Hospital,0,0084,008B
-008,weekday,008-308,Botsford Hospital,0,0084,008B
-008,weekday,008-309,Botsford Hospital,0,0084,008B
-008,weekday,008-310,Botsford Hospital,0,0084,008B
-008,weekday,008-311,Botsford Hospital,0,0084,008B
-008,weekday,008-312,Botsford Hospital,0,0084,008B
-008,weekday,008-313,Botsford Hospital,0,0084,008B
-008,weekday,008-314,Botsford Hospital,0,0084,008B
-008,weekday,008-315,Botsford Hospital,0,0084,008B
-008,weekday,008-316,Botsford Hospital,0,0084,008B
-008,weekday,008-317,Botsford Hospital,0,0084,008B
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+008B,NormalMonFri,008-1,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-2,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-3,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-4,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-5,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-6,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-7,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-8,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-9,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-10,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-11,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-12,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-13,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-14,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-15,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-16,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-17,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-18,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-19,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-20,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-21,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-22,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-23,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-24,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-25,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-26,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-27,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-28,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-29,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-30,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-31,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-32,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-33,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-34,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-35,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-36,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-37,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-38,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-39,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-40,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-41,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-42,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-43,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-44,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-45,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-46,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-47,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-48,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-49,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-50,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-51,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-52,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-53,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-54,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-55,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-56,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-57,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-58,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-59,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-60,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-61,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-62,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-63,Grosse Pointe Nexus,1,8B_E
+008N,NormalMonFri,008-64,Grosse Pointe Nexus,1,8N_E
+008B,NormalMonFri,008-65,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-66,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-67,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-68,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-69,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-70,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-71,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-72,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-73,Grosse Pointe Nexus,1,8B_E
+008B,NormalMonFri,008-74,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-75,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-76,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-77,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-78,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-79,Main / Center,0,8N_W
+008B,NormalMonFri,008-80,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-81,Main / Center,0,8N_W
+008B,NormalMonFri,008-82,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-83,Main / Center,0,8N_W
+008B,NormalMonFri,008-84,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-85,Main / Center,0,8N_W
+008B,NormalMonFri,008-86,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-87,Main / Center,0,8N_W
+008B,NormalMonFri,008-88,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-89,Main / Center,0,8N_W
+008B,NormalMonFri,008-90,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-91,Main / Center,0,8N_W
+008B,NormalMonFri,008-92,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-93,Main / Center,0,8N_W
+008B,NormalMonFri,008-94,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-95,Main / Center,0,8N_W
+008B,NormalMonFri,008-96,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-97,Main / Center,0,8N_W
+008B,NormalMonFri,008-98,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-99,Main / Center,0,8N_W
+008B,NormalMonFri,008-100,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-101,Main / Center,0,8N_W
+008B,NormalMonFri,008-102,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-103,Main / Center,0,8N_W
+008B,NormalMonFri,008-104,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-105,Main / Center,0,8N_W
+008B,NormalMonFri,008-106,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-107,Main / Center,0,8N_W
+008B,NormalMonFri,008-108,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-109,Main / Center,0,8N_W
+008B,NormalMonFri,008-110,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-111,Main / Center,0,8N_W
+008B,NormalMonFri,008-112,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-113,Main / Center,0,8N_W
+008B,NormalMonFri,008-114,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-115,Main / Center,0,8N_W
+008B,NormalMonFri,008-116,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-117,Main / Center,0,8N_W
+008B,NormalMonFri,008-118,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-119,Main / Center,0,8N_W
+008B,NormalMonFri,008-120,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-121,Main / Center,0,8N_W
+008B,NormalMonFri,008-122,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-123,Main / Center,0,8N_W
+008B,NormalMonFri,008-124,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-125,Main / Center,0,8N_W
+008B,NormalMonFri,008-126,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-127,Main / Center,0,8N_W
+008B,NormalMonFri,008-128,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-129,Main / Center,0,8N_W
+008B,NormalMonFri,008-130,Botsford Hospital,0,8B_W
+008N,NormalMonFri,008-131,Main / Center,0,8N_W
+008B,NormalMonFri,008-132,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-133,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-134,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-135,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-136,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-137,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-138,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-139,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-140,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-141,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-142,Botsford Hospital,0,8B_W
+008B,NormalMonFri,008-143,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-144,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-145,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-146,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-147,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-148,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-149,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-150,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-151,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-152,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-153,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-154,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-155,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-156,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-157,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-158,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-159,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-160,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-161,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-162,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-163,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-164,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-165,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-166,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-167,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-168,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-169,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-170,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-171,Grosse Pointe Nexus,1,8B_E
+008N,NormalSunday,008-172,Grosse Pointe Nexus,1,8N_E
+008B,NormalSunday,008-173,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-174,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-175,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-176,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-177,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-178,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-179,Grosse Pointe Nexus,1,8B_E
+008B,NormalSunday,008-180,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-181,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-182,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-183,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-184,Main / Center,0,8N_W
+008B,NormalSunday,008-185,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-186,Main / Center,0,8N_W
+008B,NormalSunday,008-187,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-188,Main / Center,0,8N_W
+008B,NormalSunday,008-189,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-190,Main / Center,0,8N_W
+008B,NormalSunday,008-191,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-192,Main / Center,0,8N_W
+008B,NormalSunday,008-193,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-194,Main / Center,0,8N_W
+008B,NormalSunday,008-195,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-196,Main / Center,0,8N_W
+008B,NormalSunday,008-197,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-198,Main / Center,0,8N_W
+008B,NormalSunday,008-199,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-200,Main / Center,0,8N_W
+008B,NormalSunday,008-201,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-202,Main / Center,0,8N_W
+008B,NormalSunday,008-203,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-204,Main / Center,0,8N_W
+008B,NormalSunday,008-205,Botsford Hospital,0,8B_W
+008N,NormalSunday,008-206,Main / Center,0,8N_W
+008B,NormalSunday,008-207,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-208,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-209,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-210,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-211,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-212,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-213,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-214,Botsford Hospital,0,8B_W
+008B,NormalSunday,008-215,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-216,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-217,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-218,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-219,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-220,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-221,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-222,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-223,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-224,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-225,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-226,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-227,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-228,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-229,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-230,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-231,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-232,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-233,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-234,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-235,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-236,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-237,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-238,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-239,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-240,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-241,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-242,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-243,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-244,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-245,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-246,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-247,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-248,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-249,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-250,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-251,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-252,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-253,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-254,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-255,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-256,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-257,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-258,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-259,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-260,Grosse Pointe Nexus,1,8B_E
+008N,SatToDaily,008-261,Grosse Pointe Nexus,1,8N_E
+008B,SatToDaily,008-262,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-263,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-264,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-265,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-266,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-267,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-268,Grosse Pointe Nexus,1,8B_E
+008B,SatToDaily,008-269,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-270,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-271,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-272,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-273,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-274,Main / Center,0,8N_W
+008B,SatToDaily,008-275,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-276,Main / Center,0,8N_W
+008B,SatToDaily,008-277,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-278,Main / Center,0,8N_W
+008B,SatToDaily,008-279,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-280,Main / Center,0,8N_W
+008B,SatToDaily,008-281,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-282,Main / Center,0,8N_W
+008B,SatToDaily,008-283,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-284,Main / Center,0,8N_W
+008B,SatToDaily,008-285,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-286,Main / Center,0,8N_W
+008B,SatToDaily,008-287,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-288,Main / Center,0,8N_W
+008B,SatToDaily,008-289,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-290,Main / Center,0,8N_W
+008B,SatToDaily,008-291,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-292,Main / Center,0,8N_W
+008B,SatToDaily,008-293,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-294,Main / Center,0,8N_W
+008B,SatToDaily,008-295,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-296,Main / Center,0,8N_W
+008B,SatToDaily,008-297,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-298,Main / Center,0,8N_W
+008B,SatToDaily,008-299,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-300,Main / Center,0,8N_W
+008B,SatToDaily,008-301,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-302,Main / Center,0,8N_W
+008B,SatToDaily,008-303,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-304,Main / Center,0,8N_W
+008B,SatToDaily,008-305,Botsford Hospital,0,8B_W
+008N,SatToDaily,008-306,Main / Center,0,8N_W
+008B,SatToDaily,008-307,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-308,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-309,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-310,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-311,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-312,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-313,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-314,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-315,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-316,Botsford Hospital,0,8B_W
+008B,SatToDaily,008-317,Botsford Hospital,0,8B_W

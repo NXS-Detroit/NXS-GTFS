@@ -1,197 +1,197 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-009,saturday,009-1,Grosse Pointe Nexus,1,0096
-009,saturday,009-2,Grosse Pointe Nexus,1,0096
-009,saturday,009-3,Grosse Pointe Nexus,1,0096
-009,saturday,009-4,Grosse Pointe Nexus,1,0096
-009,saturday,009-5,Grosse Pointe Nexus,1,0096
-009,saturday,009-6,Grosse Pointe Nexus,1,0096
-009,saturday,009-7,Grosse Pointe Nexus,1,0096
-009,saturday,009-8,Grosse Pointe Nexus,1,0096
-009,saturday,009-9,Grosse Pointe Nexus,1,0096
-009,saturday,009-10,Grosse Pointe Nexus,1,0096
-009,saturday,009-11,Grosse Pointe Nexus,1,0096
-009,saturday,009-12,Grosse Pointe Nexus,1,0096
-009,saturday,009-13,Grosse Pointe Nexus,1,0096
-009,saturday,009-14,Grosse Pointe Nexus,1,0096
-009,saturday,009-15,Grosse Pointe Nexus,1,0096
-009,saturday,009-16,Grosse Pointe Nexus,1,0096
-009,saturday,009-17,Grosse Pointe Nexus,1,0096
-009,saturday,009-18,Grosse Pointe Nexus,1,0096
-009,saturday,009-19,Grosse Pointe Nexus,1,0096
-009,saturday,009-20,Grosse Pointe Nexus,1,0096
-009,saturday,009-21,Grosse Pointe Nexus,1,0096
-009,saturday,009-22,Grosse Pointe Nexus,1,0096
-009,saturday,009-23,Grosse Pointe Nexus,1,0096
-009,saturday,009-24,Grosse Pointe Nexus,1,0096
-009,saturday,009-25,Grosse Pointe Nexus,1,0096
-009,saturday,009-26,Grosse Pointe Nexus,1,0096
-009,saturday,009-27,Grosse Pointe Nexus,1,0096
-009,saturday,009-28,Grosse Pointe Nexus,1,0096
-009,saturday,009-29,Grosse Pointe Nexus,1,0096
-009,saturday,009-30,Grosse Pointe Nexus,1,0096
-009,saturday,009-31,Grand River / Farmington,0,0094
-009,saturday,009-32,Grand River / Farmington,0,0094
-009,saturday,009-33,Grand River / Farmington,0,0094
-009,saturday,009-34,Grand River / Farmington,0,0094
-009,saturday,009-35,Grand River / Farmington,0,0094
-009,saturday,009-36,Grand River / Farmington,0,0094
-009,saturday,009-37,Grand River / Farmington,0,0094
-009,saturday,009-38,Grand River / Farmington,0,0094
-009,saturday,009-39,Grand River / Farmington,0,0094
-009,saturday,009-40,Grand River / Farmington,0,0094
-009,saturday,009-41,Grand River / Farmington,0,0094
-009,saturday,009-42,Grand River / Farmington,0,0094
-009,saturday,009-43,Grand River / Farmington,0,0094
-009,saturday,009-44,Grand River / Farmington,0,0094
-009,saturday,009-45,Grand River / Farmington,0,0094
-009,saturday,009-46,Grand River / Farmington,0,0094
-009,saturday,009-47,Grand River / Farmington,0,0094
-009,saturday,009-48,Grand River / Farmington,0,0094
-009,saturday,009-49,Grand River / Farmington,0,0094
-009,saturday,009-50,Grand River / Farmington,0,0094
-009,saturday,009-51,Grand River / Farmington,0,0094
-009,saturday,009-52,Grand River / Farmington,0,0094
-009,saturday,009-53,Grand River / Farmington,0,0094
-009,saturday,009-54,Grand River / Farmington,0,0094
-009,saturday,009-55,Grand River / Farmington,0,0094
-009,saturday,009-56,Grand River / Farmington,0,0094
-009,saturday,009-57,Grand River / Farmington,0,0094
-009,saturday,009-58,Grand River / Farmington,0,0094
-009,saturday,009-59,Grand River / Farmington,0,0094
-009,saturday,009-60,Grand River / Farmington,0,0094
-009,sunday,009-61,Grosse Pointe Nexus,1,0096
-009,sunday,009-62,Grosse Pointe Nexus,1,0096
-009,sunday,009-63,Grosse Pointe Nexus,1,0096
-009,sunday,009-64,Grosse Pointe Nexus,1,0096
-009,sunday,009-65,Grosse Pointe Nexus,1,0096
-009,sunday,009-66,Grosse Pointe Nexus,1,0096
-009,sunday,009-67,Grosse Pointe Nexus,1,0096
-009,sunday,009-68,Grosse Pointe Nexus,1,0096
-009,sunday,009-69,Grosse Pointe Nexus,1,0096
-009,sunday,009-70,Grosse Pointe Nexus,1,0096
-009,sunday,009-71,Grosse Pointe Nexus,1,0096
-009,sunday,009-72,Grosse Pointe Nexus,1,0096
-009,sunday,009-73,Grosse Pointe Nexus,1,0096
-009,sunday,009-74,Grosse Pointe Nexus,1,0096
-009,sunday,009-75,Grosse Pointe Nexus,1,0096
-009,sunday,009-76,Grosse Pointe Nexus,1,0096
-009,sunday,009-77,Grosse Pointe Nexus,1,0096
-009,sunday,009-78,Grosse Pointe Nexus,1,0096
-009,sunday,009-79,Grosse Pointe Nexus,1,0096
-009,sunday,009-80,Grosse Pointe Nexus,1,0096
-009,sunday,009-81,Grosse Pointe Nexus,1,0096
-009,sunday,009-82,Grosse Pointe Nexus,1,0096
-009,sunday,009-83,Grand River / Farmington,0,0094
-009,sunday,009-84,Grand River / Farmington,0,0094
-009,sunday,009-85,Grand River / Farmington,0,0094
-009,sunday,009-86,Grand River / Farmington,0,0094
-009,sunday,009-87,Grand River / Farmington,0,0094
-009,sunday,009-88,Grand River / Farmington,0,0094
-009,sunday,009-89,Grand River / Farmington,0,0094
-009,sunday,009-90,Grand River / Farmington,0,0094
-009,sunday,009-91,Grand River / Farmington,0,0094
-009,sunday,009-92,Grand River / Farmington,0,0094
-009,sunday,009-93,Grand River / Farmington,0,0094
-009,sunday,009-94,Grand River / Farmington,0,0094
-009,sunday,009-95,Grand River / Farmington,0,0094
-009,sunday,009-96,Grand River / Farmington,0,0094
-009,sunday,009-97,Grand River / Farmington,0,0094
-009,sunday,009-98,Grand River / Farmington,0,0094
-009,sunday,009-99,Grand River / Farmington,0,0094
-009,sunday,009-100,Grand River / Farmington,0,0094
-009,sunday,009-101,Grand River / Farmington,0,0094
-009,sunday,009-102,Grand River / Farmington,0,0094
-009,sunday,009-103,Grand River / Farmington,0,0094
-009,sunday,009-104,Grand River / Farmington,0,0094
-009,weekday,009-105,Grosse Pointe Nexus,1,0096
-009,weekday,009-106,Grosse Pointe Nexus,1,0096
-009,weekday,009-107,Grosse Pointe Nexus,1,0096
-009,weekday,009-108,Grosse Pointe Nexus,1,0096
-009,weekday,009-109,Grosse Pointe Nexus,1,0096
-009,weekday,009-110,Grosse Pointe Nexus,1,0096
-009,weekday,009-111,Grosse Pointe Nexus,1,0096
-009,weekday,009-112,Grosse Pointe Nexus,1,0096
-009,weekday,009-113,Grosse Pointe Nexus,1,0096
-009,weekday,009-114,Grosse Pointe Nexus,1,0096
-009,weekday,009-115,Grosse Pointe Nexus,1,0096
-009,weekday,009-116,Grosse Pointe Nexus,1,0096
-009,weekday,009-117,Grosse Pointe Nexus,1,0096
-009,weekday,009-118,Grosse Pointe Nexus,1,0096
-009,weekday,009-119,Grosse Pointe Nexus,1,0096
-009,weekday,009-120,Grosse Pointe Nexus,1,0096
-009,weekday,009-121,Grosse Pointe Nexus,1,0096
-009,weekday,009-122,Grosse Pointe Nexus,1,0096
-009,weekday,009-123,Grosse Pointe Nexus,1,0096
-009,weekday,009-124,Grosse Pointe Nexus,1,0096
-009,weekday,009-125,Grosse Pointe Nexus,1,0096
-009,weekday,009-126,Grosse Pointe Nexus,1,0096
-009,weekday,009-127,Grosse Pointe Nexus,1,0096
-009,weekday,009-128,Grosse Pointe Nexus,1,0096
-009,weekday,009-129,Grosse Pointe Nexus,1,0096
-009,weekday,009-130,Grosse Pointe Nexus,1,0096
-009,weekday,009-131,Grosse Pointe Nexus,1,0096
-009,weekday,009-132,Grosse Pointe Nexus,1,0096
-009,weekday,009-133,Grosse Pointe Nexus,1,0096
-009,weekday,009-134,Grosse Pointe Nexus,1,0096
-009,weekday,009-135,Grosse Pointe Nexus,1,0096
-009,weekday,009-136,Grosse Pointe Nexus,1,0096
-009,weekday,009-137,Grosse Pointe Nexus,1,0096
-009,weekday,009-138,Grosse Pointe Nexus,1,0096
-009,weekday,009-139,Grosse Pointe Nexus,1,0096
-009,weekday,009-140,Grosse Pointe Nexus,1,0096
-009,weekday,009-141,Grosse Pointe Nexus,1,0096
-009,weekday,009-142,Grosse Pointe Nexus,1,0096
-009,weekday,009-143,Grosse Pointe Nexus,1,0096
-009,weekday,009-144,Grosse Pointe Nexus,1,0096
-009,weekday,009-145,Grosse Pointe Nexus,1,0096
-009,weekday,009-146,Grosse Pointe Nexus,1,0096
-009,weekday,009-147,Grosse Pointe Nexus,1,0096
-009,weekday,009-148,Grosse Pointe Nexus,1,0096
-009,weekday,009-149,Grosse Pointe Nexus,1,0096
-009,weekday,009-150,Grosse Pointe Nexus,1,0096
-009,weekday,009-151,Grand River / Farmington,0,0094
-009,weekday,009-152,Grand River / Farmington,0,0094
-009,weekday,009-153,Grand River / Farmington,0,0094
-009,weekday,009-154,Grand River / Farmington,0,0094
-009,weekday,009-155,Grand River / Farmington,0,0094
-009,weekday,009-156,Grand River / Farmington,0,0094
-009,weekday,009-157,Grand River / Farmington,0,0094
-009,weekday,009-158,Grand River / Farmington,0,0094
-009,weekday,009-159,Grand River / Farmington,0,0094
-009,weekday,009-160,Grand River / Farmington,0,0094
-009,weekday,009-161,Grand River / Farmington,0,0094
-009,weekday,009-162,Grand River / Farmington,0,0094
-009,weekday,009-163,Grand River / Farmington,0,0094
-009,weekday,009-164,Grand River / Farmington,0,0094
-009,weekday,009-165,Grand River / Farmington,0,0094
-009,weekday,009-166,Grand River / Farmington,0,0094
-009,weekday,009-167,Grand River / Farmington,0,0094
-009,weekday,009-168,Grand River / Farmington,0,0094
-009,weekday,009-169,Grand River / Farmington,0,0094
-009,weekday,009-170,Grand River / Farmington,0,0094
-009,weekday,009-171,Grand River / Farmington,0,0094
-009,weekday,009-172,Grand River / Farmington,0,0094
-009,weekday,009-173,Grand River / Farmington,0,0094
-009,weekday,009-174,Grand River / Farmington,0,0094
-009,weekday,009-175,Grand River / Farmington,0,0094
-009,weekday,009-176,Grand River / Farmington,0,0094
-009,weekday,009-177,Grand River / Farmington,0,0094
-009,weekday,009-178,Grand River / Farmington,0,0094
-009,weekday,009-179,Grand River / Farmington,0,0094
-009,weekday,009-180,Grand River / Farmington,0,0094
-009,weekday,009-181,Grand River / Farmington,0,0094
-009,weekday,009-182,Grand River / Farmington,0,0094
-009,weekday,009-183,Grand River / Farmington,0,0094
-009,weekday,009-184,Grand River / Farmington,0,0094
-009,weekday,009-185,Grand River / Farmington,0,0094
-009,weekday,009-186,Grand River / Farmington,0,0094
-009,weekday,009-187,Grand River / Farmington,0,0094
-009,weekday,009-188,Grand River / Farmington,0,0094
-009,weekday,009-189,Grand River / Farmington,0,0094
-009,weekday,009-190,Grand River / Farmington,0,0094
-009,weekday,009-191,Grand River / Farmington,0,0094
-009,weekday,009-192,Grand River / Farmington,0,0094
-009,weekday,009-193,Grand River / Farmington,0,0094
-009,weekday,009-194,Grand River / Farmington,0,0094
-009,weekday,009-195,Grand River / Farmington,0,0094
-009,weekday,009-196,Grand River / Farmington,0,0094
+009,NormalMonFri,009-1,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-2,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-3,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-4,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-5,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-6,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-7,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-8,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-9,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-10,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-11,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-12,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-13,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-14,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-15,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-16,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-17,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-18,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-19,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-20,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-21,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-22,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-23,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-24,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-25,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-26,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-27,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-28,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-29,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-30,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-31,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-32,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-33,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-34,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-35,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-36,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-37,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-38,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-39,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-40,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-41,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-42,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-43,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-44,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-45,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-46,Grosse Pointe Nexus,1,9_E
+009,NormalMonFri,009-47,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-48,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-49,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-50,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-51,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-52,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-53,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-54,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-55,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-56,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-57,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-58,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-59,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-60,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-61,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-62,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-63,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-64,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-65,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-66,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-67,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-68,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-69,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-70,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-71,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-72,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-73,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-74,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-75,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-76,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-77,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-78,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-79,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-80,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-81,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-82,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-83,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-84,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-85,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-86,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-87,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-88,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-89,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-90,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-91,Grand River / Farmington,0,9_W
+009,NormalMonFri,009-92,Grand River / Farmington,0,9_W
+009,NormalSunday,009-93,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-94,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-95,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-96,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-97,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-98,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-99,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-100,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-101,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-102,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-103,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-104,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-105,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-106,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-107,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-108,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-109,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-110,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-111,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-112,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-113,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-114,Grosse Pointe Nexus,1,9_E
+009,NormalSunday,009-115,Grand River / Farmington,0,9_W
+009,NormalSunday,009-116,Grand River / Farmington,0,9_W
+009,NormalSunday,009-117,Grand River / Farmington,0,9_W
+009,NormalSunday,009-118,Grand River / Farmington,0,9_W
+009,NormalSunday,009-119,Grand River / Farmington,0,9_W
+009,NormalSunday,009-120,Grand River / Farmington,0,9_W
+009,NormalSunday,009-121,Grand River / Farmington,0,9_W
+009,NormalSunday,009-122,Grand River / Farmington,0,9_W
+009,NormalSunday,009-123,Grand River / Farmington,0,9_W
+009,NormalSunday,009-124,Grand River / Farmington,0,9_W
+009,NormalSunday,009-125,Grand River / Farmington,0,9_W
+009,NormalSunday,009-126,Grand River / Farmington,0,9_W
+009,NormalSunday,009-127,Grand River / Farmington,0,9_W
+009,NormalSunday,009-128,Grand River / Farmington,0,9_W
+009,NormalSunday,009-129,Grand River / Farmington,0,9_W
+009,NormalSunday,009-130,Grand River / Farmington,0,9_W
+009,NormalSunday,009-131,Grand River / Farmington,0,9_W
+009,NormalSunday,009-132,Grand River / Farmington,0,9_W
+009,NormalSunday,009-133,Grand River / Farmington,0,9_W
+009,NormalSunday,009-134,Grand River / Farmington,0,9_W
+009,NormalSunday,009-135,Grand River / Farmington,0,9_W
+009,NormalSunday,009-136,Grand River / Farmington,0,9_W
+009,SatToDaily,009-137,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-138,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-139,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-140,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-141,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-142,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-143,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-144,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-145,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-146,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-147,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-148,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-149,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-150,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-151,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-152,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-153,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-154,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-155,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-156,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-157,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-158,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-159,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-160,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-161,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-162,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-163,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-164,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-165,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-166,Grosse Pointe Nexus,1,9_E
+009,SatToDaily,009-167,Grand River / Farmington,0,9_W
+009,SatToDaily,009-168,Grand River / Farmington,0,9_W
+009,SatToDaily,009-169,Grand River / Farmington,0,9_W
+009,SatToDaily,009-170,Grand River / Farmington,0,9_W
+009,SatToDaily,009-171,Grand River / Farmington,0,9_W
+009,SatToDaily,009-172,Grand River / Farmington,0,9_W
+009,SatToDaily,009-173,Grand River / Farmington,0,9_W
+009,SatToDaily,009-174,Grand River / Farmington,0,9_W
+009,SatToDaily,009-175,Grand River / Farmington,0,9_W
+009,SatToDaily,009-176,Grand River / Farmington,0,9_W
+009,SatToDaily,009-177,Grand River / Farmington,0,9_W
+009,SatToDaily,009-178,Grand River / Farmington,0,9_W
+009,SatToDaily,009-179,Grand River / Farmington,0,9_W
+009,SatToDaily,009-180,Grand River / Farmington,0,9_W
+009,SatToDaily,009-181,Grand River / Farmington,0,9_W
+009,SatToDaily,009-182,Grand River / Farmington,0,9_W
+009,SatToDaily,009-183,Grand River / Farmington,0,9_W
+009,SatToDaily,009-184,Grand River / Farmington,0,9_W
+009,SatToDaily,009-185,Grand River / Farmington,0,9_W
+009,SatToDaily,009-186,Grand River / Farmington,0,9_W
+009,SatToDaily,009-187,Grand River / Farmington,0,9_W
+009,SatToDaily,009-188,Grand River / Farmington,0,9_W
+009,SatToDaily,009-189,Grand River / Farmington,0,9_W
+009,SatToDaily,009-190,Grand River / Farmington,0,9_W
+009,SatToDaily,009-191,Grand River / Farmington,0,9_W
+009,SatToDaily,009-192,Grand River / Farmington,0,9_W
+009,SatToDaily,009-193,Grand River / Farmington,0,9_W
+009,SatToDaily,009-194,Grand River / Farmington,0,9_W
+009,SatToDaily,009-195,Grand River / Farmington,0,9_W
+009,SatToDaily,009-196,Grand River / Farmington,0,9_W

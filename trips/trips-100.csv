@@ -1,327 +1,327 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-100,saturday,100-1,Ford Field,0,1008
-100,saturday,100-2,Ford Field,0,1008
-100,saturday,100-3,Ford Field,0,1008
-100,saturday,100-4,Ford Field,0,1008
-100,saturday,100-5,Ford Field,0,1008
-100,saturday,100-6,Ford Field,0,1008
-100,saturday,100-7,Ford Field,0,1008
-100,saturday,100-8,Ford Field,0,1008
-100,saturday,100-9,Ford Field,0,1008
-100,saturday,100-10,Ford Field,0,1008
-100,saturday,100-11,Ford Field,0,1008
-100,saturday,100-12,Ford Field,0,1008
-100,saturday,100-13,Ford Field,0,1008
-100,saturday,100-14,Ford Field,0,1008
-100,saturday,100-15,Ford Field,0,1008
-100,saturday,100-16,Ford Field,0,1008
-100,saturday,100-17,Ford Field,0,1008
-100,saturday,100-18,Ford Field,0,1008
-100,saturday,100-19,Ford Field,0,1008
-100,saturday,100-20,Ford Field,0,1008
-100,saturday,100-21,Ford Field,0,1008
-100,saturday,100-22,Ford Field,0,1008
-100,saturday,100-23,Ford Field,0,1008
-100,saturday,100-24,Ford Field,0,1008
-100,saturday,100-25,Ford Field,0,1008
-100,saturday,100-26,Ford Field,0,1008
-100,saturday,100-27,Ford Field,0,1008
-100,saturday,100-28,Ford Field,0,1008
-100,saturday,100-29,Ford Field,0,1008
-100,saturday,100-30,Ford Field,0,1008
-100,saturday,100-31,Ford Field,0,1008
-100,saturday,100-32,Ford Field,0,1008
-100,saturday,100-33,Ford Field,0,1008
-100,saturday,100-34,Ford Field,0,1008
-100,saturday,100-35,Ford Field,0,1008
-100,saturday,100-36,Ford Field,0,1008
-100,saturday,100-37,Ford Field,0,1008
-100,saturday,100-38,Ford Field,0,1008
-100,saturday,100-39,Ford Field,0,1008
-100,saturday,100-40,Ford Field,0,1008
-100,saturday,100-41,Ford Field,0,1008
-100,saturday,100-42,Ford Field,0,1008
-100,saturday,100-43,Ford Field,0,1008
-100,saturday,100-44,Ford Field,0,1008
-100,saturday,100-45,Ford Field,0,1008
-100,saturday,100-46,Ford Field,0,1008
-100,saturday,100-47,Ford Field,0,1008
-100,saturday,100-48,Ford Field,0,1008
-100,saturday,100-49,Ford Field,0,1008
-100,saturday,100-50,Ford Field,0,1008
-100,saturday,100-51,Ford Field,0,1008
-100,saturday,100-52,Ford Field,0,1008
-100,saturday,100-53,Ford Field,0,1008
-100,saturday,100-54,Ford Field,0,1008
-100,saturday,100-55,Ford Field,0,1008
-100,saturday,100-56,West / Allen,1,1002
-100,saturday,100-57,West / Allen,1,1002
-100,saturday,100-58,West / Allen,1,1002
-100,saturday,100-59,West / Allen,1,1002
-100,saturday,100-60,West / Allen,1,1002
-100,saturday,100-61,West / Allen,1,1002
-100,saturday,100-62,West / Allen,1,1002
-100,saturday,100-63,West / Allen,1,1002
-100,saturday,100-64,West / Allen,1,1002
-100,saturday,100-65,West / Allen,1,1002
-100,saturday,100-66,West / Allen,1,1002
-100,saturday,100-67,West / Allen,1,1002
-100,saturday,100-68,West / Allen,1,1002
-100,saturday,100-69,West / Allen,1,1002
-100,saturday,100-70,West / Allen,1,1002
-100,saturday,100-71,West / Allen,1,1002
-100,saturday,100-72,West / Allen,1,1002
-100,saturday,100-73,West / Allen,1,1002
-100,saturday,100-74,West / Allen,1,1002
-100,saturday,100-75,West / Allen,1,1002
-100,saturday,100-76,West / Allen,1,1002
-100,saturday,100-77,West / Allen,1,1002
-100,saturday,100-78,West / Allen,1,1002
-100,saturday,100-79,West / Allen,1,1002
-100,saturday,100-80,West / Allen,1,1002
-100,saturday,100-81,West / Allen,1,1002
-100,saturday,100-82,West / Allen,1,1002
-100,saturday,100-83,West / Allen,1,1002
-100,saturday,100-84,West / Allen,1,1002
-100,saturday,100-85,West / Allen,1,1002
-100,saturday,100-86,West / Allen,1,1002
-100,saturday,100-87,West / Allen,1,1002
-100,saturday,100-88,West / Allen,1,1002
-100,saturday,100-89,West / Allen,1,1002
-100,saturday,100-90,West / Allen,1,1002
-100,saturday,100-91,West / Allen,1,1002
-100,saturday,100-92,West / Allen,1,1002
-100,saturday,100-93,West / Allen,1,1002
-100,saturday,100-94,West / Allen,1,1002
-100,saturday,100-95,West / Allen,1,1002
-100,saturday,100-96,West / Allen,1,1002
-100,saturday,100-97,West / Allen,1,1002
-100,saturday,100-98,West / Allen,1,1002
-100,saturday,100-99,West / Allen,1,1002
-100,saturday,100-100,West / Allen,1,1002
-100,saturday,100-101,West / Allen,1,1002
-100,saturday,100-102,West / Allen,1,1002
-100,saturday,100-103,West / Allen,1,1002
-100,saturday,100-104,West / Allen,1,1002
-100,saturday,100-105,West / Allen,1,1002
-100,saturday,100-106,West / Allen,1,1002
-100,saturday,100-107,West / Allen,1,1002
-100,saturday,100-108,West / Allen,1,1002
-100,saturday,100-109,West / Allen,1,1002
-100,saturday,100-110,West / Allen,1,1002
-100,sunday,100-111,Ford Field,0,1008
-100,sunday,100-112,Ford Field,0,1008
-100,sunday,100-113,Ford Field,0,1008
-100,sunday,100-114,Ford Field,0,1008
-100,sunday,100-115,Ford Field,0,1008
-100,sunday,100-116,Ford Field,0,1008
-100,sunday,100-117,Ford Field,0,1008
-100,sunday,100-118,Ford Field,0,1008
-100,sunday,100-119,Ford Field,0,1008
-100,sunday,100-120,Ford Field,0,1008
-100,sunday,100-121,Ford Field,0,1008
-100,sunday,100-122,Ford Field,0,1008
-100,sunday,100-123,Ford Field,0,1008
-100,sunday,100-124,Ford Field,0,1008
-100,sunday,100-125,Ford Field,0,1008
-100,sunday,100-126,Ford Field,0,1008
-100,sunday,100-127,Ford Field,0,1008
-100,sunday,100-128,Ford Field,0,1008
-100,sunday,100-129,Ford Field,0,1008
-100,sunday,100-130,Ford Field,0,1008
-100,sunday,100-131,Ford Field,0,1008
-100,sunday,100-132,Ford Field,0,1008
-100,sunday,100-133,Ford Field,0,1008
-100,sunday,100-134,Ford Field,0,1008
-100,sunday,100-135,Ford Field,0,1008
-100,sunday,100-136,Ford Field,0,1008
-100,sunday,100-137,Ford Field,0,1008
-100,sunday,100-138,Ford Field,0,1008
-100,sunday,100-139,Ford Field,0,1008
-100,sunday,100-140,Ford Field,0,1008
-100,sunday,100-141,Ford Field,0,1008
-100,sunday,100-142,Ford Field,0,1008
-100,sunday,100-143,Ford Field,0,1008
-100,sunday,100-144,Ford Field,0,1008
-100,sunday,100-145,Ford Field,0,1008
-100,sunday,100-146,Ford Field,0,1008
-100,sunday,100-147,Ford Field,0,1008
-100,sunday,100-148,Ford Field,0,1008
-100,sunday,100-149,West / Allen,1,1002
-100,sunday,100-150,West / Allen,1,1002
-100,sunday,100-151,West / Allen,1,1002
-100,sunday,100-152,West / Allen,1,1002
-100,sunday,100-153,West / Allen,1,1002
-100,sunday,100-154,West / Allen,1,1002
-100,sunday,100-155,West / Allen,1,1002
-100,sunday,100-156,West / Allen,1,1002
-100,sunday,100-157,West / Allen,1,1002
-100,sunday,100-158,West / Allen,1,1002
-100,sunday,100-159,West / Allen,1,1002
-100,sunday,100-160,West / Allen,1,1002
-100,sunday,100-161,West / Allen,1,1002
-100,sunday,100-162,West / Allen,1,1002
-100,sunday,100-163,West / Allen,1,1002
-100,sunday,100-164,West / Allen,1,1002
-100,sunday,100-165,West / Allen,1,1002
-100,sunday,100-166,West / Allen,1,1002
-100,sunday,100-167,West / Allen,1,1002
-100,sunday,100-168,West / Allen,1,1002
-100,sunday,100-169,West / Allen,1,1002
-100,sunday,100-170,West / Allen,1,1002
-100,sunday,100-171,West / Allen,1,1002
-100,sunday,100-172,West / Allen,1,1002
-100,sunday,100-173,West / Allen,1,1002
-100,sunday,100-174,West / Allen,1,1002
-100,sunday,100-175,West / Allen,1,1002
-100,sunday,100-176,West / Allen,1,1002
-100,sunday,100-177,West / Allen,1,1002
-100,sunday,100-178,West / Allen,1,1002
-100,sunday,100-179,West / Allen,1,1002
-100,sunday,100-180,West / Allen,1,1002
-100,sunday,100-181,West / Allen,1,1002
-100,sunday,100-182,West / Allen,1,1002
-100,sunday,100-183,West / Allen,1,1002
-100,sunday,100-184,West / Allen,1,1002
-100,sunday,100-185,West / Allen,1,1002
-100,sunday,100-186,West / Allen,1,1002
-100,weekday,100-187,Ford Field,0,1008
-100,weekday,100-188,Ford Field,0,1008
-100,weekday,100-189,Ford Field,0,1008
-100,weekday,100-190,Ford Field,0,1008
-100,weekday,100-191,Ford Field,0,1008
-100,weekday,100-192,Ford Field,0,1008
-100,weekday,100-193,Ford Field,0,1008
-100,weekday,100-194,Ford Field,0,1008
-100,weekday,100-195,Ford Field,0,1008
-100,weekday,100-196,Ford Field,0,1008
-100,weekday,100-197,Ford Field,0,1008
-100,weekday,100-198,Ford Field,0,1008
-100,weekday,100-199,Ford Field,0,1008
-100,weekday,100-200,Ford Field,0,1008
-100,weekday,100-201,Ford Field,0,1008
-100,weekday,100-202,Ford Field,0,1008
-100,weekday,100-203,Ford Field,0,1008
-100,weekday,100-204,Ford Field,0,1008
-100,weekday,100-205,Ford Field,0,1008
-100,weekday,100-206,Ford Field,0,1008
-100,weekday,100-207,Ford Field,0,1008
-100,weekday,100-208,Ford Field,0,1008
-100,weekday,100-209,Ford Field,0,1008
-100,weekday,100-210,Ford Field,0,1008
-100,weekday,100-211,Ford Field,0,1008
-100,weekday,100-212,Ford Field,0,1008
-100,weekday,100-213,Ford Field,0,1008
-100,weekday,100-214,Ford Field,0,1008
-100,weekday,100-215,Ford Field,0,1008
-100,weekday,100-216,Ford Field,0,1008
-100,weekday,100-217,Ford Field,0,1008
-100,weekday,100-218,Ford Field,0,1008
-100,weekday,100-219,Ford Field,0,1008
-100,weekday,100-220,Ford Field,0,1008
-100,weekday,100-221,Ford Field,0,1008
-100,weekday,100-222,Ford Field,0,1008
-100,weekday,100-223,Ford Field,0,1008
-100,weekday,100-224,Ford Field,0,1008
-100,weekday,100-225,Ford Field,0,1008
-100,weekday,100-226,Ford Field,0,1008
-100,weekday,100-227,Ford Field,0,1008
-100,weekday,100-228,Ford Field,0,1008
-100,weekday,100-229,Ford Field,0,1008
-100,weekday,100-230,Ford Field,0,1008
-100,weekday,100-231,Ford Field,0,1008
-100,weekday,100-232,Ford Field,0,1008
-100,weekday,100-233,Ford Field,0,1008
-100,weekday,100-234,Ford Field,0,1008
-100,weekday,100-235,Ford Field,0,1008
-100,weekday,100-236,Ford Field,0,1008
-100,weekday,100-237,Ford Field,0,1008
-100,weekday,100-238,Ford Field,0,1008
-100,weekday,100-239,Ford Field,0,1008
-100,weekday,100-240,Ford Field,0,1008
-100,weekday,100-241,Ford Field,0,1008
-100,weekday,100-242,Ford Field,0,1008
-100,weekday,100-243,Ford Field,0,1008
-100,weekday,100-244,Ford Field,0,1008
-100,weekday,100-245,Ford Field,0,1008
-100,weekday,100-246,Ford Field,0,1008
-100,weekday,100-247,Ford Field,0,1008
-100,weekday,100-248,Ford Field,0,1008
-100,weekday,100-249,Ford Field,0,1008
-100,weekday,100-250,Ford Field,0,1008
-100,weekday,100-251,Ford Field,0,1008
-100,weekday,100-252,Ford Field,0,1008
-100,weekday,100-253,Ford Field,0,1008
-100,weekday,100-254,Ford Field,0,1008
-100,weekday,100-255,Ford Field,0,1008
-100,weekday,100-256,Ford Field,0,1008
-100,weekday,100-257,West / Allen,1,1002
-100,weekday,100-258,West / Allen,1,1002
-100,weekday,100-259,West / Allen,1,1002
-100,weekday,100-260,West / Allen,1,1002
-100,weekday,100-261,West / Allen,1,1002
-100,weekday,100-262,West / Allen,1,1002
-100,weekday,100-263,West / Allen,1,1002
-100,weekday,100-264,West / Allen,1,1002
-100,weekday,100-265,West / Allen,1,1002
-100,weekday,100-266,West / Allen,1,1002
-100,weekday,100-267,West / Allen,1,1002
-100,weekday,100-268,West / Allen,1,1002
-100,weekday,100-269,West / Allen,1,1002
-100,weekday,100-270,West / Allen,1,1002
-100,weekday,100-271,West / Allen,1,1002
-100,weekday,100-272,West / Allen,1,1002
-100,weekday,100-273,West / Allen,1,1002
-100,weekday,100-274,West / Allen,1,1002
-100,weekday,100-275,West / Allen,1,1002
-100,weekday,100-276,West / Allen,1,1002
-100,weekday,100-277,West / Allen,1,1002
-100,weekday,100-278,West / Allen,1,1002
-100,weekday,100-279,West / Allen,1,1002
-100,weekday,100-280,West / Allen,1,1002
-100,weekday,100-281,West / Allen,1,1002
-100,weekday,100-282,West / Allen,1,1002
-100,weekday,100-283,West / Allen,1,1002
-100,weekday,100-284,West / Allen,1,1002
-100,weekday,100-285,West / Allen,1,1002
-100,weekday,100-286,West / Allen,1,1002
-100,weekday,100-287,West / Allen,1,1002
-100,weekday,100-288,West / Allen,1,1002
-100,weekday,100-289,West / Allen,1,1002
-100,weekday,100-290,West / Allen,1,1002
-100,weekday,100-291,West / Allen,1,1002
-100,weekday,100-292,West / Allen,1,1002
-100,weekday,100-293,West / Allen,1,1002
-100,weekday,100-294,West / Allen,1,1002
-100,weekday,100-295,West / Allen,1,1002
-100,weekday,100-296,West / Allen,1,1002
-100,weekday,100-297,West / Allen,1,1002
-100,weekday,100-298,West / Allen,1,1002
-100,weekday,100-299,West / Allen,1,1002
-100,weekday,100-300,West / Allen,1,1002
-100,weekday,100-301,West / Allen,1,1002
-100,weekday,100-302,West / Allen,1,1002
-100,weekday,100-303,West / Allen,1,1002
-100,weekday,100-304,West / Allen,1,1002
-100,weekday,100-305,West / Allen,1,1002
-100,weekday,100-306,West / Allen,1,1002
-100,weekday,100-307,West / Allen,1,1002
-100,weekday,100-308,West / Allen,1,1002
-100,weekday,100-309,West / Allen,1,1002
-100,weekday,100-310,West / Allen,1,1002
-100,weekday,100-311,West / Allen,1,1002
-100,weekday,100-312,West / Allen,1,1002
-100,weekday,100-313,West / Allen,1,1002
-100,weekday,100-314,West / Allen,1,1002
-100,weekday,100-315,West / Allen,1,1002
-100,weekday,100-316,West / Allen,1,1002
-100,weekday,100-317,West / Allen,1,1002
-100,weekday,100-318,West / Allen,1,1002
-100,weekday,100-319,West / Allen,1,1002
-100,weekday,100-320,West / Allen,1,1002
-100,weekday,100-321,West / Allen,1,1002
-100,weekday,100-322,West / Allen,1,1002
-100,weekday,100-323,West / Allen,1,1002
-100,weekday,100-324,West / Allen,1,1002
-100,weekday,100-325,West / Allen,1,1002
-100,weekday,100-326,West / Allen,1,1002
+100,NormalMonFri,100-1,Ford Field,0,100_N
+100,NormalMonFri,100-2,Ford Field,0,100_N
+100,NormalMonFri,100-3,Ford Field,0,100_N
+100,NormalMonFri,100-4,Ford Field,0,100_N
+100,NormalMonFri,100-5,Ford Field,0,100_N
+100,NormalMonFri,100-6,Ford Field,0,100_N
+100,NormalMonFri,100-7,Ford Field,0,100_N
+100,NormalMonFri,100-8,Ford Field,0,100_N
+100,NormalMonFri,100-9,Ford Field,0,100_N
+100,NormalMonFri,100-10,Ford Field,0,100_N
+100,NormalMonFri,100-11,Ford Field,0,100_N
+100,NormalMonFri,100-12,Ford Field,0,100_N
+100,NormalMonFri,100-13,Ford Field,0,100_N
+100,NormalMonFri,100-14,Ford Field,0,100_N
+100,NormalMonFri,100-15,Ford Field,0,100_N
+100,NormalMonFri,100-16,Ford Field,0,100_N
+100,NormalMonFri,100-17,Ford Field,0,100_N
+100,NormalMonFri,100-18,Ford Field,0,100_N
+100,NormalMonFri,100-19,Ford Field,0,100_N
+100,NormalMonFri,100-20,Ford Field,0,100_N
+100,NormalMonFri,100-21,Ford Field,0,100_N
+100,NormalMonFri,100-22,Ford Field,0,100_N
+100,NormalMonFri,100-23,Ford Field,0,100_N
+100,NormalMonFri,100-24,Ford Field,0,100_N
+100,NormalMonFri,100-25,Ford Field,0,100_N
+100,NormalMonFri,100-26,Ford Field,0,100_N
+100,NormalMonFri,100-27,Ford Field,0,100_N
+100,NormalMonFri,100-28,Ford Field,0,100_N
+100,NormalMonFri,100-29,Ford Field,0,100_N
+100,NormalMonFri,100-30,Ford Field,0,100_N
+100,NormalMonFri,100-31,Ford Field,0,100_N
+100,NormalMonFri,100-32,Ford Field,0,100_N
+100,NormalMonFri,100-33,Ford Field,0,100_N
+100,NormalMonFri,100-34,Ford Field,0,100_N
+100,NormalMonFri,100-35,Ford Field,0,100_N
+100,NormalMonFri,100-36,Ford Field,0,100_N
+100,NormalMonFri,100-37,Ford Field,0,100_N
+100,NormalMonFri,100-38,Ford Field,0,100_N
+100,NormalMonFri,100-39,Ford Field,0,100_N
+100,NormalMonFri,100-40,Ford Field,0,100_N
+100,NormalMonFri,100-41,Ford Field,0,100_N
+100,NormalMonFri,100-42,Ford Field,0,100_N
+100,NormalMonFri,100-43,Ford Field,0,100_N
+100,NormalMonFri,100-44,Ford Field,0,100_N
+100,NormalMonFri,100-45,Ford Field,0,100_N
+100,NormalMonFri,100-46,Ford Field,0,100_N
+100,NormalMonFri,100-47,Ford Field,0,100_N
+100,NormalMonFri,100-48,Ford Field,0,100_N
+100,NormalMonFri,100-49,Ford Field,0,100_N
+100,NormalMonFri,100-50,Ford Field,0,100_N
+100,NormalMonFri,100-51,Ford Field,0,100_N
+100,NormalMonFri,100-52,Ford Field,0,100_N
+100,NormalMonFri,100-53,Ford Field,0,100_N
+100,NormalMonFri,100-54,Ford Field,0,100_N
+100,NormalMonFri,100-55,Ford Field,0,100_N
+100,NormalMonFri,100-56,Ford Field,0,100_N
+100,NormalMonFri,100-57,Ford Field,0,100_N
+100,NormalMonFri,100-58,Ford Field,0,100_N
+100,NormalMonFri,100-59,Ford Field,0,100_N
+100,NormalMonFri,100-60,Ford Field,0,100_N
+100,NormalMonFri,100-61,Ford Field,0,100_N
+100,NormalMonFri,100-62,Ford Field,0,100_N
+100,NormalMonFri,100-63,Ford Field,0,100_N
+100,NormalMonFri,100-64,Ford Field,0,100_N
+100,NormalMonFri,100-65,Ford Field,0,100_N
+100,NormalMonFri,100-66,Ford Field,0,100_N
+100,NormalMonFri,100-67,Ford Field,0,100_N
+100,NormalMonFri,100-68,Ford Field,0,100_N
+100,NormalMonFri,100-69,Ford Field,0,100_N
+100,NormalMonFri,100-70,Ford Field,0,100_N
+100,NormalMonFri,100-71,West / Allen,1,100_S
+100,NormalMonFri,100-72,West / Allen,1,100_S
+100,NormalMonFri,100-73,West / Allen,1,100_S
+100,NormalMonFri,100-74,West / Allen,1,100_S
+100,NormalMonFri,100-75,West / Allen,1,100_S
+100,NormalMonFri,100-76,West / Allen,1,100_S
+100,NormalMonFri,100-77,West / Allen,1,100_S
+100,NormalMonFri,100-78,West / Allen,1,100_S
+100,NormalMonFri,100-79,West / Allen,1,100_S
+100,NormalMonFri,100-80,West / Allen,1,100_S
+100,NormalMonFri,100-81,West / Allen,1,100_S
+100,NormalMonFri,100-82,West / Allen,1,100_S
+100,NormalMonFri,100-83,West / Allen,1,100_S
+100,NormalMonFri,100-84,West / Allen,1,100_S
+100,NormalMonFri,100-85,West / Allen,1,100_S
+100,NormalMonFri,100-86,West / Allen,1,100_S
+100,NormalMonFri,100-87,West / Allen,1,100_S
+100,NormalMonFri,100-88,West / Allen,1,100_S
+100,NormalMonFri,100-89,West / Allen,1,100_S
+100,NormalMonFri,100-90,West / Allen,1,100_S
+100,NormalMonFri,100-91,West / Allen,1,100_S
+100,NormalMonFri,100-92,West / Allen,1,100_S
+100,NormalMonFri,100-93,West / Allen,1,100_S
+100,NormalMonFri,100-94,West / Allen,1,100_S
+100,NormalMonFri,100-95,West / Allen,1,100_S
+100,NormalMonFri,100-96,West / Allen,1,100_S
+100,NormalMonFri,100-97,West / Allen,1,100_S
+100,NormalMonFri,100-98,West / Allen,1,100_S
+100,NormalMonFri,100-99,West / Allen,1,100_S
+100,NormalMonFri,100-100,West / Allen,1,100_S
+100,NormalMonFri,100-101,West / Allen,1,100_S
+100,NormalMonFri,100-102,West / Allen,1,100_S
+100,NormalMonFri,100-103,West / Allen,1,100_S
+100,NormalMonFri,100-104,West / Allen,1,100_S
+100,NormalMonFri,100-105,West / Allen,1,100_S
+100,NormalMonFri,100-106,West / Allen,1,100_S
+100,NormalMonFri,100-107,West / Allen,1,100_S
+100,NormalMonFri,100-108,West / Allen,1,100_S
+100,NormalMonFri,100-109,West / Allen,1,100_S
+100,NormalMonFri,100-110,West / Allen,1,100_S
+100,NormalMonFri,100-111,West / Allen,1,100_S
+100,NormalMonFri,100-112,West / Allen,1,100_S
+100,NormalMonFri,100-113,West / Allen,1,100_S
+100,NormalMonFri,100-114,West / Allen,1,100_S
+100,NormalMonFri,100-115,West / Allen,1,100_S
+100,NormalMonFri,100-116,West / Allen,1,100_S
+100,NormalMonFri,100-117,West / Allen,1,100_S
+100,NormalMonFri,100-118,West / Allen,1,100_S
+100,NormalMonFri,100-119,West / Allen,1,100_S
+100,NormalMonFri,100-120,West / Allen,1,100_S
+100,NormalMonFri,100-121,West / Allen,1,100_S
+100,NormalMonFri,100-122,West / Allen,1,100_S
+100,NormalMonFri,100-123,West / Allen,1,100_S
+100,NormalMonFri,100-124,West / Allen,1,100_S
+100,NormalMonFri,100-125,West / Allen,1,100_S
+100,NormalMonFri,100-126,West / Allen,1,100_S
+100,NormalMonFri,100-127,West / Allen,1,100_S
+100,NormalMonFri,100-128,West / Allen,1,100_S
+100,NormalMonFri,100-129,West / Allen,1,100_S
+100,NormalMonFri,100-130,West / Allen,1,100_S
+100,NormalMonFri,100-131,West / Allen,1,100_S
+100,NormalMonFri,100-132,West / Allen,1,100_S
+100,NormalMonFri,100-133,West / Allen,1,100_S
+100,NormalMonFri,100-134,West / Allen,1,100_S
+100,NormalMonFri,100-135,West / Allen,1,100_S
+100,NormalMonFri,100-136,West / Allen,1,100_S
+100,NormalMonFri,100-137,West / Allen,1,100_S
+100,NormalMonFri,100-138,West / Allen,1,100_S
+100,NormalMonFri,100-139,West / Allen,1,100_S
+100,NormalMonFri,100-140,West / Allen,1,100_S
+100,NormalSunday,100-141,Ford Field,0,100_N
+100,NormalSunday,100-142,Ford Field,0,100_N
+100,NormalSunday,100-143,Ford Field,0,100_N
+100,NormalSunday,100-144,Ford Field,0,100_N
+100,NormalSunday,100-145,Ford Field,0,100_N
+100,NormalSunday,100-146,Ford Field,0,100_N
+100,NormalSunday,100-147,Ford Field,0,100_N
+100,NormalSunday,100-148,Ford Field,0,100_N
+100,NormalSunday,100-149,Ford Field,0,100_N
+100,NormalSunday,100-150,Ford Field,0,100_N
+100,NormalSunday,100-151,Ford Field,0,100_N
+100,NormalSunday,100-152,Ford Field,0,100_N
+100,NormalSunday,100-153,Ford Field,0,100_N
+100,NormalSunday,100-154,Ford Field,0,100_N
+100,NormalSunday,100-155,Ford Field,0,100_N
+100,NormalSunday,100-156,Ford Field,0,100_N
+100,NormalSunday,100-157,Ford Field,0,100_N
+100,NormalSunday,100-158,Ford Field,0,100_N
+100,NormalSunday,100-159,Ford Field,0,100_N
+100,NormalSunday,100-160,Ford Field,0,100_N
+100,NormalSunday,100-161,Ford Field,0,100_N
+100,NormalSunday,100-162,Ford Field,0,100_N
+100,NormalSunday,100-163,Ford Field,0,100_N
+100,NormalSunday,100-164,Ford Field,0,100_N
+100,NormalSunday,100-165,Ford Field,0,100_N
+100,NormalSunday,100-166,Ford Field,0,100_N
+100,NormalSunday,100-167,Ford Field,0,100_N
+100,NormalSunday,100-168,Ford Field,0,100_N
+100,NormalSunday,100-169,Ford Field,0,100_N
+100,NormalSunday,100-170,Ford Field,0,100_N
+100,NormalSunday,100-171,Ford Field,0,100_N
+100,NormalSunday,100-172,Ford Field,0,100_N
+100,NormalSunday,100-173,Ford Field,0,100_N
+100,NormalSunday,100-174,Ford Field,0,100_N
+100,NormalSunday,100-175,Ford Field,0,100_N
+100,NormalSunday,100-176,Ford Field,0,100_N
+100,NormalSunday,100-177,Ford Field,0,100_N
+100,NormalSunday,100-178,Ford Field,0,100_N
+100,NormalSunday,100-179,West / Allen,1,100_S
+100,NormalSunday,100-180,West / Allen,1,100_S
+100,NormalSunday,100-181,West / Allen,1,100_S
+100,NormalSunday,100-182,West / Allen,1,100_S
+100,NormalSunday,100-183,West / Allen,1,100_S
+100,NormalSunday,100-184,West / Allen,1,100_S
+100,NormalSunday,100-185,West / Allen,1,100_S
+100,NormalSunday,100-186,West / Allen,1,100_S
+100,NormalSunday,100-187,West / Allen,1,100_S
+100,NormalSunday,100-188,West / Allen,1,100_S
+100,NormalSunday,100-189,West / Allen,1,100_S
+100,NormalSunday,100-190,West / Allen,1,100_S
+100,NormalSunday,100-191,West / Allen,1,100_S
+100,NormalSunday,100-192,West / Allen,1,100_S
+100,NormalSunday,100-193,West / Allen,1,100_S
+100,NormalSunday,100-194,West / Allen,1,100_S
+100,NormalSunday,100-195,West / Allen,1,100_S
+100,NormalSunday,100-196,West / Allen,1,100_S
+100,NormalSunday,100-197,West / Allen,1,100_S
+100,NormalSunday,100-198,West / Allen,1,100_S
+100,NormalSunday,100-199,West / Allen,1,100_S
+100,NormalSunday,100-200,West / Allen,1,100_S
+100,NormalSunday,100-201,West / Allen,1,100_S
+100,NormalSunday,100-202,West / Allen,1,100_S
+100,NormalSunday,100-203,West / Allen,1,100_S
+100,NormalSunday,100-204,West / Allen,1,100_S
+100,NormalSunday,100-205,West / Allen,1,100_S
+100,NormalSunday,100-206,West / Allen,1,100_S
+100,NormalSunday,100-207,West / Allen,1,100_S
+100,NormalSunday,100-208,West / Allen,1,100_S
+100,NormalSunday,100-209,West / Allen,1,100_S
+100,NormalSunday,100-210,West / Allen,1,100_S
+100,NormalSunday,100-211,West / Allen,1,100_S
+100,NormalSunday,100-212,West / Allen,1,100_S
+100,NormalSunday,100-213,West / Allen,1,100_S
+100,NormalSunday,100-214,West / Allen,1,100_S
+100,NormalSunday,100-215,West / Allen,1,100_S
+100,NormalSunday,100-216,West / Allen,1,100_S
+100,SatToDaily,100-217,Ford Field,0,100_N
+100,SatToDaily,100-218,Ford Field,0,100_N
+100,SatToDaily,100-219,Ford Field,0,100_N
+100,SatToDaily,100-220,Ford Field,0,100_N
+100,SatToDaily,100-221,Ford Field,0,100_N
+100,SatToDaily,100-222,Ford Field,0,100_N
+100,SatToDaily,100-223,Ford Field,0,100_N
+100,SatToDaily,100-224,Ford Field,0,100_N
+100,SatToDaily,100-225,Ford Field,0,100_N
+100,SatToDaily,100-226,Ford Field,0,100_N
+100,SatToDaily,100-227,Ford Field,0,100_N
+100,SatToDaily,100-228,Ford Field,0,100_N
+100,SatToDaily,100-229,Ford Field,0,100_N
+100,SatToDaily,100-230,Ford Field,0,100_N
+100,SatToDaily,100-231,Ford Field,0,100_N
+100,SatToDaily,100-232,Ford Field,0,100_N
+100,SatToDaily,100-233,Ford Field,0,100_N
+100,SatToDaily,100-234,Ford Field,0,100_N
+100,SatToDaily,100-235,Ford Field,0,100_N
+100,SatToDaily,100-236,Ford Field,0,100_N
+100,SatToDaily,100-237,Ford Field,0,100_N
+100,SatToDaily,100-238,Ford Field,0,100_N
+100,SatToDaily,100-239,Ford Field,0,100_N
+100,SatToDaily,100-240,Ford Field,0,100_N
+100,SatToDaily,100-241,Ford Field,0,100_N
+100,SatToDaily,100-242,Ford Field,0,100_N
+100,SatToDaily,100-243,Ford Field,0,100_N
+100,SatToDaily,100-244,Ford Field,0,100_N
+100,SatToDaily,100-245,Ford Field,0,100_N
+100,SatToDaily,100-246,Ford Field,0,100_N
+100,SatToDaily,100-247,Ford Field,0,100_N
+100,SatToDaily,100-248,Ford Field,0,100_N
+100,SatToDaily,100-249,Ford Field,0,100_N
+100,SatToDaily,100-250,Ford Field,0,100_N
+100,SatToDaily,100-251,Ford Field,0,100_N
+100,SatToDaily,100-252,Ford Field,0,100_N
+100,SatToDaily,100-253,Ford Field,0,100_N
+100,SatToDaily,100-254,Ford Field,0,100_N
+100,SatToDaily,100-255,Ford Field,0,100_N
+100,SatToDaily,100-256,Ford Field,0,100_N
+100,SatToDaily,100-257,Ford Field,0,100_N
+100,SatToDaily,100-258,Ford Field,0,100_N
+100,SatToDaily,100-259,Ford Field,0,100_N
+100,SatToDaily,100-260,Ford Field,0,100_N
+100,SatToDaily,100-261,Ford Field,0,100_N
+100,SatToDaily,100-262,Ford Field,0,100_N
+100,SatToDaily,100-263,Ford Field,0,100_N
+100,SatToDaily,100-264,Ford Field,0,100_N
+100,SatToDaily,100-265,Ford Field,0,100_N
+100,SatToDaily,100-266,Ford Field,0,100_N
+100,SatToDaily,100-267,Ford Field,0,100_N
+100,SatToDaily,100-268,Ford Field,0,100_N
+100,SatToDaily,100-269,Ford Field,0,100_N
+100,SatToDaily,100-270,Ford Field,0,100_N
+100,SatToDaily,100-271,Ford Field,0,100_N
+100,SatToDaily,100-272,West / Allen,1,100_S
+100,SatToDaily,100-273,West / Allen,1,100_S
+100,SatToDaily,100-274,West / Allen,1,100_S
+100,SatToDaily,100-275,West / Allen,1,100_S
+100,SatToDaily,100-276,West / Allen,1,100_S
+100,SatToDaily,100-277,West / Allen,1,100_S
+100,SatToDaily,100-278,West / Allen,1,100_S
+100,SatToDaily,100-279,West / Allen,1,100_S
+100,SatToDaily,100-280,West / Allen,1,100_S
+100,SatToDaily,100-281,West / Allen,1,100_S
+100,SatToDaily,100-282,West / Allen,1,100_S
+100,SatToDaily,100-283,West / Allen,1,100_S
+100,SatToDaily,100-284,West / Allen,1,100_S
+100,SatToDaily,100-285,West / Allen,1,100_S
+100,SatToDaily,100-286,West / Allen,1,100_S
+100,SatToDaily,100-287,West / Allen,1,100_S
+100,SatToDaily,100-288,West / Allen,1,100_S
+100,SatToDaily,100-289,West / Allen,1,100_S
+100,SatToDaily,100-290,West / Allen,1,100_S
+100,SatToDaily,100-291,West / Allen,1,100_S
+100,SatToDaily,100-292,West / Allen,1,100_S
+100,SatToDaily,100-293,West / Allen,1,100_S
+100,SatToDaily,100-294,West / Allen,1,100_S
+100,SatToDaily,100-295,West / Allen,1,100_S
+100,SatToDaily,100-296,West / Allen,1,100_S
+100,SatToDaily,100-297,West / Allen,1,100_S
+100,SatToDaily,100-298,West / Allen,1,100_S
+100,SatToDaily,100-299,West / Allen,1,100_S
+100,SatToDaily,100-300,West / Allen,1,100_S
+100,SatToDaily,100-301,West / Allen,1,100_S
+100,SatToDaily,100-302,West / Allen,1,100_S
+100,SatToDaily,100-303,West / Allen,1,100_S
+100,SatToDaily,100-304,West / Allen,1,100_S
+100,SatToDaily,100-305,West / Allen,1,100_S
+100,SatToDaily,100-306,West / Allen,1,100_S
+100,SatToDaily,100-307,West / Allen,1,100_S
+100,SatToDaily,100-308,West / Allen,1,100_S
+100,SatToDaily,100-309,West / Allen,1,100_S
+100,SatToDaily,100-310,West / Allen,1,100_S
+100,SatToDaily,100-311,West / Allen,1,100_S
+100,SatToDaily,100-312,West / Allen,1,100_S
+100,SatToDaily,100-313,West / Allen,1,100_S
+100,SatToDaily,100-314,West / Allen,1,100_S
+100,SatToDaily,100-315,West / Allen,1,100_S
+100,SatToDaily,100-316,West / Allen,1,100_S
+100,SatToDaily,100-317,West / Allen,1,100_S
+100,SatToDaily,100-318,West / Allen,1,100_S
+100,SatToDaily,100-319,West / Allen,1,100_S
+100,SatToDaily,100-320,West / Allen,1,100_S
+100,SatToDaily,100-321,West / Allen,1,100_S
+100,SatToDaily,100-322,West / Allen,1,100_S
+100,SatToDaily,100-323,West / Allen,1,100_S
+100,SatToDaily,100-324,West / Allen,1,100_S
+100,SatToDaily,100-325,West / Allen,1,100_S
+100,SatToDaily,100-326,West / Allen,1,100_S

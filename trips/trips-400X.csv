@@ -1,28 +1,28 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-400,preholiday,400X-1,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-2,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-3,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-4,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-5,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-6,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-7,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-8,Henry Ford West Bloomfield,1,4018,400X
-400,preholiday,400X-9,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-10,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-11,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-12,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-13,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-14,Rosa Parks Nexus,0,4012,400X
-400,preholiday,400X-15,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-16,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-17,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-18,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-19,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-20,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-21,Henry Ford West Bloomfield,1,4018,400X
-400,weekdaynoph,400X-22,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-23,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-24,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-25,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-26,Rosa Parks Nexus,0,4012,400X
-400,weekdaynoph,400X-27,Rosa Parks Nexus,0,4012,400X
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+400X,NormalMonFriNoPH,400X-1,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-2,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-3,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-4,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-5,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-6,Henry Ford West Bloomfield,1,400X_N
+400X,NormalMonFriNoPH,400X-7,Rosa Parks Nexus,0,400X_S
+400X,NormalMonFriNoPH,400X-8,Rosa Parks Nexus,0,400X_S
+400X,NormalMonFriNoPH,400X-9,Rosa Parks Nexus,0,400X_S
+400X,NormalMonFriNoPH,400X-10,Rosa Parks Nexus,0,400X_S
+400X,NormalMonFriNoPH,400X-11,Rosa Parks Nexus,0,400X_S
+400X,NormalMonFriNoPH,400X-12,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-13,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-14,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-15,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-16,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-17,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-18,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-19,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-20,Henry Ford West Bloomfield,1,400X_N
+400X,PreHoliday,400X-21,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-22,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-23,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-24,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-25,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-26,Rosa Parks Nexus,0,400X_S
+400X,PreHoliday,400X-27,Rosa Parks Nexus,0,400X_S

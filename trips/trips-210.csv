@@ -1,63 +1,63 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-210,weekday,210-1,Beck / 5 Mile,0,2108
-210,weekday,210-2,Beck / 5 Mile,0,2108
-210,weekday,210-3,Beck / 5 Mile,0,2108
-210,weekday,210-4,Beck / 5 Mile,0,2108
-210,weekday,210-5,Beck / 5 Mile,0,2108
-210,weekday,210-6,Beck / 5 Mile,0,2108
-210,weekday,210-7,Beck / 5 Mile,0,2108
-210,weekday,210-8,Beck / 5 Mile,0,2108
-210,weekday,210-9,Beck / 5 Mile,0,2108
-210,weekday,210-10,Beck / 5 Mile,0,2108
-210,weekday,210-11,Beck / 5 Mile,0,2108
-210,weekday,210-12,Beck / 5 Mile,0,2108
-210,weekday,210-13,Beck / 5 Mile,0,2108
-210,weekday,210-14,Beck / 5 Mile,0,2108
-210,weekday,210-15,Beck / 5 Mile,0,2108
-210,weekday,210-16,Beck / 5 Mile,0,2108
-210,weekday,210-17,Beck / 5 Mile,0,2108
-210,weekday,210-18,Beck / 5 Mile,0,2108
-210,weekday,210-19,Beck / 5 Mile,0,2108
-210,weekday,210-20,Beck / 5 Mile,0,2108
-210,weekday,210-21,Beck / 5 Mile,0,2108
-210,weekday,210-22,Beck / 5 Mile,0,2108
-210,weekday,210-23,Beck / 5 Mile,0,2108
-210,weekday,210-24,Beck / 5 Mile,0,2108
-210,weekday,210-25,Beck / 5 Mile,0,2108
-210,weekday,210-26,Beck / 5 Mile,0,2108
-210,weekday,210-27,Beck / 5 Mile,0,2108
-210,weekday,210-28,Beck / 5 Mile,0,2108
-210,weekday,210-29,Beck / 5 Mile,0,2108
-210,weekday,210-30,Beck / 5 Mile,0,2108
-210,weekday,210-31,Beck / 5 Mile,0,2108
-210,weekday,210-32,Metro Airport Nexus,1,2102
-210,weekday,210-33,Metro Airport Nexus,1,2102
-210,weekday,210-34,Metro Airport Nexus,1,2102
-210,weekday,210-35,Metro Airport Nexus,1,2102
-210,weekday,210-36,Metro Airport Nexus,1,2102
-210,weekday,210-37,Metro Airport Nexus,1,2102
-210,weekday,210-38,Metro Airport Nexus,1,2102
-210,weekday,210-39,Metro Airport Nexus,1,2102
-210,weekday,210-40,Metro Airport Nexus,1,2102
-210,weekday,210-41,Metro Airport Nexus,1,2102
-210,weekday,210-42,Metro Airport Nexus,1,2102
-210,weekday,210-43,Metro Airport Nexus,1,2102
-210,weekday,210-44,Metro Airport Nexus,1,2102
-210,weekday,210-45,Metro Airport Nexus,1,2102
-210,weekday,210-46,Metro Airport Nexus,1,2102
-210,weekday,210-47,Metro Airport Nexus,1,2102
-210,weekday,210-48,Metro Airport Nexus,1,2102
-210,weekday,210-49,Metro Airport Nexus,1,2102
-210,weekday,210-50,Metro Airport Nexus,1,2102
-210,weekday,210-51,Metro Airport Nexus,1,2102
-210,weekday,210-52,Metro Airport Nexus,1,2102
-210,weekday,210-53,Metro Airport Nexus,1,2102
-210,weekday,210-54,Metro Airport Nexus,1,2102
-210,weekday,210-55,Metro Airport Nexus,1,2102
-210,weekday,210-56,Metro Airport Nexus,1,2102
-210,weekday,210-57,Metro Airport Nexus,1,2102
-210,weekday,210-58,Metro Airport Nexus,1,2102
-210,weekday,210-59,Metro Airport Nexus,1,2102
-210,weekday,210-60,Metro Airport Nexus,1,2102
-210,weekday,210-61,Metro Airport Nexus,1,2102
-210,weekday,210-62,Metro Airport Nexus,1,2102
+210,NormalMonFri,210-1,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-2,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-3,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-4,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-5,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-6,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-7,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-8,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-9,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-10,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-11,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-12,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-13,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-14,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-15,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-16,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-17,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-18,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-19,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-20,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-21,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-22,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-23,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-24,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-25,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-26,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-27,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-28,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-29,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-30,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-31,Beck / 5 Mile,0,210_N
+210,NormalMonFri,210-32,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-33,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-34,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-35,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-36,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-37,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-38,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-39,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-40,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-41,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-42,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-43,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-44,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-45,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-46,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-47,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-48,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-49,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-50,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-51,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-52,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-53,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-54,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-55,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-56,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-57,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-58,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-59,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-60,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-61,Metro Airport Nexus,1,210_S
+210,NormalMonFri,210-62,Metro Airport Nexus,1,210_S

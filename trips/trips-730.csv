@@ -1,91 +1,91 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-730,saturday,730-1,Gratiot / Frazho,0,7308
-730,saturday,730-2,Gratiot / Frazho,0,7308
-730,saturday,730-3,Gratiot / Frazho,0,7308
-730,saturday,730-4,Gratiot / Frazho,0,7308
-730,saturday,730-5,Gratiot / Frazho,0,7308
-730,saturday,730-6,Gratiot / Frazho,0,7308
-730,saturday,730-7,Gratiot / Frazho,0,7308
-730,saturday,730-8,Gratiot / Frazho,0,7308
-730,saturday,730-9,Gratiot / Frazho,0,7308
-730,saturday,730-10,Gratiot / Frazho,0,7308
-730,saturday,730-11,Gratiot / Frazho,0,7308
-730,saturday,730-12,Gratiot / Frazho,0,7308
-730,saturday,730-13,Gratiot / Frazho,0,7308
-730,saturday,730-14,Gratiot / Frazho,0,7308
-730,saturday,730-15,Gratiot / Frazho,0,7308
-730,saturday,730-16,Gratiot / Frazho,0,7308
-730,saturday,730-17,Gratiot / Frazho,0,7308
-730,saturday,730-18,Riverbend Plaza,1,7302
-730,saturday,730-19,Riverbend Plaza,1,7302
-730,saturday,730-20,Riverbend Plaza,1,7302
-730,saturday,730-21,Riverbend Plaza,1,7302
-730,saturday,730-22,Riverbend Plaza,1,7302
-730,saturday,730-23,Riverbend Plaza,1,7302
-730,saturday,730-24,Riverbend Plaza,1,7302
-730,saturday,730-25,Riverbend Plaza,1,7302
-730,saturday,730-26,Riverbend Plaza,1,7302
-730,saturday,730-27,Riverbend Plaza,1,7302
-730,saturday,730-28,Riverbend Plaza,1,7302
-730,saturday,730-29,Riverbend Plaza,1,7302
-730,saturday,730-30,Riverbend Plaza,1,7302
-730,saturday,730-31,Riverbend Plaza,1,7302
-730,saturday,730-32,Riverbend Plaza,1,7302
-730,saturday,730-33,Riverbend Plaza,1,7302
-730,saturday,730-34,Riverbend Plaza,1,7302
-730,weekday,730-35,Gratiot / Frazho,0,7308
-730,weekday,730-36,Gratiot / Frazho,0,7308
-730,weekday,730-37,Gratiot / Frazho,0,7308
-730,weekday,730-38,Gratiot / Frazho,0,7308
-730,weekday,730-39,Gratiot / Frazho,0,7308
-730,weekday,730-40,Gratiot / Frazho,0,7308
-730,weekday,730-41,Gratiot / Frazho,0,7308
-730,weekday,730-42,Gratiot / Frazho,0,7308
-730,weekday,730-43,Gratiot / Frazho,0,7308
-730,weekday,730-44,Gratiot / Frazho,0,7308
-730,weekday,730-45,Gratiot / Frazho,0,7308
-730,weekday,730-46,Gratiot / Frazho,0,7308
-730,weekday,730-47,Gratiot / Frazho,0,7308
-730,weekday,730-48,Gratiot / Frazho,0,7308
-730,weekday,730-49,Gratiot / Frazho,0,7308
-730,weekday,730-50,Gratiot / Frazho,0,7308
-730,weekday,730-51,Gratiot / Frazho,0,7308
-730,weekday,730-52,Gratiot / Frazho,0,7308
-730,weekday,730-53,Gratiot / Frazho,0,7308
-730,weekday,730-54,Gratiot / Frazho,0,7308
-730,weekday,730-55,Gratiot / Frazho,0,7308
-730,weekday,730-56,Gratiot / Frazho,0,7308
-730,weekday,730-57,Gratiot / Frazho,0,7308
-730,weekday,730-58,Gratiot / Frazho,0,7308
-730,weekday,730-59,Gratiot / Frazho,0,7308
-730,weekday,730-60,Gratiot / Frazho,0,7308
-730,weekday,730-61,Gratiot / Frazho,0,7308
-730,weekday,730-62,Gratiot / Frazho,0,7308
-730,weekday,730-63,Riverbend Plaza,1,7302
-730,weekday,730-64,Riverbend Plaza,1,7302
-730,weekday,730-65,Riverbend Plaza,1,7302
-730,weekday,730-66,Riverbend Plaza,1,7302
-730,weekday,730-67,Riverbend Plaza,1,7302
-730,weekday,730-68,Riverbend Plaza,1,7302
-730,weekday,730-69,Riverbend Plaza,1,7302
-730,weekday,730-70,Riverbend Plaza,1,7302
-730,weekday,730-71,Riverbend Plaza,1,7302
-730,weekday,730-72,Riverbend Plaza,1,7302
-730,weekday,730-73,Riverbend Plaza,1,7302
-730,weekday,730-74,Riverbend Plaza,1,7302
-730,weekday,730-75,Riverbend Plaza,1,7302
-730,weekday,730-76,Riverbend Plaza,1,7302
-730,weekday,730-77,Riverbend Plaza,1,7302
-730,weekday,730-78,Riverbend Plaza,1,7302
-730,weekday,730-79,Riverbend Plaza,1,7302
-730,weekday,730-80,Riverbend Plaza,1,7302
-730,weekday,730-81,Riverbend Plaza,1,7302
-730,weekday,730-82,Riverbend Plaza,1,7302
-730,weekday,730-83,Riverbend Plaza,1,7302
-730,weekday,730-84,Riverbend Plaza,1,7302
-730,weekday,730-85,Riverbend Plaza,1,7302
-730,weekday,730-86,Riverbend Plaza,1,7302
-730,weekday,730-87,Riverbend Plaza,1,7302
-730,weekday,730-88,Riverbend Plaza,1,7302
-730,weekday,730-89,Riverbend Plaza,1,7302
-730,weekday,730-90,Riverbend Plaza,1,7302
+730,NormalMonFri,730-1,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-2,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-3,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-4,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-5,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-6,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-7,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-8,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-9,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-10,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-11,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-12,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-13,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-14,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-15,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-16,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-17,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-18,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-19,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-20,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-21,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-22,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-23,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-24,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-25,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-26,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-27,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-28,Gratiot / Frazho,0,730_N
+730,NormalMonFri,730-29,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-30,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-31,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-32,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-33,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-34,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-35,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-36,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-37,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-38,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-39,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-40,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-41,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-42,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-43,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-44,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-45,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-46,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-47,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-48,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-49,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-50,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-51,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-52,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-53,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-54,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-55,Riverbend Plaza,1,730_S
+730,NormalMonFri,730-56,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-57,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-58,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-59,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-60,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-61,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-62,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-63,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-64,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-65,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-66,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-67,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-68,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-69,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-70,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-71,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-72,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-73,Gratiot / Frazho,0,730_N
+730,SatToMonSat,730-74,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-75,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-76,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-77,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-78,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-79,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-80,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-81,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-82,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-83,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-84,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-85,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-86,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-87,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-88,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-89,Riverbend Plaza,1,730_S
+730,SatToMonSat,730-90,Riverbend Plaza,1,730_S

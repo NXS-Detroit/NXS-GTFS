@@ -1,73 +1,73 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-709,saturday,709-1,Belle Isle Nature Center,0,7096
-709,saturday,709-2,Belle Isle Nature Center,0,7096
-709,saturday,709-3,Belle Isle Nature Center,0,7096
-709,saturday,709-4,Belle Isle Nature Center,0,7096
-709,saturday,709-5,Belle Isle Nature Center,0,7096
-709,saturday,709-6,Belle Isle Nature Center,0,7096
-709,saturday,709-7,Belle Isle Nature Center,0,7096
-709,saturday,709-8,Belle Isle Nature Center,0,7096
-709,saturday,709-9,Belle Isle Nature Center,0,7096
-709,saturday,709-10,Belle Isle Nature Center,0,7096
-709,saturday,709-11,Belle Isle Nature Center,0,7096
-709,saturday,709-12,Belle Isle Nature Center,0,7096
-709,saturday,709-13,Rosa Parks Nexus,1,7094
-709,saturday,709-14,Rosa Parks Nexus,1,7094
-709,saturday,709-15,Rosa Parks Nexus,1,7094
-709,saturday,709-16,Rosa Parks Nexus,1,7094
-709,saturday,709-17,Rosa Parks Nexus,1,7094
-709,saturday,709-18,Rosa Parks Nexus,1,7094
-709,saturday,709-19,Rosa Parks Nexus,1,7094
-709,saturday,709-20,Rosa Parks Nexus,1,7094
-709,saturday,709-21,Rosa Parks Nexus,1,7094
-709,saturday,709-22,Rosa Parks Nexus,1,7094
-709,saturday,709-23,Rosa Parks Nexus,1,7094
-709,saturday,709-24,Rosa Parks Nexus,1,7094
-709,weekday,709-25,Belle Isle Nature Center,0,7096
-709,weekday,709-26,Belle Isle Nature Center,0,7096
-709,weekday,709-27,Belle Isle Nature Center,0,7096
-709,weekday,709-28,Belle Isle Nature Center,0,7096
-709,weekday,709-29,Belle Isle Nature Center,0,7096
-709,weekday,709-30,Belle Isle Nature Center,0,7096
-709,weekday,709-31,Belle Isle Nature Center,0,7096
-709,weekday,709-32,Belle Isle Nature Center,0,7096
-709,weekday,709-33,Belle Isle Nature Center,0,7096
-709,weekday,709-34,Belle Isle Nature Center,0,7096
-709,weekday,709-35,Belle Isle Nature Center,0,7096
-709,weekday,709-36,Belle Isle Nature Center,0,7096
-709,weekday,709-37,Belle Isle Nature Center,0,7096
-709,weekday,709-38,Belle Isle Nature Center,0,7096
-709,weekday,709-39,Belle Isle Nature Center,0,7096
-709,weekday,709-40,Belle Isle Nature Center,0,7096
-709,weekday,709-41,Belle Isle Nature Center,0,7096
-709,weekday,709-42,Belle Isle Nature Center,0,7096
-709,weekday,709-43,Belle Isle Nature Center,0,7096
-709,weekday,709-44,Belle Isle Nature Center,0,7096
-709,weekday,709-45,Belle Isle Nature Center,0,7096
-709,weekday,709-46,Belle Isle Nature Center,0,7096
-709,weekday,709-47,Belle Isle Nature Center,0,7096
-709,weekday,709-48,Belle Isle Nature Center,0,7096
-709,weekday,709-49,Rosa Parks Nexus,1,7094
-709,weekday,709-50,Rosa Parks Nexus,1,7094
-709,weekday,709-51,Rosa Parks Nexus,1,7094
-709,weekday,709-52,Rosa Parks Nexus,1,7094
-709,weekday,709-53,Rosa Parks Nexus,1,7094
-709,weekday,709-54,Rosa Parks Nexus,1,7094
-709,weekday,709-55,Rosa Parks Nexus,1,7094
-709,weekday,709-56,Rosa Parks Nexus,1,7094
-709,weekday,709-57,Rosa Parks Nexus,1,7094
-709,weekday,709-58,Rosa Parks Nexus,1,7094
-709,weekday,709-59,Rosa Parks Nexus,1,7094
-709,weekday,709-60,Rosa Parks Nexus,1,7094
-709,weekday,709-61,Rosa Parks Nexus,1,7094
-709,weekday,709-62,Rosa Parks Nexus,1,7094
-709,weekday,709-63,Rosa Parks Nexus,1,7094
-709,weekday,709-64,Rosa Parks Nexus,1,7094
-709,weekday,709-65,Rosa Parks Nexus,1,7094
-709,weekday,709-66,Rosa Parks Nexus,1,7094
-709,weekday,709-67,Rosa Parks Nexus,1,7094
-709,weekday,709-68,Rosa Parks Nexus,1,7094
-709,weekday,709-69,Rosa Parks Nexus,1,7094
-709,weekday,709-70,Rosa Parks Nexus,1,7094
-709,weekday,709-71,Rosa Parks Nexus,1,7094
-709,weekday,709-72,Rosa Parks Nexus,1,7094
+709,NormalMonFri,709-1,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-2,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-3,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-4,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-5,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-6,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-7,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-8,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-9,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-10,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-11,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-12,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-13,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-14,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-15,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-16,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-17,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-18,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-19,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-20,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-21,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-22,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-23,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-24,Belle Isle Nature Center,0,709_E
+709,NormalMonFri,709-25,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-26,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-27,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-28,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-29,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-30,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-31,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-32,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-33,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-34,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-35,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-36,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-37,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-38,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-39,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-40,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-41,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-42,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-43,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-44,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-45,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-46,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-47,Rosa Parks Nexus,1,709_W
+709,NormalMonFri,709-48,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-49,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-50,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-51,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-52,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-53,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-54,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-55,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-56,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-57,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-58,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-59,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-60,Belle Isle Nature Center,0,709_E
+709,NormalSaturday,709-61,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-62,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-63,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-64,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-65,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-66,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-67,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-68,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-69,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-70,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-71,Rosa Parks Nexus,1,709_W
+709,NormalSaturday,709-72,Rosa Parks Nexus,1,709_W

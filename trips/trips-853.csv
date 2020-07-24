@@ -1,40 +1,40 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-853,preholiday,853-1,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-2,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-3,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-4,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-5,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-6,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-7,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-8,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-9,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-10,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-11,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-12,Westland City Hall via Wayne State University,1,8537,853W
-853,preholiday,853-13,Westland City Hall via M-10,1,8534,853D
-853,preholiday,853-14,Westland City Hall via Wayne State University,1,8537,853W
-853,weekday,853-15,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-16,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-17,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-18,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-19,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-20,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-21,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-22,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-23,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-24,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-25,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekday,853-26,Lafayette / St Antoine via Wayne State University,1,8539,853W
-853,weekday,853-27,Lafayette / St Antoine via M-10,0,8536,853D
-853,weekdaynoph,853-28,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-29,Westland City Hall via Wayne State University,1,8537,853W
-853,weekdaynoph,853-30,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-31,Westland City Hall via Wayne State University,1,8537,853W
-853,weekdaynoph,853-32,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-33,Westland City Hall via Wayne State University,1,8537,853W
-853,weekdaynoph,853-34,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-35,Westland City Hall via Wayne State University,1,8537,853W
-853,weekdaynoph,853-36,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-37,Westland City Hall via Wayne State University,1,8537,853W
-853,weekdaynoph,853-38,Westland City Hall via M-10,1,8534,853D
-853,weekdaynoph,853-39,Westland City Hall via Wayne State University,1,8537,853W
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+853D,NormalMonFri,853-1,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-2,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-3,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-4,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-5,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-6,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-7,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-8,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-9,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-10,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-11,Lafayette / St Antoine via M-10,0,853D_E
+853W,NormalMonFri,853-12,Lafayette / St Antoine via Wayne State University,1,853W_E
+853D,NormalMonFri,853-13,Lafayette / St Antoine via M-10,0,853D_E
+853D,NormalMonFriNoPH,853-14,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-15,Westland City Hall via Wayne State University,1,853W_W
+853D,NormalMonFriNoPH,853-16,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-17,Westland City Hall via Wayne State University,1,853W_W
+853D,NormalMonFriNoPH,853-18,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-19,Westland City Hall via Wayne State University,1,853W_W
+853D,NormalMonFriNoPH,853-20,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-21,Westland City Hall via Wayne State University,1,853W_W
+853D,NormalMonFriNoPH,853-22,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-23,Westland City Hall via Wayne State University,1,853W_W
+853D,NormalMonFriNoPH,853-24,Westland City Hall via M-10,1,853D_W
+853W,NormalMonFriNoPH,853-25,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-26,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-27,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-28,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-29,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-30,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-31,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-32,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-33,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-34,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-35,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-36,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-37,Westland City Hall via Wayne State University,1,853W_W
+853D,PreHoliday,853-38,Westland City Hall via M-10,1,853D_W
+853W,PreHoliday,853-39,Westland City Hall via Wayne State University,1,853W_W

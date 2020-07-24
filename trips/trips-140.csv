@@ -1,333 +1,333 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-140,saturday,140-1,Northline / Dix,0,1406
-140,saturday,140-2,Northline / Dix,0,1406
-140,saturday,140-3,Northline / Dix,0,1406
-140,saturday,140-4,Northline / Dix,0,1406
-140,saturday,140-5,Northline / Dix,0,1406
-140,saturday,140-6,Northline / Dix,0,1406
-140,saturday,140-7,Northline / Dix,0,1406
-140,saturday,140-8,Northline / Dix,0,1406
-140,saturday,140-9,Northline / Dix,0,1406
-140,saturday,140-10,Northline / Dix,0,1406
-140,saturday,140-11,Northline / Dix,0,1406
-140,saturday,140-12,Northline / Dix,0,1406
-140,saturday,140-13,Northline / Dix,0,1406
-140,saturday,140-14,Northline / Dix,0,1406
-140,saturday,140-15,Northline / Dix,0,1406
-140,saturday,140-16,Northline / Dix,0,1406
-140,saturday,140-17,Northline / Dix,0,1406
-140,saturday,140-18,Northline / Dix,0,1406
-140,saturday,140-19,Northline / Dix,0,1406
-140,saturday,140-20,Northline / Dix,0,1406
-140,saturday,140-21,Northline / Dix,0,1406
-140,saturday,140-22,Northline / Dix,0,1406
-140,saturday,140-23,Northline / Dix,0,1406
-140,saturday,140-24,Northline / Dix,0,1406
-140,saturday,140-25,Northline / Dix,0,1406
-140,saturday,140-26,Northline / Dix,0,1406
-140,saturday,140-27,Northline / Dix,0,1406
-140,saturday,140-28,Northline / Dix,0,1406
-140,saturday,140-29,Northline / Dix,0,1406
-140,saturday,140-30,Northline / Dix,0,1406
-140,saturday,140-31,Northline / Dix,0,1406
-140,saturday,140-32,Northline / Dix,0,1406
-140,saturday,140-33,Northline / Dix,0,1406
-140,saturday,140-34,Northline / Dix,0,1406
-140,saturday,140-35,Northline / Dix,0,1406
-140,saturday,140-36,Northline / Dix,0,1406
-140,saturday,140-37,Northline / Dix,0,1406
-140,saturday,140-38,Northline / Dix,0,1406
-140,saturday,140-39,Northline / Dix,0,1406
-140,saturday,140-40,Northline / Dix,0,1406
-140,saturday,140-41,Northline / Dix,0,1406
-140,saturday,140-42,Northline / Dix,0,1406
-140,saturday,140-43,Northline / Dix,0,1406
-140,saturday,140-44,Northline / Dix,0,1406
-140,saturday,140-45,Northline / Dix,0,1406
-140,saturday,140-46,Northline / Dix,0,1406
-140,saturday,140-47,Northline / Dix,0,1406
-140,saturday,140-48,Northline / Dix,0,1406
-140,saturday,140-49,Northline / Dix,0,1406
-140,saturday,140-50,Northline / Dix,0,1406
-140,saturday,140-51,Northline / Dix,0,1406
-140,saturday,140-52,Northline / Dix,0,1406
-140,saturday,140-53,Northline / Dix,0,1406
-140,saturday,140-54,Northline / Dix,0,1406
-140,saturday,140-55,Northline / Dix,0,1406
-140,saturday,140-56,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-57,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-58,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-59,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-60,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-61,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-62,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-63,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-64,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-65,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-66,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-67,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-68,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-69,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-70,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-71,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-72,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-73,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-74,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-75,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-76,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-77,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-78,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-79,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-80,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-81,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-82,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-83,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-84,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-85,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-86,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-87,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-88,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-89,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-90,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-91,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-92,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-93,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-94,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-95,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-96,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-97,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-98,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-99,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-100,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-101,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-102,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-103,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-104,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-105,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-106,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-107,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-108,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-109,Metro Airport McNamara Terminal,1,1407
-140,saturday,140-110,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-111,Northline / Dix,0,1406
-140,sunday,140-112,Northline / Dix,0,1406
-140,sunday,140-113,Northline / Dix,0,1406
-140,sunday,140-114,Northline / Dix,0,1406
-140,sunday,140-115,Northline / Dix,0,1406
-140,sunday,140-116,Northline / Dix,0,1406
-140,sunday,140-117,Northline / Dix,0,1406
-140,sunday,140-118,Northline / Dix,0,1406
-140,sunday,140-119,Northline / Dix,0,1406
-140,sunday,140-120,Northline / Dix,0,1406
-140,sunday,140-121,Northline / Dix,0,1406
-140,sunday,140-122,Northline / Dix,0,1406
-140,sunday,140-123,Northline / Dix,0,1406
-140,sunday,140-124,Northline / Dix,0,1406
-140,sunday,140-125,Northline / Dix,0,1406
-140,sunday,140-126,Northline / Dix,0,1406
-140,sunday,140-127,Northline / Dix,0,1406
-140,sunday,140-128,Northline / Dix,0,1406
-140,sunday,140-129,Northline / Dix,0,1406
-140,sunday,140-130,Northline / Dix,0,1406
-140,sunday,140-131,Northline / Dix,0,1406
-140,sunday,140-132,Northline / Dix,0,1406
-140,sunday,140-133,Northline / Dix,0,1406
-140,sunday,140-134,Northline / Dix,0,1406
-140,sunday,140-135,Northline / Dix,0,1406
-140,sunday,140-136,Northline / Dix,0,1406
-140,sunday,140-137,Northline / Dix,0,1406
-140,sunday,140-138,Northline / Dix,0,1406
-140,sunday,140-139,Northline / Dix,0,1406
-140,sunday,140-140,Northline / Dix,0,1406
-140,sunday,140-141,Northline / Dix,0,1406
-140,sunday,140-142,Northline / Dix,0,1406
-140,sunday,140-143,Northline / Dix,0,1406
-140,sunday,140-144,Northline / Dix,0,1406
-140,sunday,140-145,Northline / Dix,0,1406
-140,sunday,140-146,Northline / Dix,0,1406
-140,sunday,140-147,Northline / Dix,0,1406
-140,sunday,140-148,Northline / Dix,0,1406
-140,sunday,140-149,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-150,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-151,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-152,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-153,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-154,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-155,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-156,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-157,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-158,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-159,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-160,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-161,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-162,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-163,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-164,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-165,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-166,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-167,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-168,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-169,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-170,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-171,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-172,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-173,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-174,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-175,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-176,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-177,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-178,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-179,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-180,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-181,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-182,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-183,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-184,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-185,Metro Airport McNamara Terminal,1,1407
-140,sunday,140-186,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-187,Northline / Dix,0,1406
-140,weekday,140-188,Northline / Dix,0,1406
-140,weekday,140-189,Northline / Dix,0,1406
-140,weekday,140-190,Northline / Dix,0,1406
-140,weekday,140-191,Northline / Dix,0,1406
-140,weekday,140-192,Northline / Dix,0,1406
-140,weekday,140-193,Northline / Dix,0,1406
-140,weekday,140-194,Northline / Dix,0,1406
-140,weekday,140-195,Northline / Dix,0,1406
-140,weekday,140-196,Northline / Dix,0,1406
-140,weekday,140-197,Northline / Dix,0,1406
-140,weekday,140-198,Northline / Dix,0,1406
-140,weekday,140-199,Northline / Dix,0,1406
-140,weekday,140-200,Northline / Dix,0,1406
-140,weekday,140-201,Northline / Dix,0,1406
-140,weekday,140-202,Northline / Dix,0,1406
-140,weekday,140-203,Northline / Dix,0,1406
-140,weekday,140-204,Northline / Dix,0,1406
-140,weekday,140-205,Northline / Dix,0,1406
-140,weekday,140-206,Northline / Dix,0,1406
-140,weekday,140-207,Northline / Dix,0,1406
-140,weekday,140-208,Northline / Dix,0,1406
-140,weekday,140-209,Northline / Dix,0,1406
-140,weekday,140-210,Northline / Dix,0,1406
-140,weekday,140-211,Northline / Dix,0,1406
-140,weekday,140-212,Northline / Dix,0,1406
-140,weekday,140-213,Northline / Dix,0,1406
-140,weekday,140-214,Northline / Dix,0,1406
-140,weekday,140-215,Northline / Dix,0,1406
-140,weekday,140-216,Northline / Dix,0,1406
-140,weekday,140-217,Northline / Dix,0,1406
-140,weekday,140-218,Northline / Dix,0,1406
-140,weekday,140-219,Northline / Dix,0,1406
-140,weekday,140-220,Northline / Dix,0,1406
-140,weekday,140-221,Northline / Dix,0,1406
-140,weekday,140-222,Northline / Dix,0,1406
-140,weekday,140-223,Northline / Dix,0,1406
-140,weekday,140-224,Northline / Dix,0,1406
-140,weekday,140-225,Northline / Dix,0,1406
-140,weekday,140-226,Northline / Dix,0,1406
-140,weekday,140-227,Northline / Dix,0,1406
-140,weekday,140-228,Northline / Dix,0,1406
-140,weekday,140-229,Northline / Dix,0,1406
-140,weekday,140-230,Northline / Dix,0,1406
-140,weekday,140-231,Northline / Dix,0,1406
-140,weekday,140-232,Northline / Dix,0,1406
-140,weekday,140-233,Northline / Dix,0,1406
-140,weekday,140-234,Northline / Dix,0,1406
-140,weekday,140-235,Northline / Dix,0,1406
-140,weekday,140-236,Northline / Dix,0,1406
-140,weekday,140-237,Northline / Dix,0,1406
-140,weekday,140-238,Northline / Dix,0,1406
-140,weekday,140-239,Northline / Dix,0,1406
-140,weekday,140-240,Northline / Dix,0,1406
-140,weekday,140-241,Northline / Dix,0,1406
-140,weekday,140-242,Northline / Dix,0,1406
-140,weekday,140-243,Northline / Dix,0,1406
-140,weekday,140-244,Northline / Dix,0,1406
-140,weekday,140-245,Northline / Dix,0,1406
-140,weekday,140-246,Northline / Dix,0,1406
-140,weekday,140-247,Northline / Dix,0,1406
-140,weekday,140-248,Northline / Dix,0,1406
-140,weekday,140-249,Northline / Dix,0,1406
-140,weekday,140-250,Northline / Dix,0,1406
-140,weekday,140-251,Northline / Dix,0,1406
-140,weekday,140-252,Northline / Dix,0,1406
-140,weekday,140-253,Northline / Dix,0,1406
-140,weekday,140-254,Northline / Dix,0,1406
-140,weekday,140-255,Northline / Dix,0,1406
-140,weekday,140-256,Northline / Dix,0,1406
-140,weekday,140-257,Northline / Dix,0,1406
-140,weekday,140-258,Northline / Dix,0,1406
-140,weekday,140-259,Northline / Dix,0,1406
-140,weekday,140-260,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-261,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-262,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-263,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-264,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-265,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-266,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-267,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-268,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-269,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-270,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-271,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-272,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-273,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-274,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-275,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-276,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-277,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-278,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-279,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-280,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-281,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-282,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-283,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-284,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-285,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-286,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-287,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-288,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-289,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-290,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-291,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-292,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-293,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-294,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-295,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-296,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-297,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-298,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-299,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-300,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-301,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-302,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-303,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-304,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-305,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-306,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-307,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-308,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-309,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-310,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-311,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-312,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-313,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-314,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-315,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-316,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-317,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-318,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-319,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-320,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-321,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-322,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-323,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-324,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-325,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-326,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-327,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-328,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-329,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-330,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-331,Metro Airport McNamara Terminal,1,1407
-140,weekday,140-332,Metro Airport McNamara Terminal,1,1407
+140,NormalMonFri,140-1,Northline / Dix,0,140_E
+140,NormalMonFri,140-2,Northline / Dix,0,140_E
+140,NormalMonFri,140-3,Northline / Dix,0,140_E
+140,NormalMonFri,140-4,Northline / Dix,0,140_E
+140,NormalMonFri,140-5,Northline / Dix,0,140_E
+140,NormalMonFri,140-6,Northline / Dix,0,140_E
+140,NormalMonFri,140-7,Northline / Dix,0,140_E
+140,NormalMonFri,140-8,Northline / Dix,0,140_E
+140,NormalMonFri,140-9,Northline / Dix,0,140_E
+140,NormalMonFri,140-10,Northline / Dix,0,140_E
+140,NormalMonFri,140-11,Northline / Dix,0,140_E
+140,NormalMonFri,140-12,Northline / Dix,0,140_E
+140,NormalMonFri,140-13,Northline / Dix,0,140_E
+140,NormalMonFri,140-14,Northline / Dix,0,140_E
+140,NormalMonFri,140-15,Northline / Dix,0,140_E
+140,NormalMonFri,140-16,Northline / Dix,0,140_E
+140,NormalMonFri,140-17,Northline / Dix,0,140_E
+140,NormalMonFri,140-18,Northline / Dix,0,140_E
+140,NormalMonFri,140-19,Northline / Dix,0,140_E
+140,NormalMonFri,140-20,Northline / Dix,0,140_E
+140,NormalMonFri,140-21,Northline / Dix,0,140_E
+140,NormalMonFri,140-22,Northline / Dix,0,140_E
+140,NormalMonFri,140-23,Northline / Dix,0,140_E
+140,NormalMonFri,140-24,Northline / Dix,0,140_E
+140,NormalMonFri,140-25,Northline / Dix,0,140_E
+140,NormalMonFri,140-26,Northline / Dix,0,140_E
+140,NormalMonFri,140-27,Northline / Dix,0,140_E
+140,NormalMonFri,140-28,Northline / Dix,0,140_E
+140,NormalMonFri,140-29,Northline / Dix,0,140_E
+140,NormalMonFri,140-30,Northline / Dix,0,140_E
+140,NormalMonFri,140-31,Northline / Dix,0,140_E
+140,NormalMonFri,140-32,Northline / Dix,0,140_E
+140,NormalMonFri,140-33,Northline / Dix,0,140_E
+140,NormalMonFri,140-34,Northline / Dix,0,140_E
+140,NormalMonFri,140-35,Northline / Dix,0,140_E
+140,NormalMonFri,140-36,Northline / Dix,0,140_E
+140,NormalMonFri,140-37,Northline / Dix,0,140_E
+140,NormalMonFri,140-38,Northline / Dix,0,140_E
+140,NormalMonFri,140-39,Northline / Dix,0,140_E
+140,NormalMonFri,140-40,Northline / Dix,0,140_E
+140,NormalMonFri,140-41,Northline / Dix,0,140_E
+140,NormalMonFri,140-42,Northline / Dix,0,140_E
+140,NormalMonFri,140-43,Northline / Dix,0,140_E
+140,NormalMonFri,140-44,Northline / Dix,0,140_E
+140,NormalMonFri,140-45,Northline / Dix,0,140_E
+140,NormalMonFri,140-46,Northline / Dix,0,140_E
+140,NormalMonFri,140-47,Northline / Dix,0,140_E
+140,NormalMonFri,140-48,Northline / Dix,0,140_E
+140,NormalMonFri,140-49,Northline / Dix,0,140_E
+140,NormalMonFri,140-50,Northline / Dix,0,140_E
+140,NormalMonFri,140-51,Northline / Dix,0,140_E
+140,NormalMonFri,140-52,Northline / Dix,0,140_E
+140,NormalMonFri,140-53,Northline / Dix,0,140_E
+140,NormalMonFri,140-54,Northline / Dix,0,140_E
+140,NormalMonFri,140-55,Northline / Dix,0,140_E
+140,NormalMonFri,140-56,Northline / Dix,0,140_E
+140,NormalMonFri,140-57,Northline / Dix,0,140_E
+140,NormalMonFri,140-58,Northline / Dix,0,140_E
+140,NormalMonFri,140-59,Northline / Dix,0,140_E
+140,NormalMonFri,140-60,Northline / Dix,0,140_E
+140,NormalMonFri,140-61,Northline / Dix,0,140_E
+140,NormalMonFri,140-62,Northline / Dix,0,140_E
+140,NormalMonFri,140-63,Northline / Dix,0,140_E
+140,NormalMonFri,140-64,Northline / Dix,0,140_E
+140,NormalMonFri,140-65,Northline / Dix,0,140_E
+140,NormalMonFri,140-66,Northline / Dix,0,140_E
+140,NormalMonFri,140-67,Northline / Dix,0,140_E
+140,NormalMonFri,140-68,Northline / Dix,0,140_E
+140,NormalMonFri,140-69,Northline / Dix,0,140_E
+140,NormalMonFri,140-70,Northline / Dix,0,140_E
+140,NormalMonFri,140-71,Northline / Dix,0,140_E
+140,NormalMonFri,140-72,Northline / Dix,0,140_E
+140,NormalMonFri,140-73,Northline / Dix,0,140_E
+140,NormalMonFri,140-74,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-75,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-76,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-77,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-78,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-79,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-80,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-81,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-82,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-83,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-84,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-85,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-86,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-87,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-88,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-89,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-90,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-91,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-92,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-93,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-94,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-95,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-96,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-97,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-98,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-99,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-100,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-101,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-102,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-103,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-104,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-105,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-106,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-107,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-108,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-109,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-110,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-111,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-112,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-113,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-114,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-115,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-116,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-117,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-118,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-119,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-120,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-121,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-122,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-123,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-124,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-125,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-126,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-127,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-128,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-129,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-130,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-131,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-132,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-133,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-134,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-135,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-136,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-137,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-138,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-139,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-140,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-141,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-142,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-143,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-144,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-145,Metro Airport McNamara Terminal,1,140_W
+140,NormalMonFri,140-146,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-147,Northline / Dix,0,140_E
+140,NormalSunday,140-148,Northline / Dix,0,140_E
+140,NormalSunday,140-149,Northline / Dix,0,140_E
+140,NormalSunday,140-150,Northline / Dix,0,140_E
+140,NormalSunday,140-151,Northline / Dix,0,140_E
+140,NormalSunday,140-152,Northline / Dix,0,140_E
+140,NormalSunday,140-153,Northline / Dix,0,140_E
+140,NormalSunday,140-154,Northline / Dix,0,140_E
+140,NormalSunday,140-155,Northline / Dix,0,140_E
+140,NormalSunday,140-156,Northline / Dix,0,140_E
+140,NormalSunday,140-157,Northline / Dix,0,140_E
+140,NormalSunday,140-158,Northline / Dix,0,140_E
+140,NormalSunday,140-159,Northline / Dix,0,140_E
+140,NormalSunday,140-160,Northline / Dix,0,140_E
+140,NormalSunday,140-161,Northline / Dix,0,140_E
+140,NormalSunday,140-162,Northline / Dix,0,140_E
+140,NormalSunday,140-163,Northline / Dix,0,140_E
+140,NormalSunday,140-164,Northline / Dix,0,140_E
+140,NormalSunday,140-165,Northline / Dix,0,140_E
+140,NormalSunday,140-166,Northline / Dix,0,140_E
+140,NormalSunday,140-167,Northline / Dix,0,140_E
+140,NormalSunday,140-168,Northline / Dix,0,140_E
+140,NormalSunday,140-169,Northline / Dix,0,140_E
+140,NormalSunday,140-170,Northline / Dix,0,140_E
+140,NormalSunday,140-171,Northline / Dix,0,140_E
+140,NormalSunday,140-172,Northline / Dix,0,140_E
+140,NormalSunday,140-173,Northline / Dix,0,140_E
+140,NormalSunday,140-174,Northline / Dix,0,140_E
+140,NormalSunday,140-175,Northline / Dix,0,140_E
+140,NormalSunday,140-176,Northline / Dix,0,140_E
+140,NormalSunday,140-177,Northline / Dix,0,140_E
+140,NormalSunday,140-178,Northline / Dix,0,140_E
+140,NormalSunday,140-179,Northline / Dix,0,140_E
+140,NormalSunday,140-180,Northline / Dix,0,140_E
+140,NormalSunday,140-181,Northline / Dix,0,140_E
+140,NormalSunday,140-182,Northline / Dix,0,140_E
+140,NormalSunday,140-183,Northline / Dix,0,140_E
+140,NormalSunday,140-184,Northline / Dix,0,140_E
+140,NormalSunday,140-185,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-186,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-187,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-188,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-189,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-190,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-191,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-192,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-193,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-194,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-195,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-196,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-197,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-198,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-199,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-200,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-201,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-202,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-203,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-204,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-205,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-206,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-207,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-208,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-209,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-210,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-211,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-212,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-213,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-214,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-215,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-216,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-217,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-218,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-219,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-220,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-221,Metro Airport McNamara Terminal,1,140_W
+140,NormalSunday,140-222,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-223,Northline / Dix,0,140_E
+140,SatToDaily,140-224,Northline / Dix,0,140_E
+140,SatToDaily,140-225,Northline / Dix,0,140_E
+140,SatToDaily,140-226,Northline / Dix,0,140_E
+140,SatToDaily,140-227,Northline / Dix,0,140_E
+140,SatToDaily,140-228,Northline / Dix,0,140_E
+140,SatToDaily,140-229,Northline / Dix,0,140_E
+140,SatToDaily,140-230,Northline / Dix,0,140_E
+140,SatToDaily,140-231,Northline / Dix,0,140_E
+140,SatToDaily,140-232,Northline / Dix,0,140_E
+140,SatToDaily,140-233,Northline / Dix,0,140_E
+140,SatToDaily,140-234,Northline / Dix,0,140_E
+140,SatToDaily,140-235,Northline / Dix,0,140_E
+140,SatToDaily,140-236,Northline / Dix,0,140_E
+140,SatToDaily,140-237,Northline / Dix,0,140_E
+140,SatToDaily,140-238,Northline / Dix,0,140_E
+140,SatToDaily,140-239,Northline / Dix,0,140_E
+140,SatToDaily,140-240,Northline / Dix,0,140_E
+140,SatToDaily,140-241,Northline / Dix,0,140_E
+140,SatToDaily,140-242,Northline / Dix,0,140_E
+140,SatToDaily,140-243,Northline / Dix,0,140_E
+140,SatToDaily,140-244,Northline / Dix,0,140_E
+140,SatToDaily,140-245,Northline / Dix,0,140_E
+140,SatToDaily,140-246,Northline / Dix,0,140_E
+140,SatToDaily,140-247,Northline / Dix,0,140_E
+140,SatToDaily,140-248,Northline / Dix,0,140_E
+140,SatToDaily,140-249,Northline / Dix,0,140_E
+140,SatToDaily,140-250,Northline / Dix,0,140_E
+140,SatToDaily,140-251,Northline / Dix,0,140_E
+140,SatToDaily,140-252,Northline / Dix,0,140_E
+140,SatToDaily,140-253,Northline / Dix,0,140_E
+140,SatToDaily,140-254,Northline / Dix,0,140_E
+140,SatToDaily,140-255,Northline / Dix,0,140_E
+140,SatToDaily,140-256,Northline / Dix,0,140_E
+140,SatToDaily,140-257,Northline / Dix,0,140_E
+140,SatToDaily,140-258,Northline / Dix,0,140_E
+140,SatToDaily,140-259,Northline / Dix,0,140_E
+140,SatToDaily,140-260,Northline / Dix,0,140_E
+140,SatToDaily,140-261,Northline / Dix,0,140_E
+140,SatToDaily,140-262,Northline / Dix,0,140_E
+140,SatToDaily,140-263,Northline / Dix,0,140_E
+140,SatToDaily,140-264,Northline / Dix,0,140_E
+140,SatToDaily,140-265,Northline / Dix,0,140_E
+140,SatToDaily,140-266,Northline / Dix,0,140_E
+140,SatToDaily,140-267,Northline / Dix,0,140_E
+140,SatToDaily,140-268,Northline / Dix,0,140_E
+140,SatToDaily,140-269,Northline / Dix,0,140_E
+140,SatToDaily,140-270,Northline / Dix,0,140_E
+140,SatToDaily,140-271,Northline / Dix,0,140_E
+140,SatToDaily,140-272,Northline / Dix,0,140_E
+140,SatToDaily,140-273,Northline / Dix,0,140_E
+140,SatToDaily,140-274,Northline / Dix,0,140_E
+140,SatToDaily,140-275,Northline / Dix,0,140_E
+140,SatToDaily,140-276,Northline / Dix,0,140_E
+140,SatToDaily,140-277,Northline / Dix,0,140_E
+140,SatToDaily,140-278,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-279,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-280,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-281,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-282,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-283,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-284,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-285,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-286,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-287,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-288,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-289,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-290,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-291,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-292,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-293,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-294,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-295,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-296,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-297,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-298,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-299,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-300,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-301,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-302,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-303,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-304,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-305,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-306,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-307,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-308,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-309,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-310,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-311,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-312,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-313,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-314,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-315,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-316,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-317,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-318,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-319,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-320,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-321,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-322,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-323,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-324,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-325,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-326,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-327,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-328,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-329,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-330,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-331,Metro Airport McNamara Terminal,1,140_W
+140,SatToDaily,140-332,Metro Airport McNamara Terminal,1,140_W

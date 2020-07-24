@@ -1,33 +1,33 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-925,weekday,925-1,Highland Township,0,9258
-925,weekday,925-2,Highland Township,0,9258
-925,weekday,925-3,Highland Township,0,9258
-925,weekday,925-4,Highland Township,0,9258
-925,weekday,925-5,Highland Township,0,9258
-925,weekday,925-6,Highland Township,0,9258
-925,weekday,925-7,Highland Township,0,9258
-925,weekday,925-8,Highland Township,0,9258
-925,weekday,925-9,Highland Township,0,9258
-925,weekday,925-10,Highland Township,0,9258
-925,weekday,925-11,Highland Township,0,9258
-925,weekday,925-12,Highland Township,0,9258
-925,weekday,925-13,Highland Township,0,9258
-925,weekday,925-14,Highland Township,0,9258
-925,weekday,925-15,Highland Township,0,9258
-925,weekday,925-16,Highland Township,0,9258
-925,weekday,925-17,South Lyon Kroger,1,9252
-925,weekday,925-18,South Lyon Kroger,1,9252
-925,weekday,925-19,South Lyon Kroger,1,9252
-925,weekday,925-20,South Lyon Kroger,1,9252
-925,weekday,925-21,South Lyon Kroger,1,9252
-925,weekday,925-22,South Lyon Kroger,1,9252
-925,weekday,925-23,South Lyon Kroger,1,9252
-925,weekday,925-24,South Lyon Kroger,1,9252
-925,weekday,925-25,South Lyon Kroger,1,9252
-925,weekday,925-26,South Lyon Kroger,1,9252
-925,weekday,925-27,South Lyon Kroger,1,9252
-925,weekday,925-28,South Lyon Kroger,1,9252
-925,weekday,925-29,South Lyon Kroger,1,9252
-925,weekday,925-30,South Lyon Kroger,1,9252
-925,weekday,925-31,South Lyon Kroger,1,9252
-925,weekday,925-32,South Lyon Kroger,1,9252
+925,NormalMonFri,925-1,Highland Township,0,925_N
+925,NormalMonFri,925-2,Highland Township,0,925_N
+925,NormalMonFri,925-3,Highland Township,0,925_N
+925,NormalMonFri,925-4,Highland Township,0,925_N
+925,NormalMonFri,925-5,Highland Township,0,925_N
+925,NormalMonFri,925-6,Highland Township,0,925_N
+925,NormalMonFri,925-7,Highland Township,0,925_N
+925,NormalMonFri,925-8,Highland Township,0,925_N
+925,NormalMonFri,925-9,Highland Township,0,925_N
+925,NormalMonFri,925-10,Highland Township,0,925_N
+925,NormalMonFri,925-11,Highland Township,0,925_N
+925,NormalMonFri,925-12,Highland Township,0,925_N
+925,NormalMonFri,925-13,Highland Township,0,925_N
+925,NormalMonFri,925-14,Highland Township,0,925_N
+925,NormalMonFri,925-15,Highland Township,0,925_N
+925,NormalMonFri,925-16,Highland Township,0,925_N
+925,NormalMonFri,925-17,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-18,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-19,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-20,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-21,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-22,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-23,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-24,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-25,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-26,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-27,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-28,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-29,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-30,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-31,South Lyon Kroger,1,925_S
+925,NormalMonFri,925-32,South Lyon Kroger,1,925_S

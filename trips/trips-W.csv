@@ -1,603 +1,603 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-W,saturday,W-1,Pontiac Nexus,0,5908
-W,saturday,W-2,Pontiac Nexus,0,5908
-W,saturday,W-3,Pontiac Nexus,0,5908
-W,saturday,W-4,Pontiac Nexus,0,5908
-W,saturday,W-5,Pontiac Nexus,0,5908
-W,saturday,W-6,Pontiac Nexus,0,5908
-W,saturday,W-7,Pontiac Nexus,0,5908
-W,saturday,W-8,Pontiac Nexus,0,5908
-W,saturday,W-9,Pontiac Nexus,0,5908
-W,saturday,W-10,Pontiac Nexus,0,5908
-W,saturday,W-11,Pontiac Nexus,0,5908
-W,saturday,W-12,Pontiac Nexus,0,5908
-W,saturday,W-13,Pontiac Nexus,0,5908
-W,saturday,W-14,Pontiac Nexus,0,5908
-W,saturday,W-15,Pontiac Nexus,0,5908
-W,saturday,W-16,Pontiac Nexus,0,5908
-W,saturday,W-17,Pontiac Nexus,0,5908
-W,saturday,W-18,Pontiac Nexus,0,5908
-W,saturday,W-19,Pontiac Nexus,0,5908
-W,saturday,W-20,Pontiac Nexus,0,5908
-W,saturday,W-21,Pontiac Nexus,0,5908
-W,saturday,W-22,Pontiac Nexus,0,5908
-W,saturday,W-23,Pontiac Nexus,0,5908
-W,saturday,W-24,Pontiac Nexus,0,5908
-W,saturday,W-25,Pontiac Nexus,0,5908
-W,saturday,W-26,Pontiac Nexus,0,5908
-W,saturday,W-27,Pontiac Nexus,0,5908
-W,saturday,W-28,Pontiac Nexus,0,5908
-W,saturday,W-29,Pontiac Nexus,0,5908
-W,saturday,W-30,Pontiac Nexus,0,5908
-W,saturday,W-31,Pontiac Nexus,0,5908
-W,saturday,W-32,Pontiac Nexus,0,5908
-W,saturday,W-33,Pontiac Nexus,0,5908
-W,saturday,W-34,Pontiac Nexus,0,5908
-W,saturday,W-35,Pontiac Nexus,0,5908
-W,saturday,W-36,Pontiac Nexus,0,5908
-W,saturday,W-37,Pontiac Nexus,0,5908
-W,saturday,W-38,Pontiac Nexus,0,5908
-W,saturday,W-39,Pontiac Nexus,0,5908
-W,saturday,W-40,Pontiac Nexus,0,5908
-W,saturday,W-41,Pontiac Nexus,0,5908
-W,saturday,W-42,Pontiac Nexus,0,5908
-W,saturday,W-43,Pontiac Nexus,0,5908
-W,saturday,W-44,Pontiac Nexus,0,5908
-W,saturday,W-45,Pontiac Nexus,0,5908
-W,saturday,W-46,Pontiac Nexus,0,5908
-W,saturday,W-47,Pontiac Nexus,0,5908
-W,saturday,W-48,Pontiac Nexus,0,5908
-W,saturday,W-49,Pontiac Nexus,0,5908
-W,saturday,W-50,Pontiac Nexus,0,5908
-W,saturday,W-51,Pontiac Nexus,0,5908
-W,saturday,W-52,Pontiac Nexus,0,5908
-W,saturday,W-53,Pontiac Nexus,0,5908
-W,saturday,W-54,Pontiac Nexus,0,5908
-W,saturday,W-55,Pontiac Nexus,0,5908
-W,saturday,W-56,Pontiac Nexus,0,5908
-W,saturday,W-57,Pontiac Nexus,0,5908
-W,saturday,W-58,Pontiac Nexus,0,5908
-W,saturday,W-59,Pontiac Nexus,0,5908
-W,saturday,W-60,Pontiac Nexus,0,5908
-W,saturday,W-61,Pontiac Nexus,0,5908
-W,saturday,W-62,Pontiac Nexus,0,5908
-W,saturday,W-63,Pontiac Nexus,0,5908
-W,saturday,W-64,Pontiac Nexus,0,5908
-W,saturday,W-65,Pontiac Nexus,0,5908
-W,saturday,W-66,Pontiac Nexus,0,5908
-W,saturday,W-67,Pontiac Nexus,0,5908
-W,saturday,W-68,Pontiac Nexus,0,5908
-W,saturday,W-69,Pontiac Nexus,0,5908
-W,saturday,W-70,Pontiac Nexus,0,5908
-W,saturday,W-71,Pontiac Nexus,0,5908
-W,saturday,W-72,Pontiac Nexus,0,5908
-W,saturday,W-73,Pontiac Nexus,0,5908
-W,saturday,W-74,Pontiac Nexus,0,5908
-W,saturday,W-75,Pontiac Nexus,0,5908
-W,saturday,W-76,Pontiac Nexus,0,5908
-W,saturday,W-77,Pontiac Nexus,0,5908
-W,saturday,W-78,Pontiac Nexus,0,5908
-W,saturday,W-79,Pontiac Nexus,0,5908
-W,saturday,W-80,Pontiac Nexus,0,5908
-W,saturday,W-81,Pontiac Nexus,0,5908
-W,saturday,W-82,Pontiac Nexus,0,5908
-W,saturday,W-83,Pontiac Nexus,0,5908
-W,saturday,W-84,Pontiac Nexus,0,5908
-W,saturday,W-85,Pontiac Nexus,0,5908
-W,saturday,W-86,Pontiac Nexus,0,5908
-W,saturday,W-87,Pontiac Nexus,0,5908
-W,saturday,W-88,Pontiac Nexus,0,5908
-W,saturday,W-89,Pontiac Nexus,0,5908
-W,saturday,W-90,Pontiac Nexus,0,5908
-W,saturday,W-91,Pontiac Nexus,0,5908
-W,saturday,W-92,Pontiac Nexus,0,5908
-W,saturday,W-93,Pontiac Nexus,0,5908
-W,saturday,W-94,Jefferson / Brush,1,5902
-W,saturday,W-95,Jefferson / Brush,1,5902
-W,saturday,W-96,Jefferson / Brush,1,5902
-W,saturday,W-97,Jefferson / Brush,1,5902
-W,saturday,W-98,Jefferson / Brush,1,5902
-W,saturday,W-99,Jefferson / Brush,1,5902
-W,saturday,W-100,Jefferson / Brush,1,5902
-W,saturday,W-101,Jefferson / Brush,1,5902
-W,saturday,W-102,Jefferson / Brush,1,5902
-W,saturday,W-103,Jefferson / Brush,1,5902
-W,saturday,W-104,Jefferson / Brush,1,5902
-W,saturday,W-105,Jefferson / Brush,1,5902
-W,saturday,W-106,Jefferson / Brush,1,5902
-W,saturday,W-107,Jefferson / Brush,1,5902
-W,saturday,W-108,Jefferson / Brush,1,5902
-W,saturday,W-109,Jefferson / Brush,1,5902
-W,saturday,W-110,Jefferson / Brush,1,5902
-W,saturday,W-111,Jefferson / Brush,1,5902
-W,saturday,W-112,Jefferson / Brush,1,5902
-W,saturday,W-113,Jefferson / Brush,1,5902
-W,saturday,W-114,Jefferson / Brush,1,5902
-W,saturday,W-115,Jefferson / Brush,1,5902
-W,saturday,W-116,Jefferson / Brush,1,5902
-W,saturday,W-117,Jefferson / Brush,1,5902
-W,saturday,W-118,Jefferson / Brush,1,5902
-W,saturday,W-119,Jefferson / Brush,1,5902
-W,saturday,W-120,Jefferson / Brush,1,5902
-W,saturday,W-121,Jefferson / Brush,1,5902
-W,saturday,W-122,Jefferson / Brush,1,5902
-W,saturday,W-123,Jefferson / Brush,1,5902
-W,saturday,W-124,Jefferson / Brush,1,5902
-W,saturday,W-125,Jefferson / Brush,1,5902
-W,saturday,W-126,Jefferson / Brush,1,5902
-W,saturday,W-127,Jefferson / Brush,1,5902
-W,saturday,W-128,Jefferson / Brush,1,5902
-W,saturday,W-129,Jefferson / Brush,1,5902
-W,saturday,W-130,Jefferson / Brush,1,5902
-W,saturday,W-131,Jefferson / Brush,1,5902
-W,saturday,W-132,Jefferson / Brush,1,5902
-W,saturday,W-133,Jefferson / Brush,1,5902
-W,saturday,W-134,Jefferson / Brush,1,5902
-W,saturday,W-135,Jefferson / Brush,1,5902
-W,saturday,W-136,Jefferson / Brush,1,5902
-W,saturday,W-137,Jefferson / Brush,1,5902
-W,saturday,W-138,Jefferson / Brush,1,5902
-W,saturday,W-139,Jefferson / Brush,1,5902
-W,saturday,W-140,Jefferson / Brush,1,5902
-W,saturday,W-141,Jefferson / Brush,1,5902
-W,saturday,W-142,Jefferson / Brush,1,5902
-W,saturday,W-143,Jefferson / Brush,1,5902
-W,saturday,W-144,Jefferson / Brush,1,5902
-W,saturday,W-145,Jefferson / Brush,1,5902
-W,saturday,W-146,Jefferson / Brush,1,5902
-W,saturday,W-147,Jefferson / Brush,1,5902
-W,saturday,W-148,Jefferson / Brush,1,5902
-W,saturday,W-149,Jefferson / Brush,1,5902
-W,saturday,W-150,Jefferson / Brush,1,5902
-W,saturday,W-151,Jefferson / Brush,1,5902
-W,saturday,W-152,Jefferson / Brush,1,5902
-W,saturday,W-153,Jefferson / Brush,1,5902
-W,saturday,W-154,Jefferson / Brush,1,5902
-W,saturday,W-155,Jefferson / Brush,1,5902
-W,saturday,W-156,Jefferson / Brush,1,5902
-W,saturday,W-157,Jefferson / Brush,1,5902
-W,saturday,W-158,Jefferson / Brush,1,5902
-W,saturday,W-159,Jefferson / Brush,1,5902
-W,saturday,W-160,Jefferson / Brush,1,5902
-W,saturday,W-161,Jefferson / Brush,1,5902
-W,saturday,W-162,Jefferson / Brush,1,5902
-W,saturday,W-163,Jefferson / Brush,1,5902
-W,saturday,W-164,Jefferson / Brush,1,5902
-W,saturday,W-165,Jefferson / Brush,1,5902
-W,saturday,W-166,Jefferson / Brush,1,5902
-W,saturday,W-167,Jefferson / Brush,1,5902
-W,saturday,W-168,Jefferson / Brush,1,5902
-W,saturday,W-169,Jefferson / Brush,1,5902
-W,saturday,W-170,Jefferson / Brush,1,5902
-W,saturday,W-171,Jefferson / Brush,1,5902
-W,saturday,W-172,Jefferson / Brush,1,5902
-W,saturday,W-173,Jefferson / Brush,1,5902
-W,saturday,W-174,Jefferson / Brush,1,5902
-W,saturday,W-175,Jefferson / Brush,1,5902
-W,saturday,W-176,Jefferson / Brush,1,5902
-W,saturday,W-177,Jefferson / Brush,1,5902
-W,saturday,W-178,Jefferson / Brush,1,5902
-W,saturday,W-179,Jefferson / Brush,1,5902
-W,saturday,W-180,Jefferson / Brush,1,5902
-W,saturday,W-181,Jefferson / Brush,1,5902
-W,saturday,W-182,Jefferson / Brush,1,5902
-W,saturday,W-183,Jefferson / Brush,1,5902
-W,saturday,W-184,Jefferson / Brush,1,5902
-W,saturday,W-185,Jefferson / Brush,1,5902
-W,saturday,W-186,Jefferson / Brush,1,5902
-W,sunday,W-187,Pontiac Nexus,0,5908
-W,sunday,W-188,Pontiac Nexus,0,5908
-W,sunday,W-189,Pontiac Nexus,0,5908
-W,sunday,W-190,Pontiac Nexus,0,5908
-W,sunday,W-191,Pontiac Nexus,0,5908
-W,sunday,W-192,Pontiac Nexus,0,5908
-W,sunday,W-193,Pontiac Nexus,0,5908
-W,sunday,W-194,Pontiac Nexus,0,5908
-W,sunday,W-195,Pontiac Nexus,0,5908
-W,sunday,W-196,Pontiac Nexus,0,5908
-W,sunday,W-197,Pontiac Nexus,0,5908
-W,sunday,W-198,Pontiac Nexus,0,5908
-W,sunday,W-199,Pontiac Nexus,0,5908
-W,sunday,W-200,Pontiac Nexus,0,5908
-W,sunday,W-201,Pontiac Nexus,0,5908
-W,sunday,W-202,Pontiac Nexus,0,5908
-W,sunday,W-203,Pontiac Nexus,0,5908
-W,sunday,W-204,Pontiac Nexus,0,5908
-W,sunday,W-205,Pontiac Nexus,0,5908
-W,sunday,W-206,Pontiac Nexus,0,5908
-W,sunday,W-207,Pontiac Nexus,0,5908
-W,sunday,W-208,Pontiac Nexus,0,5908
-W,sunday,W-209,Pontiac Nexus,0,5908
-W,sunday,W-210,Pontiac Nexus,0,5908
-W,sunday,W-211,Pontiac Nexus,0,5908
-W,sunday,W-212,Pontiac Nexus,0,5908
-W,sunday,W-213,Pontiac Nexus,0,5908
-W,sunday,W-214,Pontiac Nexus,0,5908
-W,sunday,W-215,Pontiac Nexus,0,5908
-W,sunday,W-216,Pontiac Nexus,0,5908
-W,sunday,W-217,Pontiac Nexus,0,5908
-W,sunday,W-218,Pontiac Nexus,0,5908
-W,sunday,W-219,Pontiac Nexus,0,5908
-W,sunday,W-220,Pontiac Nexus,0,5908
-W,sunday,W-221,Pontiac Nexus,0,5908
-W,sunday,W-222,Pontiac Nexus,0,5908
-W,sunday,W-223,Pontiac Nexus,0,5908
-W,sunday,W-224,Pontiac Nexus,0,5908
-W,sunday,W-225,Pontiac Nexus,0,5908
-W,sunday,W-226,Pontiac Nexus,0,5908
-W,sunday,W-227,Pontiac Nexus,0,5908
-W,sunday,W-228,Pontiac Nexus,0,5908
-W,sunday,W-229,Pontiac Nexus,0,5908
-W,sunday,W-230,Pontiac Nexus,0,5908
-W,sunday,W-231,Pontiac Nexus,0,5908
-W,sunday,W-232,Pontiac Nexus,0,5908
-W,sunday,W-233,Pontiac Nexus,0,5908
-W,sunday,W-234,Pontiac Nexus,0,5908
-W,sunday,W-235,Pontiac Nexus,0,5908
-W,sunday,W-236,Pontiac Nexus,0,5908
-W,sunday,W-237,Pontiac Nexus,0,5908
-W,sunday,W-238,Pontiac Nexus,0,5908
-W,sunday,W-239,Pontiac Nexus,0,5908
-W,sunday,W-240,Pontiac Nexus,0,5908
-W,sunday,W-241,Pontiac Nexus,0,5908
-W,sunday,W-242,Pontiac Nexus,0,5908
-W,sunday,W-243,Pontiac Nexus,0,5908
-W,sunday,W-244,Pontiac Nexus,0,5908
-W,sunday,W-245,Pontiac Nexus,0,5908
-W,sunday,W-246,Pontiac Nexus,0,5908
-W,sunday,W-247,Pontiac Nexus,0,5908
-W,sunday,W-248,Pontiac Nexus,0,5908
-W,sunday,W-249,Pontiac Nexus,0,5908
-W,sunday,W-250,Pontiac Nexus,0,5908
-W,sunday,W-251,Jefferson / Brush,1,5902
-W,sunday,W-252,Jefferson / Brush,1,5902
-W,sunday,W-253,Jefferson / Brush,1,5902
-W,sunday,W-254,Jefferson / Brush,1,5902
-W,sunday,W-255,Jefferson / Brush,1,5902
-W,sunday,W-256,Jefferson / Brush,1,5902
-W,sunday,W-257,Jefferson / Brush,1,5902
-W,sunday,W-258,Jefferson / Brush,1,5902
-W,sunday,W-259,Jefferson / Brush,1,5902
-W,sunday,W-260,Jefferson / Brush,1,5902
-W,sunday,W-261,Jefferson / Brush,1,5902
-W,sunday,W-262,Jefferson / Brush,1,5902
-W,sunday,W-263,Jefferson / Brush,1,5902
-W,sunday,W-264,Jefferson / Brush,1,5902
-W,sunday,W-265,Jefferson / Brush,1,5902
-W,sunday,W-266,Jefferson / Brush,1,5902
-W,sunday,W-267,Jefferson / Brush,1,5902
-W,sunday,W-268,Jefferson / Brush,1,5902
-W,sunday,W-269,Jefferson / Brush,1,5902
-W,sunday,W-270,Jefferson / Brush,1,5902
-W,sunday,W-271,Jefferson / Brush,1,5902
-W,sunday,W-272,Jefferson / Brush,1,5902
-W,sunday,W-273,Jefferson / Brush,1,5902
-W,sunday,W-274,Jefferson / Brush,1,5902
-W,sunday,W-275,Jefferson / Brush,1,5902
-W,sunday,W-276,Jefferson / Brush,1,5902
-W,sunday,W-277,Jefferson / Brush,1,5902
-W,sunday,W-278,Jefferson / Brush,1,5902
-W,sunday,W-279,Jefferson / Brush,1,5902
-W,sunday,W-280,Jefferson / Brush,1,5902
-W,sunday,W-281,Jefferson / Brush,1,5902
-W,sunday,W-282,Jefferson / Brush,1,5902
-W,sunday,W-283,Jefferson / Brush,1,5902
-W,sunday,W-284,Jefferson / Brush,1,5902
-W,sunday,W-285,Jefferson / Brush,1,5902
-W,sunday,W-286,Jefferson / Brush,1,5902
-W,sunday,W-287,Jefferson / Brush,1,5902
-W,sunday,W-288,Jefferson / Brush,1,5902
-W,sunday,W-289,Jefferson / Brush,1,5902
-W,sunday,W-290,Jefferson / Brush,1,5902
-W,sunday,W-291,Jefferson / Brush,1,5902
-W,sunday,W-292,Jefferson / Brush,1,5902
-W,sunday,W-293,Jefferson / Brush,1,5902
-W,sunday,W-294,Jefferson / Brush,1,5902
-W,sunday,W-295,Jefferson / Brush,1,5902
-W,sunday,W-296,Jefferson / Brush,1,5902
-W,sunday,W-297,Jefferson / Brush,1,5902
-W,sunday,W-298,Jefferson / Brush,1,5902
-W,sunday,W-299,Jefferson / Brush,1,5902
-W,sunday,W-300,Jefferson / Brush,1,5902
-W,sunday,W-301,Jefferson / Brush,1,5902
-W,sunday,W-302,Jefferson / Brush,1,5902
-W,sunday,W-303,Jefferson / Brush,1,5902
-W,sunday,W-304,Jefferson / Brush,1,5902
-W,sunday,W-305,Jefferson / Brush,1,5902
-W,sunday,W-306,Jefferson / Brush,1,5902
-W,sunday,W-307,Jefferson / Brush,1,5902
-W,sunday,W-308,Jefferson / Brush,1,5902
-W,sunday,W-309,Jefferson / Brush,1,5902
-W,sunday,W-310,Jefferson / Brush,1,5902
-W,sunday,W-311,Jefferson / Brush,1,5902
-W,sunday,W-312,Jefferson / Brush,1,5902
-W,sunday,W-313,Jefferson / Brush,1,5902
-W,sunday,W-314,Jefferson / Brush,1,5902
-W,weekday,W-315,Pontiac Nexus,0,5908
-W,weekday,W-316,Pontiac Nexus,0,5908
-W,weekday,W-317,Pontiac Nexus,0,5908
-W,weekday,W-318,Pontiac Nexus,0,5908
-W,weekday,W-319,Pontiac Nexus,0,5908
-W,weekday,W-320,Pontiac Nexus,0,5908
-W,weekday,W-321,Pontiac Nexus,0,5908
-W,weekday,W-322,Pontiac Nexus,0,5908
-W,weekday,W-323,Pontiac Nexus,0,5908
-W,weekday,W-324,Pontiac Nexus,0,5908
-W,weekday,W-325,Pontiac Nexus,0,5908
-W,weekday,W-326,Pontiac Nexus,0,5908
-W,weekday,W-327,Pontiac Nexus,0,5908
-W,weekday,W-328,Pontiac Nexus,0,5908
-W,weekday,W-329,Pontiac Nexus,0,5908
-W,weekday,W-330,Pontiac Nexus,0,5908
-W,weekday,W-331,Pontiac Nexus,0,5908
-W,weekday,W-332,Pontiac Nexus,0,5908
-W,weekday,W-333,Pontiac Nexus,0,5908
-W,weekday,W-334,Pontiac Nexus,0,5908
-W,weekday,W-335,Pontiac Nexus,0,5908
-W,weekday,W-336,Pontiac Nexus,0,5908
-W,weekday,W-337,Pontiac Nexus,0,5908
-W,weekday,W-338,Pontiac Nexus,0,5908
-W,weekday,W-339,Pontiac Nexus,0,5908
-W,weekday,W-340,Pontiac Nexus,0,5908
-W,weekday,W-341,Pontiac Nexus,0,5908
-W,weekday,W-342,Pontiac Nexus,0,5908
-W,weekday,W-343,Pontiac Nexus,0,5908
-W,weekday,W-344,Pontiac Nexus,0,5908
-W,weekday,W-345,Pontiac Nexus,0,5908
-W,weekday,W-346,Pontiac Nexus,0,5908
-W,weekday,W-347,Pontiac Nexus,0,5908
-W,weekday,W-348,Pontiac Nexus,0,5908
-W,weekday,W-349,Pontiac Nexus,0,5908
-W,weekday,W-350,Pontiac Nexus,0,5908
-W,weekday,W-351,Pontiac Nexus,0,5908
-W,weekday,W-352,Pontiac Nexus,0,5908
-W,weekday,W-353,Pontiac Nexus,0,5908
-W,weekday,W-354,Pontiac Nexus,0,5908
-W,weekday,W-355,Pontiac Nexus,0,5908
-W,weekday,W-356,Pontiac Nexus,0,5908
-W,weekday,W-357,Pontiac Nexus,0,5908
-W,weekday,W-358,Pontiac Nexus,0,5908
-W,weekday,W-359,Pontiac Nexus,0,5908
-W,weekday,W-360,Pontiac Nexus,0,5908
-W,weekday,W-361,Pontiac Nexus,0,5908
-W,weekday,W-362,Pontiac Nexus,0,5908
-W,weekday,W-363,Pontiac Nexus,0,5908
-W,weekday,W-364,Pontiac Nexus,0,5908
-W,weekday,W-365,Pontiac Nexus,0,5908
-W,weekday,W-366,Pontiac Nexus,0,5908
-W,weekday,W-367,Pontiac Nexus,0,5908
-W,weekday,W-368,Pontiac Nexus,0,5908
-W,weekday,W-369,Pontiac Nexus,0,5908
-W,weekday,W-370,Pontiac Nexus,0,5908
-W,weekday,W-371,Pontiac Nexus,0,5908
-W,weekday,W-372,Pontiac Nexus,0,5908
-W,weekday,W-373,Pontiac Nexus,0,5908
-W,weekday,W-374,Pontiac Nexus,0,5908
-W,weekday,W-375,Pontiac Nexus,0,5908
-W,weekday,W-376,Pontiac Nexus,0,5908
-W,weekday,W-377,Pontiac Nexus,0,5908
-W,weekday,W-378,Pontiac Nexus,0,5908
-W,weekday,W-379,Pontiac Nexus,0,5908
-W,weekday,W-380,Pontiac Nexus,0,5908
-W,weekday,W-381,Pontiac Nexus,0,5908
-W,weekday,W-382,Pontiac Nexus,0,5908
-W,weekday,W-383,Pontiac Nexus,0,5908
-W,weekday,W-384,Pontiac Nexus,0,5908
-W,weekday,W-385,Pontiac Nexus,0,5908
-W,weekday,W-386,Pontiac Nexus,0,5908
-W,weekday,W-387,Pontiac Nexus,0,5908
-W,weekday,W-388,Pontiac Nexus,0,5908
-W,weekday,W-389,Pontiac Nexus,0,5908
-W,weekday,W-390,Pontiac Nexus,0,5908
-W,weekday,W-391,Pontiac Nexus,0,5908
-W,weekday,W-392,Pontiac Nexus,0,5908
-W,weekday,W-393,Pontiac Nexus,0,5908
-W,weekday,W-394,Pontiac Nexus,0,5908
-W,weekday,W-395,Pontiac Nexus,0,5908
-W,weekday,W-396,Pontiac Nexus,0,5908
-W,weekday,W-397,Pontiac Nexus,0,5908
-W,weekday,W-398,Pontiac Nexus,0,5908
-W,weekday,W-399,Pontiac Nexus,0,5908
-W,weekday,W-400,Pontiac Nexus,0,5908
-W,weekday,W-401,Pontiac Nexus,0,5908
-W,weekday,W-402,Pontiac Nexus,0,5908
-W,weekday,W-403,Pontiac Nexus,0,5908
-W,weekday,W-404,Pontiac Nexus,0,5908
-W,weekday,W-405,Pontiac Nexus,0,5908
-W,weekday,W-406,Pontiac Nexus,0,5908
-W,weekday,W-407,Pontiac Nexus,0,5908
-W,weekday,W-408,Pontiac Nexus,0,5908
-W,weekday,W-409,Pontiac Nexus,0,5908
-W,weekday,W-410,Pontiac Nexus,0,5908
-W,weekday,W-411,Pontiac Nexus,0,5908
-W,weekday,W-412,Pontiac Nexus,0,5908
-W,weekday,W-413,Pontiac Nexus,0,5908
-W,weekday,W-414,Pontiac Nexus,0,5908
-W,weekday,W-415,Pontiac Nexus,0,5908
-W,weekday,W-416,Pontiac Nexus,0,5908
-W,weekday,W-417,Pontiac Nexus,0,5908
-W,weekday,W-418,Pontiac Nexus,0,5908
-W,weekday,W-419,Pontiac Nexus,0,5908
-W,weekday,W-420,Pontiac Nexus,0,5908
-W,weekday,W-421,Pontiac Nexus,0,5908
-W,weekday,W-422,Pontiac Nexus,0,5908
-W,weekday,W-423,Pontiac Nexus,0,5908
-W,weekday,W-424,Pontiac Nexus,0,5908
-W,weekday,W-425,Pontiac Nexus,0,5908
-W,weekday,W-426,Pontiac Nexus,0,5908
-W,weekday,W-427,Pontiac Nexus,0,5908
-W,weekday,W-428,Pontiac Nexus,0,5908
-W,weekday,W-429,Pontiac Nexus,0,5908
-W,weekday,W-430,Pontiac Nexus,0,5908
-W,weekday,W-431,Pontiac Nexus,0,5908
-W,weekday,W-432,Pontiac Nexus,0,5908
-W,weekday,W-433,Pontiac Nexus,0,5908
-W,weekday,W-434,Pontiac Nexus,0,5908
-W,weekday,W-435,Pontiac Nexus,0,5908
-W,weekday,W-436,Pontiac Nexus,0,5908
-W,weekday,W-437,Pontiac Nexus,0,5908
-W,weekday,W-438,Pontiac Nexus,0,5908
-W,weekday,W-439,Pontiac Nexus,0,5908
-W,weekday,W-440,Pontiac Nexus,0,5908
-W,weekday,W-441,Pontiac Nexus,0,5908
-W,weekday,W-442,Pontiac Nexus,0,5908
-W,weekday,W-443,Pontiac Nexus,0,5908
-W,weekday,W-444,Pontiac Nexus,0,5908
-W,weekday,W-445,Pontiac Nexus,0,5908
-W,weekday,W-446,Pontiac Nexus,0,5908
-W,weekday,W-447,Pontiac Nexus,0,5908
-W,weekday,W-448,Pontiac Nexus,0,5908
-W,weekday,W-449,Pontiac Nexus,0,5908
-W,weekday,W-450,Pontiac Nexus,0,5908
-W,weekday,W-451,Pontiac Nexus,0,5908
-W,weekday,W-452,Pontiac Nexus,0,5908
-W,weekday,W-453,Pontiac Nexus,0,5908
-W,weekday,W-454,Pontiac Nexus,0,5908
-W,weekday,W-455,Pontiac Nexus,0,5908
-W,weekday,W-456,Pontiac Nexus,0,5908
-W,weekday,W-457,Jefferson / Brush,1,5902
-W,weekday,W-458,Jefferson / Brush,1,5902
-W,weekday,W-459,Jefferson / Brush,1,5902
-W,weekday,W-460,Jefferson / Brush,1,5902
-W,weekday,W-461,Jefferson / Brush,1,5902
-W,weekday,W-462,Jefferson / Brush,1,5902
-W,weekday,W-463,Jefferson / Brush,1,5902
-W,weekday,W-464,Jefferson / Brush,1,5902
-W,weekday,W-465,Jefferson / Brush,1,5902
-W,weekday,W-466,Jefferson / Brush,1,5902
-W,weekday,W-467,Jefferson / Brush,1,5902
-W,weekday,W-468,Jefferson / Brush,1,5902
-W,weekday,W-469,Jefferson / Brush,1,5902
-W,weekday,W-470,Jefferson / Brush,1,5902
-W,weekday,W-471,Jefferson / Brush,1,5902
-W,weekday,W-472,Jefferson / Brush,1,5902
-W,weekday,W-473,Jefferson / Brush,1,5902
-W,weekday,W-474,Jefferson / Brush,1,5902
-W,weekday,W-475,Jefferson / Brush,1,5902
-W,weekday,W-476,Jefferson / Brush,1,5902
-W,weekday,W-477,Jefferson / Brush,1,5902
-W,weekday,W-478,Jefferson / Brush,1,5902
-W,weekday,W-479,Jefferson / Brush,1,5902
-W,weekday,W-480,Jefferson / Brush,1,5902
-W,weekday,W-481,Jefferson / Brush,1,5902
-W,weekday,W-482,Jefferson / Brush,1,5902
-W,weekday,W-483,Jefferson / Brush,1,5902
-W,weekday,W-484,Jefferson / Brush,1,5902
-W,weekday,W-485,Jefferson / Brush,1,5902
-W,weekday,W-486,Jefferson / Brush,1,5902
-W,weekday,W-487,Jefferson / Brush,1,5902
-W,weekday,W-488,Jefferson / Brush,1,5902
-W,weekday,W-489,Jefferson / Brush,1,5902
-W,weekday,W-490,Jefferson / Brush,1,5902
-W,weekday,W-491,Jefferson / Brush,1,5902
-W,weekday,W-492,Jefferson / Brush,1,5902
-W,weekday,W-493,Jefferson / Brush,1,5902
-W,weekday,W-494,Jefferson / Brush,1,5902
-W,weekday,W-495,Jefferson / Brush,1,5902
-W,weekday,W-496,Jefferson / Brush,1,5902
-W,weekday,W-497,Jefferson / Brush,1,5902
-W,weekday,W-498,Jefferson / Brush,1,5902
-W,weekday,W-499,Jefferson / Brush,1,5902
-W,weekday,W-500,Jefferson / Brush,1,5902
-W,weekday,W-501,Jefferson / Brush,1,5902
-W,weekday,W-502,Jefferson / Brush,1,5902
-W,weekday,W-503,Jefferson / Brush,1,5902
-W,weekday,W-504,Jefferson / Brush,1,5902
-W,weekday,W-505,Jefferson / Brush,1,5902
-W,weekday,W-506,Jefferson / Brush,1,5902
-W,weekday,W-507,Jefferson / Brush,1,5902
-W,weekday,W-508,Jefferson / Brush,1,5902
-W,weekday,W-509,Jefferson / Brush,1,5902
-W,weekday,W-510,Jefferson / Brush,1,5902
-W,weekday,W-511,Jefferson / Brush,1,5902
-W,weekday,W-512,Jefferson / Brush,1,5902
-W,weekday,W-513,Jefferson / Brush,1,5902
-W,weekday,W-514,Jefferson / Brush,1,5902
-W,weekday,W-515,Jefferson / Brush,1,5902
-W,weekday,W-516,Jefferson / Brush,1,5902
-W,weekday,W-517,Jefferson / Brush,1,5902
-W,weekday,W-518,Jefferson / Brush,1,5902
-W,weekday,W-519,Jefferson / Brush,1,5902
-W,weekday,W-520,Jefferson / Brush,1,5902
-W,weekday,W-521,Jefferson / Brush,1,5902
-W,weekday,W-522,Jefferson / Brush,1,5902
-W,weekday,W-523,Jefferson / Brush,1,5902
-W,weekday,W-524,Jefferson / Brush,1,5902
-W,weekday,W-525,Jefferson / Brush,1,5902
-W,weekday,W-526,Jefferson / Brush,1,5902
-W,weekday,W-527,Jefferson / Brush,1,5902
-W,weekday,W-528,Jefferson / Brush,1,5902
-W,weekday,W-529,Jefferson / Brush,1,5902
-W,weekday,W-530,Jefferson / Brush,1,5902
-W,weekday,W-531,Jefferson / Brush,1,5902
-W,weekday,W-532,Jefferson / Brush,1,5902
-W,weekday,W-533,Jefferson / Brush,1,5902
-W,weekday,W-534,Jefferson / Brush,1,5902
-W,weekday,W-535,Jefferson / Brush,1,5902
-W,weekday,W-536,Jefferson / Brush,1,5902
-W,weekday,W-537,Jefferson / Brush,1,5902
-W,weekday,W-538,Jefferson / Brush,1,5902
-W,weekday,W-539,Jefferson / Brush,1,5902
-W,weekday,W-540,Jefferson / Brush,1,5902
-W,weekday,W-541,Jefferson / Brush,1,5902
-W,weekday,W-542,Jefferson / Brush,1,5902
-W,weekday,W-543,Jefferson / Brush,1,5902
-W,weekday,W-544,Jefferson / Brush,1,5902
-W,weekday,W-545,Jefferson / Brush,1,5902
-W,weekday,W-546,Jefferson / Brush,1,5902
-W,weekday,W-547,Jefferson / Brush,1,5902
-W,weekday,W-548,Jefferson / Brush,1,5902
-W,weekday,W-549,Jefferson / Brush,1,5902
-W,weekday,W-550,Jefferson / Brush,1,5902
-W,weekday,W-551,Jefferson / Brush,1,5902
-W,weekday,W-552,Jefferson / Brush,1,5902
-W,weekday,W-553,Jefferson / Brush,1,5902
-W,weekday,W-554,Jefferson / Brush,1,5902
-W,weekday,W-555,Jefferson / Brush,1,5902
-W,weekday,W-556,Jefferson / Brush,1,5902
-W,weekday,W-557,Jefferson / Brush,1,5902
-W,weekday,W-558,Jefferson / Brush,1,5902
-W,weekday,W-559,Jefferson / Brush,1,5902
-W,weekday,W-560,Jefferson / Brush,1,5902
-W,weekday,W-561,Jefferson / Brush,1,5902
-W,weekday,W-562,Jefferson / Brush,1,5902
-W,weekday,W-563,Jefferson / Brush,1,5902
-W,weekday,W-564,Jefferson / Brush,1,5902
-W,weekday,W-565,Jefferson / Brush,1,5902
-W,weekday,W-566,Jefferson / Brush,1,5902
-W,weekday,W-567,Jefferson / Brush,1,5902
-W,weekday,W-568,Jefferson / Brush,1,5902
-W,weekday,W-569,Jefferson / Brush,1,5902
-W,weekday,W-570,Jefferson / Brush,1,5902
-W,weekday,W-571,Jefferson / Brush,1,5902
-W,weekday,W-572,Jefferson / Brush,1,5902
-W,weekday,W-573,Jefferson / Brush,1,5902
-W,weekday,W-574,Jefferson / Brush,1,5902
-W,weekday,W-575,Jefferson / Brush,1,5902
-W,weekday,W-576,Jefferson / Brush,1,5902
-W,weekday,W-577,Jefferson / Brush,1,5902
-W,weekday,W-578,Jefferson / Brush,1,5902
-W,weekday,W-579,Jefferson / Brush,1,5902
-W,weekday,W-580,Jefferson / Brush,1,5902
-W,weekday,W-581,Jefferson / Brush,1,5902
-W,weekday,W-582,Jefferson / Brush,1,5902
-W,weekday,W-583,Jefferson / Brush,1,5902
-W,weekday,W-584,Jefferson / Brush,1,5902
-W,weekday,W-585,Jefferson / Brush,1,5902
-W,weekday,W-586,Jefferson / Brush,1,5902
-W,weekday,W-587,Jefferson / Brush,1,5902
-W,weekday,W-588,Jefferson / Brush,1,5902
-W,weekday,W-589,Jefferson / Brush,1,5902
-W,weekday,W-590,Jefferson / Brush,1,5902
-W,weekday,W-591,Jefferson / Brush,1,5902
-W,weekday,W-592,Jefferson / Brush,1,5902
-W,weekday,W-593,Jefferson / Brush,1,5902
-W,weekday,W-594,Jefferson / Brush,1,5902
-W,weekday,W-595,Jefferson / Brush,1,5902
-W,weekday,W-596,Jefferson / Brush,1,5902
-W,weekday,W-597,Jefferson / Brush,1,5902
-W,weekday,W-598,Jefferson / Brush,1,5902
-W,weekday,W-599,Jefferson / Brush,1,5902
-W,weekday,W-600,Jefferson / Brush,1,5902
-W,weekday,W-601,Jefferson / Brush,1,5902
-W,weekday,W-602,Jefferson / Brush,1,5902
+W,NormalMonFri,W-1,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-2,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-3,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-4,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-5,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-6,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-7,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-8,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-9,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-10,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-11,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-12,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-13,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-14,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-15,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-16,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-17,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-18,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-19,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-20,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-21,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-22,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-23,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-24,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-25,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-26,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-27,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-28,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-29,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-30,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-31,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-32,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-33,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-34,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-35,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-36,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-37,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-38,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-39,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-40,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-41,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-42,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-43,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-44,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-45,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-46,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-47,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-48,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-49,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-50,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-51,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-52,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-53,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-54,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-55,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-56,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-57,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-58,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-59,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-60,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-61,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-62,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-63,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-64,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-65,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-66,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-67,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-68,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-69,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-70,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-71,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-72,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-73,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-74,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-75,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-76,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-77,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-78,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-79,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-80,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-81,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-82,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-83,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-84,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-85,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-86,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-87,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-88,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-89,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-90,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-91,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-92,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-93,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-94,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-95,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-96,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-97,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-98,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-99,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-100,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-101,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-102,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-103,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-104,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-105,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-106,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-107,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-108,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-109,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-110,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-111,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-112,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-113,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-114,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-115,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-116,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-117,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-118,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-119,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-120,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-121,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-122,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-123,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-124,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-125,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-126,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-127,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-128,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-129,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-130,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-131,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-132,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-133,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-134,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-135,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-136,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-137,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-138,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-139,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-140,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-141,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-142,Pontiac Nexus,0,WL_N
+W,NormalMonFri,W-143,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-144,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-145,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-146,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-147,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-148,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-149,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-150,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-151,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-152,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-153,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-154,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-155,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-156,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-157,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-158,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-159,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-160,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-161,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-162,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-163,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-164,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-165,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-166,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-167,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-168,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-169,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-170,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-171,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-172,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-173,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-174,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-175,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-176,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-177,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-178,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-179,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-180,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-181,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-182,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-183,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-184,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-185,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-186,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-187,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-188,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-189,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-190,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-191,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-192,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-193,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-194,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-195,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-196,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-197,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-198,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-199,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-200,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-201,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-202,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-203,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-204,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-205,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-206,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-207,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-208,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-209,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-210,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-211,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-212,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-213,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-214,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-215,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-216,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-217,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-218,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-219,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-220,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-221,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-222,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-223,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-224,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-225,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-226,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-227,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-228,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-229,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-230,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-231,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-232,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-233,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-234,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-235,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-236,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-237,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-238,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-239,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-240,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-241,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-242,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-243,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-244,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-245,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-246,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-247,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-248,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-249,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-250,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-251,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-252,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-253,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-254,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-255,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-256,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-257,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-258,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-259,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-260,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-261,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-262,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-263,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-264,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-265,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-266,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-267,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-268,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-269,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-270,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-271,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-272,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-273,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-274,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-275,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-276,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-277,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-278,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-279,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-280,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-281,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-282,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-283,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-284,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-285,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-286,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-287,Jefferson / Brush,1,WL_S
+W,NormalMonFri,W-288,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-289,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-290,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-291,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-292,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-293,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-294,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-295,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-296,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-297,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-298,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-299,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-300,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-301,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-302,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-303,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-304,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-305,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-306,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-307,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-308,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-309,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-310,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-311,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-312,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-313,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-314,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-315,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-316,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-317,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-318,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-319,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-320,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-321,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-322,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-323,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-324,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-325,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-326,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-327,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-328,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-329,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-330,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-331,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-332,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-333,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-334,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-335,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-336,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-337,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-338,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-339,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-340,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-341,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-342,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-343,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-344,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-345,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-346,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-347,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-348,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-349,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-350,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-351,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-352,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-353,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-354,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-355,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-356,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-357,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-358,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-359,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-360,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-361,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-362,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-363,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-364,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-365,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-366,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-367,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-368,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-369,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-370,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-371,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-372,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-373,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-374,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-375,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-376,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-377,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-378,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-379,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-380,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-381,Pontiac Nexus,0,WL_N
+W,NormalSaturdayNoDC,W-382,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-383,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-384,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-385,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-386,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-387,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-388,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-389,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-390,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-391,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-392,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-393,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-394,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-395,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-396,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-397,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-398,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-399,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-400,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-401,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-402,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-403,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-404,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-405,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-406,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-407,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-408,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-409,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-410,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-411,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-412,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-413,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-414,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-415,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-416,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-417,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-418,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-419,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-420,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-421,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-422,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-423,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-424,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-425,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-426,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-427,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-428,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-429,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-430,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-431,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-432,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-433,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-434,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-435,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-436,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-437,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-438,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-439,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-440,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-441,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-442,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-443,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-444,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-445,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-446,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-447,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-448,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-449,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-450,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-451,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-452,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-453,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-454,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-455,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-456,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-457,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-458,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-459,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-460,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-461,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-462,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-463,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-464,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-465,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-466,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-467,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-468,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-469,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-470,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-471,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-472,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-473,Jefferson / Brush,1,WL_S
+W,NormalSaturdayNoDC,W-474,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-475,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-476,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-477,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-478,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-479,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-480,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-481,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-482,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-483,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-484,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-485,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-486,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-487,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-488,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-489,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-490,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-491,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-492,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-493,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-494,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-495,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-496,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-497,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-498,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-499,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-500,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-501,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-502,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-503,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-504,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-505,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-506,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-507,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-508,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-509,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-510,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-511,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-512,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-513,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-514,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-515,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-516,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-517,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-518,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-519,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-520,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-521,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-522,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-523,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-524,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-525,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-526,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-527,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-528,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-529,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-530,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-531,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-532,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-533,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-534,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-535,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-536,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-537,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-538,Pontiac Nexus,0,WL_N
+W,NormalSunday,W-539,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-540,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-541,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-542,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-543,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-544,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-545,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-546,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-547,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-548,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-549,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-550,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-551,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-552,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-553,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-554,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-555,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-556,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-557,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-558,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-559,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-560,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-561,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-562,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-563,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-564,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-565,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-566,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-567,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-568,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-569,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-570,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-571,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-572,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-573,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-574,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-575,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-576,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-577,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-578,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-579,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-580,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-581,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-582,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-583,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-584,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-585,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-586,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-587,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-588,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-589,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-590,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-591,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-592,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-593,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-594,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-595,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-596,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-597,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-598,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-599,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-600,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-601,Jefferson / Brush,1,WL_S
+W,NormalSunday,W-602,Jefferson / Brush,1,WL_S

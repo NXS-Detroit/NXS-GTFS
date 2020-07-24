@@ -1,0 +1,187 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+963,DreamCruise,963-1,Pontiac Nexus,0,963_N
+963,DreamCruise,963-2,Pontiac Nexus,0,963_N
+963,DreamCruise,963-3,Pontiac Nexus,0,963_N
+963,DreamCruise,963-4,Pontiac Nexus,0,963_N
+963,DreamCruise,963-5,Pontiac Nexus,0,963_N
+963,DreamCruise,963-6,Pontiac Nexus,0,963_N
+963,DreamCruise,963-7,Pontiac Nexus,0,963_N
+963,DreamCruise,963-8,Pontiac Nexus,0,963_N
+963,DreamCruise,963-9,Pontiac Nexus,0,963_N
+963,DreamCruise,963-10,Pontiac Nexus,0,963_N
+963,DreamCruise,963-11,Pontiac Nexus,0,963_N
+963,DreamCruise,963-12,Pontiac Nexus,0,963_N
+963,DreamCruise,963-13,Pontiac Nexus,0,963_N
+963,DreamCruise,963-14,Pontiac Nexus,0,963_N
+963,DreamCruise,963-15,Pontiac Nexus,0,963_N
+963,DreamCruise,963-16,Pontiac Nexus,0,963_N
+963,DreamCruise,963-17,Pontiac Nexus,0,963_N
+963,DreamCruise,963-18,Pontiac Nexus,0,963_N
+963,DreamCruise,963-19,Pontiac Nexus,0,963_N
+963,DreamCruise,963-20,Pontiac Nexus,0,963_N
+963,DreamCruise,963-21,Pontiac Nexus,0,963_N
+963,DreamCruise,963-22,Pontiac Nexus,0,963_N
+963,DreamCruise,963-23,Pontiac Nexus,0,963_N
+963,DreamCruise,963-24,Pontiac Nexus,0,963_N
+963,DreamCruise,963-25,Pontiac Nexus,0,963_N
+963,DreamCruise,963-26,Pontiac Nexus,0,963_N
+963,DreamCruise,963-27,Pontiac Nexus,0,963_N
+963,DreamCruise,963-28,Pontiac Nexus,0,963_N
+963,DreamCruise,963-29,Pontiac Nexus,0,963_N
+963,DreamCruise,963-30,Pontiac Nexus,0,963_N
+963,DreamCruise,963-31,Pontiac Nexus,0,963_N
+963,DreamCruise,963-32,Pontiac Nexus,0,963_N
+963,DreamCruise,963-33,Pontiac Nexus,0,963_N
+963,DreamCruise,963-34,Pontiac Nexus,0,963_N
+963,DreamCruise,963-35,Pontiac Nexus,0,963_N
+963,DreamCruise,963-36,Pontiac Nexus,0,963_N
+963,DreamCruise,963-37,Pontiac Nexus,0,963_N
+963,DreamCruise,963-38,Pontiac Nexus,0,963_N
+963,DreamCruise,963-39,Pontiac Nexus,0,963_N
+963,DreamCruise,963-40,Pontiac Nexus,0,963_N
+963,DreamCruise,963-41,Pontiac Nexus,0,963_N
+963,DreamCruise,963-42,Pontiac Nexus,0,963_N
+963,DreamCruise,963-43,Pontiac Nexus,0,963_N
+963,DreamCruise,963-44,Pontiac Nexus,0,963_N
+963,DreamCruise,963-45,Pontiac Nexus,0,963_N
+963,DreamCruise,963-46,Pontiac Nexus,0,963_N
+963,DreamCruise,963-47,Pontiac Nexus,0,963_N
+963,DreamCruise,963-48,Pontiac Nexus,0,963_N
+963,DreamCruise,963-49,Pontiac Nexus,0,963_N
+963,DreamCruise,963-50,Pontiac Nexus,0,963_N
+963,DreamCruise,963-51,Pontiac Nexus,0,963_N
+963,DreamCruise,963-52,Pontiac Nexus,0,963_N
+963,DreamCruise,963-53,Pontiac Nexus,0,963_N
+963,DreamCruise,963-54,Pontiac Nexus,0,963_N
+963,DreamCruise,963-55,Pontiac Nexus,0,963_N
+963,DreamCruise,963-56,Pontiac Nexus,0,963_N
+963,DreamCruise,963-57,Pontiac Nexus,0,963_N
+963,DreamCruise,963-58,Pontiac Nexus,0,963_N
+963,DreamCruise,963-59,Pontiac Nexus,0,963_N
+963,DreamCruise,963-60,Pontiac Nexus,0,963_N
+963,DreamCruise,963-61,Pontiac Nexus,0,963_N
+963,DreamCruise,963-62,Pontiac Nexus,0,963_N
+963,DreamCruise,963-63,Pontiac Nexus,0,963_N
+963,DreamCruise,963-64,Pontiac Nexus,0,963_N
+963,DreamCruise,963-65,Pontiac Nexus,0,963_N
+963,DreamCruise,963-66,Pontiac Nexus,0,963_N
+963,DreamCruise,963-67,Pontiac Nexus,0,963_N
+963,DreamCruise,963-68,Pontiac Nexus,0,963_N
+963,DreamCruise,963-69,Pontiac Nexus,0,963_N
+963,DreamCruise,963-70,Pontiac Nexus,0,963_N
+963,DreamCruise,963-71,Pontiac Nexus,0,963_N
+963,DreamCruise,963-72,Pontiac Nexus,0,963_N
+963,DreamCruise,963-73,Pontiac Nexus,0,963_N
+963,DreamCruise,963-74,Pontiac Nexus,0,963_N
+963,DreamCruise,963-75,Pontiac Nexus,0,963_N
+963,DreamCruise,963-76,Pontiac Nexus,0,963_N
+963,DreamCruise,963-77,Pontiac Nexus,0,963_N
+963,DreamCruise,963-78,Pontiac Nexus,0,963_N
+963,DreamCruise,963-79,Pontiac Nexus,0,963_N
+963,DreamCruise,963-80,Pontiac Nexus,0,963_N
+963,DreamCruise,963-81,Pontiac Nexus,0,963_N
+963,DreamCruise,963-82,Pontiac Nexus,0,963_N
+963,DreamCruise,963-83,Pontiac Nexus,0,963_N
+963,DreamCruise,963-84,Pontiac Nexus,0,963_N
+963,DreamCruise,963-85,Pontiac Nexus,0,963_N
+963,DreamCruise,963-86,Pontiac Nexus,0,963_N
+963,DreamCruise,963-87,Pontiac Nexus,0,963_N
+963,DreamCruise,963-88,Pontiac Nexus,0,963_N
+963,DreamCruise,963-89,Pontiac Nexus,0,963_N
+963,DreamCruise,963-90,Pontiac Nexus,0,963_N
+963,DreamCruise,963-91,Pontiac Nexus,0,963_N
+963,DreamCruise,963-92,Pontiac Nexus,0,963_N
+963,DreamCruise,963-93,Pontiac Nexus,0,963_N
+963,DreamCruise,963-94,Washington / Jefferson,1,963_S
+963,DreamCruise,963-95,Washington / Jefferson,1,963_S
+963,DreamCruise,963-96,Washington / Jefferson,1,963_S
+963,DreamCruise,963-97,Washington / Jefferson,1,963_S
+963,DreamCruise,963-98,Washington / Jefferson,1,963_S
+963,DreamCruise,963-99,Washington / Jefferson,1,963_S
+963,DreamCruise,963-100,Washington / Jefferson,1,963_S
+963,DreamCruise,963-101,Washington / Jefferson,1,963_S
+963,DreamCruise,963-102,Washington / Jefferson,1,963_S
+963,DreamCruise,963-103,Washington / Jefferson,1,963_S
+963,DreamCruise,963-104,Washington / Jefferson,1,963_S
+963,DreamCruise,963-105,Washington / Jefferson,1,963_S
+963,DreamCruise,963-106,Washington / Jefferson,1,963_S
+963,DreamCruise,963-107,Washington / Jefferson,1,963_S
+963,DreamCruise,963-108,Washington / Jefferson,1,963_S
+963,DreamCruise,963-109,Washington / Jefferson,1,963_S
+963,DreamCruise,963-110,Washington / Jefferson,1,963_S
+963,DreamCruise,963-111,Washington / Jefferson,1,963_S
+963,DreamCruise,963-112,Washington / Jefferson,1,963_S
+963,DreamCruise,963-113,Washington / Jefferson,1,963_S
+963,DreamCruise,963-114,Washington / Jefferson,1,963_S
+963,DreamCruise,963-115,Washington / Jefferson,1,963_S
+963,DreamCruise,963-116,Washington / Jefferson,1,963_S
+963,DreamCruise,963-117,Washington / Jefferson,1,963_S
+963,DreamCruise,963-118,Washington / Jefferson,1,963_S
+963,DreamCruise,963-119,Washington / Jefferson,1,963_S
+963,DreamCruise,963-120,Washington / Jefferson,1,963_S
+963,DreamCruise,963-121,Washington / Jefferson,1,963_S
+963,DreamCruise,963-122,Washington / Jefferson,1,963_S
+963,DreamCruise,963-123,Washington / Jefferson,1,963_S
+963,DreamCruise,963-124,Washington / Jefferson,1,963_S
+963,DreamCruise,963-125,Washington / Jefferson,1,963_S
+963,DreamCruise,963-126,Washington / Jefferson,1,963_S
+963,DreamCruise,963-127,Washington / Jefferson,1,963_S
+963,DreamCruise,963-128,Washington / Jefferson,1,963_S
+963,DreamCruise,963-129,Washington / Jefferson,1,963_S
+963,DreamCruise,963-130,Washington / Jefferson,1,963_S
+963,DreamCruise,963-131,Washington / Jefferson,1,963_S
+963,DreamCruise,963-132,Washington / Jefferson,1,963_S
+963,DreamCruise,963-133,Washington / Jefferson,1,963_S
+963,DreamCruise,963-134,Washington / Jefferson,1,963_S
+963,DreamCruise,963-135,Washington / Jefferson,1,963_S
+963,DreamCruise,963-136,Washington / Jefferson,1,963_S
+963,DreamCruise,963-137,Washington / Jefferson,1,963_S
+963,DreamCruise,963-138,Washington / Jefferson,1,963_S
+963,DreamCruise,963-139,Washington / Jefferson,1,963_S
+963,DreamCruise,963-140,Washington / Jefferson,1,963_S
+963,DreamCruise,963-141,Washington / Jefferson,1,963_S
+963,DreamCruise,963-142,Washington / Jefferson,1,963_S
+963,DreamCruise,963-143,Washington / Jefferson,1,963_S
+963,DreamCruise,963-144,Washington / Jefferson,1,963_S
+963,DreamCruise,963-145,Washington / Jefferson,1,963_S
+963,DreamCruise,963-146,Washington / Jefferson,1,963_S
+963,DreamCruise,963-147,Washington / Jefferson,1,963_S
+963,DreamCruise,963-148,Washington / Jefferson,1,963_S
+963,DreamCruise,963-149,Washington / Jefferson,1,963_S
+963,DreamCruise,963-150,Washington / Jefferson,1,963_S
+963,DreamCruise,963-151,Washington / Jefferson,1,963_S
+963,DreamCruise,963-152,Washington / Jefferson,1,963_S
+963,DreamCruise,963-153,Washington / Jefferson,1,963_S
+963,DreamCruise,963-154,Washington / Jefferson,1,963_S
+963,DreamCruise,963-155,Washington / Jefferson,1,963_S
+963,DreamCruise,963-156,Washington / Jefferson,1,963_S
+963,DreamCruise,963-157,Washington / Jefferson,1,963_S
+963,DreamCruise,963-158,Washington / Jefferson,1,963_S
+963,DreamCruise,963-159,Washington / Jefferson,1,963_S
+963,DreamCruise,963-160,Washington / Jefferson,1,963_S
+963,DreamCruise,963-161,Washington / Jefferson,1,963_S
+963,DreamCruise,963-162,Washington / Jefferson,1,963_S
+963,DreamCruise,963-163,Washington / Jefferson,1,963_S
+963,DreamCruise,963-164,Washington / Jefferson,1,963_S
+963,DreamCruise,963-165,Washington / Jefferson,1,963_S
+963,DreamCruise,963-166,Washington / Jefferson,1,963_S
+963,DreamCruise,963-167,Washington / Jefferson,1,963_S
+963,DreamCruise,963-168,Washington / Jefferson,1,963_S
+963,DreamCruise,963-169,Washington / Jefferson,1,963_S
+963,DreamCruise,963-170,Washington / Jefferson,1,963_S
+963,DreamCruise,963-171,Washington / Jefferson,1,963_S
+963,DreamCruise,963-172,Washington / Jefferson,1,963_S
+963,DreamCruise,963-173,Washington / Jefferson,1,963_S
+963,DreamCruise,963-174,Washington / Jefferson,1,963_S
+963,DreamCruise,963-175,Washington / Jefferson,1,963_S
+963,DreamCruise,963-176,Washington / Jefferson,1,963_S
+963,DreamCruise,963-177,Washington / Jefferson,1,963_S
+963,DreamCruise,963-178,Washington / Jefferson,1,963_S
+963,DreamCruise,963-179,Washington / Jefferson,1,963_S
+963,DreamCruise,963-180,Washington / Jefferson,1,963_S
+963,DreamCruise,963-181,Washington / Jefferson,1,963_S
+963,DreamCruise,963-182,Washington / Jefferson,1,963_S
+963,DreamCruise,963-183,Washington / Jefferson,1,963_S
+963,DreamCruise,963-184,Washington / Jefferson,1,963_S
+963,DreamCruise,963-185,Washington / Jefferson,1,963_S
+963,DreamCruise,963-186,Washington / Jefferson,1,963_S

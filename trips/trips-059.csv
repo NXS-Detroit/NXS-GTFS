@@ -1,329 +1,476 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-059,saturday,059-1,Pontiac Nexus,0,0598
-059,saturday,059-2,Pontiac Nexus,0,0598
-059,saturday,059-3,Pontiac Nexus,0,0598
-059,saturday,059-4,Pontiac Nexus,0,0598
-059,saturday,059-5,Pontiac Nexus,0,0598
-059,saturday,059-6,Pontiac Nexus,0,0598
-059,saturday,059-7,Pontiac Nexus,0,0598
-059,saturday,059-8,Pontiac Nexus,0,0598
-059,saturday,059-9,Pontiac Nexus,0,0598
-059,saturday,059-10,Pontiac Nexus,0,0598
-059,saturday,059-11,Pontiac Nexus,0,0598
-059,saturday,059-12,Pontiac Nexus,0,0598
-059,saturday,059-13,Pontiac Nexus,0,0598
-059,saturday,059-14,Pontiac Nexus,0,0598
-059,saturday,059-15,Pontiac Nexus,0,0598
-059,saturday,059-16,Pontiac Nexus,0,0598
-059,saturday,059-17,Pontiac Nexus,0,0598
-059,saturday,059-18,Pontiac Nexus,0,0598
-059,saturday,059-19,Pontiac Nexus,0,0598
-059,saturday,059-20,Pontiac Nexus,0,0598
-059,saturday,059-21,Pontiac Nexus,0,0598
-059,saturday,059-22,Pontiac Nexus,0,0598
-059,saturday,059-23,Pontiac Nexus,0,0598
-059,saturday,059-24,Pontiac Nexus,0,0598
-059,saturday,059-25,Pontiac Nexus,0,0598
-059,saturday,059-26,Pontiac Nexus,0,0598
-059,saturday,059-27,Pontiac Nexus,0,0598
-059,saturday,059-28,Pontiac Nexus,0,0598
-059,saturday,059-29,Pontiac Nexus,0,0598
-059,saturday,059-30,Pontiac Nexus,0,0598
-059,saturday,059-31,Pontiac Nexus,0,0598
-059,saturday,059-32,Pontiac Nexus,0,0598
-059,saturday,059-33,Pontiac Nexus,0,0598
-059,saturday,059-34,Pontiac Nexus,0,0598
-059,saturday,059-35,Pontiac Nexus,0,0598
-059,saturday,059-36,Pontiac Nexus,0,0598
-059,saturday,059-37,Huron / Perry,0,0597
-059,saturday,059-38,Pontiac Nexus,0,0598
-059,saturday,059-39,Pontiac Nexus,0,0598
-059,saturday,059-40,Huron / Perry,0,0597
-059,saturday,059-41,Pontiac Nexus,0,0598
-059,saturday,059-42,Pontiac Nexus,0,0598
-059,saturday,059-43,Huron / Perry,0,0597
-059,saturday,059-44,Pontiac Nexus,0,0598
-059,saturday,059-45,Pontiac Nexus,0,0598
-059,saturday,059-46,Huron / Perry,0,0597
-059,saturday,059-47,Pontiac Nexus,0,0598
-059,saturday,059-48,Huron / Perry,0,0597
-059,saturday,059-49,Pontiac Nexus,0,0598
-059,saturday,059-50,Pontiac Nexus,0,0598
-059,saturday,059-51,Pontiac Nexus,0,0598
-059,saturday,059-52,Pontiac Nexus,0,0598
-059,saturday,059-53,Pontiac Nexus,0,0598
-059,saturday,059-54,Southland Mall,1,0592
-059,saturday,059-55,Southland Mall,1,0592
-059,saturday,059-56,Southland Mall,1,0592
-059,saturday,059-57,Southland Mall,1,0592
-059,saturday,059-58,Southland Mall,1,0592
-059,saturday,059-59,Southland Mall,1,0592
-059,saturday,059-60,Southland Mall,1,0592
-059,saturday,059-61,Southland Mall,1,0592
-059,saturday,059-62,Southland Mall,1,0592
-059,saturday,059-63,Southland Mall,1,0592
-059,saturday,059-64,Southland Mall,1,0592
-059,saturday,059-65,Southland Mall,1,0592
-059,saturday,059-66,Southland Mall,1,0592
-059,saturday,059-67,Southland Mall,1,0592
-059,saturday,059-68,Southland Mall,1,0592
-059,saturday,059-69,Southland Mall,1,0592
-059,saturday,059-70,Southland Mall,1,0592
-059,saturday,059-71,Southland Mall,1,0592
-059,saturday,059-72,Southland Mall,1,0592
-059,saturday,059-73,Southland Mall,1,0592
-059,saturday,059-74,Southland Mall,1,0592
-059,saturday,059-75,Southland Mall,1,0592
-059,saturday,059-76,Southland Mall,1,0592
-059,saturday,059-77,Southland Mall,1,0592
-059,saturday,059-78,Southland Mall,1,0592
-059,saturday,059-79,Southland Mall,1,0592
-059,saturday,059-80,Southland Mall,1,0592
-059,saturday,059-81,Southland Mall,1,0592
-059,saturday,059-82,Southland Mall,1,0592
-059,saturday,059-83,Southland Mall,1,0592
-059,saturday,059-84,Southland Mall,1,0592
-059,saturday,059-85,Southland Mall,1,0592
-059,saturday,059-86,Southland Mall,1,0592
-059,saturday,059-87,Southland Mall,1,0592
-059,saturday,059-88,Southland Mall,1,0592
-059,saturday,059-89,Southland Mall,1,0592
-059,saturday,059-90,Southland Mall,1,0592
-059,saturday,059-91,Southland Mall,1,0592
-059,saturday,059-92,Southland Mall,1,0592
-059,saturday,059-93,Southland Mall,1,0592
-059,saturday,059-94,Southland Mall,1,0592
-059,saturday,059-95,Southland Mall,1,0592
-059,saturday,059-96,Southland Mall,1,0592
-059,saturday,059-97,Southland Mall,1,0592
-059,saturday,059-98,Southland Mall,1,0592
-059,saturday,059-99,Southland Mall,1,0592
-059,saturday,059-100,Southland Mall,1,0592
-059,saturday,059-101,Southland Mall,1,0592
-059,saturday,059-102,Southland Mall,1,0592
-059,saturday,059-103,Southland Mall,1,0592
-059,saturday,059-104,Southland Mall,1,0592
-059,saturday,059-105,Southland Mall,1,0592
-059,sunday,059-106,Pontiac Nexus,0,0598
-059,sunday,059-107,Pontiac Nexus,0,0598
-059,sunday,059-108,Pontiac Nexus,0,0598
-059,sunday,059-109,Pontiac Nexus,0,0598
-059,sunday,059-110,Pontiac Nexus,0,0598
-059,sunday,059-111,Pontiac Nexus,0,0598
-059,sunday,059-112,Pontiac Nexus,0,0598
-059,sunday,059-113,Pontiac Nexus,0,0598
-059,sunday,059-114,Pontiac Nexus,0,0598
-059,sunday,059-115,Pontiac Nexus,0,0598
-059,sunday,059-116,Pontiac Nexus,0,0598
-059,sunday,059-117,Pontiac Nexus,0,0598
-059,sunday,059-118,Pontiac Nexus,0,0598
-059,sunday,059-119,Pontiac Nexus,0,0598
-059,sunday,059-120,Pontiac Nexus,0,0598
-059,sunday,059-121,Pontiac Nexus,0,0598
-059,sunday,059-122,Pontiac Nexus,0,0598
-059,sunday,059-123,Pontiac Nexus,0,0598
-059,sunday,059-124,Pontiac Nexus,0,0598
-059,sunday,059-125,Pontiac Nexus,0,0598
-059,sunday,059-126,Pontiac Nexus,0,0598
-059,sunday,059-127,Pontiac Nexus,0,0598
-059,sunday,059-128,Pontiac Nexus,0,0598
-059,sunday,059-129,Pontiac Nexus,0,0598
-059,sunday,059-130,Pontiac Nexus,0,0598
-059,sunday,059-131,Pontiac Nexus,0,0598
-059,sunday,059-132,Huron / Perry,0,0597
-059,sunday,059-133,Pontiac Nexus,0,0598
-059,sunday,059-134,Pontiac Nexus,0,0598
-059,sunday,059-135,Pontiac Nexus,0,0598
-059,sunday,059-136,Pontiac Nexus,0,0598
-059,sunday,059-137,Pontiac Nexus,0,0598
-059,sunday,059-138,Pontiac Nexus,0,0598
-059,sunday,059-139,Pontiac Nexus,0,0598
-059,sunday,059-140,Pontiac Nexus,0,0598
-059,sunday,059-141,Pontiac Nexus,0,0598
-059,sunday,059-142,Pontiac Nexus,0,0598
-059,sunday,059-143,Southland Mall,1,0592
-059,sunday,059-144,Southland Mall,1,0592
-059,sunday,059-145,Southland Mall,1,0592
-059,sunday,059-146,Southland Mall,1,0592
-059,sunday,059-147,Southland Mall,1,0592
-059,sunday,059-148,Southland Mall,1,0592
-059,sunday,059-149,Southland Mall,1,0592
-059,sunday,059-150,Southland Mall,1,0592
-059,sunday,059-151,Southland Mall,1,0592
-059,sunday,059-152,Southland Mall,1,0592
-059,sunday,059-153,Southland Mall,1,0592
-059,sunday,059-154,Southland Mall,1,0592
-059,sunday,059-155,Southland Mall,1,0592
-059,sunday,059-156,Southland Mall,1,0592
-059,sunday,059-157,Southland Mall,1,0592
-059,sunday,059-158,Southland Mall,1,0592
-059,sunday,059-159,Southland Mall,1,0592
-059,sunday,059-160,Southland Mall,1,0592
-059,sunday,059-161,Southland Mall,1,0592
-059,sunday,059-162,Southland Mall,1,0592
-059,sunday,059-163,Southland Mall,1,0592
-059,sunday,059-164,Southland Mall,1,0592
-059,sunday,059-165,Southland Mall,1,0592
-059,sunday,059-166,Southland Mall,1,0592
-059,sunday,059-167,Southland Mall,1,0592
-059,sunday,059-168,Southland Mall,1,0592
-059,sunday,059-169,Southland Mall,1,0592
-059,sunday,059-170,Southland Mall,1,0592
-059,sunday,059-171,Southland Mall,1,0592
-059,sunday,059-172,Southland Mall,1,0592
-059,sunday,059-173,Southland Mall,1,0592
-059,sunday,059-174,Southland Mall,1,0592
-059,sunday,059-175,Southland Mall,1,0592
-059,sunday,059-176,Southland Mall,1,0592
-059,sunday,059-177,Southland Mall,1,0592
-059,sunday,059-178,Southland Mall,1,0592
-059,sunday,059-179,Southland Mall,1,0592
-059,sunday,059-180,Southland Mall,1,0592
-059,sunday,059-181,Southland Mall,1,0592
-059,weekday,059-182,Pontiac Nexus,0,0598
-059,weekday,059-183,Pontiac Nexus,0,0598
-059,weekday,059-184,Pontiac Nexus,0,0598
-059,weekday,059-185,Pontiac Nexus,0,0598
-059,weekday,059-186,Pontiac Nexus,0,0598
-059,weekday,059-187,Pontiac Nexus,0,0598
-059,weekday,059-188,Pontiac Nexus,0,0598
-059,weekday,059-189,Pontiac Nexus,0,0598
-059,weekday,059-190,Pontiac Nexus,0,0598
-059,weekday,059-191,Pontiac Nexus,0,0598
-059,weekday,059-192,Pontiac Nexus,0,0598
-059,weekday,059-193,Pontiac Nexus,0,0598
-059,weekday,059-194,Pontiac Nexus,0,0598
-059,weekday,059-195,Pontiac Nexus,0,0598
-059,weekday,059-196,Pontiac Nexus,0,0598
-059,weekday,059-197,Pontiac Nexus,0,0598
-059,weekday,059-198,Pontiac Nexus,0,0598
-059,weekday,059-199,Pontiac Nexus,0,0598
-059,weekday,059-200,Pontiac Nexus,0,0598
-059,weekday,059-201,Pontiac Nexus,0,0598
-059,weekday,059-202,Pontiac Nexus,0,0598
-059,weekday,059-203,Pontiac Nexus,0,0598
-059,weekday,059-204,Pontiac Nexus,0,0598
-059,weekday,059-205,Pontiac Nexus,0,0598
-059,weekday,059-206,Pontiac Nexus,0,0598
-059,weekday,059-207,Pontiac Nexus,0,0598
-059,weekday,059-208,Pontiac Nexus,0,0598
-059,weekday,059-209,Pontiac Nexus,0,0598
-059,weekday,059-210,Pontiac Nexus,0,0598
-059,weekday,059-211,Pontiac Nexus,0,0598
-059,weekday,059-212,Pontiac Nexus,0,0598
-059,weekday,059-213,Pontiac Nexus,0,0598
-059,weekday,059-214,Pontiac Nexus,0,0598
-059,weekday,059-215,Pontiac Nexus,0,0598
-059,weekday,059-216,Pontiac Nexus,0,0598
-059,weekday,059-217,Pontiac Nexus,0,0598
-059,weekday,059-218,Pontiac Nexus,0,0598
-059,weekday,059-219,Pontiac Nexus,0,0598
-059,weekday,059-220,Pontiac Nexus,0,0598
-059,weekday,059-221,Pontiac Nexus,0,0598
-059,weekday,059-222,Pontiac Nexus,0,0598
-059,weekday,059-223,Pontiac Nexus,0,0598
-059,weekday,059-224,Pontiac Nexus,0,0598
-059,weekday,059-225,Pontiac Nexus,0,0598
-059,weekday,059-226,Pontiac Nexus,0,0598
-059,weekday,059-227,Pontiac Nexus,0,0598
-059,weekday,059-228,Pontiac Nexus,0,0598
-059,weekday,059-229,Pontiac Nexus,0,0598
-059,weekday,059-230,Pontiac Nexus,0,0598
-059,weekday,059-231,Pontiac Nexus,0,0598
-059,weekday,059-232,Pontiac Nexus,0,0598
-059,weekday,059-233,Pontiac Nexus,0,0598
-059,weekday,059-234,Pontiac Nexus,0,0598
-059,weekday,059-235,Pontiac Nexus,0,0598
-059,weekday,059-236,Pontiac Nexus,0,0598
-059,weekday,059-237,Pontiac Nexus,0,0598
-059,weekday,059-238,Huron / Perry,0,0597
-059,weekday,059-239,Pontiac Nexus,0,0598
-059,weekday,059-240,Pontiac Nexus,0,0598
-059,weekday,059-241,Pontiac Nexus,0,0598
-059,weekday,059-242,Pontiac Nexus,0,0598
-059,weekday,059-243,Pontiac Nexus,0,0598
-059,weekday,059-244,Huron / Perry,0,0597
-059,weekday,059-245,Pontiac Nexus,0,0598
-059,weekday,059-246,Pontiac Nexus,0,0598
-059,weekday,059-247,Pontiac Nexus,0,0598
-059,weekday,059-248,Pontiac Nexus,0,0598
-059,weekday,059-249,Huron / Perry,0,0597
-059,weekday,059-250,Pontiac Nexus,0,0598
-059,weekday,059-251,Pontiac Nexus,0,0598
-059,weekday,059-252,Pontiac Nexus,0,0598
-059,weekday,059-253,Pontiac Nexus,0,0598
-059,weekday,059-254,Pontiac Nexus,0,0598
-059,weekday,059-255,Pontiac Nexus,0,0598
-059,weekday,059-256,Southland Mall,1,0592
-059,weekday,059-257,Southland Mall,1,0592
-059,weekday,059-258,Southland Mall,1,0592
-059,weekday,059-259,Southland Mall,1,0592
-059,weekday,059-260,Southland Mall,1,0592
-059,weekday,059-261,Southland Mall,1,0592
-059,weekday,059-262,Southland Mall,1,0592
-059,weekday,059-263,Southland Mall,1,0592
-059,weekday,059-264,Southland Mall,1,0592
-059,weekday,059-265,Southland Mall,1,0592
-059,weekday,059-266,Southland Mall,1,0592
-059,weekday,059-267,Southland Mall,1,0592
-059,weekday,059-268,Southland Mall,1,0592
-059,weekday,059-269,Southland Mall,1,0592
-059,weekday,059-270,Southland Mall,1,0592
-059,weekday,059-271,Southland Mall,1,0592
-059,weekday,059-272,Southland Mall,1,0592
-059,weekday,059-273,Southland Mall,1,0592
-059,weekday,059-274,Southland Mall,1,0592
-059,weekday,059-275,Southland Mall,1,0592
-059,weekday,059-276,Southland Mall,1,0592
-059,weekday,059-277,Southland Mall,1,0592
-059,weekday,059-278,Southland Mall,1,0592
-059,weekday,059-279,Southland Mall,1,0592
-059,weekday,059-280,Southland Mall,1,0592
-059,weekday,059-281,Southland Mall,1,0592
-059,weekday,059-282,Southland Mall,1,0592
-059,weekday,059-283,Southland Mall,1,0592
-059,weekday,059-284,Southland Mall,1,0592
-059,weekday,059-285,Southland Mall,1,0592
-059,weekday,059-286,Southland Mall,1,0592
-059,weekday,059-287,Southland Mall,1,0592
-059,weekday,059-288,Southland Mall,1,0592
-059,weekday,059-289,Southland Mall,1,0592
-059,weekday,059-290,Southland Mall,1,0592
-059,weekday,059-291,Southland Mall,1,0592
-059,weekday,059-292,Southland Mall,1,0592
-059,weekday,059-293,Southland Mall,1,0592
-059,weekday,059-294,Southland Mall,1,0592
-059,weekday,059-295,Southland Mall,1,0592
-059,weekday,059-296,Southland Mall,1,0592
-059,weekday,059-297,Southland Mall,1,0592
-059,weekday,059-298,Southland Mall,1,0592
-059,weekday,059-299,Southland Mall,1,0592
-059,weekday,059-300,Southland Mall,1,0592
-059,weekday,059-301,Southland Mall,1,0592
-059,weekday,059-302,Southland Mall,1,0592
-059,weekday,059-303,Southland Mall,1,0592
-059,weekday,059-304,Southland Mall,1,0592
-059,weekday,059-305,Southland Mall,1,0592
-059,weekday,059-306,Southland Mall,1,0592
-059,weekday,059-307,Southland Mall,1,0592
-059,weekday,059-308,Southland Mall,1,0592
-059,weekday,059-309,Southland Mall,1,0592
-059,weekday,059-310,Southland Mall,1,0592
-059,weekday,059-311,Southland Mall,1,0592
-059,weekday,059-312,Southland Mall,1,0592
-059,weekday,059-313,Southland Mall,1,0592
-059,weekday,059-314,Southland Mall,1,0592
-059,weekday,059-315,Southland Mall,1,0592
-059,weekday,059-316,Southland Mall,1,0592
-059,weekday,059-317,Southland Mall,1,0592
-059,weekday,059-318,Southland Mall,1,0592
-059,weekday,059-319,Southland Mall,1,0592
-059,weekday,059-320,Southland Mall,1,0592
-059,weekday,059-321,Southland Mall,1,0592
-059,weekday,059-322,Southland Mall,1,0592
-059,weekday,059-323,Southland Mall,1,0592
-059,weekday,059-324,Southland Mall,1,0592
-059,weekday,059-325,Southland Mall,1,0592
-059,weekday,059-326,Southland Mall,1,0592
-059,weekday,059-327,Southland Mall,1,0592
-059,weekday,059-328,Southland Mall,1,0592
+059C,CovidDaily,059-1,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-2,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-3,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-4,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-5,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-6,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-7,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-8,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-9,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-10,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-11,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-12,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-13,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-14,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-15,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-16,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-17,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-18,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-19,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-20,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-21,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-22,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-23,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-24,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-25,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-26,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-27,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-28,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-29,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-30,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-31,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-32,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-33,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-34,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-35,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-36,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-37,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-38,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-39,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-40,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-41,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-42,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-43,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-44,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-45,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-46,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-47,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-48,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-49,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-50,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-51,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-52,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-53,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-54,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-55,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-56,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-57,Huron / Perry,0,59C_N_L
+059C,CovidDaily,059-58,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-59,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-60,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-61,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-62,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-63,Huron / Perry,0,59C_N_L
+059C,CovidDaily,059-64,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-65,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-66,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-67,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-68,Huron / Perry,0,59C_N_L
+059C,CovidDaily,059-69,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-70,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-71,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-72,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-73,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-74,Pontiac Nexus,0,59C_N
+059C,CovidDaily,059-75,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-76,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-77,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-78,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-79,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-80,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-81,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-82,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-83,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-84,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-85,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-86,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-87,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-88,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-89,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-90,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-91,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-92,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-93,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-94,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-95,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-96,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-97,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-98,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-99,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-100,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-101,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-102,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-103,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-104,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-105,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-106,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-107,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-108,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-109,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-110,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-111,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-112,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-113,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-114,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-115,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-116,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-117,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-118,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-119,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-120,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-121,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-122,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-123,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-124,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-125,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-126,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-127,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-128,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-129,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-130,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-131,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-132,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-133,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-134,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-135,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-136,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-137,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-138,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-139,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-140,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-141,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-142,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-143,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-144,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-145,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-146,Metro Airport Nexus,1,59C_S
+059C,CovidDaily,059-147,Metro Airport Nexus,1,59C_S
+059,NormalMonFri,059-148,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-149,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-150,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-151,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-152,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-153,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-154,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-155,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-156,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-157,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-158,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-159,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-160,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-161,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-162,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-163,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-164,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-165,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-166,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-167,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-168,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-169,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-170,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-171,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-172,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-173,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-174,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-175,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-176,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-177,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-178,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-179,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-180,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-181,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-182,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-183,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-184,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-185,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-186,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-187,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-188,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-189,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-190,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-191,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-192,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-193,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-194,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-195,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-196,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-197,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-198,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-199,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-200,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-201,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-202,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-203,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-204,Huron / Perry,0,59_N_L
+059,NormalMonFri,059-205,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-206,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-207,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-208,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-209,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-210,Huron / Perry,0,59_N_L
+059,NormalMonFri,059-211,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-212,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-213,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-214,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-215,Huron / Perry,0,59_N_L
+059,NormalMonFri,059-216,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-217,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-218,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-219,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-220,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-221,Pontiac Nexus,0,59_N
+059,NormalMonFri,059-222,Southland Mall,1,59_S
+059,NormalMonFri,059-223,Southland Mall,1,59_S
+059,NormalMonFri,059-224,Southland Mall,1,59_S
+059,NormalMonFri,059-225,Southland Mall,1,59_S
+059,NormalMonFri,059-226,Southland Mall,1,59_S
+059,NormalMonFri,059-227,Southland Mall,1,59_S
+059,NormalMonFri,059-228,Southland Mall,1,59_S
+059,NormalMonFri,059-229,Southland Mall,1,59_S
+059,NormalMonFri,059-230,Southland Mall,1,59_S
+059,NormalMonFri,059-231,Southland Mall,1,59_S
+059,NormalMonFri,059-232,Southland Mall,1,59_S
+059,NormalMonFri,059-233,Southland Mall,1,59_S
+059,NormalMonFri,059-234,Southland Mall,1,59_S
+059,NormalMonFri,059-235,Southland Mall,1,59_S
+059,NormalMonFri,059-236,Southland Mall,1,59_S
+059,NormalMonFri,059-237,Southland Mall,1,59_S
+059,NormalMonFri,059-238,Southland Mall,1,59_S
+059,NormalMonFri,059-239,Southland Mall,1,59_S
+059,NormalMonFri,059-240,Southland Mall,1,59_S
+059,NormalMonFri,059-241,Southland Mall,1,59_S
+059,NormalMonFri,059-242,Southland Mall,1,59_S
+059,NormalMonFri,059-243,Southland Mall,1,59_S
+059,NormalMonFri,059-244,Southland Mall,1,59_S
+059,NormalMonFri,059-245,Southland Mall,1,59_S
+059,NormalMonFri,059-246,Southland Mall,1,59_S
+059,NormalMonFri,059-247,Southland Mall,1,59_S
+059,NormalMonFri,059-248,Southland Mall,1,59_S
+059,NormalMonFri,059-249,Southland Mall,1,59_S
+059,NormalMonFri,059-250,Southland Mall,1,59_S
+059,NormalMonFri,059-251,Southland Mall,1,59_S
+059,NormalMonFri,059-252,Southland Mall,1,59_S
+059,NormalMonFri,059-253,Southland Mall,1,59_S
+059,NormalMonFri,059-254,Southland Mall,1,59_S
+059,NormalMonFri,059-255,Southland Mall,1,59_S
+059,NormalMonFri,059-256,Southland Mall,1,59_S
+059,NormalMonFri,059-257,Southland Mall,1,59_S
+059,NormalMonFri,059-258,Southland Mall,1,59_S
+059,NormalMonFri,059-259,Southland Mall,1,59_S
+059,NormalMonFri,059-260,Southland Mall,1,59_S
+059,NormalMonFri,059-261,Southland Mall,1,59_S
+059,NormalMonFri,059-262,Southland Mall,1,59_S
+059,NormalMonFri,059-263,Southland Mall,1,59_S
+059,NormalMonFri,059-264,Southland Mall,1,59_S
+059,NormalMonFri,059-265,Southland Mall,1,59_S
+059,NormalMonFri,059-266,Southland Mall,1,59_S
+059,NormalMonFri,059-267,Southland Mall,1,59_S
+059,NormalMonFri,059-268,Southland Mall,1,59_S
+059,NormalMonFri,059-269,Southland Mall,1,59_S
+059,NormalMonFri,059-270,Southland Mall,1,59_S
+059,NormalMonFri,059-271,Southland Mall,1,59_S
+059,NormalMonFri,059-272,Southland Mall,1,59_S
+059,NormalMonFri,059-273,Southland Mall,1,59_S
+059,NormalMonFri,059-274,Southland Mall,1,59_S
+059,NormalMonFri,059-275,Southland Mall,1,59_S
+059,NormalMonFri,059-276,Southland Mall,1,59_S
+059,NormalMonFri,059-277,Southland Mall,1,59_S
+059,NormalMonFri,059-278,Southland Mall,1,59_S
+059,NormalMonFri,059-279,Southland Mall,1,59_S
+059,NormalMonFri,059-280,Southland Mall,1,59_S
+059,NormalMonFri,059-281,Southland Mall,1,59_S
+059,NormalMonFri,059-282,Southland Mall,1,59_S
+059,NormalMonFri,059-283,Southland Mall,1,59_S
+059,NormalMonFri,059-284,Southland Mall,1,59_S
+059,NormalMonFri,059-285,Southland Mall,1,59_S
+059,NormalMonFri,059-286,Southland Mall,1,59_S
+059,NormalMonFri,059-287,Southland Mall,1,59_S
+059,NormalMonFri,059-288,Southland Mall,1,59_S
+059,NormalMonFri,059-289,Southland Mall,1,59_S
+059,NormalMonFri,059-290,Southland Mall,1,59_S
+059,NormalMonFri,059-291,Southland Mall,1,59_S
+059,NormalMonFri,059-292,Southland Mall,1,59_S
+059,NormalMonFri,059-293,Southland Mall,1,59_S
+059,NormalMonFri,059-294,Southland Mall,1,59_S
+059,NormalSaturday,059-295,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-296,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-297,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-298,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-299,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-300,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-301,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-302,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-303,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-304,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-305,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-306,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-307,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-308,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-309,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-310,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-311,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-312,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-313,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-314,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-315,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-316,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-317,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-318,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-319,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-320,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-321,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-322,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-323,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-324,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-325,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-326,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-327,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-328,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-329,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-330,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-331,Huron / Perry,0,59_N_L
+059,NormalSaturday,059-332,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-333,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-334,Huron / Perry,0,59_N_L
+059,NormalSaturday,059-335,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-336,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-337,Huron / Perry,0,59_N_L
+059,NormalSaturday,059-338,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-339,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-340,Huron / Perry,0,59_N_L
+059,NormalSaturday,059-341,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-342,Huron / Perry,0,59_N_L
+059,NormalSaturday,059-343,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-344,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-345,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-346,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-347,Pontiac Nexus,0,59_N
+059,NormalSaturday,059-348,Southland Mall,1,59_S
+059,NormalSaturday,059-349,Southland Mall,1,59_S
+059,NormalSaturday,059-350,Southland Mall,1,59_S
+059,NormalSaturday,059-351,Southland Mall,1,59_S
+059,NormalSaturday,059-352,Southland Mall,1,59_S
+059,NormalSaturday,059-353,Southland Mall,1,59_S
+059,NormalSaturday,059-354,Southland Mall,1,59_S
+059,NormalSaturday,059-355,Southland Mall,1,59_S
+059,NormalSaturday,059-356,Southland Mall,1,59_S
+059,NormalSaturday,059-357,Southland Mall,1,59_S
+059,NormalSaturday,059-358,Southland Mall,1,59_S
+059,NormalSaturday,059-359,Southland Mall,1,59_S
+059,NormalSaturday,059-360,Southland Mall,1,59_S
+059,NormalSaturday,059-361,Southland Mall,1,59_S
+059,NormalSaturday,059-362,Southland Mall,1,59_S
+059,NormalSaturday,059-363,Southland Mall,1,59_S
+059,NormalSaturday,059-364,Southland Mall,1,59_S
+059,NormalSaturday,059-365,Southland Mall,1,59_S
+059,NormalSaturday,059-366,Southland Mall,1,59_S
+059,NormalSaturday,059-367,Southland Mall,1,59_S
+059,NormalSaturday,059-368,Southland Mall,1,59_S
+059,NormalSaturday,059-369,Southland Mall,1,59_S
+059,NormalSaturday,059-370,Southland Mall,1,59_S
+059,NormalSaturday,059-371,Southland Mall,1,59_S
+059,NormalSaturday,059-372,Southland Mall,1,59_S
+059,NormalSaturday,059-373,Southland Mall,1,59_S
+059,NormalSaturday,059-374,Southland Mall,1,59_S
+059,NormalSaturday,059-375,Southland Mall,1,59_S
+059,NormalSaturday,059-376,Southland Mall,1,59_S
+059,NormalSaturday,059-377,Southland Mall,1,59_S
+059,NormalSaturday,059-378,Southland Mall,1,59_S
+059,NormalSaturday,059-379,Southland Mall,1,59_S
+059,NormalSaturday,059-380,Southland Mall,1,59_S
+059,NormalSaturday,059-381,Southland Mall,1,59_S
+059,NormalSaturday,059-382,Southland Mall,1,59_S
+059,NormalSaturday,059-383,Southland Mall,1,59_S
+059,NormalSaturday,059-384,Southland Mall,1,59_S
+059,NormalSaturday,059-385,Southland Mall,1,59_S
+059,NormalSaturday,059-386,Southland Mall,1,59_S
+059,NormalSaturday,059-387,Southland Mall,1,59_S
+059,NormalSaturday,059-388,Southland Mall,1,59_S
+059,NormalSaturday,059-389,Southland Mall,1,59_S
+059,NormalSaturday,059-390,Southland Mall,1,59_S
+059,NormalSaturday,059-391,Southland Mall,1,59_S
+059,NormalSaturday,059-392,Southland Mall,1,59_S
+059,NormalSaturday,059-393,Southland Mall,1,59_S
+059,NormalSaturday,059-394,Southland Mall,1,59_S
+059,NormalSaturday,059-395,Southland Mall,1,59_S
+059,NormalSaturday,059-396,Southland Mall,1,59_S
+059,NormalSaturday,059-397,Southland Mall,1,59_S
+059,NormalSaturday,059-398,Southland Mall,1,59_S
+059,NormalSaturday,059-399,Southland Mall,1,59_S
+059,NormalSunday,059-400,Pontiac Nexus,0,59_N
+059,NormalSunday,059-401,Pontiac Nexus,0,59_N
+059,NormalSunday,059-402,Pontiac Nexus,0,59_N
+059,NormalSunday,059-403,Pontiac Nexus,0,59_N
+059,NormalSunday,059-404,Pontiac Nexus,0,59_N
+059,NormalSunday,059-405,Pontiac Nexus,0,59_N
+059,NormalSunday,059-406,Pontiac Nexus,0,59_N
+059,NormalSunday,059-407,Pontiac Nexus,0,59_N
+059,NormalSunday,059-408,Pontiac Nexus,0,59_N
+059,NormalSunday,059-409,Pontiac Nexus,0,59_N
+059,NormalSunday,059-410,Pontiac Nexus,0,59_N
+059,NormalSunday,059-411,Pontiac Nexus,0,59_N
+059,NormalSunday,059-412,Pontiac Nexus,0,59_N
+059,NormalSunday,059-413,Pontiac Nexus,0,59_N
+059,NormalSunday,059-414,Pontiac Nexus,0,59_N
+059,NormalSunday,059-415,Pontiac Nexus,0,59_N
+059,NormalSunday,059-416,Pontiac Nexus,0,59_N
+059,NormalSunday,059-417,Pontiac Nexus,0,59_N
+059,NormalSunday,059-418,Pontiac Nexus,0,59_N
+059,NormalSunday,059-419,Pontiac Nexus,0,59_N
+059,NormalSunday,059-420,Pontiac Nexus,0,59_N
+059,NormalSunday,059-421,Pontiac Nexus,0,59_N
+059,NormalSunday,059-422,Pontiac Nexus,0,59_N
+059,NormalSunday,059-423,Pontiac Nexus,0,59_N
+059,NormalSunday,059-424,Pontiac Nexus,0,59_N
+059,NormalSunday,059-425,Pontiac Nexus,0,59_N
+059,NormalSunday,059-426,Huron / Perry,0,59_N_L
+059,NormalSunday,059-427,Pontiac Nexus,0,59_N
+059,NormalSunday,059-428,Pontiac Nexus,0,59_N
+059,NormalSunday,059-429,Pontiac Nexus,0,59_N
+059,NormalSunday,059-430,Pontiac Nexus,0,59_N
+059,NormalSunday,059-431,Pontiac Nexus,0,59_N
+059,NormalSunday,059-432,Pontiac Nexus,0,59_N
+059,NormalSunday,059-433,Pontiac Nexus,0,59_N
+059,NormalSunday,059-434,Pontiac Nexus,0,59_N
+059,NormalSunday,059-435,Pontiac Nexus,0,59_N
+059,NormalSunday,059-436,Pontiac Nexus,0,59_N
+059,NormalSunday,059-437,Southland Mall,1,59_S
+059,NormalSunday,059-438,Southland Mall,1,59_S
+059,NormalSunday,059-439,Southland Mall,1,59_S
+059,NormalSunday,059-440,Southland Mall,1,59_S
+059,NormalSunday,059-441,Southland Mall,1,59_S
+059,NormalSunday,059-442,Southland Mall,1,59_S
+059,NormalSunday,059-443,Southland Mall,1,59_S
+059,NormalSunday,059-444,Southland Mall,1,59_S
+059,NormalSunday,059-445,Southland Mall,1,59_S
+059,NormalSunday,059-446,Southland Mall,1,59_S
+059,NormalSunday,059-447,Southland Mall,1,59_S
+059,NormalSunday,059-448,Southland Mall,1,59_S
+059,NormalSunday,059-449,Southland Mall,1,59_S
+059,NormalSunday,059-450,Southland Mall,1,59_S
+059,NormalSunday,059-451,Southland Mall,1,59_S
+059,NormalSunday,059-452,Southland Mall,1,59_S
+059,NormalSunday,059-453,Southland Mall,1,59_S
+059,NormalSunday,059-454,Southland Mall,1,59_S
+059,NormalSunday,059-455,Southland Mall,1,59_S
+059,NormalSunday,059-456,Southland Mall,1,59_S
+059,NormalSunday,059-457,Southland Mall,1,59_S
+059,NormalSunday,059-458,Southland Mall,1,59_S
+059,NormalSunday,059-459,Southland Mall,1,59_S
+059,NormalSunday,059-460,Southland Mall,1,59_S
+059,NormalSunday,059-461,Southland Mall,1,59_S
+059,NormalSunday,059-462,Southland Mall,1,59_S
+059,NormalSunday,059-463,Southland Mall,1,59_S
+059,NormalSunday,059-464,Southland Mall,1,59_S
+059,NormalSunday,059-465,Southland Mall,1,59_S
+059,NormalSunday,059-466,Southland Mall,1,59_S
+059,NormalSunday,059-467,Southland Mall,1,59_S
+059,NormalSunday,059-468,Southland Mall,1,59_S
+059,NormalSunday,059-469,Southland Mall,1,59_S
+059,NormalSunday,059-470,Southland Mall,1,59_S
+059,NormalSunday,059-471,Southland Mall,1,59_S
+059,NormalSunday,059-472,Southland Mall,1,59_S
+059,NormalSunday,059-473,Southland Mall,1,59_S
+059,NormalSunday,059-474,Southland Mall,1,59_S
+059,NormalSunday,059-475,Southland Mall,1,59_S

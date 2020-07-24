@@ -1,31 +1,31 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-060,weekday,060-1,Franklin / 12 Mile,0,0608
-060,weekday,060-2,Franklin / 12 Mile,0,0608
-060,weekday,060-3,Franklin / 12 Mile,0,0608
-060,weekday,060-4,Franklin / 12 Mile,0,0608
-060,weekday,060-5,Franklin / 12 Mile,0,0608
-060,weekday,060-6,Franklin / 12 Mile,0,0608
-060,weekday,060-7,Franklin / 12 Mile,0,0608
-060,weekday,060-8,Franklin / 12 Mile,0,0608
-060,weekday,060-9,Franklin / 12 Mile,0,0608
-060,weekday,060-10,Franklin / 12 Mile,0,0608
-060,weekday,060-11,Franklin / 12 Mile,0,0608
-060,weekday,060-12,Franklin / 12 Mile,0,0608
-060,weekday,060-13,Franklin / 12 Mile,0,0608
-060,weekday,060-14,Franklin / 12 Mile,0,0608
-060,weekday,060-15,Franklin / 12 Mile,0,0608
-060,weekday,060-16,Fenton Park & Ride Lot,1,0602
-060,weekday,060-17,Fenton Park & Ride Lot,1,0602
-060,weekday,060-18,Fenton Park & Ride Lot,1,0602
-060,weekday,060-19,Fenton Park & Ride Lot,1,0602
-060,weekday,060-20,Fenton Park & Ride Lot,1,0602
-060,weekday,060-21,Fenton Park & Ride Lot,1,0602
-060,weekday,060-22,Fenton Park & Ride Lot,1,0602
-060,weekday,060-23,Fenton Park & Ride Lot,1,0602
-060,weekday,060-24,Fenton Park & Ride Lot,1,0602
-060,weekday,060-25,Fenton Park & Ride Lot,1,0602
-060,weekday,060-26,Fenton Park & Ride Lot,1,0602
-060,weekday,060-27,Fenton Park & Ride Lot,1,0602
-060,weekday,060-28,Fenton Park & Ride Lot,1,0602
-060,weekday,060-29,Fenton Park & Ride Lot,1,0602
-060,weekday,060-30,Fenton Park & Ride Lot,1,0602
+060,NormalMonFri,060-1,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-2,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-3,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-4,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-5,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-6,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-7,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-8,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-9,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-10,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-11,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-12,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-13,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-14,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-15,Franklin / 12 Mile,0,60_N
+060,NormalMonFri,060-16,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-17,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-18,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-19,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-20,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-21,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-22,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-23,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-24,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-25,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-26,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-27,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-28,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-29,Fenton Park & Ride Lot,1,60_S
+060,NormalMonFri,060-30,Fenton Park & Ride Lot,1,60_S

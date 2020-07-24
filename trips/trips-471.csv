@@ -1,97 +1,97 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-471,saturday,471-1,Baldwin / Columbia,0,4718
-471,saturday,471-2,Baldwin / Columbia,0,4718
-471,saturday,471-3,Baldwin / Columbia,0,4718
-471,saturday,471-4,Baldwin / Columbia,0,4718
-471,saturday,471-5,Baldwin / Columbia,0,4718
-471,saturday,471-6,Baldwin / Columbia,0,4718
-471,saturday,471-7,Baldwin / Columbia,0,4718
-471,saturday,471-8,Baldwin / Columbia,0,4718
-471,saturday,471-9,Baldwin / Columbia,0,4718
-471,saturday,471-10,Baldwin / Columbia,0,4718
-471,saturday,471-11,Baldwin / Columbia,0,4718
-471,saturday,471-12,Baldwin / Columbia,0,4718
-471,saturday,471-13,Baldwin / Columbia,0,4718
-471,saturday,471-14,Baldwin / Columbia,0,4718
-471,saturday,471-15,Baldwin / Columbia,0,4718
-471,saturday,471-16,Pontiac Nexus,1,4712
-471,saturday,471-17,Pontiac Nexus,1,4712
-471,saturday,471-18,Pontiac Nexus,1,4712
-471,saturday,471-19,Pontiac Nexus,1,4712
-471,saturday,471-20,Pontiac Nexus,1,4712
-471,saturday,471-21,Pontiac Nexus,1,4712
-471,saturday,471-22,Pontiac Nexus,1,4712
-471,saturday,471-23,Pontiac Nexus,1,4712
-471,saturday,471-24,Pontiac Nexus,1,4712
-471,saturday,471-25,Pontiac Nexus,1,4712
-471,saturday,471-26,Pontiac Nexus,1,4712
-471,saturday,471-27,Pontiac Nexus,1,4712
-471,saturday,471-28,Pontiac Nexus,1,4712
-471,saturday,471-29,Pontiac Nexus,1,4712
-471,saturday,471-30,Pontiac Nexus,1,4712
-471,sunday,471-31,Baldwin / Columbia,0,4718
-471,sunday,471-32,Baldwin / Columbia,0,4718
-471,sunday,471-33,Baldwin / Columbia,0,4718
-471,sunday,471-34,Baldwin / Columbia,0,4718
-471,sunday,471-35,Baldwin / Columbia,0,4718
-471,sunday,471-36,Baldwin / Columbia,0,4718
-471,sunday,471-37,Baldwin / Columbia,0,4718
-471,sunday,471-38,Baldwin / Columbia,0,4718
-471,sunday,471-39,Baldwin / Columbia,0,4718
-471,sunday,471-40,Baldwin / Columbia,0,4718
-471,sunday,471-41,Baldwin / Columbia,0,4718
-471,sunday,471-42,Pontiac Nexus,1,4712
-471,sunday,471-43,Pontiac Nexus,1,4712
-471,sunday,471-44,Pontiac Nexus,1,4712
-471,sunday,471-45,Pontiac Nexus,1,4712
-471,sunday,471-46,Pontiac Nexus,1,4712
-471,sunday,471-47,Pontiac Nexus,1,4712
-471,sunday,471-48,Pontiac Nexus,1,4712
-471,sunday,471-49,Pontiac Nexus,1,4712
-471,sunday,471-50,Pontiac Nexus,1,4712
-471,sunday,471-51,Pontiac Nexus,1,4712
-471,sunday,471-52,Pontiac Nexus,1,4712
-471,weekday,471-53,Baldwin / Columbia,0,4718
-471,weekday,471-54,Baldwin / Columbia,0,4718
-471,weekday,471-55,Baldwin / Columbia,0,4718
-471,weekday,471-56,Baldwin / Columbia,0,4718
-471,weekday,471-57,Baldwin / Columbia,0,4718
-471,weekday,471-58,Baldwin / Columbia,0,4718
-471,weekday,471-59,Baldwin / Columbia,0,4718
-471,weekday,471-60,Baldwin / Columbia,0,4718
-471,weekday,471-61,Baldwin / Columbia,0,4718
-471,weekday,471-62,Baldwin / Columbia,0,4718
-471,weekday,471-63,Baldwin / Columbia,0,4718
-471,weekday,471-64,Baldwin / Columbia,0,4718
-471,weekday,471-65,Baldwin / Columbia,0,4718
-471,weekday,471-66,Baldwin / Columbia,0,4718
-471,weekday,471-67,Baldwin / Columbia,0,4718
-471,weekday,471-68,Baldwin / Columbia,0,4718
-471,weekday,471-69,Baldwin / Columbia,0,4718
-471,weekday,471-70,Baldwin / Columbia,0,4718
-471,weekday,471-71,Baldwin / Columbia,0,4718
-471,weekday,471-72,Baldwin / Columbia,0,4718
-471,weekday,471-73,Baldwin / Columbia,0,4718
-471,weekday,471-74,Baldwin / Columbia,0,4718
-471,weekday,471-75,Pontiac Nexus,1,4712
-471,weekday,471-76,Pontiac Nexus,1,4712
-471,weekday,471-77,Pontiac Nexus,1,4712
-471,weekday,471-78,Pontiac Nexus,1,4712
-471,weekday,471-79,Pontiac Nexus,1,4712
-471,weekday,471-80,Pontiac Nexus,1,4712
-471,weekday,471-81,Pontiac Nexus,1,4712
-471,weekday,471-82,Pontiac Nexus,1,4712
-471,weekday,471-83,Pontiac Nexus,1,4712
-471,weekday,471-84,Pontiac Nexus,1,4712
-471,weekday,471-85,Pontiac Nexus,1,4712
-471,weekday,471-86,Pontiac Nexus,1,4712
-471,weekday,471-87,Pontiac Nexus,1,4712
-471,weekday,471-88,Pontiac Nexus,1,4712
-471,weekday,471-89,Pontiac Nexus,1,4712
-471,weekday,471-90,Pontiac Nexus,1,4712
-471,weekday,471-91,Pontiac Nexus,1,4712
-471,weekday,471-92,Pontiac Nexus,1,4712
-471,weekday,471-93,Pontiac Nexus,1,4712
-471,weekday,471-94,Pontiac Nexus,1,4712
-471,weekday,471-95,Pontiac Nexus,1,4712
-471,weekday,471-96,Pontiac Nexus,1,4712
+471,NormalMonFri,471-1,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-2,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-3,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-4,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-5,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-6,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-7,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-8,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-9,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-10,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-11,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-12,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-13,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-14,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-15,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-16,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-17,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-18,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-19,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-20,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-21,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-22,Baldwin / Columbia,0,471_N
+471,NormalMonFri,471-23,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-24,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-25,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-26,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-27,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-28,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-29,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-30,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-31,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-32,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-33,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-34,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-35,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-36,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-37,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-38,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-39,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-40,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-41,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-42,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-43,Pontiac Nexus,1,471_S
+471,NormalMonFri,471-44,Pontiac Nexus,1,471_S
+471,NormalSunday,471-45,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-46,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-47,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-48,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-49,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-50,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-51,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-52,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-53,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-54,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-55,Baldwin / Columbia,0,471_N
+471,NormalSunday,471-56,Pontiac Nexus,1,471_S
+471,NormalSunday,471-57,Pontiac Nexus,1,471_S
+471,NormalSunday,471-58,Pontiac Nexus,1,471_S
+471,NormalSunday,471-59,Pontiac Nexus,1,471_S
+471,NormalSunday,471-60,Pontiac Nexus,1,471_S
+471,NormalSunday,471-61,Pontiac Nexus,1,471_S
+471,NormalSunday,471-62,Pontiac Nexus,1,471_S
+471,NormalSunday,471-63,Pontiac Nexus,1,471_S
+471,NormalSunday,471-64,Pontiac Nexus,1,471_S
+471,NormalSunday,471-65,Pontiac Nexus,1,471_S
+471,NormalSunday,471-66,Pontiac Nexus,1,471_S
+471,SatToDaily,471-67,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-68,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-69,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-70,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-71,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-72,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-73,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-74,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-75,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-76,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-77,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-78,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-79,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-80,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-81,Baldwin / Columbia,0,471_N
+471,SatToDaily,471-82,Pontiac Nexus,1,471_S
+471,SatToDaily,471-83,Pontiac Nexus,1,471_S
+471,SatToDaily,471-84,Pontiac Nexus,1,471_S
+471,SatToDaily,471-85,Pontiac Nexus,1,471_S
+471,SatToDaily,471-86,Pontiac Nexus,1,471_S
+471,SatToDaily,471-87,Pontiac Nexus,1,471_S
+471,SatToDaily,471-88,Pontiac Nexus,1,471_S
+471,SatToDaily,471-89,Pontiac Nexus,1,471_S
+471,SatToDaily,471-90,Pontiac Nexus,1,471_S
+471,SatToDaily,471-91,Pontiac Nexus,1,471_S
+471,SatToDaily,471-92,Pontiac Nexus,1,471_S
+471,SatToDaily,471-93,Pontiac Nexus,1,471_S
+471,SatToDaily,471-94,Pontiac Nexus,1,471_S
+471,SatToDaily,471-95,Pontiac Nexus,1,471_S
+471,SatToDaily,471-96,Pontiac Nexus,1,471_S

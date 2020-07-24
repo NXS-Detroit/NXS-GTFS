@@ -1,36 +1,36 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-893,preholiday,893-1,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-2,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-3,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-4,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-5,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-6,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-7,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-8,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-9,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-10,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-11,Macomb CC South Campus via M-10,0,8939,893D
-893,preholiday,893-12,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,preholiday,893-13,Macomb CC South Campus via M-10,0,8939,893D
-893,weekday,893-14,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekday,893-15,Lafayette / St Antoine via Wayne State University,1,8932,893W
-893,weekday,893-16,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekday,893-17,Lafayette / St Antoine via Wayne State University,1,8932,893W
-893,weekday,893-18,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekday,893-19,Lafayette / St Antoine via Wayne State University,1,8932,893W
-893,weekday,893-20,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekday,893-21,Lafayette / St Antoine via Wayne State University,1,8932,893W
-893,weekday,893-22,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekday,893-23,Lafayette / St Antoine via Wayne State University,1,8932,893W
-893,weekday,893-24,Lafayette / St Antoine via M-10,1,8933,893D
-893,weekdaynoph,893-25,Macomb CC South Campus via M-10,0,8939,893D
-893,weekdaynoph,893-26,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,weekdaynoph,893-27,Macomb CC South Campus via M-10,0,8939,893D
-893,weekdaynoph,893-28,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,weekdaynoph,893-29,Macomb CC South Campus via M-10,0,8939,893D
-893,weekdaynoph,893-30,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,weekdaynoph,893-31,Macomb CC South Campus via M-10,0,8939,893D
-893,weekdaynoph,893-32,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,weekdaynoph,893-33,Macomb CC South Campus via M-10,0,8939,893D
-893,weekdaynoph,893-34,Macomb CC South Campus via Wayne State University,0,8938,893W
-893,weekdaynoph,893-35,Macomb CC South Campus via M-10,0,8939,893D
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+893D,NormalMonFri,893-1,Lafayette / St Antoine via M-10,1,893D_S
+893W,NormalMonFri,893-2,Lafayette / St Antoine via Wayne State University,1,893W_S
+893D,NormalMonFri,893-3,Lafayette / St Antoine via M-10,1,893D_S
+893W,NormalMonFri,893-4,Lafayette / St Antoine via Wayne State University,1,893W_S
+893D,NormalMonFri,893-5,Lafayette / St Antoine via M-10,1,893D_S
+893W,NormalMonFri,893-6,Lafayette / St Antoine via Wayne State University,1,893W_S
+893D,NormalMonFri,893-7,Lafayette / St Antoine via M-10,1,893D_S
+893W,NormalMonFri,893-8,Lafayette / St Antoine via Wayne State University,1,893W_S
+893D,NormalMonFri,893-9,Lafayette / St Antoine via M-10,1,893D_S
+893W,NormalMonFri,893-10,Lafayette / St Antoine via Wayne State University,1,893W_S
+893D,NormalMonFri,893-11,Lafayette / St Antoine via M-10,1,893D_S
+893D,NormalMonFriNoPH,893-12,Macomb CC South Campus via M-10,0,893D_N
+893W,NormalMonFriNoPH,893-13,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,NormalMonFriNoPH,893-14,Macomb CC South Campus via M-10,0,893D_N
+893W,NormalMonFriNoPH,893-15,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,NormalMonFriNoPH,893-16,Macomb CC South Campus via M-10,0,893D_N
+893W,NormalMonFriNoPH,893-17,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,NormalMonFriNoPH,893-18,Macomb CC South Campus via M-10,0,893D_N
+893W,NormalMonFriNoPH,893-19,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,NormalMonFriNoPH,893-20,Macomb CC South Campus via M-10,0,893D_N
+893W,NormalMonFriNoPH,893-21,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,NormalMonFriNoPH,893-22,Macomb CC South Campus via M-10,0,893D_N
+893D,PreHoliday,893-23,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-24,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-25,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-26,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-27,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-28,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-29,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-30,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-31,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-32,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-33,Macomb CC South Campus via M-10,0,893D_N
+893W,PreHoliday,893-34,Macomb CC South Campus via Wayne State University,0,893W_N
+893D,PreHoliday,893-35,Macomb CC South Campus via M-10,0,893D_N

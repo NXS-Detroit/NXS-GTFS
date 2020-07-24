@@ -1,556 +1,556 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-605,saturday,605-1,Lakeside Mall,0,6056,605L
-605,saturday,605-2,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-3,Lakeside Mall,0,6056,605L
-605,saturday,605-4,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-5,Lakeside Mall,0,6056,605L
-605,saturday,605-6,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-7,Lakeside Mall,0,6056,605L
-605,saturday,605-8,Shelby Township Walmart,0,6059,605W
-605,saturday,605-9,Shelby Township Amazon,0,6057,605A
-605,saturday,605-10,Lakeside Mall,0,6056,605L
-605,saturday,605-11,Shelby Township Walmart,0,6059,605W
-605,saturday,605-12,Shelby Township Amazon,0,6057,605A
-605,saturday,605-13,Lakeside Mall,0,6056,605L
-605,saturday,605-14,Shelby Township Walmart,0,6059,605W
-605,saturday,605-15,Shelby Township Amazon,0,6057,605A
-605,saturday,605-16,Lakeside Mall,0,6056,605L
-605,saturday,605-17,Shelby Township Walmart,0,6059,605W
-605,saturday,605-18,Shelby Township Amazon,0,6057,605A
-605,saturday,605-19,Lakeside Mall,0,6056,605L
-605,saturday,605-20,Shelby Township Walmart,0,6059,605W
-605,saturday,605-21,Shelby Township Amazon,0,6057,605A
-605,saturday,605-22,Lakeside Mall,0,6056,605L
-605,saturday,605-23,Shelby Township Walmart,0,6059,605W
-605,saturday,605-24,Shelby Township Amazon,0,6057,605A
-605,saturday,605-25,Lakeside Mall,0,6056,605L
-605,saturday,605-26,Shelby Township Walmart,0,6059,605W
-605,saturday,605-27,Shelby Township Amazon,0,6057,605A
-605,saturday,605-28,Lakeside Mall,0,6056,605L
-605,saturday,605-29,Shelby Township Walmart,0,6059,605W
-605,saturday,605-30,Shelby Township Amazon,0,6057,605A
-605,saturday,605-31,Lakeside Mall,0,6056,605L
-605,saturday,605-32,Shelby Township Walmart,0,6059,605W
-605,saturday,605-33,Shelby Township Amazon,0,6057,605A
-605,saturday,605-34,Lakeside Mall,0,6056,605L
-605,saturday,605-35,Shelby Township Walmart,0,6059,605W
-605,saturday,605-36,Shelby Township Amazon,0,6057,605A
-605,saturday,605-37,Lakeside Mall,0,6056,605L
-605,saturday,605-38,Shelby Township Walmart,0,6059,605W
-605,saturday,605-39,Shelby Township Amazon,0,6057,605A
-605,saturday,605-40,Lakeside Mall,0,6056,605L
-605,saturday,605-41,Shelby Township Walmart,0,6059,605W
-605,saturday,605-42,Shelby Township Amazon,0,6057,605A
-605,saturday,605-43,Lakeside Mall,0,6056,605L
-605,saturday,605-44,Shelby Township Walmart,0,6059,605W
-605,saturday,605-45,Shelby Township Amazon,0,6057,605A
-605,saturday,605-46,Lakeside Mall,0,6056,605L
-605,saturday,605-47,Shelby Township Walmart,0,6059,605W
-605,saturday,605-48,Shelby Township Amazon,0,6057,605A
-605,saturday,605-49,Lakeside Mall,0,6056,605L
-605,saturday,605-50,Shelby Township Walmart,0,6059,605W
-605,saturday,605-51,Shelby Township Amazon,0,6057,605A
-605,saturday,605-52,Lakeside Mall,0,6056,605L
-605,saturday,605-53,Shelby Township Walmart,0,6059,605W
-605,saturday,605-54,Shelby Township Amazon,0,6057,605A
-605,saturday,605-55,Lakeside Mall,0,6056,605L
-605,saturday,605-56,Shelby Township Walmart,0,6059,605W
-605,saturday,605-57,Shelby Township Amazon,0,6057,605A
-605,saturday,605-58,Lakeside Mall,0,6056,605L
-605,saturday,605-59,Shelby Township Walmart,0,6059,605W
-605,saturday,605-60,Shelby Township Amazon,0,6057,605A
-605,saturday,605-61,Lakeside Mall,0,6056,605L
-605,saturday,605-62,Shelby Township Walmart,0,6059,605W
-605,saturday,605-63,Shelby Township Amazon,0,6057,605A
-605,saturday,605-64,Lakeside Mall,0,6056,605L
-605,saturday,605-65,Shelby Township Walmart,0,6059,605W
-605,saturday,605-66,Shelby Township Amazon,0,6057,605A
-605,saturday,605-67,Lakeside Mall,0,6056,605L
-605,saturday,605-68,Shelby Township Walmart,0,6059,605W
-605,saturday,605-69,Shelby Township Amazon,0,6057,605A
-605,saturday,605-70,Lakeside Mall,0,6056,605L
-605,saturday,605-71,Shelby Township Walmart,0,6059,605W
-605,saturday,605-72,Shelby Township Amazon,0,6057,605A
-605,saturday,605-73,Lakeside Mall,0,6056,605L
-605,saturday,605-74,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-75,Lakeside Mall,0,6056,605L
-605,saturday,605-76,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-77,Lakeside Mall,0,6056,605L
-605,saturday,605-78,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-79,Lakeside Mall,0,6056,605L
-605,saturday,605-80,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-81,Lakeside Mall,0,6056,605L
-605,saturday,605-82,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,saturday,605-83,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-84,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-85,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-86,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-87,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-88,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-89,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-90,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-91,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-92,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-93,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-94,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-95,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-96,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-97,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-98,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-99,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-100,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-101,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-102,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-103,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-104,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-105,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-106,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-107,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-108,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-109,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-110,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-111,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-112,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-113,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-114,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-115,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-116,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-117,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-118,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-119,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-120,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-121,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-122,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-123,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-124,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-125,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-126,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-127,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-128,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-129,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-130,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-131,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-132,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-133,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-134,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-135,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-136,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-137,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-138,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-139,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-140,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-141,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-142,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-143,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-144,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-145,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-146,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-147,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-148,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-149,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-150,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-151,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-152,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-153,Rosa Parks Nexus,1,6053,605W
-605,saturday,605-154,Rosa Parks Nexus,1,6051,605A
-605,saturday,605-155,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-156,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-157,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-158,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-159,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-160,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-161,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-162,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,saturday,605-163,Rosa Parks Nexus,1,6052,605L
-605,saturday,605-164,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-165,Lakeside Mall,0,6056,605L
-605,sunday,605-166,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-167,Lakeside Mall,0,6056,605L
-605,sunday,605-168,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-169,Lakeside Mall,0,6056,605L
-605,sunday,605-170,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-171,Lakeside Mall,0,6056,605L
-605,sunday,605-172,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-173,Lakeside Mall,0,6056,605L
-605,sunday,605-174,Shelby Township Walmart,0,6059,605W
-605,sunday,605-175,Shelby Township Amazon,0,6057,605A
-605,sunday,605-176,Lakeside Mall,0,6056,605L
-605,sunday,605-177,Shelby Township Walmart,0,6059,605W
-605,sunday,605-178,Shelby Township Amazon,0,6057,605A
-605,sunday,605-179,Lakeside Mall,0,6056,605L
-605,sunday,605-180,Shelby Township Walmart,0,6059,605W
-605,sunday,605-181,Shelby Township Amazon,0,6057,605A
-605,sunday,605-182,Lakeside Mall,0,6056,605L
-605,sunday,605-183,Shelby Township Walmart,0,6059,605W
-605,sunday,605-184,Shelby Township Amazon,0,6057,605A
-605,sunday,605-185,Lakeside Mall,0,6056,605L
-605,sunday,605-186,Shelby Township Walmart,0,6059,605W
-605,sunday,605-187,Shelby Township Amazon,0,6057,605A
-605,sunday,605-188,Lakeside Mall,0,6056,605L
-605,sunday,605-189,Shelby Township Walmart,0,6059,605W
-605,sunday,605-190,Shelby Township Amazon,0,6057,605A
-605,sunday,605-191,Lakeside Mall,0,6056,605L
-605,sunday,605-192,Shelby Township Walmart,0,6059,605W
-605,sunday,605-193,Shelby Township Amazon,0,6057,605A
-605,sunday,605-194,Lakeside Mall,0,6056,605L
-605,sunday,605-195,Shelby Township Walmart,0,6059,605W
-605,sunday,605-196,Shelby Township Amazon,0,6057,605A
-605,sunday,605-197,Lakeside Mall,0,6056,605L
-605,sunday,605-198,Shelby Township Walmart,0,6059,605W
-605,sunday,605-199,Shelby Township Amazon,0,6057,605A
-605,sunday,605-200,Lakeside Mall,0,6056,605L
-605,sunday,605-201,Shelby Township Walmart,0,6059,605W
-605,sunday,605-202,Shelby Township Amazon,0,6057,605A
-605,sunday,605-203,Lakeside Mall,0,6056,605L
-605,sunday,605-204,Shelby Township Walmart,0,6059,605W
-605,sunday,605-205,Shelby Township Amazon,0,6057,605A
-605,sunday,605-206,Lakeside Mall,0,6056,605L
-605,sunday,605-207,Shelby Township Walmart,0,6059,605W
-605,sunday,605-208,Shelby Township Amazon,0,6057,605A
-605,sunday,605-209,Lakeside Mall,0,6056,605L
-605,sunday,605-210,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-211,Lakeside Mall,0,6056,605L
-605,sunday,605-212,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-213,Lakeside Mall,0,6056,605L
-605,sunday,605-214,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-215,Lakeside Mall,0,6056,605L
-605,sunday,605-216,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-217,Lakeside Mall,0,6056,605L
-605,sunday,605-218,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-219,Lakeside Mall,0,6056,605L
-605,sunday,605-220,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-221,Lakeside Mall,0,6056,605L
-605,sunday,605-222,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-223,Lakeside Mall,0,6056,605L
-605,sunday,605-224,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-225,Lakeside Mall,0,6056,605L
-605,sunday,605-226,Shelby Township Walmart via Shelby Township Amazon,0,6058,605O
-605,sunday,605-227,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-228,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-229,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-230,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-231,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-232,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-233,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-234,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-235,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-236,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-237,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-238,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-239,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-240,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-241,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-242,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-243,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-244,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-245,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-246,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-247,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-248,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-249,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-250,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-251,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-252,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-253,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-254,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-255,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-256,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-257,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-258,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-259,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-260,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-261,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-262,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-263,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-264,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-265,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-266,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-267,Rosa Parks Nexus,1,6053,605W
-605,sunday,605-268,Rosa Parks Nexus,1,6051,605A
-605,sunday,605-269,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-270,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-271,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-272,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-273,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-274,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-275,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-276,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-277,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-278,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-279,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-280,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-281,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-282,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-283,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-284,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-285,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-286,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,sunday,605-287,Rosa Parks Nexus,1,6052,605L
-605,sunday,605-288,Rosa Parks Nexus via Shelby Township Amazon,1,6054,605O
-605,weekday,605-289,Lakeside Mall,0,6056,605L
-605,weekday,605-290,Shelby Township Walmart,0,6059,605W
-605,weekday,605-291,Shelby Township Amazon,0,6057,605A
-605,weekday,605-292,Lakeside Mall,0,6056,605L
-605,weekday,605-293,Shelby Township Walmart,0,6059,605W
-605,weekday,605-294,Shelby Township Amazon,0,6057,605A
-605,weekday,605-295,Lakeside Mall,0,6056,605L
-605,weekday,605-296,Shelby Township Walmart,0,6059,605W
-605,weekday,605-297,Shelby Township Amazon,0,6057,605A
-605,weekday,605-298,Lakeside Mall,0,6056,605L
-605,weekday,605-299,Shelby Township Walmart,0,6059,605W
-605,weekday,605-300,Shelby Township Amazon,0,6057,605A
-605,weekday,605-301,Lakeside Mall,0,6056,605L
-605,weekday,605-302,Shelby Township Walmart,0,6059,605W
-605,weekday,605-303,Shelby Township Amazon,0,6057,605A
-605,weekday,605-304,Lakeside Mall,0,6056,605L
-605,weekday,605-305,Shelby Township Walmart,0,6059,605W
-605,weekday,605-306,Shelby Township Amazon,0,6057,605A
-605,weekday,605-307,Lakeside Mall,0,6056,605L
-605,weekday,605-308,Shelby Township Walmart,0,6059,605W
-605,weekday,605-309,Shelby Township Amazon,0,6057,605A
-605,weekday,605-310,Lakeside Mall,0,6056,605L
-605,weekday,605-311,Shelby Township Walmart,0,6059,605W
-605,weekday,605-312,Shelby Township Amazon,0,6057,605A
-605,weekday,605-313,Lakeside Mall,0,6056,605L
-605,weekday,605-314,Shelby Township Walmart,0,6059,605W
-605,weekday,605-315,Shelby Township Amazon,0,6057,605A
-605,weekday,605-316,Lakeside Mall,0,6056,605L
-605,weekday,605-317,Shelby Township Walmart,0,6059,605W
-605,weekday,605-318,Shelby Township Amazon,0,6057,605A
-605,weekday,605-319,Lakeside Mall,0,6056,605L
-605,weekday,605-320,Shelby Township Walmart,0,6059,605W
-605,weekday,605-321,Shelby Township Amazon,0,6057,605A
-605,weekday,605-322,Lakeside Mall,0,6056,605L
-605,weekday,605-323,Shelby Township Walmart,0,6059,605W
-605,weekday,605-324,Shelby Township Amazon,0,6057,605A
-605,weekday,605-325,Lakeside Mall,0,6056,605L
-605,weekday,605-326,Shelby Township Walmart,0,6059,605W
-605,weekday,605-327,Shelby Township Amazon,0,6057,605A
-605,weekday,605-328,Lakeside Mall,0,6056,605L
-605,weekday,605-329,Shelby Township Walmart,0,6059,605W
-605,weekday,605-330,Shelby Township Amazon,0,6057,605A
-605,weekday,605-331,Lakeside Mall,0,6056,605L
-605,weekday,605-332,Shelby Township Walmart,0,6059,605W
-605,weekday,605-333,Shelby Township Amazon,0,6057,605A
-605,weekday,605-334,Lakeside Mall,0,6056,605L
-605,weekday,605-335,Shelby Township Walmart,0,6059,605W
-605,weekday,605-336,Shelby Township Amazon,0,6057,605A
-605,weekday,605-337,Lakeside Mall,0,6056,605L
-605,weekday,605-338,Shelby Township Walmart,0,6059,605W
-605,weekday,605-339,Shelby Township Amazon,0,6057,605A
-605,weekday,605-340,Lakeside Mall,0,6056,605L
-605,weekday,605-341,Shelby Township Walmart,0,6059,605W
-605,weekday,605-342,Shelby Township Amazon,0,6057,605A
-605,weekday,605-343,Lakeside Mall,0,6056,605L
-605,weekday,605-344,Shelby Township Walmart,0,6059,605W
-605,weekday,605-345,Shelby Township Amazon,0,6057,605A
-605,weekday,605-346,Lakeside Mall,0,6056,605L
-605,weekday,605-347,Shelby Township Walmart,0,6059,605W
-605,weekday,605-348,Shelby Township Amazon,0,6057,605A
-605,weekday,605-349,Lakeside Mall,0,6056,605L
-605,weekday,605-350,Shelby Township Walmart,0,6059,605W
-605,weekday,605-351,Shelby Township Amazon,0,6057,605A
-605,weekday,605-352,Lakeside Mall,0,6056,605L
-605,weekday,605-353,Shelby Township Walmart,0,6059,605W
-605,weekday,605-354,Shelby Township Amazon,0,6057,605A
-605,weekday,605-355,Lakeside Mall,0,6056,605L
-605,weekday,605-356,Shelby Township Walmart,0,6059,605W
-605,weekday,605-357,Shelby Township Amazon,0,6057,605A
-605,weekday,605-358,Lakeside Mall,0,6056,605L
-605,weekday,605-359,Shelby Township Walmart,0,6059,605W
-605,weekday,605-360,Shelby Township Amazon,0,6057,605A
-605,weekday,605-361,Lakeside Mall,0,6056,605L
-605,weekday,605-362,Shelby Township Walmart,0,6059,605W
-605,weekday,605-363,Shelby Township Amazon,0,6057,605A
-605,weekday,605-364,Lakeside Mall,0,6056,605L
-605,weekday,605-365,Shelby Township Walmart,0,6059,605W
-605,weekday,605-366,Shelby Township Amazon,0,6057,605A
-605,weekday,605-367,Lakeside Mall,0,6056,605L
-605,weekday,605-368,Shelby Township Walmart,0,6059,605W
-605,weekday,605-369,Shelby Township Amazon,0,6057,605A
-605,weekday,605-370,Lakeside Mall,0,6056,605L
-605,weekday,605-371,Shelby Township Walmart,0,6059,605W
-605,weekday,605-372,Shelby Township Amazon,0,6057,605A
-605,weekday,605-373,Lakeside Mall,0,6056,605L
-605,weekday,605-374,Shelby Township Walmart,0,6059,605W
-605,weekday,605-375,Shelby Township Amazon,0,6057,605A
-605,weekday,605-376,Lakeside Mall,0,6056,605L
-605,weekday,605-377,Shelby Township Walmart,0,6059,605W
-605,weekday,605-378,Shelby Township Amazon,0,6057,605A
-605,weekday,605-379,Lakeside Mall,0,6056,605L
-605,weekday,605-380,Shelby Township Walmart,0,6059,605W
-605,weekday,605-381,Shelby Township Amazon,0,6057,605A
-605,weekday,605-382,Lakeside Mall,0,6056,605L
-605,weekday,605-383,Shelby Township Walmart,0,6059,605W
-605,weekday,605-384,Shelby Township Amazon,0,6057,605A
-605,weekday,605-385,Lakeside Mall,0,6056,605L
-605,weekday,605-386,Shelby Township Walmart,0,6059,605W
-605,weekday,605-387,Shelby Township Amazon,0,6057,605A
-605,weekday,605-388,Lakeside Mall,0,6056,605L
-605,weekday,605-389,Shelby Township Walmart,0,6059,605W
-605,weekday,605-390,Shelby Township Amazon,0,6057,605A
-605,weekday,605-391,Lakeside Mall,0,6056,605L
-605,weekday,605-392,Shelby Township Walmart,0,6059,605W
-605,weekday,605-393,Shelby Township Amazon,0,6057,605A
-605,weekday,605-394,Lakeside Mall,0,6056,605L
-605,weekday,605-395,Shelby Township Walmart,0,6059,605W
-605,weekday,605-396,Shelby Township Amazon,0,6057,605A
-605,weekday,605-397,Lakeside Mall,0,6056,605L
-605,weekday,605-398,Shelby Township Walmart,0,6059,605W
-605,weekday,605-399,Shelby Township Amazon,0,6057,605A
-605,weekday,605-400,Lakeside Mall,0,6056,605L
-605,weekday,605-401,Shelby Township Walmart,0,6059,605W
-605,weekday,605-402,Shelby Township Amazon,0,6057,605A
-605,weekday,605-403,Lakeside Mall,0,6056,605L
-605,weekday,605-404,Shelby Township Walmart,0,6059,605W
-605,weekday,605-405,Shelby Township Amazon,0,6057,605A
-605,weekday,605-406,Lakeside Mall,0,6056,605L
-605,weekday,605-407,Shelby Township Walmart,0,6059,605W
-605,weekday,605-408,Shelby Township Amazon,0,6057,605A
-605,weekday,605-409,Lakeside Mall,0,6056,605L
-605,weekday,605-410,Shelby Township Walmart,0,6059,605W
-605,weekday,605-411,Shelby Township Amazon,0,6057,605A
-605,weekday,605-412,Lakeside Mall,0,6056,605L
-605,weekday,605-413,Shelby Township Walmart,0,6059,605W
-605,weekday,605-414,Shelby Township Amazon,0,6057,605A
-605,weekday,605-415,Lakeside Mall,0,6056,605L
-605,weekday,605-416,Shelby Township Walmart,0,6059,605W
-605,weekday,605-417,Shelby Township Amazon,0,6057,605A
-605,weekday,605-418,Lakeside Mall,0,6056,605L
-605,weekday,605-419,Shelby Township Walmart,0,6059,605W
-605,weekday,605-420,Shelby Township Amazon,0,6057,605A
-605,weekday,605-421,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-422,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-423,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-424,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-425,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-426,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-427,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-428,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-429,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-430,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-431,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-432,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-433,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-434,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-435,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-436,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-437,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-438,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-439,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-440,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-441,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-442,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-443,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-444,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-445,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-446,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-447,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-448,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-449,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-450,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-451,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-452,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-453,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-454,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-455,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-456,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-457,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-458,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-459,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-460,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-461,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-462,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-463,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-464,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-465,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-466,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-467,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-468,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-469,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-470,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-471,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-472,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-473,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-474,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-475,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-476,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-477,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-478,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-479,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-480,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-481,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-482,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-483,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-484,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-485,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-486,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-487,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-488,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-489,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-490,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-491,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-492,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-493,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-494,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-495,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-496,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-497,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-498,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-499,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-500,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-501,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-502,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-503,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-504,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-505,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-506,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-507,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-508,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-509,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-510,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-511,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-512,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-513,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-514,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-515,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-516,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-517,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-518,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-519,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-520,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-521,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-522,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-523,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-524,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-525,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-526,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-527,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-528,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-529,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-530,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-531,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-532,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-533,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-534,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-535,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-536,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-537,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-538,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-539,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-540,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-541,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-542,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-543,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-544,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-545,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-546,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-547,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-548,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-549,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-550,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-551,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-552,Rosa Parks Nexus,1,6051,605A
-605,weekday,605-553,Rosa Parks Nexus,1,6052,605L
-605,weekday,605-554,Rosa Parks Nexus,1,6053,605W
-605,weekday,605-555,Rosa Parks Nexus,1,6051,605A
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+605L,MonFriToMonSat,605-1,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-2,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-3,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-4,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-5,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-6,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-7,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-8,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-9,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-10,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-11,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-12,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-13,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-14,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-15,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-16,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-17,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-18,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-19,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-20,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-21,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-22,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-23,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-24,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-25,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-26,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-27,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-28,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-29,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-30,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-31,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-32,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-33,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-34,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-35,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-36,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-37,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-38,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-39,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-40,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-41,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-42,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-43,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-44,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-45,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-46,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-47,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-48,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-49,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-50,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-51,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-52,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-53,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-54,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-55,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-56,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-57,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-58,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-59,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-60,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-61,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-62,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-63,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-64,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-65,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-66,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-67,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-68,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-69,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-70,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-71,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-72,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-73,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-74,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-75,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-76,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-77,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-78,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-79,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-80,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-81,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-82,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-83,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-84,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-85,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-86,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-87,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-88,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-89,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-90,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-91,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-92,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-93,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-94,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-95,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-96,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-97,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-98,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-99,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-100,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-101,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-102,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-103,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-104,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-105,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-106,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-107,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-108,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-109,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-110,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-111,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-112,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-113,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-114,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-115,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-116,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-117,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-118,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-119,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-120,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-121,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-122,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-123,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-124,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-125,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-126,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-127,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-128,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-129,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-130,Lakeside Mall,0,605L_N
+605W,MonFriToMonSat,605-131,Shelby Township Walmart,0,605W_N
+605A,MonFriToMonSat,605-132,Shelby Township Amazon,0,605A_N
+605L,MonFriToMonSat,605-133,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-134,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-135,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-136,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-137,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-138,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-139,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-140,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-141,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-142,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-143,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-144,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-145,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-146,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-147,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-148,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-149,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-150,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-151,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-152,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-153,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-154,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-155,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-156,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-157,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-158,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-159,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-160,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-161,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-162,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-163,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-164,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-165,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-166,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-167,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-168,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-169,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-170,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-171,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-172,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-173,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-174,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-175,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-176,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-177,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-178,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-179,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-180,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-181,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-182,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-183,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-184,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-185,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-186,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-187,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-188,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-189,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-190,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-191,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-192,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-193,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-194,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-195,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-196,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-197,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-198,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-199,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-200,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-201,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-202,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-203,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-204,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-205,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-206,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-207,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-208,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-209,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-210,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-211,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-212,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-213,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-214,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-215,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-216,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-217,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-218,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-219,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-220,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-221,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-222,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-223,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-224,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-225,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-226,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-227,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-228,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-229,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-230,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-231,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-232,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-233,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-234,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-235,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-236,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-237,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-238,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-239,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-240,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-241,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-242,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-243,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-244,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-245,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-246,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-247,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-248,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-249,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-250,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-251,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-252,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-253,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-254,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-255,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-256,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-257,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-258,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-259,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-260,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-261,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-262,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-263,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-264,Rosa Parks Nexus,1,605A_S
+605L,MonFriToMonSat,605-265,Rosa Parks Nexus,1,605L_S
+605W,MonFriToMonSat,605-266,Rosa Parks Nexus,1,605W_S
+605A,MonFriToMonSat,605-267,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-268,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-269,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-270,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-271,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-272,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-273,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-274,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-275,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-276,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-277,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-278,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-279,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-280,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-281,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-282,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-283,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-284,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-285,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-286,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-287,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-288,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-289,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-290,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-291,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-292,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-293,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-294,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-295,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-296,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-297,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-298,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-299,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-300,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-301,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-302,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-303,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-304,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-305,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-306,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-307,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-308,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-309,Lakeside Mall,0,605L_N
+605W,NormalSunday,605-310,Shelby Township Walmart,0,605W_N
+605A,NormalSunday,605-311,Shelby Township Amazon,0,605A_N
+605L,NormalSunday,605-312,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-313,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-314,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-315,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-316,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-317,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-318,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-319,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-320,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-321,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-322,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-323,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-324,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-325,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-326,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-327,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-328,Lakeside Mall,0,605L_N
+605O,NormalSunday,605-329,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,NormalSunday,605-330,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-331,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-332,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-333,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-334,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-335,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-336,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-337,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-338,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-339,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-340,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-341,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-342,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-343,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-344,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-345,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-346,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-347,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-348,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-349,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-350,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-351,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-352,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-353,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-354,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-355,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-356,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-357,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-358,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-359,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-360,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-361,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-362,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-363,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-364,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-365,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-366,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-367,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-368,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-369,Rosa Parks Nexus,1,605L_S
+605W,NormalSunday,605-370,Rosa Parks Nexus,1,605W_S
+605A,NormalSunday,605-371,Rosa Parks Nexus,1,605A_S
+605L,NormalSunday,605-372,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-373,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-374,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-375,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-376,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-377,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-378,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-379,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-380,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-381,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-382,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-383,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-384,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-385,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-386,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-387,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-388,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-389,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,NormalSunday,605-390,Rosa Parks Nexus,1,605L_S
+605O,NormalSunday,605-391,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-392,Lakeside Mall,0,605L_N
+605O,SatToSun,605-393,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-394,Lakeside Mall,0,605L_N
+605O,SatToSun,605-395,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-396,Lakeside Mall,0,605L_N
+605O,SatToSun,605-397,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-398,Lakeside Mall,0,605L_N
+605W,SatToSun,605-399,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-400,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-401,Lakeside Mall,0,605L_N
+605W,SatToSun,605-402,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-403,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-404,Lakeside Mall,0,605L_N
+605W,SatToSun,605-405,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-406,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-407,Lakeside Mall,0,605L_N
+605W,SatToSun,605-408,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-409,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-410,Lakeside Mall,0,605L_N
+605W,SatToSun,605-411,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-412,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-413,Lakeside Mall,0,605L_N
+605W,SatToSun,605-414,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-415,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-416,Lakeside Mall,0,605L_N
+605W,SatToSun,605-417,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-418,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-419,Lakeside Mall,0,605L_N
+605W,SatToSun,605-420,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-421,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-422,Lakeside Mall,0,605L_N
+605W,SatToSun,605-423,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-424,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-425,Lakeside Mall,0,605L_N
+605W,SatToSun,605-426,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-427,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-428,Lakeside Mall,0,605L_N
+605W,SatToSun,605-429,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-430,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-431,Lakeside Mall,0,605L_N
+605W,SatToSun,605-432,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-433,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-434,Lakeside Mall,0,605L_N
+605W,SatToSun,605-435,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-436,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-437,Lakeside Mall,0,605L_N
+605W,SatToSun,605-438,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-439,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-440,Lakeside Mall,0,605L_N
+605W,SatToSun,605-441,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-442,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-443,Lakeside Mall,0,605L_N
+605W,SatToSun,605-444,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-445,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-446,Lakeside Mall,0,605L_N
+605W,SatToSun,605-447,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-448,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-449,Lakeside Mall,0,605L_N
+605W,SatToSun,605-450,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-451,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-452,Lakeside Mall,0,605L_N
+605W,SatToSun,605-453,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-454,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-455,Lakeside Mall,0,605L_N
+605W,SatToSun,605-456,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-457,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-458,Lakeside Mall,0,605L_N
+605W,SatToSun,605-459,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-460,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-461,Lakeside Mall,0,605L_N
+605W,SatToSun,605-462,Shelby Township Walmart,0,605W_N
+605A,SatToSun,605-463,Shelby Township Amazon,0,605A_N
+605L,SatToSun,605-464,Lakeside Mall,0,605L_N
+605O,SatToSun,605-465,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-466,Lakeside Mall,0,605L_N
+605O,SatToSun,605-467,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-468,Lakeside Mall,0,605L_N
+605O,SatToSun,605-469,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-470,Lakeside Mall,0,605L_N
+605O,SatToSun,605-471,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-472,Lakeside Mall,0,605L_N
+605O,SatToSun,605-473,Shelby Township Walmart via Shelby Township Amazon,0,605O_N
+605L,SatToSun,605-474,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-475,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-476,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-477,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-478,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-479,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-480,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-481,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-482,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-483,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-484,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-485,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-486,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-487,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-488,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-489,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-490,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-491,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-492,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-493,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-494,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-495,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-496,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-497,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-498,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-499,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-500,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-501,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-502,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-503,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-504,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-505,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-506,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-507,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-508,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-509,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-510,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-511,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-512,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-513,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-514,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-515,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-516,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-517,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-518,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-519,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-520,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-521,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-522,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-523,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-524,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-525,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-526,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-527,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-528,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-529,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-530,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-531,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-532,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-533,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-534,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-535,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-536,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-537,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-538,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-539,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-540,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-541,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-542,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-543,Rosa Parks Nexus,1,605L_S
+605W,SatToSun,605-544,Rosa Parks Nexus,1,605W_S
+605A,SatToSun,605-545,Rosa Parks Nexus,1,605A_S
+605L,SatToSun,605-546,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-547,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-548,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-549,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-550,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-551,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-552,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-553,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S
+605L,SatToSun,605-554,Rosa Parks Nexus,1,605L_S
+605O,SatToSun,605-555,Rosa Parks Nexus via Shelby Township Amazon,1,605O_S

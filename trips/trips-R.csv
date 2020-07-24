@@ -1,571 +1,571 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-R,saturday,R-1,Rosa Parks Nexus,0,3906
-R,saturday,R-2,Rosa Parks Nexus,0,3906
-R,saturday,R-3,Rosa Parks Nexus,0,3906
-R,saturday,R-4,Rosa Parks Nexus,0,3906
-R,saturday,R-5,Rosa Parks Nexus,0,3906
-R,saturday,R-6,Rosa Parks Nexus,0,3906
-R,saturday,R-7,Rosa Parks Nexus,0,3906
-R,saturday,R-8,Rosa Parks Nexus,0,3906
-R,saturday,R-9,Rosa Parks Nexus,0,3906
-R,saturday,R-10,Rosa Parks Nexus,0,3906
-R,saturday,R-11,Rosa Parks Nexus,0,3906
-R,saturday,R-12,Rosa Parks Nexus,0,3906
-R,saturday,R-13,Rosa Parks Nexus,0,3906
-R,saturday,R-14,Rosa Parks Nexus,0,3906
-R,saturday,R-15,Rosa Parks Nexus,0,3906
-R,saturday,R-16,Rosa Parks Nexus,0,3906
-R,saturday,R-17,Rosa Parks Nexus,0,3906
-R,saturday,R-18,Rosa Parks Nexus,0,3906
-R,saturday,R-19,Rosa Parks Nexus,0,3906
-R,saturday,R-20,Rosa Parks Nexus,0,3906
-R,saturday,R-21,Rosa Parks Nexus,0,3906
-R,saturday,R-22,Rosa Parks Nexus,0,3906
-R,saturday,R-23,Rosa Parks Nexus,0,3906
-R,saturday,R-24,Rosa Parks Nexus,0,3906
-R,saturday,R-25,Rosa Parks Nexus,0,3906
-R,saturday,R-26,Rosa Parks Nexus,0,3906
-R,saturday,R-27,Rosa Parks Nexus,0,3906
-R,saturday,R-28,Rosa Parks Nexus,0,3906
-R,saturday,R-29,Rosa Parks Nexus,0,3906
-R,saturday,R-30,Rosa Parks Nexus,0,3906
-R,saturday,R-31,Rosa Parks Nexus,0,3906
-R,saturday,R-32,Rosa Parks Nexus,0,3906
-R,saturday,R-33,Rosa Parks Nexus,0,3906
-R,saturday,R-34,Rosa Parks Nexus,0,3906
-R,saturday,R-35,Rosa Parks Nexus,0,3906
-R,saturday,R-36,Rosa Parks Nexus,0,3906
-R,saturday,R-37,Rosa Parks Nexus,0,3906
-R,saturday,R-38,Rosa Parks Nexus,0,3906
-R,saturday,R-39,Rosa Parks Nexus,0,3906
-R,saturday,R-40,Rosa Parks Nexus,0,3906
-R,saturday,R-41,Rosa Parks Nexus,0,3906
-R,saturday,R-42,Rosa Parks Nexus,0,3906
-R,saturday,R-43,Rosa Parks Nexus,0,3906
-R,saturday,R-44,Rosa Parks Nexus,0,3906
-R,saturday,R-45,Rosa Parks Nexus,0,3906
-R,saturday,R-46,Rosa Parks Nexus,0,3906
-R,saturday,R-47,Rosa Parks Nexus,0,3906
-R,saturday,R-48,Rosa Parks Nexus,0,3906
-R,saturday,R-49,Rosa Parks Nexus,0,3906
-R,saturday,R-50,Rosa Parks Nexus,0,3906
-R,saturday,R-51,Rosa Parks Nexus,0,3906
-R,saturday,R-52,Rosa Parks Nexus,0,3906
-R,saturday,R-53,Rosa Parks Nexus,0,3906
-R,saturday,R-54,Rosa Parks Nexus,0,3906
-R,saturday,R-55,Rosa Parks Nexus,0,3906
-R,saturday,R-56,Rosa Parks Nexus,0,3906
-R,saturday,R-57,Rosa Parks Nexus,0,3906
-R,saturday,R-58,Rosa Parks Nexus,0,3906
-R,saturday,R-59,Rosa Parks Nexus,0,3906
-R,saturday,R-60,Rosa Parks Nexus,0,3906
-R,saturday,R-61,Rosa Parks Nexus,0,3906
-R,saturday,R-62,Rosa Parks Nexus,0,3906
-R,saturday,R-63,Rosa Parks Nexus,0,3906
-R,saturday,R-64,Rosa Parks Nexus,0,3906
-R,saturday,R-65,Rosa Parks Nexus,0,3906
-R,saturday,R-66,Rosa Parks Nexus,0,3906
-R,saturday,R-67,Rosa Parks Nexus,0,3906
-R,saturday,R-68,Rosa Parks Nexus,0,3906
-R,saturday,R-69,Rosa Parks Nexus,0,3906
-R,saturday,R-70,Rosa Parks Nexus,0,3906
-R,saturday,R-71,Rosa Parks Nexus,0,3906
-R,saturday,R-72,Rosa Parks Nexus,0,3906
-R,saturday,R-73,Rosa Parks Nexus,0,3906
-R,saturday,R-74,Rosa Parks Nexus,0,3906
-R,saturday,R-75,Rosa Parks Nexus,0,3906
-R,saturday,R-76,Rosa Parks Nexus,0,3906
-R,saturday,R-77,Rosa Parks Nexus,0,3906
-R,saturday,R-78,Rosa Parks Nexus,0,3906
-R,saturday,R-79,Rosa Parks Nexus,0,3906
-R,saturday,R-80,Rosa Parks Nexus,0,3906
-R,saturday,R-81,Rosa Parks Nexus,0,3906
-R,saturday,R-82,Rosa Parks Nexus,0,3906
-R,saturday,R-83,Rosa Parks Nexus,0,3906
-R,saturday,R-84,Rosa Parks Nexus,0,3906
-R,saturday,R-85,Rosa Parks Nexus,0,3906
-R,saturday,R-86,Rosa Parks Nexus,0,3906
-R,saturday,R-87,Rosa Parks Nexus,0,3906
-R,saturday,R-88,Novi Park & Ride,1,3904
-R,saturday,R-89,Novi Park & Ride,1,3904
-R,saturday,R-90,Novi Park & Ride,1,3904
-R,saturday,R-91,Novi Park & Ride,1,3904
-R,saturday,R-92,Novi Park & Ride,1,3904
-R,saturday,R-93,Novi Park & Ride,1,3904
-R,saturday,R-94,Novi Park & Ride,1,3904
-R,saturday,R-95,Novi Park & Ride,1,3904
-R,saturday,R-96,Novi Park & Ride,1,3904
-R,saturday,R-97,Novi Park & Ride,1,3904
-R,saturday,R-98,Novi Park & Ride,1,3904
-R,saturday,R-99,Novi Park & Ride,1,3904
-R,saturday,R-100,Novi Park & Ride,1,3904
-R,saturday,R-101,Novi Park & Ride,1,3904
-R,saturday,R-102,Novi Park & Ride,1,3904
-R,saturday,R-103,Novi Park & Ride,1,3904
-R,saturday,R-104,Novi Park & Ride,1,3904
-R,saturday,R-105,Novi Park & Ride,1,3904
-R,saturday,R-106,Novi Park & Ride,1,3904
-R,saturday,R-107,Novi Park & Ride,1,3904
-R,saturday,R-108,Novi Park & Ride,1,3904
-R,saturday,R-109,Novi Park & Ride,1,3904
-R,saturday,R-110,Novi Park & Ride,1,3904
-R,saturday,R-111,Novi Park & Ride,1,3904
-R,saturday,R-112,Novi Park & Ride,1,3904
-R,saturday,R-113,Novi Park & Ride,1,3904
-R,saturday,R-114,Novi Park & Ride,1,3904
-R,saturday,R-115,Novi Park & Ride,1,3904
-R,saturday,R-116,Novi Park & Ride,1,3904
-R,saturday,R-117,Novi Park & Ride,1,3904
-R,saturday,R-118,Novi Park & Ride,1,3904
-R,saturday,R-119,Novi Park & Ride,1,3904
-R,saturday,R-120,Novi Park & Ride,1,3904
-R,saturday,R-121,Novi Park & Ride,1,3904
-R,saturday,R-122,Novi Park & Ride,1,3904
-R,saturday,R-123,Novi Park & Ride,1,3904
-R,saturday,R-124,Novi Park & Ride,1,3904
-R,saturday,R-125,Novi Park & Ride,1,3904
-R,saturday,R-126,Novi Park & Ride,1,3904
-R,saturday,R-127,Novi Park & Ride,1,3904
-R,saturday,R-128,Novi Park & Ride,1,3904
-R,saturday,R-129,Novi Park & Ride,1,3904
-R,saturday,R-130,Novi Park & Ride,1,3904
-R,saturday,R-131,Novi Park & Ride,1,3904
-R,saturday,R-132,Novi Park & Ride,1,3904
-R,saturday,R-133,Novi Park & Ride,1,3904
-R,saturday,R-134,Novi Park & Ride,1,3904
-R,saturday,R-135,Novi Park & Ride,1,3904
-R,saturday,R-136,Novi Park & Ride,1,3904
-R,saturday,R-137,Novi Park & Ride,1,3904
-R,saturday,R-138,Novi Park & Ride,1,3904
-R,saturday,R-139,Novi Park & Ride,1,3904
-R,saturday,R-140,Novi Park & Ride,1,3904
-R,saturday,R-141,Novi Park & Ride,1,3904
-R,saturday,R-142,Novi Park & Ride,1,3904
-R,saturday,R-143,Novi Park & Ride,1,3904
-R,saturday,R-144,Novi Park & Ride,1,3904
-R,saturday,R-145,Novi Park & Ride,1,3904
-R,saturday,R-146,Novi Park & Ride,1,3904
-R,saturday,R-147,Novi Park & Ride,1,3904
-R,saturday,R-148,Novi Park & Ride,1,3904
-R,saturday,R-149,Novi Park & Ride,1,3904
-R,saturday,R-150,Novi Park & Ride,1,3904
-R,saturday,R-151,Novi Park & Ride,1,3904
-R,saturday,R-152,Novi Park & Ride,1,3904
-R,saturday,R-153,Novi Park & Ride,1,3904
-R,saturday,R-154,Novi Park & Ride,1,3904
-R,saturday,R-155,Novi Park & Ride,1,3904
-R,saturday,R-156,Novi Park & Ride,1,3904
-R,saturday,R-157,Novi Park & Ride,1,3904
-R,saturday,R-158,Novi Park & Ride,1,3904
-R,saturday,R-159,Novi Park & Ride,1,3904
-R,saturday,R-160,Novi Park & Ride,1,3904
-R,saturday,R-161,Novi Park & Ride,1,3904
-R,saturday,R-162,Novi Park & Ride,1,3904
-R,saturday,R-163,Novi Park & Ride,1,3904
-R,saturday,R-164,Novi Park & Ride,1,3904
-R,saturday,R-165,Novi Park & Ride,1,3904
-R,saturday,R-166,Novi Park & Ride,1,3904
-R,saturday,R-167,Novi Park & Ride,1,3904
-R,saturday,R-168,Novi Park & Ride,1,3904
-R,saturday,R-169,Novi Park & Ride,1,3904
-R,saturday,R-170,Novi Park & Ride,1,3904
-R,saturday,R-171,Novi Park & Ride,1,3904
-R,saturday,R-172,Novi Park & Ride,1,3904
-R,saturday,R-173,Novi Park & Ride,1,3904
-R,saturday,R-174,Novi Park & Ride,1,3904
-R,saturday,R-175,Novi Park & Ride,1,3904
-R,saturday,R-176,Novi Park & Ride,1,3904
-R,sunday,R-177,Rosa Parks Nexus,0,3906
-R,sunday,R-178,Rosa Parks Nexus,0,3906
-R,sunday,R-179,Rosa Parks Nexus,0,3906
-R,sunday,R-180,Rosa Parks Nexus,0,3906
-R,sunday,R-181,Rosa Parks Nexus,0,3906
-R,sunday,R-182,Rosa Parks Nexus,0,3906
-R,sunday,R-183,Rosa Parks Nexus,0,3906
-R,sunday,R-184,Rosa Parks Nexus,0,3906
-R,sunday,R-185,Rosa Parks Nexus,0,3906
-R,sunday,R-186,Rosa Parks Nexus,0,3906
-R,sunday,R-187,Rosa Parks Nexus,0,3906
-R,sunday,R-188,Rosa Parks Nexus,0,3906
-R,sunday,R-189,Rosa Parks Nexus,0,3906
-R,sunday,R-190,Rosa Parks Nexus,0,3906
-R,sunday,R-191,Rosa Parks Nexus,0,3906
-R,sunday,R-192,Rosa Parks Nexus,0,3906
-R,sunday,R-193,Rosa Parks Nexus,0,3906
-R,sunday,R-194,Rosa Parks Nexus,0,3906
-R,sunday,R-195,Rosa Parks Nexus,0,3906
-R,sunday,R-196,Rosa Parks Nexus,0,3906
-R,sunday,R-197,Rosa Parks Nexus,0,3906
-R,sunday,R-198,Rosa Parks Nexus,0,3906
-R,sunday,R-199,Rosa Parks Nexus,0,3906
-R,sunday,R-200,Rosa Parks Nexus,0,3906
-R,sunday,R-201,Rosa Parks Nexus,0,3906
-R,sunday,R-202,Rosa Parks Nexus,0,3906
-R,sunday,R-203,Rosa Parks Nexus,0,3906
-R,sunday,R-204,Rosa Parks Nexus,0,3906
-R,sunday,R-205,Rosa Parks Nexus,0,3906
-R,sunday,R-206,Rosa Parks Nexus,0,3906
-R,sunday,R-207,Rosa Parks Nexus,0,3906
-R,sunday,R-208,Rosa Parks Nexus,0,3906
-R,sunday,R-209,Rosa Parks Nexus,0,3906
-R,sunday,R-210,Rosa Parks Nexus,0,3906
-R,sunday,R-211,Rosa Parks Nexus,0,3906
-R,sunday,R-212,Rosa Parks Nexus,0,3906
-R,sunday,R-213,Rosa Parks Nexus,0,3906
-R,sunday,R-214,Rosa Parks Nexus,0,3906
-R,sunday,R-215,Rosa Parks Nexus,0,3906
-R,sunday,R-216,Rosa Parks Nexus,0,3906
-R,sunday,R-217,Rosa Parks Nexus,0,3906
-R,sunday,R-218,Rosa Parks Nexus,0,3906
-R,sunday,R-219,Rosa Parks Nexus,0,3906
-R,sunday,R-220,Rosa Parks Nexus,0,3906
-R,sunday,R-221,Rosa Parks Nexus,0,3906
-R,sunday,R-222,Rosa Parks Nexus,0,3906
-R,sunday,R-223,Rosa Parks Nexus,0,3906
-R,sunday,R-224,Rosa Parks Nexus,0,3906
-R,sunday,R-225,Rosa Parks Nexus,0,3906
-R,sunday,R-226,Rosa Parks Nexus,0,3906
-R,sunday,R-227,Rosa Parks Nexus,0,3906
-R,sunday,R-228,Rosa Parks Nexus,0,3906
-R,sunday,R-229,Rosa Parks Nexus,0,3906
-R,sunday,R-230,Rosa Parks Nexus,0,3906
-R,sunday,R-231,Rosa Parks Nexus,0,3906
-R,sunday,R-232,Rosa Parks Nexus,0,3906
-R,sunday,R-233,Rosa Parks Nexus,0,3906
-R,sunday,R-234,Rosa Parks Nexus,0,3906
-R,sunday,R-235,Rosa Parks Nexus,0,3906
-R,sunday,R-236,Rosa Parks Nexus,0,3906
-R,sunday,R-237,Rosa Parks Nexus,0,3906
-R,sunday,R-238,Rosa Parks Nexus,0,3906
-R,sunday,R-239,Rosa Parks Nexus,0,3906
-R,sunday,R-240,Rosa Parks Nexus,0,3906
-R,sunday,R-241,Rosa Parks Nexus,0,3906
-R,sunday,R-242,Novi Park & Ride,1,3904
-R,sunday,R-243,Novi Park & Ride,1,3904
-R,sunday,R-244,Novi Park & Ride,1,3904
-R,sunday,R-245,Novi Park & Ride,1,3904
-R,sunday,R-246,Novi Park & Ride,1,3904
-R,sunday,R-247,Novi Park & Ride,1,3904
-R,sunday,R-248,Novi Park & Ride,1,3904
-R,sunday,R-249,Novi Park & Ride,1,3904
-R,sunday,R-250,Novi Park & Ride,1,3904
-R,sunday,R-251,Novi Park & Ride,1,3904
-R,sunday,R-252,Novi Park & Ride,1,3904
-R,sunday,R-253,Novi Park & Ride,1,3904
-R,sunday,R-254,Novi Park & Ride,1,3904
-R,sunday,R-255,Novi Park & Ride,1,3904
-R,sunday,R-256,Novi Park & Ride,1,3904
-R,sunday,R-257,Novi Park & Ride,1,3904
-R,sunday,R-258,Novi Park & Ride,1,3904
-R,sunday,R-259,Novi Park & Ride,1,3904
-R,sunday,R-260,Novi Park & Ride,1,3904
-R,sunday,R-261,Novi Park & Ride,1,3904
-R,sunday,R-262,Novi Park & Ride,1,3904
-R,sunday,R-263,Novi Park & Ride,1,3904
-R,sunday,R-264,Novi Park & Ride,1,3904
-R,sunday,R-265,Novi Park & Ride,1,3904
-R,sunday,R-266,Novi Park & Ride,1,3904
-R,sunday,R-267,Novi Park & Ride,1,3904
-R,sunday,R-268,Novi Park & Ride,1,3904
-R,sunday,R-269,Novi Park & Ride,1,3904
-R,sunday,R-270,Novi Park & Ride,1,3904
-R,sunday,R-271,Novi Park & Ride,1,3904
-R,sunday,R-272,Novi Park & Ride,1,3904
-R,sunday,R-273,Novi Park & Ride,1,3904
-R,sunday,R-274,Novi Park & Ride,1,3904
-R,sunday,R-275,Novi Park & Ride,1,3904
-R,sunday,R-276,Novi Park & Ride,1,3904
-R,sunday,R-277,Novi Park & Ride,1,3904
-R,sunday,R-278,Novi Park & Ride,1,3904
-R,sunday,R-279,Novi Park & Ride,1,3904
-R,sunday,R-280,Novi Park & Ride,1,3904
-R,sunday,R-281,Novi Park & Ride,1,3904
-R,sunday,R-282,Novi Park & Ride,1,3904
-R,sunday,R-283,Novi Park & Ride,1,3904
-R,sunday,R-284,Novi Park & Ride,1,3904
-R,sunday,R-285,Novi Park & Ride,1,3904
-R,sunday,R-286,Novi Park & Ride,1,3904
-R,sunday,R-287,Novi Park & Ride,1,3904
-R,sunday,R-288,Novi Park & Ride,1,3904
-R,sunday,R-289,Novi Park & Ride,1,3904
-R,sunday,R-290,Novi Park & Ride,1,3904
-R,sunday,R-291,Novi Park & Ride,1,3904
-R,sunday,R-292,Novi Park & Ride,1,3904
-R,sunday,R-293,Novi Park & Ride,1,3904
-R,sunday,R-294,Novi Park & Ride,1,3904
-R,sunday,R-295,Novi Park & Ride,1,3904
-R,sunday,R-296,Novi Park & Ride,1,3904
-R,sunday,R-297,Novi Park & Ride,1,3904
-R,sunday,R-298,Novi Park & Ride,1,3904
-R,sunday,R-299,Novi Park & Ride,1,3904
-R,sunday,R-300,Novi Park & Ride,1,3904
-R,sunday,R-301,Novi Park & Ride,1,3904
-R,sunday,R-302,Novi Park & Ride,1,3904
-R,sunday,R-303,Novi Park & Ride,1,3904
-R,sunday,R-304,Novi Park & Ride,1,3904
-R,sunday,R-305,Novi Park & Ride,1,3904
-R,sunday,R-306,Novi Park & Ride,1,3904
-R,weekday,R-307,Rosa Parks Nexus,0,3906
-R,weekday,R-308,Rosa Parks Nexus,0,3906
-R,weekday,R-309,Rosa Parks Nexus,0,3906
-R,weekday,R-310,Rosa Parks Nexus,0,3906
-R,weekday,R-311,Rosa Parks Nexus,0,3906
-R,weekday,R-312,Rosa Parks Nexus,0,3906
-R,weekday,R-313,Rosa Parks Nexus,0,3906
-R,weekday,R-314,Rosa Parks Nexus,0,3906
-R,weekday,R-315,Rosa Parks Nexus,0,3906
-R,weekday,R-316,Rosa Parks Nexus,0,3906
-R,weekday,R-317,Rosa Parks Nexus,0,3906
-R,weekday,R-318,Rosa Parks Nexus,0,3906
-R,weekday,R-319,Rosa Parks Nexus,0,3906
-R,weekday,R-320,Rosa Parks Nexus,0,3906
-R,weekday,R-321,Rosa Parks Nexus,0,3906
-R,weekday,R-322,Rosa Parks Nexus,0,3906
-R,weekday,R-323,Rosa Parks Nexus,0,3906
-R,weekday,R-324,Rosa Parks Nexus,0,3906
-R,weekday,R-325,Rosa Parks Nexus,0,3906
-R,weekday,R-326,Rosa Parks Nexus,0,3906
-R,weekday,R-327,Rosa Parks Nexus,0,3906
-R,weekday,R-328,Rosa Parks Nexus,0,3906
-R,weekday,R-329,Rosa Parks Nexus,0,3906
-R,weekday,R-330,Rosa Parks Nexus,0,3906
-R,weekday,R-331,Rosa Parks Nexus,0,3906
-R,weekday,R-332,Rosa Parks Nexus,0,3906
-R,weekday,R-333,Rosa Parks Nexus,0,3906
-R,weekday,R-334,Rosa Parks Nexus,0,3906
-R,weekday,R-335,Rosa Parks Nexus,0,3906
-R,weekday,R-336,Rosa Parks Nexus,0,3906
-R,weekday,R-337,Rosa Parks Nexus,0,3906
-R,weekday,R-338,Rosa Parks Nexus,0,3906
-R,weekday,R-339,Rosa Parks Nexus,0,3906
-R,weekday,R-340,Rosa Parks Nexus,0,3906
-R,weekday,R-341,Rosa Parks Nexus,0,3906
-R,weekday,R-342,Rosa Parks Nexus,0,3906
-R,weekday,R-343,Rosa Parks Nexus,0,3906
-R,weekday,R-344,Rosa Parks Nexus,0,3906
-R,weekday,R-345,Rosa Parks Nexus,0,3906
-R,weekday,R-346,Rosa Parks Nexus,0,3906
-R,weekday,R-347,Rosa Parks Nexus,0,3906
-R,weekday,R-348,Rosa Parks Nexus,0,3906
-R,weekday,R-349,Rosa Parks Nexus,0,3906
-R,weekday,R-350,Rosa Parks Nexus,0,3906
-R,weekday,R-351,Rosa Parks Nexus,0,3906
-R,weekday,R-352,Rosa Parks Nexus,0,3906
-R,weekday,R-353,Rosa Parks Nexus,0,3906
-R,weekday,R-354,Rosa Parks Nexus,0,3906
-R,weekday,R-355,Rosa Parks Nexus,0,3906
-R,weekday,R-356,Rosa Parks Nexus,0,3906
-R,weekday,R-357,Rosa Parks Nexus,0,3906
-R,weekday,R-358,Rosa Parks Nexus,0,3906
-R,weekday,R-359,Rosa Parks Nexus,0,3906
-R,weekday,R-360,Rosa Parks Nexus,0,3906
-R,weekday,R-361,Rosa Parks Nexus,0,3906
-R,weekday,R-362,Rosa Parks Nexus,0,3906
-R,weekday,R-363,Rosa Parks Nexus,0,3906
-R,weekday,R-364,Rosa Parks Nexus,0,3906
-R,weekday,R-365,Rosa Parks Nexus,0,3906
-R,weekday,R-366,Rosa Parks Nexus,0,3906
-R,weekday,R-367,Rosa Parks Nexus,0,3906
-R,weekday,R-368,Rosa Parks Nexus,0,3906
-R,weekday,R-369,Rosa Parks Nexus,0,3906
-R,weekday,R-370,Rosa Parks Nexus,0,3906
-R,weekday,R-371,Rosa Parks Nexus,0,3906
-R,weekday,R-372,Rosa Parks Nexus,0,3906
-R,weekday,R-373,Rosa Parks Nexus,0,3906
-R,weekday,R-374,Rosa Parks Nexus,0,3906
-R,weekday,R-375,Rosa Parks Nexus,0,3906
-R,weekday,R-376,Rosa Parks Nexus,0,3906
-R,weekday,R-377,Rosa Parks Nexus,0,3906
-R,weekday,R-378,Rosa Parks Nexus,0,3906
-R,weekday,R-379,Rosa Parks Nexus,0,3906
-R,weekday,R-380,Rosa Parks Nexus,0,3906
-R,weekday,R-381,Rosa Parks Nexus,0,3906
-R,weekday,R-382,Rosa Parks Nexus,0,3906
-R,weekday,R-383,Rosa Parks Nexus,0,3906
-R,weekday,R-384,Rosa Parks Nexus,0,3906
-R,weekday,R-385,Rosa Parks Nexus,0,3906
-R,weekday,R-386,Rosa Parks Nexus,0,3906
-R,weekday,R-387,Rosa Parks Nexus,0,3906
-R,weekday,R-388,Rosa Parks Nexus,0,3906
-R,weekday,R-389,Rosa Parks Nexus,0,3906
-R,weekday,R-390,Rosa Parks Nexus,0,3906
-R,weekday,R-391,Rosa Parks Nexus,0,3906
-R,weekday,R-392,Rosa Parks Nexus,0,3906
-R,weekday,R-393,Rosa Parks Nexus,0,3906
-R,weekday,R-394,Rosa Parks Nexus,0,3906
-R,weekday,R-395,Rosa Parks Nexus,0,3906
-R,weekday,R-396,Rosa Parks Nexus,0,3906
-R,weekday,R-397,Rosa Parks Nexus,0,3906
-R,weekday,R-398,Rosa Parks Nexus,0,3906
-R,weekday,R-399,Rosa Parks Nexus,0,3906
-R,weekday,R-400,Rosa Parks Nexus,0,3906
-R,weekday,R-401,Rosa Parks Nexus,0,3906
-R,weekday,R-402,Rosa Parks Nexus,0,3906
-R,weekday,R-403,Rosa Parks Nexus,0,3906
-R,weekday,R-404,Rosa Parks Nexus,0,3906
-R,weekday,R-405,Rosa Parks Nexus,0,3906
-R,weekday,R-406,Rosa Parks Nexus,0,3906
-R,weekday,R-407,Rosa Parks Nexus,0,3906
-R,weekday,R-408,Rosa Parks Nexus,0,3906
-R,weekday,R-409,Rosa Parks Nexus,0,3906
-R,weekday,R-410,Rosa Parks Nexus,0,3906
-R,weekday,R-411,Rosa Parks Nexus,0,3906
-R,weekday,R-412,Rosa Parks Nexus,0,3906
-R,weekday,R-413,Rosa Parks Nexus,0,3906
-R,weekday,R-414,Rosa Parks Nexus,0,3906
-R,weekday,R-415,Rosa Parks Nexus,0,3906
-R,weekday,R-416,Rosa Parks Nexus,0,3906
-R,weekday,R-417,Rosa Parks Nexus,0,3906
-R,weekday,R-418,Rosa Parks Nexus,0,3906
-R,weekday,R-419,Rosa Parks Nexus,0,3906
-R,weekday,R-420,Rosa Parks Nexus,0,3906
-R,weekday,R-421,Rosa Parks Nexus,0,3906
-R,weekday,R-422,Rosa Parks Nexus,0,3906
-R,weekday,R-423,Rosa Parks Nexus,0,3906
-R,weekday,R-424,Rosa Parks Nexus,0,3906
-R,weekday,R-425,Rosa Parks Nexus,0,3906
-R,weekday,R-426,Rosa Parks Nexus,0,3906
-R,weekday,R-427,Rosa Parks Nexus,0,3906
-R,weekday,R-428,Rosa Parks Nexus,0,3906
-R,weekday,R-429,Rosa Parks Nexus,0,3906
-R,weekday,R-430,Rosa Parks Nexus,0,3906
-R,weekday,R-431,Rosa Parks Nexus,0,3906
-R,weekday,R-432,Rosa Parks Nexus,0,3906
-R,weekday,R-433,Rosa Parks Nexus,0,3906
-R,weekday,R-434,Rosa Parks Nexus,0,3906
-R,weekday,R-435,Rosa Parks Nexus,0,3906
-R,weekday,R-436,Rosa Parks Nexus,0,3906
-R,weekday,R-437,Rosa Parks Nexus,0,3906
-R,weekday,R-438,Rosa Parks Nexus,0,3906
-R,weekday,R-439,Rosa Parks Nexus,0,3906
-R,weekday,R-440,Novi Park & Ride,1,3904
-R,weekday,R-441,Novi Park & Ride,1,3904
-R,weekday,R-442,Novi Park & Ride,1,3904
-R,weekday,R-443,Novi Park & Ride,1,3904
-R,weekday,R-444,Novi Park & Ride,1,3904
-R,weekday,R-445,Novi Park & Ride,1,3904
-R,weekday,R-446,Novi Park & Ride,1,3904
-R,weekday,R-447,Novi Park & Ride,1,3904
-R,weekday,R-448,Novi Park & Ride,1,3904
-R,weekday,R-449,Novi Park & Ride,1,3904
-R,weekday,R-450,Novi Park & Ride,1,3904
-R,weekday,R-451,Novi Park & Ride,1,3904
-R,weekday,R-452,Novi Park & Ride,1,3904
-R,weekday,R-453,Novi Park & Ride,1,3904
-R,weekday,R-454,Novi Park & Ride,1,3904
-R,weekday,R-455,Novi Park & Ride,1,3904
-R,weekday,R-456,Novi Park & Ride,1,3904
-R,weekday,R-457,Novi Park & Ride,1,3904
-R,weekday,R-458,Novi Park & Ride,1,3904
-R,weekday,R-459,Novi Park & Ride,1,3904
-R,weekday,R-460,Novi Park & Ride,1,3904
-R,weekday,R-461,Novi Park & Ride,1,3904
-R,weekday,R-462,Novi Park & Ride,1,3904
-R,weekday,R-463,Novi Park & Ride,1,3904
-R,weekday,R-464,Novi Park & Ride,1,3904
-R,weekday,R-465,Novi Park & Ride,1,3904
-R,weekday,R-466,Novi Park & Ride,1,3904
-R,weekday,R-467,Novi Park & Ride,1,3904
-R,weekday,R-468,Novi Park & Ride,1,3904
-R,weekday,R-469,Novi Park & Ride,1,3904
-R,weekday,R-470,Novi Park & Ride,1,3904
-R,weekday,R-471,Novi Park & Ride,1,3904
-R,weekday,R-472,Novi Park & Ride,1,3904
-R,weekday,R-473,Novi Park & Ride,1,3904
-R,weekday,R-474,Novi Park & Ride,1,3904
-R,weekday,R-475,Novi Park & Ride,1,3904
-R,weekday,R-476,Novi Park & Ride,1,3904
-R,weekday,R-477,Novi Park & Ride,1,3904
-R,weekday,R-478,Novi Park & Ride,1,3904
-R,weekday,R-479,Novi Park & Ride,1,3904
-R,weekday,R-480,Novi Park & Ride,1,3904
-R,weekday,R-481,Novi Park & Ride,1,3904
-R,weekday,R-482,Novi Park & Ride,1,3904
-R,weekday,R-483,Novi Park & Ride,1,3904
-R,weekday,R-484,Novi Park & Ride,1,3904
-R,weekday,R-485,Novi Park & Ride,1,3904
-R,weekday,R-486,Novi Park & Ride,1,3904
-R,weekday,R-487,Novi Park & Ride,1,3904
-R,weekday,R-488,Novi Park & Ride,1,3904
-R,weekday,R-489,Novi Park & Ride,1,3904
-R,weekday,R-490,Novi Park & Ride,1,3904
-R,weekday,R-491,Novi Park & Ride,1,3904
-R,weekday,R-492,Novi Park & Ride,1,3904
-R,weekday,R-493,Novi Park & Ride,1,3904
-R,weekday,R-494,Novi Park & Ride,1,3904
-R,weekday,R-495,Novi Park & Ride,1,3904
-R,weekday,R-496,Novi Park & Ride,1,3904
-R,weekday,R-497,Novi Park & Ride,1,3904
-R,weekday,R-498,Novi Park & Ride,1,3904
-R,weekday,R-499,Novi Park & Ride,1,3904
-R,weekday,R-500,Novi Park & Ride,1,3904
-R,weekday,R-501,Novi Park & Ride,1,3904
-R,weekday,R-502,Novi Park & Ride,1,3904
-R,weekday,R-503,Novi Park & Ride,1,3904
-R,weekday,R-504,Novi Park & Ride,1,3904
-R,weekday,R-505,Novi Park & Ride,1,3904
-R,weekday,R-506,Novi Park & Ride,1,3904
-R,weekday,R-507,Novi Park & Ride,1,3904
-R,weekday,R-508,Novi Park & Ride,1,3904
-R,weekday,R-509,Novi Park & Ride,1,3904
-R,weekday,R-510,Novi Park & Ride,1,3904
-R,weekday,R-511,Novi Park & Ride,1,3904
-R,weekday,R-512,Novi Park & Ride,1,3904
-R,weekday,R-513,Novi Park & Ride,1,3904
-R,weekday,R-514,Novi Park & Ride,1,3904
-R,weekday,R-515,Novi Park & Ride,1,3904
-R,weekday,R-516,Novi Park & Ride,1,3904
-R,weekday,R-517,Novi Park & Ride,1,3904
-R,weekday,R-518,Novi Park & Ride,1,3904
-R,weekday,R-519,Novi Park & Ride,1,3904
-R,weekday,R-520,Novi Park & Ride,1,3904
-R,weekday,R-521,Novi Park & Ride,1,3904
-R,weekday,R-522,Novi Park & Ride,1,3904
-R,weekday,R-523,Novi Park & Ride,1,3904
-R,weekday,R-524,Novi Park & Ride,1,3904
-R,weekday,R-525,Novi Park & Ride,1,3904
-R,weekday,R-526,Novi Park & Ride,1,3904
-R,weekday,R-527,Novi Park & Ride,1,3904
-R,weekday,R-528,Novi Park & Ride,1,3904
-R,weekday,R-529,Novi Park & Ride,1,3904
-R,weekday,R-530,Novi Park & Ride,1,3904
-R,weekday,R-531,Novi Park & Ride,1,3904
-R,weekday,R-532,Novi Park & Ride,1,3904
-R,weekday,R-533,Novi Park & Ride,1,3904
-R,weekday,R-534,Novi Park & Ride,1,3904
-R,weekday,R-535,Novi Park & Ride,1,3904
-R,weekday,R-536,Novi Park & Ride,1,3904
-R,weekday,R-537,Novi Park & Ride,1,3904
-R,weekday,R-538,Novi Park & Ride,1,3904
-R,weekday,R-539,Novi Park & Ride,1,3904
-R,weekday,R-540,Novi Park & Ride,1,3904
-R,weekday,R-541,Novi Park & Ride,1,3904
-R,weekday,R-542,Novi Park & Ride,1,3904
-R,weekday,R-543,Novi Park & Ride,1,3904
-R,weekday,R-544,Novi Park & Ride,1,3904
-R,weekday,R-545,Novi Park & Ride,1,3904
-R,weekday,R-546,Novi Park & Ride,1,3904
-R,weekday,R-547,Novi Park & Ride,1,3904
-R,weekday,R-548,Novi Park & Ride,1,3904
-R,weekday,R-549,Novi Park & Ride,1,3904
-R,weekday,R-550,Novi Park & Ride,1,3904
-R,weekday,R-551,Novi Park & Ride,1,3904
-R,weekday,R-552,Novi Park & Ride,1,3904
-R,weekday,R-553,Novi Park & Ride,1,3904
-R,weekday,R-554,Novi Park & Ride,1,3904
-R,weekday,R-555,Novi Park & Ride,1,3904
-R,weekday,R-556,Novi Park & Ride,1,3904
-R,weekday,R-557,Novi Park & Ride,1,3904
-R,weekday,R-558,Novi Park & Ride,1,3904
-R,weekday,R-559,Novi Park & Ride,1,3904
-R,weekday,R-560,Novi Park & Ride,1,3904
-R,weekday,R-561,Novi Park & Ride,1,3904
-R,weekday,R-562,Novi Park & Ride,1,3904
-R,weekday,R-563,Novi Park & Ride,1,3904
-R,weekday,R-564,Novi Park & Ride,1,3904
-R,weekday,R-565,Novi Park & Ride,1,3904
-R,weekday,R-566,Novi Park & Ride,1,3904
-R,weekday,R-567,Novi Park & Ride,1,3904
-R,weekday,R-568,Novi Park & Ride,1,3904
-R,weekday,R-569,Novi Park & Ride,1,3904
-R,weekday,R-570,Novi Park & Ride,1,3904
+R,NormalMonFri,R-1,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-2,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-3,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-4,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-5,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-6,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-7,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-8,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-9,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-10,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-11,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-12,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-13,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-14,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-15,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-16,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-17,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-18,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-19,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-20,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-21,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-22,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-23,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-24,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-25,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-26,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-27,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-28,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-29,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-30,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-31,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-32,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-33,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-34,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-35,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-36,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-37,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-38,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-39,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-40,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-41,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-42,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-43,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-44,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-45,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-46,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-47,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-48,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-49,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-50,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-51,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-52,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-53,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-54,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-55,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-56,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-57,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-58,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-59,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-60,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-61,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-62,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-63,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-64,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-65,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-66,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-67,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-68,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-69,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-70,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-71,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-72,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-73,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-74,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-75,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-76,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-77,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-78,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-79,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-80,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-81,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-82,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-83,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-84,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-85,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-86,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-87,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-88,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-89,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-90,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-91,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-92,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-93,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-94,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-95,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-96,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-97,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-98,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-99,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-100,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-101,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-102,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-103,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-104,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-105,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-106,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-107,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-108,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-109,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-110,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-111,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-112,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-113,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-114,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-115,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-116,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-117,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-118,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-119,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-120,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-121,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-122,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-123,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-124,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-125,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-126,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-127,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-128,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-129,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-130,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-131,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-132,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-133,Rosa Parks Nexus,0,RL_E
+R,NormalMonFri,R-134,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-135,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-136,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-137,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-138,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-139,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-140,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-141,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-142,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-143,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-144,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-145,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-146,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-147,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-148,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-149,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-150,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-151,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-152,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-153,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-154,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-155,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-156,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-157,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-158,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-159,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-160,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-161,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-162,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-163,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-164,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-165,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-166,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-167,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-168,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-169,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-170,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-171,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-172,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-173,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-174,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-175,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-176,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-177,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-178,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-179,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-180,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-181,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-182,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-183,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-184,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-185,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-186,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-187,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-188,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-189,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-190,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-191,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-192,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-193,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-194,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-195,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-196,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-197,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-198,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-199,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-200,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-201,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-202,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-203,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-204,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-205,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-206,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-207,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-208,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-209,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-210,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-211,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-212,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-213,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-214,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-215,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-216,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-217,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-218,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-219,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-220,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-221,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-222,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-223,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-224,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-225,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-226,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-227,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-228,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-229,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-230,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-231,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-232,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-233,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-234,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-235,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-236,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-237,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-238,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-239,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-240,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-241,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-242,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-243,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-244,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-245,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-246,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-247,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-248,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-249,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-250,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-251,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-252,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-253,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-254,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-255,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-256,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-257,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-258,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-259,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-260,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-261,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-262,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-263,Novi Park & Ride,1,RL_W
+R,NormalMonFri,R-264,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-265,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-266,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-267,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-268,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-269,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-270,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-271,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-272,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-273,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-274,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-275,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-276,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-277,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-278,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-279,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-280,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-281,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-282,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-283,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-284,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-285,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-286,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-287,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-288,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-289,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-290,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-291,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-292,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-293,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-294,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-295,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-296,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-297,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-298,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-299,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-300,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-301,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-302,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-303,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-304,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-305,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-306,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-307,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-308,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-309,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-310,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-311,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-312,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-313,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-314,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-315,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-316,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-317,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-318,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-319,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-320,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-321,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-322,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-323,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-324,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-325,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-326,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-327,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-328,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-329,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-330,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-331,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-332,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-333,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-334,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-335,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-336,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-337,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-338,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-339,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-340,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-341,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-342,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-343,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-344,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-345,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-346,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-347,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-348,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-349,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-350,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-351,Rosa Parks Nexus,0,RL_E
+R,NormalSaturday,R-352,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-353,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-354,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-355,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-356,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-357,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-358,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-359,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-360,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-361,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-362,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-363,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-364,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-365,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-366,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-367,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-368,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-369,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-370,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-371,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-372,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-373,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-374,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-375,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-376,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-377,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-378,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-379,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-380,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-381,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-382,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-383,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-384,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-385,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-386,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-387,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-388,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-389,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-390,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-391,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-392,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-393,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-394,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-395,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-396,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-397,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-398,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-399,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-400,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-401,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-402,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-403,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-404,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-405,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-406,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-407,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-408,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-409,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-410,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-411,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-412,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-413,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-414,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-415,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-416,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-417,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-418,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-419,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-420,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-421,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-422,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-423,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-424,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-425,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-426,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-427,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-428,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-429,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-430,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-431,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-432,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-433,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-434,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-435,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-436,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-437,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-438,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-439,Novi Park & Ride,1,RL_W
+R,NormalSaturday,R-440,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-441,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-442,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-443,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-444,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-445,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-446,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-447,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-448,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-449,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-450,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-451,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-452,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-453,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-454,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-455,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-456,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-457,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-458,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-459,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-460,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-461,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-462,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-463,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-464,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-465,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-466,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-467,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-468,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-469,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-470,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-471,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-472,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-473,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-474,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-475,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-476,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-477,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-478,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-479,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-480,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-481,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-482,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-483,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-484,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-485,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-486,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-487,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-488,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-489,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-490,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-491,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-492,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-493,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-494,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-495,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-496,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-497,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-498,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-499,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-500,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-501,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-502,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-503,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-504,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-505,Rosa Parks Nexus,0,RL_E
+R,NormalSunday,R-506,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-507,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-508,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-509,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-510,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-511,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-512,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-513,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-514,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-515,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-516,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-517,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-518,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-519,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-520,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-521,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-522,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-523,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-524,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-525,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-526,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-527,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-528,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-529,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-530,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-531,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-532,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-533,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-534,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-535,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-536,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-537,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-538,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-539,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-540,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-541,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-542,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-543,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-544,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-545,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-546,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-547,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-548,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-549,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-550,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-551,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-552,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-553,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-554,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-555,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-556,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-557,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-558,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-559,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-560,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-561,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-562,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-563,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-564,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-565,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-566,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-567,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-568,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-569,Novi Park & Ride,1,RL_W
+R,NormalSunday,R-570,Novi Park & Ride,1,RL_W

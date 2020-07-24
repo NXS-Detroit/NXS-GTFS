@@ -1,125 +1,125 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-004,saturday,004-1,Gratiot / Conner,0,0046,
-004,saturday,004-2,Gratiot / Conner,0,0046,
-004,saturday,004-3,Gratiot / Conner,0,0046,
-004,saturday,004-4,Gratiot / Conner,0,0046,
-004,saturday,004-5,Gratiot / Conner,0,0046,
-004,saturday,004-6,Gratiot / Conner,0,0046,
-004,saturday,004-7,Gratiot / Conner,0,0046,
-004,saturday,004-8,Gratiot / Conner,0,0046,
-004,saturday,004-9,Gratiot / Conner,0,0046,
-004,saturday,004-10,Gratiot / Conner,0,0046,
-004,saturday,004-11,Gratiot / Conner,0,0046,
-004,saturday,004-12,Gratiot / Conner,0,0046,
-004,saturday,004-13,Gratiot / Conner,0,0046,
-004,saturday,004-14,Gratiot / Conner,0,0046,
-004,saturday,004-15,Gratiot / Conner,0,0046,
-004,saturday,004-16,Gratiot / Conner,0,0046,
-004,saturday,004-17,Gratiot / Conner,0,0046,
-004,saturday,004-18,Gratiot / Conner,0,0046,
-004,saturday,004-19,Gratiot / Conner,0,0046,
-004,saturday,004-20,Gratiot / Conner,0,0046,
-004,saturday,004-21,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-22,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-23,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-24,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-25,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-26,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-27,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-28,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-29,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-30,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-31,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-32,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-33,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-34,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-35,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-36,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-37,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-38,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,saturday,004-39,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-40,Gratiot / Conner,0,0046,
-004,sunday,004-41,Gratiot / Conner,0,0046,
-004,sunday,004-42,Gratiot / Conner,0,0046,
-004,sunday,004-43,Gratiot / Conner,0,0046,
-004,sunday,004-44,Gratiot / Conner,0,0046,
-004,sunday,004-45,Gratiot / Conner,0,0046,
-004,sunday,004-46,Gratiot / Conner,0,0046,
-004,sunday,004-47,Gratiot / Conner,0,0046,
-004,sunday,004-48,Gratiot / Conner,0,0046,
-004,sunday,004-49,Gratiot / Conner,0,0046,
-004,sunday,004-50,Gratiot / Conner,0,0046,
-004,sunday,004-51,Gratiot / Conner,0,0046,
-004,sunday,004-52,Gratiot / Conner,0,0046,
-004,sunday,004-53,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-54,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-55,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-56,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-57,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-58,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-59,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-60,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-61,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-62,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-63,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-64,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,sunday,004-65,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-66,Gratiot / Conner,0,0046,
-004,weekday,004-67,Gratiot / Conner,0,0046,
-004,weekday,004-68,Gratiot / Conner,0,0046,
-004,weekday,004-69,Gratiot / Conner,0,0046,
-004,weekday,004-70,Gratiot / Conner,0,0046,
-004,weekday,004-71,Gratiot / Conner,0,0046,
-004,weekday,004-72,Gratiot / Conner,0,0046,
-004,weekday,004-73,Gratiot / Conner,0,0046,
-004,weekday,004-74,Gratiot / Conner,0,0046,
-004,weekday,004-75,Gratiot / Conner,0,0046,
-004,weekday,004-76,Gratiot / Conner,0,0046,
-004,weekday,004-77,Gratiot / Conner,0,0046,
-004,weekday,004-78,Gratiot / Conner,0,0046,
-004,weekday,004-79,Gratiot / Conner,0,0046,
-004,weekday,004-80,Gratiot / Conner,0,0046,
-004,weekday,004-81,Gratiot / Conner,0,0046,
-004,weekday,004-82,Gratiot / Conner,0,0046,
-004,weekday,004-83,Gratiot / Conner,0,0046,
-004,weekday,004-84,Gratiot / Conner,0,0046,
-004,weekday,004-85,Gratiot / Conner,0,0046,
-004,weekday,004-86,Gratiot / Conner,0,0046,
-004,weekday,004-87,Gratiot / Conner,0,0046,
-004,weekday,004-88,Gratiot / Conner,0,0046,
-004,weekday,004-89,Gratiot / Conner,0,0046,
-004,weekday,004-90,Gratiot / Conner,0,0046,
-004,weekday,004-91,Gratiot / Conner,0,0046,
-004,weekday,004-92,Gratiot / Conner,0,0046,
-004,weekday,004-93,Gratiot / Conner,0,0046,
-004,weekday,004-94,Gratiot / Conner,0,0046,
-004,weekday,004-95,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-96,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-97,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-98,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-99,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-100,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-101,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-102,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-103,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-104,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-105,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-106,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-107,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-108,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-109,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-110,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-111,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-112,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-113,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-114,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-115,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-116,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-117,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-118,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-119,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-120,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-121,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-122,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-123,Millennium Park via Fenton Park & Ride Lot,1,0041,
-004,weekday,004-124,Millennium Park via Fenton Park & Ride Lot,1,0041,
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+004,NormalMonFri,004-1,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-2,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-3,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-4,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-5,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-6,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-7,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-8,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-9,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-10,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-11,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-12,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-13,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-14,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-15,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-16,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-17,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-18,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-19,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-20,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-21,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-22,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-23,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-24,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-25,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-26,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-27,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-28,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-29,Gratiot / Conner,0,4_E
+004,NormalMonFri,004-30,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-31,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-32,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-33,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-34,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-35,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-36,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-37,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-38,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-39,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-40,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-41,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-42,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-43,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-44,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-45,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-46,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-47,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-48,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-49,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-50,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-51,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-52,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-53,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-54,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-55,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-56,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-57,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-58,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalMonFri,004-59,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-60,Gratiot / Conner,0,4_E
+004,NormalSunday,004-61,Gratiot / Conner,0,4_E
+004,NormalSunday,004-62,Gratiot / Conner,0,4_E
+004,NormalSunday,004-63,Gratiot / Conner,0,4_E
+004,NormalSunday,004-64,Gratiot / Conner,0,4_E
+004,NormalSunday,004-65,Gratiot / Conner,0,4_E
+004,NormalSunday,004-66,Gratiot / Conner,0,4_E
+004,NormalSunday,004-67,Gratiot / Conner,0,4_E
+004,NormalSunday,004-68,Gratiot / Conner,0,4_E
+004,NormalSunday,004-69,Gratiot / Conner,0,4_E
+004,NormalSunday,004-70,Gratiot / Conner,0,4_E
+004,NormalSunday,004-71,Gratiot / Conner,0,4_E
+004,NormalSunday,004-72,Gratiot / Conner,0,4_E
+004,NormalSunday,004-73,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-74,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-75,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-76,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-77,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-78,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-79,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-80,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-81,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-82,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-83,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-84,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,NormalSunday,004-85,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-86,Gratiot / Conner,0,4_E
+004,SatToDaily,004-87,Gratiot / Conner,0,4_E
+004,SatToDaily,004-88,Gratiot / Conner,0,4_E
+004,SatToDaily,004-89,Gratiot / Conner,0,4_E
+004,SatToDaily,004-90,Gratiot / Conner,0,4_E
+004,SatToDaily,004-91,Gratiot / Conner,0,4_E
+004,SatToDaily,004-92,Gratiot / Conner,0,4_E
+004,SatToDaily,004-93,Gratiot / Conner,0,4_E
+004,SatToDaily,004-94,Gratiot / Conner,0,4_E
+004,SatToDaily,004-95,Gratiot / Conner,0,4_E
+004,SatToDaily,004-96,Gratiot / Conner,0,4_E
+004,SatToDaily,004-97,Gratiot / Conner,0,4_E
+004,SatToDaily,004-98,Gratiot / Conner,0,4_E
+004,SatToDaily,004-99,Gratiot / Conner,0,4_E
+004,SatToDaily,004-100,Gratiot / Conner,0,4_E
+004,SatToDaily,004-101,Gratiot / Conner,0,4_E
+004,SatToDaily,004-102,Gratiot / Conner,0,4_E
+004,SatToDaily,004-103,Gratiot / Conner,0,4_E
+004,SatToDaily,004-104,Gratiot / Conner,0,4_E
+004,SatToDaily,004-105,Gratiot / Conner,0,4_E
+004,SatToDaily,004-106,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-107,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-108,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-109,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-110,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-111,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-112,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-113,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-114,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-115,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-116,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-117,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-118,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-119,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-120,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-121,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-122,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-123,Millennium Park via Fenton Park & Ride Lot,1,4_W
+004,SatToDaily,004-124,Millennium Park via Fenton Park & Ride Lot,1,4_W

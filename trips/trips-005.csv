@@ -1,85 +1,85 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-005,saturday,005-1,Grosse Pointe Nexus,0,0056,
-005,saturday,005-2,Grosse Pointe Nexus,0,0056,
-005,saturday,005-3,Grosse Pointe Nexus,0,0056,
-005,saturday,005-4,Grosse Pointe Nexus,0,0056,
-005,saturday,005-5,Grosse Pointe Nexus,0,0056,
-005,saturday,005-6,Grosse Pointe Nexus,0,0056,
-005,saturday,005-7,Grosse Pointe Nexus,0,0056,
-005,saturday,005-8,Grosse Pointe Nexus,0,0056,
-005,saturday,005-9,Grosse Pointe Nexus,0,0056,
-005,saturday,005-10,Grosse Pointe Nexus,0,0056,
-005,saturday,005-11,Grosse Pointe Nexus,0,0056,
-005,saturday,005-12,Grosse Pointe Nexus,0,0056,
-005,saturday,005-13,Grosse Pointe Nexus,0,0056,
-005,saturday,005-14,Grosse Pointe Nexus,0,0056,
-005,saturday,005-15,Grosse Pointe Nexus,0,0056,
-005,saturday,005-16,Grosse Pointe Nexus,0,0056,
-005,saturday,005-17,Grosse Pointe Nexus,0,0056,
-005,saturday,005-18,Grand River / Schaefer,1,0054,
-005,saturday,005-19,Grand River / Schaefer,1,0054,
-005,saturday,005-20,Grand River / Schaefer,1,0054,
-005,saturday,005-21,Grand River / Schaefer,1,0054,
-005,saturday,005-22,Grand River / Schaefer,1,0054,
-005,saturday,005-23,Grand River / Schaefer,1,0054,
-005,saturday,005-24,Grand River / Schaefer,1,0054,
-005,saturday,005-25,Grand River / Schaefer,1,0054,
-005,saturday,005-26,Grand River / Schaefer,1,0054,
-005,saturday,005-27,Grand River / Schaefer,1,0054,
-005,saturday,005-28,Grand River / Schaefer,1,0054,
-005,saturday,005-29,Grand River / Schaefer,1,0054,
-005,saturday,005-30,Grand River / Schaefer,1,0054,
-005,saturday,005-31,Grand River / Schaefer,1,0054,
-005,saturday,005-32,Grand River / Schaefer,1,0054,
-005,saturday,005-33,Grand River / Schaefer,1,0054,
-005,weekday,005-34,Grosse Pointe Nexus,0,0056,
-005,weekday,005-35,Grosse Pointe Nexus,0,0056,
-005,weekday,005-36,Grosse Pointe Nexus,0,0056,
-005,weekday,005-37,Grosse Pointe Nexus,0,0056,
-005,weekday,005-38,Grosse Pointe Nexus,0,0056,
-005,weekday,005-39,Grosse Pointe Nexus,0,0056,
-005,weekday,005-40,Grosse Pointe Nexus,0,0056,
-005,weekday,005-41,Grosse Pointe Nexus,0,0056,
-005,weekday,005-42,Grosse Pointe Nexus,0,0056,
-005,weekday,005-43,Grosse Pointe Nexus,0,0056,
-005,weekday,005-44,Grosse Pointe Nexus,0,0056,
-005,weekday,005-45,Grosse Pointe Nexus,0,0056,
-005,weekday,005-46,Grosse Pointe Nexus,0,0056,
-005,weekday,005-47,Grosse Pointe Nexus,0,0056,
-005,weekday,005-48,Grosse Pointe Nexus,0,0056,
-005,weekday,005-49,Grosse Pointe Nexus,0,0056,
-005,weekday,005-50,Grosse Pointe Nexus,0,0056,
-005,weekday,005-51,Grosse Pointe Nexus,0,0056,
-005,weekday,005-52,Grosse Pointe Nexus,0,0056,
-005,weekday,005-53,Grosse Pointe Nexus,0,0056,
-005,weekday,005-54,Grosse Pointe Nexus,0,0056,
-005,weekday,005-55,Grosse Pointe Nexus,0,0056,
-005,weekday,005-56,Grosse Pointe Nexus,0,0056,
-005,weekday,005-57,Grosse Pointe Nexus,0,0056,
-005,weekday,005-58,Grosse Pointe Nexus,0,0056,
-005,weekday,005-59,Grosse Pointe Nexus,0,0056,
-005,weekday,005-60,Grand River / Schaefer,1,0054,
-005,weekday,005-61,Grand River / Schaefer,1,0054,
-005,weekday,005-62,Grand River / Schaefer,1,0054,
-005,weekday,005-63,Grand River / Schaefer,1,0054,
-005,weekday,005-64,Grand River / Schaefer,1,0054,
-005,weekday,005-65,Grand River / Schaefer,1,0054,
-005,weekday,005-66,Grand River / Schaefer,1,0054,
-005,weekday,005-67,Grand River / Schaefer,1,0054,
-005,weekday,005-68,Grand River / Schaefer,1,0054,
-005,weekday,005-69,Grand River / Schaefer,1,0054,
-005,weekday,005-70,Grand River / Schaefer,1,0054,
-005,weekday,005-71,Grand River / Schaefer,1,0054,
-005,weekday,005-72,Grand River / Schaefer,1,0054,
-005,weekday,005-73,Grand River / Schaefer,1,0054,
-005,weekday,005-74,Grand River / Schaefer,1,0054,
-005,weekday,005-75,Grand River / Schaefer,1,0054,
-005,weekday,005-76,Grand River / Schaefer,1,0054,
-005,weekday,005-77,Grand River / Schaefer,1,0054,
-005,weekday,005-78,Grand River / Schaefer,1,0054,
-005,weekday,005-79,Grand River / Schaefer,1,0054,
-005,weekday,005-80,Grand River / Schaefer,1,0054,
-005,weekday,005-81,Grand River / Schaefer,1,0054,
-005,weekday,005-82,Grand River / Schaefer,1,0054,
-005,weekday,005-83,Grand River / Schaefer,1,0054,
-005,weekday,005-84,Grand River / Schaefer,1,0054,
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+005,NormalMonFri,005-1,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-2,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-3,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-4,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-5,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-6,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-7,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-8,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-9,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-10,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-11,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-12,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-13,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-14,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-15,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-16,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-17,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-18,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-19,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-20,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-21,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-22,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-23,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-24,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-25,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-26,Grosse Pointe Nexus,0,5_E
+005,NormalMonFri,005-27,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-28,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-29,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-30,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-31,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-32,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-33,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-34,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-35,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-36,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-37,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-38,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-39,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-40,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-41,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-42,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-43,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-44,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-45,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-46,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-47,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-48,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-49,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-50,Grand River / Schaefer,1,5_W
+005,NormalMonFri,005-51,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-52,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-53,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-54,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-55,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-56,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-57,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-58,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-59,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-60,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-61,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-62,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-63,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-64,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-65,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-66,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-67,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-68,Grosse Pointe Nexus,0,5_E
+005,SatToMonSat,005-69,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-70,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-71,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-72,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-73,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-74,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-75,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-76,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-77,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-78,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-79,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-80,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-81,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-82,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-83,Grand River / Schaefer,1,5_W
+005,SatToMonSat,005-84,Grand River / Schaefer,1,5_W

@@ -1,114 +1,114 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-082,saturday,082-1,Novi Park & Ride,0,0828
-082,saturday,082-2,Novi Park & Ride,0,0828
-082,saturday,082-3,Novi Park & Ride,0,0828
-082,saturday,082-4,Novi Park & Ride,0,0828
-082,saturday,082-5,Novi Park & Ride,0,0828
-082,saturday,082-6,Novi Park & Ride,0,0828
-082,saturday,082-7,Novi Park & Ride,0,0828
-082,saturday,082-8,Novi Park & Ride,0,0828
-082,saturday,082-9,Novi Park & Ride,0,0828
-082,saturday,082-10,Novi Park & Ride,0,0828
-082,saturday,082-11,Novi Park & Ride,0,0828
-082,saturday,082-12,Novi Park & Ride,0,0828
-082,saturday,082-13,Novi Park & Ride,0,0828
-082,saturday,082-14,Novi Park & Ride,0,0828
-082,saturday,082-15,Novi Park & Ride,0,0828
-082,saturday,082-16,Novi Park & Ride,0,0828
-082,saturday,082-17,Novi Park & Ride,0,0828
-082,saturday,082-18,Novi Park & Ride,0,0828
-082,saturday,082-19,Novi Park & Ride,0,0828
-082,saturday,082-20,Novi Park & Ride,0,0828
-082,saturday,082-21,Lakeview Shopping Center,1,0822
-082,saturday,082-22,Lakeview Shopping Center,1,0822
-082,saturday,082-23,Lakeview Shopping Center,1,0822
-082,saturday,082-24,Lakeview Shopping Center,1,0822
-082,saturday,082-25,Lakeview Shopping Center,1,0822
-082,saturday,082-26,Lakeview Shopping Center,1,0822
-082,saturday,082-27,Lakeview Shopping Center,1,0822
-082,saturday,082-28,Lakeview Shopping Center,1,0822
-082,saturday,082-29,Lakeview Shopping Center,1,0822
-082,saturday,082-30,Lakeview Shopping Center,1,0822
-082,saturday,082-31,Lakeview Shopping Center,1,0822
-082,saturday,082-32,Lakeview Shopping Center,1,0822
-082,saturday,082-33,Lakeview Shopping Center,1,0822
-082,saturday,082-34,Lakeview Shopping Center,1,0822
-082,saturday,082-35,Lakeview Shopping Center,1,0822
-082,saturday,082-36,Lakeview Shopping Center,1,0822
-082,saturday,082-37,Lakeview Shopping Center,1,0822
-082,saturday,082-38,Lakeview Shopping Center,1,0822
-082,saturday,082-39,Lakeview Shopping Center,1,0822
-082,sunday,082-40,Novi Park & Ride,0,0828
-082,sunday,082-41,Novi Park & Ride,0,0828
-082,sunday,082-42,Novi Park & Ride,0,0828
-082,sunday,082-43,Novi Park & Ride,0,0828
-082,sunday,082-44,Novi Park & Ride,0,0828
-082,sunday,082-45,Novi Park & Ride,0,0828
-082,sunday,082-46,Novi Park & Ride,0,0828
-082,sunday,082-47,Novi Park & Ride,0,0828
-082,sunday,082-48,Novi Park & Ride,0,0828
-082,sunday,082-49,Novi Park & Ride,0,0828
-082,sunday,082-50,Novi Park & Ride,0,0828
-082,sunday,082-51,Lakeview Shopping Center,1,0822
-082,sunday,082-52,Lakeview Shopping Center,1,0822
-082,sunday,082-53,Lakeview Shopping Center,1,0822
-082,sunday,082-54,Lakeview Shopping Center,1,0822
-082,sunday,082-55,Lakeview Shopping Center,1,0822
-082,sunday,082-56,Lakeview Shopping Center,1,0822
-082,sunday,082-57,Lakeview Shopping Center,1,0822
-082,sunday,082-58,Lakeview Shopping Center,1,0822
-082,sunday,082-59,Lakeview Shopping Center,1,0822
-082,sunday,082-60,Lakeview Shopping Center,1,0822
-082,sunday,082-61,Lakeview Shopping Center,1,0822
-082,sunday,082-62,Lakeview Shopping Center,1,0822
-082,weekday,082-63,Novi Park & Ride,0,0828
-082,weekday,082-64,Novi Park & Ride,0,0828
-082,weekday,082-65,Novi Park & Ride,0,0828
-082,weekday,082-66,Novi Park & Ride,0,0828
-082,weekday,082-67,Novi Park & Ride,0,0828
-082,weekday,082-68,Novi Park & Ride,0,0828
-082,weekday,082-69,Novi Park & Ride,0,0828
-082,weekday,082-70,Novi Park & Ride,0,0828
-082,weekday,082-71,Novi Park & Ride,0,0828
-082,weekday,082-72,Novi Park & Ride,0,0828
-082,weekday,082-73,Novi Park & Ride,0,0828
-082,weekday,082-74,Novi Park & Ride,0,0828
-082,weekday,082-75,Novi Park & Ride,0,0828
-082,weekday,082-76,Novi Park & Ride,0,0828
-082,weekday,082-77,Novi Park & Ride,0,0828
-082,weekday,082-78,Novi Park & Ride,0,0828
-082,weekday,082-79,Novi Park & Ride,0,0828
-082,weekday,082-80,Novi Park & Ride,0,0828
-082,weekday,082-81,Novi Park & Ride,0,0828
-082,weekday,082-82,Novi Park & Ride,0,0828
-082,weekday,082-83,Novi Park & Ride,0,0828
-082,weekday,082-84,Novi Park & Ride,0,0828
-082,weekday,082-85,Novi Park & Ride,0,0828
-082,weekday,082-86,Novi Park & Ride,0,0828
-082,weekday,082-87,Novi Park & Ride,0,0828
-082,weekday,082-88,Novi Park & Ride,0,0828
-082,weekday,082-89,Lakeview Shopping Center,1,0822
-082,weekday,082-90,Lakeview Shopping Center,1,0822
-082,weekday,082-91,Lakeview Shopping Center,1,0822
-082,weekday,082-92,Lakeview Shopping Center,1,0822
-082,weekday,082-93,Lakeview Shopping Center,1,0822
-082,weekday,082-94,Lakeview Shopping Center,1,0822
-082,weekday,082-95,Lakeview Shopping Center,1,0822
-082,weekday,082-96,Lakeview Shopping Center,1,0822
-082,weekday,082-97,Lakeview Shopping Center,1,0822
-082,weekday,082-98,Lakeview Shopping Center,1,0822
-082,weekday,082-99,Lakeview Shopping Center,1,0822
-082,weekday,082-100,Lakeview Shopping Center,1,0822
-082,weekday,082-101,Lakeview Shopping Center,1,0822
-082,weekday,082-102,Lakeview Shopping Center,1,0822
-082,weekday,082-103,Lakeview Shopping Center,1,0822
-082,weekday,082-104,Lakeview Shopping Center,1,0822
-082,weekday,082-105,Lakeview Shopping Center,1,0822
-082,weekday,082-106,Lakeview Shopping Center,1,0822
-082,weekday,082-107,Lakeview Shopping Center,1,0822
-082,weekday,082-108,Lakeview Shopping Center,1,0822
-082,weekday,082-109,Lakeview Shopping Center,1,0822
-082,weekday,082-110,Lakeview Shopping Center,1,0822
-082,weekday,082-111,Lakeview Shopping Center,1,0822
-082,weekday,082-112,Lakeview Shopping Center,1,0822
-082,weekday,082-113,Lakeview Shopping Center,1,0822
+082,NormalMonFri,082-1,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-2,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-3,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-4,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-5,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-6,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-7,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-8,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-9,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-10,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-11,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-12,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-13,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-14,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-15,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-16,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-17,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-18,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-19,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-20,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-21,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-22,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-23,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-24,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-25,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-26,Novi Park & Ride,0,82_N
+082,NormalMonFri,082-27,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-28,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-29,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-30,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-31,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-32,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-33,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-34,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-35,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-36,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-37,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-38,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-39,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-40,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-41,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-42,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-43,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-44,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-45,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-46,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-47,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-48,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-49,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-50,Lakeview Shopping Center,1,82_S
+082,NormalMonFri,082-51,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-52,Novi Park & Ride,0,82_N
+082,NormalSunday,082-53,Novi Park & Ride,0,82_N
+082,NormalSunday,082-54,Novi Park & Ride,0,82_N
+082,NormalSunday,082-55,Novi Park & Ride,0,82_N
+082,NormalSunday,082-56,Novi Park & Ride,0,82_N
+082,NormalSunday,082-57,Novi Park & Ride,0,82_N
+082,NormalSunday,082-58,Novi Park & Ride,0,82_N
+082,NormalSunday,082-59,Novi Park & Ride,0,82_N
+082,NormalSunday,082-60,Novi Park & Ride,0,82_N
+082,NormalSunday,082-61,Novi Park & Ride,0,82_N
+082,NormalSunday,082-62,Novi Park & Ride,0,82_N
+082,NormalSunday,082-63,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-64,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-65,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-66,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-67,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-68,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-69,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-70,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-71,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-72,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-73,Lakeview Shopping Center,1,82_S
+082,NormalSunday,082-74,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-75,Novi Park & Ride,0,82_N
+082,SatToDaily,082-76,Novi Park & Ride,0,82_N
+082,SatToDaily,082-77,Novi Park & Ride,0,82_N
+082,SatToDaily,082-78,Novi Park & Ride,0,82_N
+082,SatToDaily,082-79,Novi Park & Ride,0,82_N
+082,SatToDaily,082-80,Novi Park & Ride,0,82_N
+082,SatToDaily,082-81,Novi Park & Ride,0,82_N
+082,SatToDaily,082-82,Novi Park & Ride,0,82_N
+082,SatToDaily,082-83,Novi Park & Ride,0,82_N
+082,SatToDaily,082-84,Novi Park & Ride,0,82_N
+082,SatToDaily,082-85,Novi Park & Ride,0,82_N
+082,SatToDaily,082-86,Novi Park & Ride,0,82_N
+082,SatToDaily,082-87,Novi Park & Ride,0,82_N
+082,SatToDaily,082-88,Novi Park & Ride,0,82_N
+082,SatToDaily,082-89,Novi Park & Ride,0,82_N
+082,SatToDaily,082-90,Novi Park & Ride,0,82_N
+082,SatToDaily,082-91,Novi Park & Ride,0,82_N
+082,SatToDaily,082-92,Novi Park & Ride,0,82_N
+082,SatToDaily,082-93,Novi Park & Ride,0,82_N
+082,SatToDaily,082-94,Novi Park & Ride,0,82_N
+082,SatToDaily,082-95,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-96,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-97,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-98,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-99,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-100,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-101,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-102,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-103,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-104,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-105,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-106,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-107,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-108,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-109,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-110,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-111,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-112,Lakeview Shopping Center,1,82_S
+082,SatToDaily,082-113,Lakeview Shopping Center,1,82_S

@@ -1,173 +1,269 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-930,saturdaynorf,930-1,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-2,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-3,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-4,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-5,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-6,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-7,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-8,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-9,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-10,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-11,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-12,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-13,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-14,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-15,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-16,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-17,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-18,Flint MTA Transfer Center,0,9308
-930,saturdaynorf,930-19,Pontiac Nexus,1,9302
-930,saturdaynorf,930-20,Pontiac Nexus,1,9302
-930,saturdaynorf,930-21,Pontiac Nexus,1,9302
-930,saturdaynorf,930-22,Pontiac Nexus,1,9302
-930,saturdaynorf,930-23,Pontiac Nexus,1,9302
-930,saturdaynorf,930-24,Pontiac Nexus,1,9302
-930,saturdaynorf,930-25,Pontiac Nexus,1,9302
-930,saturdaynorf,930-26,Pontiac Nexus,1,9302
-930,saturdaynorf,930-27,Pontiac Nexus,1,9302
-930,saturdaynorf,930-28,Pontiac Nexus,1,9302
-930,saturdaynorf,930-29,Pontiac Nexus,1,9302
-930,saturdaynorf,930-30,Pontiac Nexus,1,9302
-930,saturdaynorf,930-31,Pontiac Nexus,1,9302
-930,saturdaynorf,930-32,Pontiac Nexus,1,9302
-930,saturdaynorf,930-33,Pontiac Nexus,1,9302
-930,saturdaynorf,930-34,Pontiac Nexus,1,9302
-930,saturdaynorf,930-35,Pontiac Nexus,1,9302
-930,saturdaynorf,930-36,Pontiac Nexus,1,9302
-930,saturdayrenfest,930-37,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-38,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-39,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-40,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-41,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-42,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-43,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-44,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-45,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-46,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-47,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-48,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-49,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-50,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-51,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-52,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-53,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-54,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,saturdayrenfest,930-55,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-56,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-57,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-58,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-59,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-60,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-61,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-62,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-63,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-64,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-65,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-66,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-67,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-68,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-69,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-70,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-71,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,saturdayrenfest,930-72,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundaynorf,930-73,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-74,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-75,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-76,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-77,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-78,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-79,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-80,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-81,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-82,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-83,Flint MTA Transfer Center,0,9308
-930,sundaynorf,930-84,Pontiac Nexus,1,9302
-930,sundaynorf,930-85,Pontiac Nexus,1,9302
-930,sundaynorf,930-86,Pontiac Nexus,1,9302
-930,sundaynorf,930-87,Pontiac Nexus,1,9302
-930,sundaynorf,930-88,Pontiac Nexus,1,9302
-930,sundaynorf,930-89,Pontiac Nexus,1,9302
-930,sundaynorf,930-90,Pontiac Nexus,1,9302
-930,sundaynorf,930-91,Pontiac Nexus,1,9302
-930,sundaynorf,930-92,Pontiac Nexus,1,9302
-930,sundaynorf,930-93,Pontiac Nexus,1,9302
-930,sundaynorf,930-94,Pontiac Nexus,1,9302
-930,sundayrenfest,930-95,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-96,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-97,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-98,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-99,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-100,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-101,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-102,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-103,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-104,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-105,Flint MTA Transfer Center via Michigan Renaissance Festival,0,9307
-930,sundayrenfest,930-106,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-107,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-108,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-109,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-110,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-111,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-112,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-113,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-114,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-115,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,sundayrenfest,930-116,Pontiac Nexus via Michigan Renaissance Festival,1,9301
-930,weekday,930-117,Flint MTA Transfer Center,0,9308
-930,weekday,930-118,Flint MTA Transfer Center,0,9308
-930,weekday,930-119,Flint MTA Transfer Center,0,9308
-930,weekday,930-120,Flint MTA Transfer Center,0,9308
-930,weekday,930-121,Flint MTA Transfer Center,0,9308
-930,weekday,930-122,Flint MTA Transfer Center,0,9308
-930,weekday,930-123,Flint MTA Transfer Center,0,9308
-930,weekday,930-124,Flint MTA Transfer Center,0,9308
-930,weekday,930-125,Flint MTA Transfer Center,0,9308
-930,weekday,930-126,Flint MTA Transfer Center,0,9308
-930,weekday,930-127,Flint MTA Transfer Center,0,9308
-930,weekday,930-128,Flint MTA Transfer Center,0,9308
-930,weekday,930-129,Flint MTA Transfer Center,0,9308
-930,weekday,930-130,Flint MTA Transfer Center,0,9308
-930,weekday,930-131,Flint MTA Transfer Center,0,9308
-930,weekday,930-132,Flint MTA Transfer Center,0,9308
-930,weekday,930-133,Flint MTA Transfer Center,0,9308
-930,weekday,930-134,Flint MTA Transfer Center,0,9308
-930,weekday,930-135,Flint MTA Transfer Center,0,9308
-930,weekday,930-136,Flint MTA Transfer Center,0,9308
-930,weekday,930-137,Flint MTA Transfer Center,0,9308
-930,weekday,930-138,Flint MTA Transfer Center,0,9308
-930,weekday,930-139,Flint MTA Transfer Center,0,9308
-930,weekday,930-140,Flint MTA Transfer Center,0,9308
-930,weekday,930-141,Flint MTA Transfer Center,0,9308
-930,weekday,930-142,Flint MTA Transfer Center,0,9308
-930,weekday,930-143,Flint MTA Transfer Center,0,9308
-930,weekday,930-144,Flint MTA Transfer Center,0,9308
-930,weekday,930-145,Pontiac Nexus,1,9302
-930,weekday,930-146,Pontiac Nexus,1,9302
-930,weekday,930-147,Pontiac Nexus,1,9302
-930,weekday,930-148,Pontiac Nexus,1,9302
-930,weekday,930-149,Pontiac Nexus,1,9302
-930,weekday,930-150,Pontiac Nexus,1,9302
-930,weekday,930-151,Pontiac Nexus,1,9302
-930,weekday,930-152,Pontiac Nexus,1,9302
-930,weekday,930-153,Pontiac Nexus,1,9302
-930,weekday,930-154,Pontiac Nexus,1,9302
-930,weekday,930-155,Pontiac Nexus,1,9302
-930,weekday,930-156,Pontiac Nexus,1,9302
-930,weekday,930-157,Pontiac Nexus,1,9302
-930,weekday,930-158,Pontiac Nexus,1,9302
-930,weekday,930-159,Pontiac Nexus,1,9302
-930,weekday,930-160,Pontiac Nexus,1,9302
-930,weekday,930-161,Pontiac Nexus,1,9302
-930,weekday,930-162,Pontiac Nexus,1,9302
-930,weekday,930-163,Pontiac Nexus,1,9302
-930,weekday,930-164,Pontiac Nexus,1,9302
-930,weekday,930-165,Pontiac Nexus,1,9302
-930,weekday,930-166,Pontiac Nexus,1,9302
-930,weekday,930-167,Pontiac Nexus,1,9302
-930,weekday,930-168,Pontiac Nexus,1,9302
-930,weekday,930-169,Pontiac Nexus,1,9302
-930,weekday,930-170,Pontiac Nexus,1,9302
-930,weekday,930-171,Pontiac Nexus,1,9302
-930,weekday,930-172,Pontiac Nexus,1,9302
+930,CovidMonSat,930-1,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-2,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-3,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-4,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-5,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-6,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-7,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-8,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-9,Flint MTA Transfer Center,0,930_N
+930,CovidMonSat,930-10,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-11,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-12,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-13,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-14,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-15,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-16,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-17,Pontiac Nexus,1,930_S
+930,CovidMonSat,930-18,Pontiac Nexus,1,930_S
+930,CovidSunday,930-19,Flint MTA Transfer Center,0,930_N
+930,CovidSunday,930-20,Flint MTA Transfer Center,0,930_N
+930,CovidSunday,930-21,Flint MTA Transfer Center,0,930_N
+930,CovidSunday,930-22,Flint MTA Transfer Center,0,930_N
+930,CovidSunday,930-23,Flint MTA Transfer Center,0,930_N
+930,CovidSunday,930-24,Pontiac Nexus,1,930_S
+930,CovidSunday,930-25,Pontiac Nexus,1,930_S
+930,CovidSunday,930-26,Pontiac Nexus,1,930_S
+930,CovidSunday,930-27,Pontiac Nexus,1,930_S
+930,CovidSunday,930-28,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-29,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-30,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-31,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-32,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-33,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-34,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-35,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-36,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-37,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-38,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-39,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-40,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-41,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-42,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-43,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-44,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-45,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-46,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-47,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-48,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-49,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-50,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-51,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-52,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-53,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-54,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-55,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-56,Flint MTA Transfer Center,0,930_N
+930,NormalMonFriNoRF,930-57,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-58,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-59,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-60,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-61,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-62,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-63,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-64,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-65,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-66,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-67,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-68,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-69,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-70,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-71,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-72,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-73,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-74,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-75,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-76,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-77,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-78,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-79,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-80,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-81,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-82,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-83,Pontiac Nexus,1,930_S
+930,NormalMonFriNoRF,930-84,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-85,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-86,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-87,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-88,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-89,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-90,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-91,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-92,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-93,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-94,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-95,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-96,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-97,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-98,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-99,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-100,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-101,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-102,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-103,Flint MTA Transfer Center,0,930_N
+930,NormalSaturdayNoRF,930-104,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-105,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-106,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-107,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-108,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-109,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-110,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-111,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-112,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-113,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-114,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-115,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-116,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-117,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-118,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-119,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-120,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-121,Pontiac Nexus,1,930_S
+930,NormalSaturdayNoRF,930-122,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-123,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-124,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-125,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-126,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-127,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-128,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-129,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-130,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-131,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-132,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-133,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-134,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-135,Flint MTA Transfer Center,0,930_N
+930,NormalSundayNoRF,930-136,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-137,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-138,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-139,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-140,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-141,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-142,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-143,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-144,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-145,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-146,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-147,Pontiac Nexus,1,930_S
+930,NormalSundayNoRF,930-148,Pontiac Nexus,1,930_S
+930,RenFestFri,930-149,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-150,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-151,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-152,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-153,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-154,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-155,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-156,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-157,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-158,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-159,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-160,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-161,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-162,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-163,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-164,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-165,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-166,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-167,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-168,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-169,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-170,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-171,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-172,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-173,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-174,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-175,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-176,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestFri,930-177,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-178,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-179,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-180,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-181,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-182,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-183,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-184,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-185,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-186,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-187,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-188,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-189,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-190,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-191,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-192,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-193,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-194,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-195,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-196,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-197,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-198,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-199,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-200,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-201,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-202,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-203,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestFri,930-204,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-205,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-206,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-207,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-208,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-209,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-210,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-211,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-212,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-213,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-214,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-215,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-216,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-217,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-218,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-219,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-220,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-221,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-222,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-223,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSat,930-224,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-225,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-226,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-227,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-228,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-229,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-230,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-231,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-232,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-233,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-234,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-235,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-236,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-237,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-238,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-239,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-240,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-241,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSat,930-242,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-243,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-244,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-245,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-246,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-247,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-248,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-249,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-250,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-251,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-252,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-253,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-254,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-255,Flint MTA Transfer Center via Michigan Renaissance Festival,0,930_N_A
+930,RenFestSun,930-256,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-257,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-258,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-259,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-260,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-261,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-262,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-263,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-264,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-265,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-266,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-267,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A
+930,RenFestSun,930-268,Pontiac Nexus via Michigan Renaissance Festival,1,930_S_A

@@ -1,88 +1,88 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,trip_short_name
-609,saturday,609-1,Shelby Township Kroger,0,6097,609G
-609,saturday,609-2,Shelby Township Kroger,0,6097,609G
-609,saturday,609-3,Shelby Township Kroger,0,6097,609G
-609,saturday,609-4,Shelby Township Kroger,0,6097,609G
-609,saturday,609-5,Shelby Township Kroger,0,6097,609G
-609,saturday,609-6,Shelby Township Kroger,0,6097,609G
-609,saturday,609-7,Shelby Township Kroger,0,6097,609G
-609,saturday,609-8,Shelby Township Kroger,0,6097,609G
-609,saturday,609-9,Shelby Township Kroger,0,6097,609G
-609,saturday,609-10,Shelby Township Kroger,0,6097,609G
-609,saturday,609-11,Shelby Township Kroger,0,6097,609G
-609,saturday,609-12,Shelby Township Kroger,0,6097,609G
-609,saturday,609-13,Shelby Township Kroger,0,6097,609G
-609,saturday,609-14,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-15,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-16,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-17,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-18,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-19,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-20,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-21,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-22,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-23,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-24,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-25,Gratiot / Seven Mile,1,6091,609G
-609,saturday,609-26,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-27,Shelby Township Kroger,0,6098,609D
-609,weekday,609-28,Shelby Township Kroger,0,6098,609D
-609,weekday,609-29,Shelby Township Kroger,0,6098,609D
-609,weekday,609-30,Shelby Township Kroger,0,6098,609D
-609,weekday,609-31,Shelby Township Kroger,0,6098,609D
-609,weekday,609-32,Shelby Township Kroger,0,6098,609D
-609,weekday,609-33,Shelby Township Kroger,0,6098,609D
-609,weekday,609-34,Shelby Township Kroger,0,6097,609G
-609,weekday,609-35,Shelby Township Kroger,0,6097,609G
-609,weekday,609-36,Shelby Township Kroger,0,6097,609G
-609,weekday,609-37,Shelby Township Kroger,0,6097,609G
-609,weekday,609-38,Shelby Township Kroger,0,6097,609G
-609,weekday,609-39,Shelby Township Kroger,0,6097,609G
-609,weekday,609-40,Shelby Township Kroger,0,6097,609G
-609,weekday,609-41,Shelby Township Kroger,0,6097,609G
-609,weekday,609-42,Shelby Township Kroger,0,6097,609G
-609,weekday,609-43,Shelby Township Kroger,0,6097,609G
-609,weekday,609-44,Shelby Township Kroger,0,6097,609G
-609,weekday,609-45,Shelby Township Kroger,0,6098,609D
-609,weekday,609-46,Shelby Township Kroger,0,6098,609D
-609,weekday,609-47,Shelby Township Kroger,0,6098,609D
-609,weekday,609-48,Shelby Township Kroger,0,6098,609D
-609,weekday,609-49,Shelby Township Kroger,0,6098,609D
-609,weekday,609-50,Shelby Township Kroger,0,6098,609D
-609,weekday,609-51,Shelby Township Kroger,0,6098,609D
-609,weekday,609-52,Shelby Township Kroger,0,6097,609G
-609,weekday,609-53,Shelby Township Kroger,0,6097,609G
-609,weekday,609-54,Shelby Township Kroger,0,6097,609G
-609,weekday,609-55,Shelby Township Kroger,0,6097,609G
-609,weekday,609-56,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-57,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-58,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-59,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-60,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-61,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-62,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-63,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-64,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-65,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-66,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-67,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-68,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-69,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-70,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-71,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-72,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-73,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-74,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-75,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-76,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-77,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-78,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-79,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-80,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-81,Rosa Parks Nexus,1,6092,609D
-609,weekday,609-82,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-83,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-84,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-85,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-86,Gratiot / Seven Mile,1,6091,609G
-609,weekday,609-87,Gratiot / Seven Mile,1,6091,609G
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+609D,NormalMonFri,609-1,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-2,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-3,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-4,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-5,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-6,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-7,Rosa Parks Nexus,1,609D_S
+609G,NormalMonFri,609-8,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-9,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-10,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-11,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-12,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-13,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-14,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-15,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-16,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-17,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-18,Gratiot / Seven Mile,1,609G_S
+609D,NormalMonFri,609-19,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-20,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-21,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-22,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-23,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-24,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-25,Rosa Parks Nexus,1,609D_S
+609G,NormalMonFri,609-26,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-27,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-28,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-29,Gratiot / Seven Mile,1,609G_S
+609D,NormalMonFri,609-30,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-31,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-32,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-33,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-34,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-35,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-36,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-37,Rosa Parks Nexus,1,609D_S
+609G,NormalMonFri,609-38,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-39,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-40,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-41,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-42,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-43,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-44,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-45,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-46,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-47,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-48,Gratiot / Seven Mile,1,609G_S
+609D,NormalMonFri,609-49,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-50,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-51,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-52,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-53,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-54,Rosa Parks Nexus,1,609D_S
+609D,NormalMonFri,609-55,Rosa Parks Nexus,1,609D_S
+609G,NormalMonFri,609-56,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-57,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-58,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-59,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-60,Gratiot / Seven Mile,1,609G_S
+609G,NormalMonFri,609-61,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-62,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-63,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-64,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-65,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-66,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-67,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-68,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-69,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-70,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-71,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-72,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-73,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-74,Shelby Township Kroger,0,609G_N
+609G,SatToMonSat,609-75,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-76,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-77,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-78,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-79,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-80,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-81,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-82,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-83,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-84,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-85,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-86,Gratiot / Seven Mile,1,609G_S
+609G,SatToMonSat,609-87,Gratiot / Seven Mile,1,609G_S

@@ -1,18 +1,18 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-894,preholiday,894-1,Chesterfield Meijer,0,8948
-894,preholiday,894-2,Chesterfield Meijer,0,8948
-894,preholiday,894-3,Chesterfield Meijer,0,8948
-894,preholiday,894-4,Chesterfield Meijer,0,8948
-894,preholiday,894-5,Chesterfield Meijer,0,8948
-894,preholiday,894-6,Chesterfield Meijer,0,8948
-894,preholiday,894-7,Chesterfield Meijer,0,8948
-894,weekday,894-8,Lodge / Grand Blvd,1,8942
-894,weekday,894-9,Lodge / Grand Blvd,1,8942
-894,weekday,894-10,Lodge / Grand Blvd,1,8942
-894,weekday,894-11,Lodge / Grand Blvd,1,8942
-894,weekday,894-12,Lodge / Grand Blvd,1,8942
-894,weekdaynoph,894-13,Chesterfield Meijer,0,8948
-894,weekdaynoph,894-14,Chesterfield Meijer,0,8948
-894,weekdaynoph,894-15,Chesterfield Meijer,0,8948
-894,weekdaynoph,894-16,Chesterfield Meijer,0,8948
-894,weekdaynoph,894-17,Chesterfield Meijer,0,8948
+894,NormalMonFri,894-1,Lodge / Grand Blvd,1,894_S
+894,NormalMonFri,894-2,Lodge / Grand Blvd,1,894_S
+894,NormalMonFri,894-3,Lodge / Grand Blvd,1,894_S
+894,NormalMonFri,894-4,Lodge / Grand Blvd,1,894_S
+894,NormalMonFri,894-5,Lodge / Grand Blvd,1,894_S
+894,NormalMonFriNoPH,894-6,Chesterfield Meijer,0,894_N
+894,NormalMonFriNoPH,894-7,Chesterfield Meijer,0,894_N
+894,NormalMonFriNoPH,894-8,Chesterfield Meijer,0,894_N
+894,NormalMonFriNoPH,894-9,Chesterfield Meijer,0,894_N
+894,NormalMonFriNoPH,894-10,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-11,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-12,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-13,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-14,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-15,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-16,Chesterfield Meijer,0,894_N
+894,PreHoliday,894-17,Chesterfield Meijer,0,894_N

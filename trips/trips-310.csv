@@ -1,104 +1,104 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
-310,saturday,310-1,West River Shopping Center,0,3108
-310,saturday,310-2,West River Shopping Center,0,3108
-310,saturday,310-3,West River Shopping Center,0,3108
-310,saturday,310-4,West River Shopping Center,0,3108
-310,saturday,310-5,West River Shopping Center,0,3108
-310,saturday,310-6,West River Shopping Center,0,3108
-310,saturday,310-7,West River Shopping Center,0,3108
-310,saturday,310-8,West River Shopping Center,0,3108
-310,saturday,310-9,West River Shopping Center,0,3108
-310,saturday,310-10,West River Shopping Center,0,3108
-310,saturday,310-11,West River Shopping Center,0,3108
-310,saturday,310-12,West River Shopping Center,0,3108
-310,saturday,310-13,West River Shopping Center,0,3108
-310,saturday,310-14,West River Shopping Center,0,3108
-310,saturday,310-15,West River Shopping Center,0,3108
-310,saturday,310-16,West River Shopping Center,0,3108
-310,saturday,310-17,West River Shopping Center,0,3108
-310,saturday,310-18,West River Shopping Center,0,3108
-310,saturday,310-19,West River Shopping Center,0,3108
-310,saturday,310-20,West River Shopping Center,0,3108
-310,saturday,310-21,Target Dearborn,1,3102
-310,saturday,310-22,Target Dearborn,1,3102
-310,saturday,310-23,Target Dearborn,1,3102
-310,saturday,310-24,Target Dearborn,1,3102
-310,saturday,310-25,Target Dearborn,1,3102
-310,saturday,310-26,Target Dearborn,1,3102
-310,saturday,310-27,Target Dearborn,1,3102
-310,saturday,310-28,Target Dearborn,1,3102
-310,saturday,310-29,Target Dearborn,1,3102
-310,saturday,310-30,Target Dearborn,1,3102
-310,saturday,310-31,Target Dearborn,1,3102
-310,saturday,310-32,Target Dearborn,1,3102
-310,saturday,310-33,Target Dearborn,1,3102
-310,saturday,310-34,Target Dearborn,1,3102
-310,saturday,310-35,Target Dearborn,1,3102
-310,saturday,310-36,Target Dearborn,1,3102
-310,saturday,310-37,Target Dearborn,1,3102
-310,saturday,310-38,Target Dearborn,1,3102
-310,saturday,310-39,Target Dearborn,1,3102
-310,saturday,310-40,Target Dearborn,1,3102
-310,weekday,310-41,West River Shopping Center,0,3108
-310,weekday,310-42,West River Shopping Center,0,3108
-310,weekday,310-43,West River Shopping Center,0,3108
-310,weekday,310-44,West River Shopping Center,0,3108
-310,weekday,310-45,West River Shopping Center,0,3108
-310,weekday,310-46,West River Shopping Center,0,3108
-310,weekday,310-47,West River Shopping Center,0,3108
-310,weekday,310-48,West River Shopping Center,0,3108
-310,weekday,310-49,West River Shopping Center,0,3108
-310,weekday,310-50,West River Shopping Center,0,3108
-310,weekday,310-51,West River Shopping Center,0,3108
-310,weekday,310-52,West River Shopping Center,0,3108
-310,weekday,310-53,West River Shopping Center,0,3108
-310,weekday,310-54,West River Shopping Center,0,3108
-310,weekday,310-55,West River Shopping Center,0,3108
-310,weekday,310-56,West River Shopping Center,0,3108
-310,weekday,310-57,West River Shopping Center,0,3108
-310,weekday,310-58,West River Shopping Center,0,3108
-310,weekday,310-59,West River Shopping Center,0,3108
-310,weekday,310-60,West River Shopping Center,0,3108
-310,weekday,310-61,West River Shopping Center,0,3108
-310,weekday,310-62,West River Shopping Center,0,3108
-310,weekday,310-63,West River Shopping Center,0,3108
-310,weekday,310-64,West River Shopping Center,0,3108
-310,weekday,310-65,West River Shopping Center,0,3108
-310,weekday,310-66,West River Shopping Center,0,3108
-310,weekday,310-67,West River Shopping Center,0,3108
-310,weekday,310-68,West River Shopping Center,0,3108
-310,weekday,310-69,West River Shopping Center,0,3108
-310,weekday,310-70,West River Shopping Center,0,3108
-310,weekday,310-71,West River Shopping Center,0,3108
-310,weekday,310-72,West River Shopping Center,0,3108
-310,weekday,310-73,Target Dearborn,1,3102
-310,weekday,310-74,Target Dearborn,1,3102
-310,weekday,310-75,Target Dearborn,1,3102
-310,weekday,310-76,Target Dearborn,1,3102
-310,weekday,310-77,Target Dearborn,1,3102
-310,weekday,310-78,Target Dearborn,1,3102
-310,weekday,310-79,Target Dearborn,1,3102
-310,weekday,310-80,Target Dearborn,1,3102
-310,weekday,310-81,Target Dearborn,1,3102
-310,weekday,310-82,Target Dearborn,1,3102
-310,weekday,310-83,Target Dearborn,1,3102
-310,weekday,310-84,Target Dearborn,1,3102
-310,weekday,310-85,Target Dearborn,1,3102
-310,weekday,310-86,Target Dearborn,1,3102
-310,weekday,310-87,Target Dearborn,1,3102
-310,weekday,310-88,Target Dearborn,1,3102
-310,weekday,310-89,Target Dearborn,1,3102
-310,weekday,310-90,Target Dearborn,1,3102
-310,weekday,310-91,Target Dearborn,1,3102
-310,weekday,310-92,Target Dearborn,1,3102
-310,weekday,310-93,Target Dearborn,1,3102
-310,weekday,310-94,Target Dearborn,1,3102
-310,weekday,310-95,Target Dearborn,1,3102
-310,weekday,310-96,Target Dearborn,1,3102
-310,weekday,310-97,Target Dearborn,1,3102
-310,weekday,310-98,Target Dearborn,1,3102
-310,weekday,310-99,Target Dearborn,1,3102
-310,weekday,310-100,Target Dearborn,1,3102
-310,weekday,310-101,Target Dearborn,1,3102
-310,weekday,310-102,Target Dearborn,1,3102
-310,weekday,310-103,Target Dearborn,1,3102
+310,NormalMonFri,310-1,West River Shopping Center,0,310_N
+310,NormalMonFri,310-2,West River Shopping Center,0,310_N
+310,NormalMonFri,310-3,West River Shopping Center,0,310_N
+310,NormalMonFri,310-4,West River Shopping Center,0,310_N
+310,NormalMonFri,310-5,West River Shopping Center,0,310_N
+310,NormalMonFri,310-6,West River Shopping Center,0,310_N
+310,NormalMonFri,310-7,West River Shopping Center,0,310_N
+310,NormalMonFri,310-8,West River Shopping Center,0,310_N
+310,NormalMonFri,310-9,West River Shopping Center,0,310_N
+310,NormalMonFri,310-10,West River Shopping Center,0,310_N
+310,NormalMonFri,310-11,West River Shopping Center,0,310_N
+310,NormalMonFri,310-12,West River Shopping Center,0,310_N
+310,NormalMonFri,310-13,West River Shopping Center,0,310_N
+310,NormalMonFri,310-14,West River Shopping Center,0,310_N
+310,NormalMonFri,310-15,West River Shopping Center,0,310_N
+310,NormalMonFri,310-16,West River Shopping Center,0,310_N
+310,NormalMonFri,310-17,West River Shopping Center,0,310_N
+310,NormalMonFri,310-18,West River Shopping Center,0,310_N
+310,NormalMonFri,310-19,West River Shopping Center,0,310_N
+310,NormalMonFri,310-20,West River Shopping Center,0,310_N
+310,NormalMonFri,310-21,West River Shopping Center,0,310_N
+310,NormalMonFri,310-22,West River Shopping Center,0,310_N
+310,NormalMonFri,310-23,West River Shopping Center,0,310_N
+310,NormalMonFri,310-24,West River Shopping Center,0,310_N
+310,NormalMonFri,310-25,West River Shopping Center,0,310_N
+310,NormalMonFri,310-26,West River Shopping Center,0,310_N
+310,NormalMonFri,310-27,West River Shopping Center,0,310_N
+310,NormalMonFri,310-28,West River Shopping Center,0,310_N
+310,NormalMonFri,310-29,West River Shopping Center,0,310_N
+310,NormalMonFri,310-30,West River Shopping Center,0,310_N
+310,NormalMonFri,310-31,West River Shopping Center,0,310_N
+310,NormalMonFri,310-32,West River Shopping Center,0,310_N
+310,NormalMonFri,310-33,Target Dearborn,1,310_S
+310,NormalMonFri,310-34,Target Dearborn,1,310_S
+310,NormalMonFri,310-35,Target Dearborn,1,310_S
+310,NormalMonFri,310-36,Target Dearborn,1,310_S
+310,NormalMonFri,310-37,Target Dearborn,1,310_S
+310,NormalMonFri,310-38,Target Dearborn,1,310_S
+310,NormalMonFri,310-39,Target Dearborn,1,310_S
+310,NormalMonFri,310-40,Target Dearborn,1,310_S
+310,NormalMonFri,310-41,Target Dearborn,1,310_S
+310,NormalMonFri,310-42,Target Dearborn,1,310_S
+310,NormalMonFri,310-43,Target Dearborn,1,310_S
+310,NormalMonFri,310-44,Target Dearborn,1,310_S
+310,NormalMonFri,310-45,Target Dearborn,1,310_S
+310,NormalMonFri,310-46,Target Dearborn,1,310_S
+310,NormalMonFri,310-47,Target Dearborn,1,310_S
+310,NormalMonFri,310-48,Target Dearborn,1,310_S
+310,NormalMonFri,310-49,Target Dearborn,1,310_S
+310,NormalMonFri,310-50,Target Dearborn,1,310_S
+310,NormalMonFri,310-51,Target Dearborn,1,310_S
+310,NormalMonFri,310-52,Target Dearborn,1,310_S
+310,NormalMonFri,310-53,Target Dearborn,1,310_S
+310,NormalMonFri,310-54,Target Dearborn,1,310_S
+310,NormalMonFri,310-55,Target Dearborn,1,310_S
+310,NormalMonFri,310-56,Target Dearborn,1,310_S
+310,NormalMonFri,310-57,Target Dearborn,1,310_S
+310,NormalMonFri,310-58,Target Dearborn,1,310_S
+310,NormalMonFri,310-59,Target Dearborn,1,310_S
+310,NormalMonFri,310-60,Target Dearborn,1,310_S
+310,NormalMonFri,310-61,Target Dearborn,1,310_S
+310,NormalMonFri,310-62,Target Dearborn,1,310_S
+310,NormalMonFri,310-63,Target Dearborn,1,310_S
+310,SatToMonSat,310-64,West River Shopping Center,0,310_N
+310,SatToMonSat,310-65,West River Shopping Center,0,310_N
+310,SatToMonSat,310-66,West River Shopping Center,0,310_N
+310,SatToMonSat,310-67,West River Shopping Center,0,310_N
+310,SatToMonSat,310-68,West River Shopping Center,0,310_N
+310,SatToMonSat,310-69,West River Shopping Center,0,310_N
+310,SatToMonSat,310-70,West River Shopping Center,0,310_N
+310,SatToMonSat,310-71,West River Shopping Center,0,310_N
+310,SatToMonSat,310-72,West River Shopping Center,0,310_N
+310,SatToMonSat,310-73,West River Shopping Center,0,310_N
+310,SatToMonSat,310-74,West River Shopping Center,0,310_N
+310,SatToMonSat,310-75,West River Shopping Center,0,310_N
+310,SatToMonSat,310-76,West River Shopping Center,0,310_N
+310,SatToMonSat,310-77,West River Shopping Center,0,310_N
+310,SatToMonSat,310-78,West River Shopping Center,0,310_N
+310,SatToMonSat,310-79,West River Shopping Center,0,310_N
+310,SatToMonSat,310-80,West River Shopping Center,0,310_N
+310,SatToMonSat,310-81,West River Shopping Center,0,310_N
+310,SatToMonSat,310-82,West River Shopping Center,0,310_N
+310,SatToMonSat,310-83,West River Shopping Center,0,310_N
+310,SatToMonSat,310-84,Target Dearborn,1,310_S
+310,SatToMonSat,310-85,Target Dearborn,1,310_S
+310,SatToMonSat,310-86,Target Dearborn,1,310_S
+310,SatToMonSat,310-87,Target Dearborn,1,310_S
+310,SatToMonSat,310-88,Target Dearborn,1,310_S
+310,SatToMonSat,310-89,Target Dearborn,1,310_S
+310,SatToMonSat,310-90,Target Dearborn,1,310_S
+310,SatToMonSat,310-91,Target Dearborn,1,310_S
+310,SatToMonSat,310-92,Target Dearborn,1,310_S
+310,SatToMonSat,310-93,Target Dearborn,1,310_S
+310,SatToMonSat,310-94,Target Dearborn,1,310_S
+310,SatToMonSat,310-95,Target Dearborn,1,310_S
+310,SatToMonSat,310-96,Target Dearborn,1,310_S
+310,SatToMonSat,310-97,Target Dearborn,1,310_S
+310,SatToMonSat,310-98,Target Dearborn,1,310_S
+310,SatToMonSat,310-99,Target Dearborn,1,310_S
+310,SatToMonSat,310-100,Target Dearborn,1,310_S
+310,SatToMonSat,310-101,Target Dearborn,1,310_S
+310,SatToMonSat,310-102,Target Dearborn,1,310_S
+310,SatToMonSat,310-103,Target Dearborn,1,310_S

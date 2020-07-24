@@ -1,125 +1,130 @@
 route_id,agency_id,route_type,route_sort_order,route_short_name,route_long_name,route_color,route_text_color
-G,NXS Detroit,3,1,G,G-Line,0fa82d,ffffff
-M,NXS Detroit,3,2,M,M-Line,3134ce,ffffff
-R,NXS Detroit,3,3,R,R-Line,781eb5,ffffff
-V,NXS Detroit,3,4,V,V-Line,e295be,000000
-W,NXS Detroit,3,5,W,W-Line,cc141d,ffffff
-T,NXS Detroit,3,6,T,T-Line,149b9e,ffffff
-Y,NXS Detroit,3,7,Y,Y-Line,e1e6ea,000000
-A,NXS Detroit,3,8,A,A-Line,eb1aa5,000000
-U,NXS Detroit,3,9,U,U-Line,55d424,ffffff
-E,NXS Detroit,3,10,E,E-Line,c6920d,ffffff
-H,NXS Detroit,3,11,H,H-Line,4f3107,ffffff
-O,NXS Detroit,3,12,O,O-Line,c65a0d,ffffff
-001,NXS Detroit,3,13,001,Warren,c6920d,ffffff
-002,NXS Detroit,3,14,002,Joy / Harper,cc141d,ffffff
-003,NXS Detroit,3,15,003,Plymouth / Harper,3134ce,ffffff
-004,NXS Detroit,3,16,004,Schoolcraft,3134ce,ffffff
-005,NXS Detroit,3,17,005,Davison,3134ce,ffffff
-006,NXS Detroit,3,18,006,McNichols,3134ce,ffffff
-007,NXS Detroit,3,19,007,Seven Mile,3134ce,ffffff
-008,NXS Detroit,3,20,008,Eight Mile,3134ce,ffffff
-009,NXS Detroit,3,21,009,Nine Mile,3134ce,ffffff
-010,NXS Detroit,3,22,010,Ten Mile,3134ce,ffffff
-012,NXS Detroit,3,23,012,Twelve Mile,3134ce,ffffff
-013,NXS Detroit,3,24,013,Thirteen Mile,3134ce,ffffff
-014,NXS Detroit,3,25,014,Fourteen Mile,3134ce,ffffff
-015,NXS Detroit,3,26,015,Fifteen Mile,3134ce,ffffff
-023,NXS Detroit,3,27,023,Twenty-Three Mile,3134ce,ffffff
-025,NXS Detroit,3,28,025,Ford / McGraw,c6920d,ffffff
-051,NXS Detroit,3,29,051,Haggerty / Wayne,0fa82d,ffffff
-056,NXS Detroit,3,30,056,Middlebelt,0fa82d,ffffff
-059,NXS Detroit,3,31,059,Telegraph,0fa82d,ffffff
-060,NXS Detroit,3,32,060,Lahser,0fa82d,ffffff
-061,NXS Detroit,3,33,061,Evergreen / Southfield,0fa82d,ffffff
-063,NXS Detroit,3,34,063,Greenfield,0fa82d,ffffff
-064,NXS Detroit,3,35,064,Schaefer,0fa82d,ffffff
-066,NXS Detroit,3,36,066,Rochester / Livernois,0fa82d,ffffff
-073,NXS Detroit,3,37,073,Hoover / Conner,0fa82d,ffffff
-075,NXS Detroit,3,38,075,Hayes / Canfield,c6920d,ffffff
-082,NXS Detroit,3,39,082,Novi / Canton Center,0fa82d,ffffff
-083,NXS Detroit,3,40,083,Beck Road,0fa82d,ffffff
-100,NXS Detroit,3,41,100,Fort Street,cc141d,ffffff
-105,NXS Detroit,3,42,105,Vernor / Ecorse,cc141d,ffffff
-109,NXS Detroit,3,43,109,West Jefferson,cc141d,ffffff
-115,NXS Detroit,3,44,115,Grosse Ile,0fa82d,ffffff
-120,NXS Detroit,3,45,120,Southfield / Oakwood,0fa82d,ffffff
-140,NXS Detroit,3,46,140,Eureka Road,3134ce,ffffff
-200,NXS Detroit,3,47,200,Michigan,cc141d,ffffff
-201,NXS Detroit,3,48,201,Michigan Limited,cc141d,ffffff
-203,NXS Detroit,3,49,203,Plymouth,3134ce,ffffff
-210,NXS Detroit,3,50,210,South Haggerty,0fa82d,ffffff
-220,NXS Detroit,3,51,220,Outer Drive,0fa82d,ffffff
-240,NXS Detroit,3,52,240,Ann Arbor Trail,3134ce,ffffff
-300,NXS Detroit,3,53,300,Grand River,cc141d,ffffff
-305,NXS Detroit,3,54,305,Fenkell,cc141d,ffffff
-310,NXS Detroit,3,55,310,Beech Daly,0fa82d,ffffff
-315,NXS Detroit,3,56,315,Inkster,0fa82d,ffffff
-400,NXS Detroit,3,57,400,Northwestern / Lodge,cc141d,ffffff
-405,NXS Detroit,3,58,405,Dexter / Southfield,cc141d,ffffff
-410,NXS Detroit,3,59,410,Orchard Lake,0fa82d,ffffff
-415,NXS Detroit,3,60,415,Grand Blvd / Wyoming,0fa82d,ffffff
-420,NXS Detroit,3,61,420,Commerce / Cass Lake,0fa82d,ffffff
-430,NXS Detroit,3,62,430,Wyoming / Ferndale,0fa82d,ffffff
-435,NXS Detroit,3,63,435,Highland Lakes,0fa82d,ffffff
-440,NXS Detroit,3,64,440,Eleven Mile West,3134ce,ffffff
-470,NXS Detroit,3,65,470,Civic Center Drive,3134ce,ffffff
-471,NXS Detroit,3,66,471,North Hill Farms,0fa82d,ffffff
-500,NXS Detroit,3,67,500,Woodward,cc141d,ffffff
-505,NXS Detroit,3,68,505,Woodward to Somerset,cc141d,ffffff
-508,NXS Detroit,3,69,508,John R / Hamtramck,cc141d,ffffff
-539,NXS Detroit,3,70,539,Dequindre,0fa82d,ffffff
-540,NXS Detroit,3,71,540,Walton Blvd,3134ce,ffffff
-545,NXS Detroit,3,72,545,Tienken / Dutton,3134ce,ffffff
-570,NXS Detroit,3,73,570,Main Street / Big Beaver,0fa82d,ffffff
-571,NXS Detroit,3,74,571,Perry / Opdyke,3134ce,ffffff
-580,NXS Detroit,3,75,580,Troy Malls Shuttle,c65a0d,ffffff
-600,NXS Detroit,3,76,600,Gratiot,cc141d,ffffff
-605,NXS Detroit,3,77,605,Van Dyke,cc141d,ffffff
-609,NXS Detroit,3,78,609,Schoenherr,cc141d,ffffff
-610,NXS Detroit,3,79,610,Mound / Grand Blvd,0fa82d,ffffff
-635,NXS Detroit,3,80,635,Garfield,0fa82d,ffffff
-680,NXS Detroit,3,81,680,North Clinton,c65a0d,ffffff
-700,NXS Detroit,3,82,700,Jefferson / Harper,cc141d,ffffff
-705,NXS Detroit,3,83,705,Jefferson / Lakeshore,cc141d,ffffff
-709,NXS Detroit,3,84,709,Atwater,cc141d,ffffff
-720,NXS Detroit,3,85,720,Mack,c6920d,ffffff
-730,NXS Detroit,3,86,730,Kelly / Chalmers,0fa82d,ffffff
-740,NXS Detroit,3,87,740,St Clair Park,3134ce,ffffff
-750,NXS Detroit,3,88,750,Conner / Kercheval,3134ce,ffffff
-800,NXS Detroit,3,89,800,Downtown Detroit Sky Line,149b9e,ffffff
-801,NXS Detroit,3,90,801,North Wayne Sky Line,149b9e,ffffff
-802,NXS Detroit,3,91,802,South Oakland Sky Line,149b9e,ffffff
-803,NXS Detroit,3,92,803,Macomb Sky Line,149b9e,ffffff
-804,NXS Detroit,3,93,804,Troy Sky Line,149b9e,ffffff
-805,NXS Detroit,3,94,805,Ann Arbor Sky Line,149b9e,ffffff
-806,NXS Detroit,3,95,806,West Oakland Sky Line,149b9e,ffffff
-807,NXS Detroit,3,96,807,Southfield Freeway Sky Line,149b9e,ffffff
-810,NXS Detroit,3,97,810,Imperial Park & Ride,781eb5,ffffff
-814,NXS Detroit,3,98,814,Ann Arbor Park & Ride,781eb5,ffffff
-816,NXS Detroit,3,99,816,Orchard Lake Park & Ride,781eb5,ffffff
-853,NXS Detroit,3,100,853,Ford Road Park & Ride,781eb5,ffffff
-869,NXS Detroit,3,101,869,Interstate 696 Park & Ride,781eb5,ffffff
-874,NXS Detroit,3,102,874,Downriver Express Line,781eb5,ffffff
-875,NXS Detroit,3,103,875,Oakland County Park & Ride,781eb5,ffffff
-893,NXS Detroit,3,104,893,Hayes Express Line,781eb5,ffffff
-894,NXS Detroit,3,105,894,Macomb County Park & Ride,781eb5,ffffff
-895,NXS Detroit,3,106,895,Grand River / Beech Daly Park & Ride,781eb5,ffffff
-896,NXS Detroit,3,107,896,Interstate 96 Park & Ride,781eb5,ffffff
-900,NXS Detroit,3,108,900,Monroe,4f3107,ffffff
-901,NXS Detroit,3,109,901,Monroe / Metro Airport,4f3107,ffffff
-912,NXS Detroit,3,110,912,Plymouth / Ann Arbor,4f3107,ffffff
-920,NXS Detroit,3,111,920,West Grand River,4f3107,ffffff
-922,NXS Detroit,3,112,922,Ten Mile Edge,4f3107,ffffff
-923,NXS Detroit,3,113,923,Pontiac Trail,4f3107,ffffff
-924,NXS Detroit,3,114,924,West Highland,4f3107,ffffff
-925,NXS Detroit,3,115,925,Milford Road,4f3107,ffffff
-930,NXS Detroit,3,116,930,Northwest Dixie,4f3107,ffffff
-931,NXS Detroit,3,117,931,Lapeer Road,4f3107,ffffff
-940,NXS Detroit,3,118,940,North Gratiot,4f3107,ffffff
-941,NXS Detroit,3,119,941,North Van Dyke,4f3107,ffffff
-942,NXS Detroit,3,120,942,Michigan 29,4f3107,ffffff
-943,NXS Detroit,3,121,943,Gratiot / Memphis Ridge,4f3107,ffffff
-944,NXS Detroit,3,122,944,Armada Ridge,4f3107,ffffff
-950,NXS Detroit,3,123,950,Detroit - Windsor Tunnel,e295be,000000
-952,NXS Detroit,3,124,952,Canadian Sky Line,e295be,000000
+G,NXS Detroit,3,1,G,G-Line,cc5933,ffffff
+M,NXS Detroit,3,2,M,M-Line,cc5933,ffffff
+R,NXS Detroit,3,3,R,R-Line,cc5933,ffffff
+V,NXS Detroit,3,4,V,V-Line,cc5933,ffffff
+W,NXS Detroit,3,5,W,W-Line,cc5933,ffffff
+T,NXS Detroit,3,6,T,T-Line,662d1a,ffffff
+Y,NXS Detroit,3,7,Y,Y-Line,662d1a,ffffff
+A,NXS Detroit,3,8,A,A-Line,662d1a,ffffff
+U,NXS Detroit,3,9,U,U-Line,662d1a,ffffff
+E,NXS Detroit,3,10,E,E-Line,662d1a,ffffff
+H,NXS Detroit,3,11,H,H-Line,662d1a,ffffff
+O,NXS Detroit,3,12,O,O-Line,662d1a,ffffff
+001,NXS Detroit,3,13,001,Warren,251a66,ffffff
+002,NXS Detroit,3,14,002,Joy / Harper,251a66,ffffff
+003,NXS Detroit,3,15,003,Plymouth / Harper,251a66,ffffff
+004,NXS Detroit,3,16,004,Schoolcraft,251a66,ffffff
+005,NXS Detroit,3,17,005,Davison,251a66,ffffff
+006,NXS Detroit,3,18,006,McNichols,251a66,ffffff
+007,NXS Detroit,3,19,007,Seven Mile,251a66,ffffff
+008,NXS Detroit,3,20,008,Eight Mile,251a66,ffffff
+009,NXS Detroit,3,21,009,Nine Mile,251a66,ffffff
+010,NXS Detroit,3,22,010,Ten Mile,251a66,ffffff
+012,NXS Detroit,3,23,012,Twelve Mile,251a66,ffffff
+013,NXS Detroit,3,24,013,Thirteen Mile,251a66,ffffff
+014,NXS Detroit,3,25,014,Fourteen Mile,251a66,ffffff
+015,NXS Detroit,3,26,015,Fifteen Mile,251a66,ffffff
+023,NXS Detroit,3,27,023,Twenty-Three Mile,251a66,ffffff
+025,NXS Detroit,3,28,025,Ford / McGraw,251a66,ffffff
+051,NXS Detroit,3,29,051,Haggerty / Wayne,251a66,ffffff
+056,NXS Detroit,3,30,056,Middlebelt,251a66,ffffff
+059,NXS Detroit,3,31,059,Telegraph,251a66,ffffff
+060,NXS Detroit,3,32,060,Lahser,251a66,ffffff
+061,NXS Detroit,3,33,061,Evergreen / Southfield,251a66,ffffff
+063,NXS Detroit,3,34,063,Greenfield,251a66,ffffff
+064,NXS Detroit,3,35,064,Schaefer,251a66,ffffff
+066,NXS Detroit,3,36,066,Rochester / Livernois,251a66,ffffff
+073,NXS Detroit,3,37,073,Hoover / Conner,251a66,ffffff
+075,NXS Detroit,3,38,075,Hayes / Canfield,251a66,ffffff
+082,NXS Detroit,3,39,082,Novi / Canton Center,251a66,ffffff
+083,NXS Detroit,3,40,083,Beck Road,251a66,ffffff
+100,NXS Detroit,3,41,100,Fort Street,4d33cc,ffffff
+105,NXS Detroit,3,42,105,Vernor / Ecorse,4d33cc,ffffff
+109,NXS Detroit,3,43,109,West Jefferson,4d33cc,ffffff
+115,NXS Detroit,3,44,115,Grosse Ile,251a66,ffffff
+120,NXS Detroit,3,45,120,Southfield / Oakwood,251a66,ffffff
+140,NXS Detroit,3,46,140,Eureka Road,251a66,ffffff
+200,NXS Detroit,3,47,200,Michigan,4d33cc,ffffff
+201,NXS Detroit,3,48,201,Michigan Limited,4d33cc,ffffff
+203,NXS Detroit,3,49,203,Plymouth,4d33cc,ffffff
+210,NXS Detroit,3,50,210,South Haggerty,251a66,ffffff
+220,NXS Detroit,3,51,220,Outer Drive,251a66,ffffff
+240,NXS Detroit,3,52,240,Ann Arbor Trail,251a66,ffffff
+300,NXS Detroit,3,53,300,Grand River,4d33cc,ffffff
+305,NXS Detroit,3,54,305,Fenkell,4d33cc,ffffff
+310,NXS Detroit,3,55,310,Beech Daly,251a66,ffffff
+315,NXS Detroit,3,56,315,Inkster,251a66,ffffff
+400,NXS Detroit,3,57,400,Northwestern / Lodge,4d33cc,ffffff
+405,NXS Detroit,3,58,405,Dexter / Southfield,4d33cc,ffffff
+410,NXS Detroit,3,59,410,Orchard Lake,251a66,ffffff
+415,NXS Detroit,3,60,415,Grand Blvd / Wyoming,251a66,ffffff
+420,NXS Detroit,3,61,420,Commerce / Cass Lake,251a66,ffffff
+430,NXS Detroit,3,62,430,Wyoming / Ferndale,251a66,ffffff
+435,NXS Detroit,3,63,435,Highland Lakes,251a66,ffffff
+440,NXS Detroit,3,64,440,Eleven Mile West,251a66,ffffff
+470,NXS Detroit,3,65,470,Civic Center Drive,251a66,ffffff
+471,NXS Detroit,3,66,471,North Hill Farms,251a66,ffffff
+500,NXS Detroit,3,67,500,Woodward (Pontiac),4d33cc,ffffff
+503,NXS Detroit,3,68,503,Woodward (Oakland),4d33cc,ffffff
+505,NXS Detroit,3,69,505,Woodward (Somerset),4d33cc,ffffff
+508,NXS Detroit,3,70,508,John R / Hamtramck,4d33cc,ffffff
+520,NXS Detroit,3,71,520,Main Street / Big Beaver,251a66,ffffff
+530,NXS Detroit,3,72,530,Crooks,251a66,ffffff
+539,NXS Detroit,3,73,539,Dequindre,251a66,ffffff
+540,NXS Detroit,3,74,540,Walton Blvd,251a66,ffffff
+545,NXS Detroit,3,75,545,Tienken / Dutton,251a66,ffffff
+571,NXS Detroit,3,76,571,Perry / Opdyke,251a66,ffffff
+580,NXS Detroit,3,77,580,Troy Malls Shuttle,7c907c,000000
+600,NXS Detroit,3,78,600,Gratiot,4d33cc,ffffff
+605,NXS Detroit,3,79,605,Van Dyke,4d33cc,ffffff
+609,NXS Detroit,3,80,609,Schoenherr,4d33cc,ffffff
+610,NXS Detroit,3,81,610,Mound / Grand Blvd,251a66,ffffff
+635,NXS Detroit,3,82,635,Garfield,251a66,ffffff
+680,NXS Detroit,3,83,680,North Clinton,7c907c,000000
+700,NXS Detroit,3,84,700,Jefferson / Harper,4d33cc,ffffff
+705,NXS Detroit,3,85,705,Jefferson / Lakeshore,4d33cc,ffffff
+709,NXS Detroit,3,86,709,Atwater,4d33cc,ffffff
+720,NXS Detroit,3,87,720,Mack,251a66,ffffff
+730,NXS Detroit,3,88,730,Kelly / Chalmers,251a66,ffffff
+740,NXS Detroit,3,89,740,St Clair Park,251a66,ffffff
+750,NXS Detroit,3,90,750,Conner / Kercheval,251a66,ffffff
+800,NXS Detroit,3,91,800,Downtown Detroit Airport Express,33b3cc,000000
+801,NXS Detroit,3,92,801,Wayne County Airport Express,1a5966,ffffff
+802,NXS Detroit,3,93,802,South Oakland Airport Express,1a5966,ffffff
+803,NXS Detroit,3,94,803,Macomb County Airport Express,1a5966,ffffff
+804,NXS Detroit,3,95,804,Troy Sky Line,1a5966,ffffff
+805,NXS Detroit,3,96,805,Ann Arbor Airport Express,1a5966,ffffff
+806,NXS Detroit,3,97,806,West Oakland SkyLine,1a5966,ffffff
+807,NXS Detroit,3,98,807,Southfield Freeway Sky Line,1a5966,ffffff
+808,NXS Detroit,3,99,808,Midtown SkyLine,1a5966,ffffff
+810,NXS Detroit,3,100,810,Imperial Park & Ride,33b3cc,000000
+814,NXS Detroit,3,101,814,Ann Arbor Park & Ride,33b3cc,000000
+816,NXS Detroit,3,102,816,Orchard Lake Park & Ride,33b3cc,000000
+853,NXS Detroit,3,103,853,Ford Road Park & Ride,33b3cc,000000
+869,NXS Detroit,3,104,869,Interstate 696 Park & Ride,1a5966,ffffff
+874,NXS Detroit,3,105,874,Downriver Express Line,33b3cc,000000
+875,NXS Detroit,3,106,875,Oakland County Park & Ride,33b3cc,000000
+893,NXS Detroit,3,107,893,893 Hayes Express Line,33b3cc,000000
+894,NXS Detroit,3,108,894,Macomb County Park & Ride,33b3cc,000000
+895,NXS Detroit,3,109,895,Grand River / Beech Daly Park & Ride,33b3cc,000000
+896,NXS Detroit,3,110,896,Interstate 96 Park & Ride,33b3cc,000000
+900,NXS Detroit,3,111,900,Monroe,0d0d0d,ffffff
+901,NXS Detroit,3,112,901,Monroe / Metro Airport,0d0d0d,ffffff
+912,NXS Detroit,3,113,912,Plymouth / Ann Arbor,0d0d0d,ffffff
+920,NXS Detroit,3,114,920,West Grand River,0d0d0d,ffffff
+922,NXS Detroit,3,115,922,Ten Mile Edge,0d0d0d,ffffff
+923,NXS Detroit,3,116,923,Pontiac Trail,0d0d0d,ffffff
+924,NXS Detroit,3,117,924,West Highland,0d0d0d,ffffff
+925,NXS Detroit,3,118,925,Milford Road,0d0d0d,ffffff
+930,NXS Detroit,3,119,930,Northwest Dixie,0d0d0d,ffffff
+931,NXS Detroit,3,120,931,Lapeer Road,0d0d0d,ffffff
+940,NXS Detroit,3,121,940,North Gratiot,0d0d0d,ffffff
+941,NXS Detroit,3,122,941,North Van Dyke,0d0d0d,ffffff
+942,NXS Detroit,3,123,942,Michigan 29,0d0d0d,ffffff
+943,NXS Detroit,3,124,943,Gratiot / Memphis Ridge,0d0d0d,ffffff
+944,NXS Detroit,3,125,944,Armada Ridge,0d0d0d,ffffff
+950,NXS Detroit,3,126,950,Detroit - Windsor Tunnel,0d0d0d,ffffff
+952,NXS Detroit,3,127,952,Canadian SkyLine,0d0d0d,ffffff
+962,NXS Detroit,3,128,962,Woodward Dream Cruise Local Detour Bus,ffffff,000000
+963,NXS Detroit,3,129,963,Woodward Dream Cruise Fast Line Detour,ffffff,000000

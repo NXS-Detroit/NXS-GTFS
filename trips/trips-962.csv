@@ -1,0 +1,607 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+500P,CovidDreamCruise,962-1,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-2,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-3,Big Beaver / Rochester,0,503_N
+500G,CovidDreamCruise,962-4,Great Lakes Crossing,0,500G_N
+505T,CovidDreamCruise,962-5,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-6,Big Beaver / Rochester,0,503_N
+500G,CovidDreamCruise,962-7,Great Lakes Crossing,0,500G_N
+505T,CovidDreamCruise,962-8,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-9,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-10,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-11,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-12,Big Beaver / Rochester,0,503_N
+500G,CovidDreamCruise,962-13,Great Lakes Crossing,0,500G_N
+505T,CovidDreamCruise,962-14,Troy Park & Ride,0,505T_N
+962G,CovidDreamCruise,962-15,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-16,Pontiac Nexus,0,500P_N
+962P,CovidDreamCruise,962-17,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-18,Pontiac Nexus,0,500P_N
+962P,CovidDreamCruise,962-19,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-20,Pontiac Nexus,0,500P_N
+962G,CovidDreamCruise,962-21,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-22,Pontiac Nexus,0,500P_N
+962P,CovidDreamCruise,962-23,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-24,Pontiac Nexus,0,500P_N
+962P,CovidDreamCruise,962-25,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-26,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-27,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-28,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-29,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-30,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-31,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-32,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-33,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-34,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-35,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-36,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-37,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-38,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-39,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-40,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-41,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-42,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-43,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-44,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-45,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-46,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-47,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-48,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-49,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-50,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-51,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-52,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-53,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-54,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-55,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-56,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-57,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-58,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-59,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-60,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-61,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-62,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-63,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-64,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-65,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-66,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-67,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-68,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-69,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-70,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-71,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-72,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-73,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-74,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-75,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-76,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-77,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-78,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-79,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-80,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-81,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-82,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-83,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-84,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-85,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-86,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-87,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-88,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-89,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-90,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-91,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-92,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-93,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-94,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-95,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-96,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-97,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-98,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-99,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-100,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-101,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-102,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-103,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-104,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-105,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-106,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-107,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-108,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-109,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-110,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-111,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-112,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-113,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-114,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-115,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-116,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-117,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-118,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-119,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-120,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-121,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-122,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-123,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-124,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-125,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-126,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-127,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-128,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-129,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-130,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-131,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-132,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-133,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-134,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-135,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-136,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-137,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-138,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-139,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-140,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-141,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-142,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-143,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-144,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-145,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-146,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-147,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-148,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-149,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-150,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-151,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-152,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-153,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-154,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-155,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-156,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-157,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-158,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-159,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-160,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-161,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-162,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-163,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-164,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-165,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-166,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-167,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-168,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-169,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-170,Pontiac Nexus,0,500C_N
+962G,CovidDreamCruise,962-171,Pontiac Nexus,0,962G_N
+500P,CovidDreamCruise,962-172,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-173,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-174,Pontiac Nexus,0,500C_N
+962P,CovidDreamCruise,962-175,Pontiac Nexus,0,962P_N
+500P,CovidDreamCruise,962-176,Pontiac Nexus,0,500C_N
+503,CovidDreamCruise,962-177,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-178,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-179,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-180,Big Beaver / Rochester,0,503_N
+500G,CovidDreamCruise,962-181,Great Lakes Crossing,0,500G_N
+505T,CovidDreamCruise,962-182,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-183,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-184,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-185,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-186,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-187,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-188,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-189,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-190,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-191,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-192,Big Beaver / Rochester,0,503_N
+500P,CovidDreamCruise,962-193,Pontiac Nexus,0,500P_N
+505T,CovidDreamCruise,962-194,Troy Park & Ride,0,505T_N
+503,CovidDreamCruise,962-195,Big Beaver / Rochester,0,503_N
+503,CovidDreamCruise,962-196,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-197,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-198,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-199,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-200,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-201,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-202,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-203,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-204,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-205,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-206,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-207,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-208,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-209,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-210,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-211,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-212,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-213,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-214,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-215,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-216,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-217,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-218,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-219,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-220,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-221,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-222,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-223,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-224,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-225,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-226,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-227,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-228,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-229,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-230,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-231,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-232,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-233,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-234,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-235,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-236,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-237,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-238,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-239,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-240,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-241,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-242,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-243,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-244,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-245,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-246,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-247,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-248,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-249,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-250,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-251,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-252,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-253,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-254,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-255,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-256,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-257,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-258,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-259,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-260,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-261,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-262,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-263,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-264,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-265,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-266,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-267,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-268,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-269,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-270,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-271,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-272,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-273,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-274,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-275,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-276,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-277,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-278,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-279,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-280,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-281,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-282,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-283,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-284,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-285,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-286,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-287,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-288,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-289,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-290,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-291,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-292,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-293,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-294,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-295,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-296,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-297,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-298,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-299,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-300,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-301,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-302,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-303,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-304,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-305,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-306,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-307,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-308,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-309,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-310,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-311,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-312,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-313,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-314,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-315,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-316,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-317,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-318,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-319,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-320,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-321,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-322,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-323,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-324,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-325,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-326,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-327,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-328,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-329,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-330,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-331,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-332,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-333,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-334,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-335,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-336,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-337,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-338,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-339,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-340,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-341,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-342,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-343,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-344,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-345,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-346,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-347,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-348,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-349,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-350,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-351,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-352,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-353,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-354,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-355,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-356,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-357,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-358,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-359,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-360,Jefferson / Brush,1,500C_S
+962P,CovidDreamCruise,962-361,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-362,Jefferson / Brush,1,500C_S
+962G,CovidDreamCruise,962-363,Jefferson / Brush,1,962G_S
+500P,CovidDreamCruise,962-364,Jefferson / Brush,1,500P_S
+962P,CovidDreamCruise,962-365,Jefferson / Brush,1,962P_S
+500P,CovidDreamCruise,962-366,Jefferson / Brush,1,500P_S
+962G,CovidDreamCruise,962-367,Jefferson / Brush,1,962G_S
+500G,CovidDreamCruise,962-368,Jefferson / Brush,1,500G_S
+505T,CovidDreamCruise,962-369,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-370,Jefferson / Brush,1,503_S
+500G,CovidDreamCruise,962-371,Jefferson / Brush,1,500G_S
+505T,CovidDreamCruise,962-372,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-373,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-374,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-375,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-376,Jefferson / Brush,1,503_S
+500G,CovidDreamCruise,962-377,Jefferson / Brush,1,500G_S
+505T,CovidDreamCruise,962-378,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-379,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-380,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-381,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-382,Jefferson / Brush,1,503_S
+500G,CovidDreamCruise,962-383,Jefferson / Brush,1,500G_S
+505T,CovidDreamCruise,962-384,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-385,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-386,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-387,Jefferson / Brush,1,505T_S
+503,CovidDreamCruise,962-388,Jefferson / Brush,1,503_S
+500P,CovidDreamCruise,962-389,Jefferson / Brush,1,500P_S
+505T,CovidDreamCruise,962-390,Jefferson / Brush,1,505T_S
+500P,DreamCruise,962-391,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-392,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-393,Big Beaver / Rochester,0,503_N
+500G,DreamCruise,962-394,Great Lakes Crossing,0,500G_N
+505T,DreamCruise,962-395,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-396,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-397,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-398,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-399,Big Beaver / Rochester,0,503_N
+962G,DreamCruise,962-400,Pontiac Nexus,0,962G_N
+500G,DreamCruise,962-401,Great Lakes Crossing,0,500G_N
+962P,DreamCruise,962-402,Pontiac Nexus,0,962P_N
+500P,DreamCruise,962-403,Pontiac Nexus,0,500P_N
+962P,DreamCruise,962-404,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-405,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-406,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-407,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-408,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-409,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-410,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-411,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-412,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-413,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-414,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-415,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-416,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-417,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-418,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-419,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-420,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-421,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-422,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-423,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-424,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-425,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-426,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-427,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-428,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-429,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-430,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-431,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-432,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-433,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-434,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-435,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-436,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-437,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-438,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-439,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-440,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-441,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-442,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-443,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-444,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-445,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-446,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-447,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-448,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-449,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-450,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-451,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-452,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-453,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-454,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-455,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-456,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-457,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-458,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-459,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-460,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-461,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-462,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-463,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-464,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-465,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-466,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-467,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-468,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-469,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-470,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-471,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-472,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-473,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-474,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-475,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-476,Pontiac Nexus,0,962P_N
+962P,DreamCruise,962-477,Pontiac Nexus,0,962P_N
+962G,DreamCruise,962-478,Pontiac Nexus,0,962G_N
+962P,DreamCruise,962-479,Pontiac Nexus,0,962P_N
+503,DreamCruise,962-480,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-481,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-482,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-483,Big Beaver / Rochester,0,503_N
+500G,DreamCruise,962-484,Great Lakes Crossing,0,500G_N
+505T,DreamCruise,962-485,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-486,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-487,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-488,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-489,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-490,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-491,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-492,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-493,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-494,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-495,Big Beaver / Rochester,0,503_N
+500P,DreamCruise,962-496,Pontiac Nexus,0,500P_N
+505T,DreamCruise,962-497,Troy Park & Ride,0,505T_N
+503,DreamCruise,962-498,Big Beaver / Rochester,0,503_N
+503,DreamCruise,962-499,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-500,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-501,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-502,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-503,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-504,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-505,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-506,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-507,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-508,Jefferson / Brush,1,503_S
+500G,DreamCruise,962-509,Jefferson / Brush,1,500G_S
+505T,DreamCruise,962-510,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-511,Jefferson / Brush,1,503_S
+500G,DreamCruise,962-512,Jefferson / Brush,1,500G_S
+962P,DreamCruise,962-513,Jefferson / Brush,1,962P_S
+500P,DreamCruise,962-514,Jefferson / Brush,1,500P_S
+962P,DreamCruise,962-515,Jefferson / Brush,1,962P_S
+500P,DreamCruise,962-516,Jefferson / Brush,1,500P_S
+962P,DreamCruise,962-517,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-518,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-519,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-520,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-521,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-522,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-523,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-524,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-525,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-526,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-527,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-528,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-529,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-530,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-531,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-532,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-533,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-534,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-535,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-536,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-537,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-538,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-539,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-540,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-541,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-542,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-543,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-544,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-545,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-546,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-547,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-548,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-549,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-550,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-551,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-552,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-553,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-554,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-555,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-556,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-557,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-558,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-559,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-560,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-561,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-562,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-563,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-564,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-565,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-566,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-567,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-568,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-569,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-570,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-571,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-572,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-573,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-574,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-575,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-576,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-577,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-578,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-579,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-580,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-581,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-582,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-583,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-584,Jefferson / Brush,1,962P_S
+962P,DreamCruise,962-585,Jefferson / Brush,1,962P_S
+962G,DreamCruise,962-586,Jefferson / Brush,1,962G_S
+962P,DreamCruise,962-587,Jefferson / Brush,1,962P_S
+505T,DreamCruise,962-588,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-589,Jefferson / Brush,1,503_S
+500G,DreamCruise,962-590,Jefferson / Brush,1,500G_S
+505T,DreamCruise,962-591,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-592,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-593,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-594,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-595,Jefferson / Brush,1,503_S
+500G,DreamCruise,962-596,Jefferson / Brush,1,500G_S
+505T,DreamCruise,962-597,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-598,Jefferson / Brush,1,503_S
+500G,DreamCruise,962-599,Jefferson / Brush,1,500G_S
+505T,DreamCruise,962-600,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-601,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-602,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-603,Jefferson / Brush,1,505T_S
+503,DreamCruise,962-604,Jefferson / Brush,1,503_S
+500P,DreamCruise,962-605,Jefferson / Brush,1,500P_S
+505T,DreamCruise,962-606,Jefferson / Brush,1,505T_S
